@@ -1,15 +1,15 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Nexus
+description: News And Reports On Consumer Technology Breakthroughs And Shows You What's New On Serious Current News To Get The Most Out Of The Tech In Your Life
 
-url: http://brianmaierjr.github.com/long-haul
-baseurl: ""
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+url:
+baseurl:
+paginate_path: /:num/
+permalink: /:title/
 
 markdown: kramdown
 highlighter: rouge
 plugins: [jekyll-paginate]
-paginate: 5
+paginate: 8
 
 navigation:
   - title: Home
@@ -20,7 +20,6 @@ navigation:
     url: /contact
 
 social:
-  github: brianmaierjr
   twitter: brianmaierjr
   facebook: brianmaierjr
   email: brimaidesigns@gmail.com
