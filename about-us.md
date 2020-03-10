@@ -4,15 +4,14 @@ date: 2020-03-09T13:23:00.001-07:00
 draft: false
 ---
 
-About Us
+<h1 class="pageTitle">About Us</h1>
 
   
 
 Nexus Is A Leading Web-based Science, Research And Technology News Service Which Covers A Full Range Of Topics. These Include Physics, Earth Science, Medicine, Nanotechnology, Electronics, Space, Biology, Chemistry, Computer Sciences, Engineering, Mathematics And Other Sciences And Technologies. Nexus Readership Has Grown Steadily To Include 5 Million Scientists, Researchers, And Engineers Every Month. Nexus Publishes Approximately 200 Quality Articles Every Day, Offering Some Of The Most Comprehensive Coverage Of Sci-tech Developments World-wide. Nexus Community Members Enjoy Access To Many Personalized Features Such As Social Networking, A Personal Home Page Set-up, Article Comments And Ranking, The Ability To Save Favorite Articles, A Daily Newsletter, And Other Options.
 
   
-
-Our Mission
+<h1 class="pageTitle">Our Mission</h1>
 
   
 
