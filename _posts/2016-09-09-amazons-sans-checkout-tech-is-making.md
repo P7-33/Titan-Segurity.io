@@ -1,6 +1,6 @@
 ---
 title: 'Amazon''s sans checkout tech is making a beeline for different retailers'
-date: 2020-03-09T13:30:00.004-07:00
+date: 2020-03-07T13:30:00.004-07:00
 draft: false
 ---
 

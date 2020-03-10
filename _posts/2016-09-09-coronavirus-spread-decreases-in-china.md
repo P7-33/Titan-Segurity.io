@@ -1,6 +1,6 @@
 ---
 title: 'Coronavirus Spread Decreases in China – Will Government Mass Observation Stick to this same pattern?'
-date: 2020-03-09T13:35:00.002-07:00
+date: 2020-02-05T13:35:00.002-07:00
 draft: false
 ---
 

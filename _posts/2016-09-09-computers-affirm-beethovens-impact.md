@@ -1,6 +1,6 @@
 ---
 title: 'Computers Affirm Beethoven''s Impact'
-date: 2020-03-10T08:25:00.002-07:00
+date: 2020-03-9T08:25:00.002-07:00
 draft: false
 ---
 

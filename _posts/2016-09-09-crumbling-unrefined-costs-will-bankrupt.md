@@ -1,6 +1,6 @@
 ---
 title: 'Crumbling Unrefined Costs Will Bankrupt U.S. Shale Oil Stocks'
-date: 2020-03-09T13:37:00.003-07:00
+date: 2020-03-05T13:37:00.003-07:00
 draft: false
 ---
 
