@@ -1,24 +1,18 @@
 ---
-layout: default
-title: About Long Haul
+title: 'About Us'
+date: 2020-03-09T13:23:00.001-07:00
+draft: false
 ---
 
-<div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
-	<ul>
-		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
-  	</ul>
-</div>
+<h1 class="pageTitle">About Us</h1>
+
+  
+
+Nexus Is A Leading Web-based Science, Research And Technology News Service Which Covers A Full Range Of Topics. These Include Physics, Earth Science, Medicine, Nanotechnology, Electronics, Space, Biology, Chemistry, Computer Sciences, Engineering, Mathematics And Other Sciences And Technologies. Nexus Readership Has Grown Steadily To Include 5 Million Scientists, Researchers, And Engineers Every Month. Nexus Publishes Approximately 200 Quality Articles Every Day, Offering Some Of The Most Comprehensive Coverage Of Sci-tech Developments World-wide. Nexus Community Members Enjoy Access To Many Personalized Features Such As Social Networking, A Personal Home Page Set-up, Article Comments And Ranking, The Ability To Save Favorite Articles, A Daily Newsletter, And Other Options.
+
+  
+<h1 class="pageTitle">Our Mission</h1>
+
+  
+
+The Nexus Staff Mission Statement Is To Provide The Most Complete And Comprehensive Daily Coverage Of The Full Sweep Of Science, Technology, And Medicine News. Sci-tech Readers Will Find Coverage Of Relevant And Interesting Current Events. We Strive To Bring Our Readers A Large Assortment Of Stories, Catering For Scientists, Researchers, Engineers, Academia, Tech Geeks, Students, And Graduates Alike. With A Highly Educated And Sophisticated Readership And Target Audience, Nexus Stories Go Beyond Mere Catchy Jargon. We Find Out The Who, The What, The Where, The How, And The Why Of A Story - And The Why Not. Our Job Is To Find The Interesting Science And Technology Stories, Uncover The Details, And Give Our Readers Their Daily Dose Of News At A Single Source.
