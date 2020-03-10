@@ -6,7 +6,7 @@ draft: false
 
 <h1 class="pageTitle">Privacy Policy</h1>
 
--> Collection Of Information  
+<center> Collection Of Information  
   
   
 Information You Provide To Us  
@@ -51,4 +51,4 @@ When You First Launch Any Of Our Mobile Applications That Collect Location Infor
   
 Cookies  
   
-Most Web Browsers Are Set To Accept Cookies By Default. If You Prefer, You Can Usually Choose To Set Your Browser To Remove Or Reject Browser Cookies. Please Note That If You Choose To Remove Or Reject Cookies, This Could Affect The Availability And Functionality Of Our Service. <-
+Most Web Browsers Are Set To Accept Cookies By Default. If You Prefer, You Can Usually Choose To Set Your Browser To Remove Or Reject Browser Cookies. Please Note That If You Choose To Remove Or Reject Cookies, This Could Affect The Availability And Functionality Of Our Service. </center>
