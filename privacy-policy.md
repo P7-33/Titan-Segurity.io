@@ -4,9 +4,9 @@ date: 2020-03-09T13:12:00.002-07:00
 draft: false
 ---
 
-**PRIVACY POLICY**
+<h1 class="pageTitle">Privacy Policy</h1>
 
-**Collection Of Information  
+Collection Of Information  
   
   
 Information You Provide To Us  
@@ -43,13 +43,12 @@ Nexus Takes Reasonable Measures To Help Protect Information About You From Loss,
   
 Account Information   
   
-You May Update, Correct Or Delete Information About You At Any Time By Logging Into Your Online Account. If You Wish To Delete Or Deactivate Your Account, Please Email Us** **Via Our Contact Form, But Note That We May Retain Certain Information As Required By Law Or For Legitimate Business Purposes. We May Also Retain Cached Or Archived Copies Of Information About You For A Certain Period Of Time.**
+You May Update, Correct Or Delete Information About You At Any Time By Logging Into Your Online Account. If You Wish To Delete Or Deactivate Your Account, Please Email Us Via Our Contact Form, But Note That We May Retain Certain Information As Required By Law Or For Legitimate Business Purposes. We May Also Retain Cached Or Archived Copies Of Information About You For A Certain Period Of Time.
 
-**  
 Location Information  
   
 When You First Launch Any Of Our Mobile Applications That Collect Location Information, You Will Be Asked To Consent To The Application's Collection Of This Information. If You Initially Consent To Our Collection Of Location Information, You Can Subsequently Stop The Collection Of This Information At Any Time By Changing The Preferences On Your Mobile Device. You May Also Stop Our Collection Of Location Information By Following The Standard Uninstall Process To Remove All Of Our Mobile Applications From Your Device.  
   
 Cookies  
   
-Most Web Browsers Are Set To Accept Cookies By Default. If You Prefer, You Can Usually Choose To Set Your Browser To Remove Or Reject Browser Cookies. Please Note That If You Choose To Remove Or Reject Cookies, This Could Affect The Availability And Functionality Of Our Service.**
+Most Web Browsers Are Set To Accept Cookies By Default. If You Prefer, You Can Usually Choose To Set Your Browser To Remove Or Reject Browser Cookies. Please Note That If You Choose To Remove Or Reject Cookies, This Could Affect The Availability And Functionality Of Our Service.
