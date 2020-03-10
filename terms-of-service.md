@@ -4,7 +4,10 @@ date: 2020-03-09T13:09:00.002-07:00
 draft: false
 ---
 
-**Terms Of Service**  
+<h1 class="pageTitle">Terms Of Service</h1> 
+
+
+
 **These Terms And Conditions Do Not Affect Your Statutory Rights.**  
   
 **These Terms And Conditions Govern Your Use Of The Nexus Website And Your Relationship With Us. Please Read These Terms And Conditions And Our Privacy Policy Carefully Before Using The Site As They Affect Your Rights And Liabilities Under The Law. If You Do Not Agree To These Terms And Conditions, Please Do Not Use Our Site.**  
@@ -75,7 +78,9 @@ draft: false
 **Reporting And Removal**  
   
 **Nexus Users May Report Usg (User-generated Content) To Nexus That They Think Violate These Terms, And Nexus May Remove That Usg, Suspend Or Terminate The Account Of The User Who Posted, Stored Or Otherwise Made Available Usg And/or Take Additional Action To Enforce These Terms Against Such User.**  
+
 **Feedback**  
+
 **Any Suggestions, Comments Or Other Feedback You Give Us About The Service Will Be Our Confidential Information. We Are Free To Use, Nexus, Reproduce, License, Distribute And Exploit This Feedback As We See Fit, Without Compensation To You Or Any Obligation Or Restriction Because Of Any Intellectual Property Rights Or Otherwise.**  
   
 **Third Party Materials**  
@@ -99,11 +104,13 @@ draft: false
 **By Using The Service, You Agree That We May Communicate With You Electronically Regarding Your Use Of The Service And That Any Notices, Agreements, Disclosures Or Other Communications That We Send To You Electronically Will Satisfy Any Legal Communication Requirements, Including That The Communications Be In Writing. To Withdraw Your Consent From Receiving Electronic Notice, Please Notify Us Via Contact Form**  
   
 **Severability**  
+
 **If Any Provision Of These Terms Is Invalid, Illegal, Or Incapable Of Being Enforced By Any Rule Of Law Or Public Policy, All Other Provisions Of These Terms Will Nonetheless Remain In Full Force And Effect So Long As The Economic And Legal Substance Of The Transactions Contemplated By These Terms Is Not Affected In Any Manner Adverse To Any Party. Upon Such Determination That Any Provision Is Invalid, Illegal, Or Incapable Of Being Enforced, The Parties Will Negotiate In Good Faith To Modify These Terms So As To Effect The Original Intent Of The Parties As Closely As Possible In An Acceptable Manner To The End That The Transactions Contemplated Hereby Are Fulfilled.**  
   
 **Force Majeure**  
   
 **Nexus Is Not Responsible For Any Failure To Perform Or Delay Attributable In Whole Or In Part To Any Cause Beyond Its Reasonable Control Including, But Not Limited To, Acts Of God (Fire, Storm, Floods, Earthquakes, Etc.), Acts Of Terrorism, Civil Disturbances, Disruption Of Telecommunications, Disruption Of Power Or Other Essential Services, Interruption Or Termination Of Services Provided By Any Service Providers Used By Nexus, Labor Disturbances, Vandalism, Cable Cut, Computer Viruses Or Other Similar Occurrences, Or Any Malicious Or Unlawful Acts Of Any Third Party.**  
+
 **Questions**  
   
 **If You Have Any Questions Regarding The Use Of The Service Please Email Us.**
