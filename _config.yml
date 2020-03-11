@@ -25,6 +25,3 @@ social:
   email: brimaidesigns@gmail.com
 
 google_analytics: "UA-160312766-1"
-
-gems: 
-      - jekyll-sitemap
