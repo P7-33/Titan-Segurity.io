@@ -1,6 +1,6 @@
 ---
 title: 'Market Liquidations Cause Course in Bitcoin Price'
-date: 2020-02-10T08:35:00.002-07:00
+date: 2020-02-11T08:35:00.002-07:00
 draft: false
 ---
 
