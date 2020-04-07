@@ -9,7 +9,7 @@ permalink: /:title/
 markdown: kramdown
 highlighter: rouge
 plugins: [jekyll-paginate]
-paginate: 8
+paginate: 9
 
 navigation:
   - title: Home
