@@ -1,0 +1,12 @@
+---
+title: 'Noise ropes in Rohit Sharma as its brand ambassador, will launch NoiseFit Fusion hybrid smartwatch'
+date: 2020-01-25T08:04:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/NoiseFit-Fusion-Rohit-Sharma-1-1024x1001.jpg) Noise, popular for its smart accessories has announced that it has roped in Indian cricketer Rohit Sharma as its Brand Ambassador. "As an entity, Noise stands for the passion that drives the youth to break the mold and follow their dreams at will. It aims to enable the same through all its upcoming campaigns, and is excited about the intangible value Rohit Sharma will add to the brand’s message at its core," said the company. In the near future, Rohit will launch Noise’s freshest addition to its smart wearables category – NoiseFit Fusion, which the company says it India's first full touch hybrid smartwatch. He is seen wearing the smartwatch in the image above. Furthermore, Rohit Sharma will be launching his own Limited Edition through the brand as well. Commenting on the partnership, Gaurav Khatri, founder of Noise, said: We’re delighted to announce our partnership with Rohit Sharma, who truly is one of the greatest cricketers of our time. His dedication to the sport adequately mirrors the commitment we feel towards providing our customers with the best. Together, we look forward to propagating a positive message; One which resonates with youngsters, advocates following one’s passion, and encourages the youth to listen more ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=hJC08q4Ndig:VreL2zHjgT4:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=hJC08q4Ndig:VreL2zHjgT4:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=hJC08q4Ndig:VreL2zHjgT4:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=hJC08q4Ndig:VreL2zHjgT4:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=hJC08q4Ndig:VreL2zHjgT4:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=hJC08q4Ndig:VreL2zHjgT4:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/hJC08q4Ndig)  
+[Read Here»](https://www.fonearena.com/blog/303194/noise-brand-ambassador-rohit-sharma-noisefit-fusion-hybrid-smartwatch.html)

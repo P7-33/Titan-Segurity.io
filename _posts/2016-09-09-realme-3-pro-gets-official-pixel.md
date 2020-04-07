@@ -1,0 +1,12 @@
+---
+title: 'realme 3 Pro gets official Pixel Experience support'
+date: 2020-01-31T16:04:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/04/realme-3-pro-review-2-1024x742.jpg) realme launched the realme 3 Pro in the country back in April 2019 running ColorOS 6.0 based on Android 9.0 (Pie). The smartphone recently received Android 10 based realme UI 1.0 update with a bunch of new features such as dual earphone connection, animated wallpapers, customizable icon shape, new charging animation, realme Share (cross-brand file-sharing technology) and more. The company claims that realme UI is crafted to provide a near-stock Android experience but in case you wish to enjoy a Pixel like Android experience on your realme 3 Pro, there is good news for you as realme 3 Pro (RMX1851) finally gets official Pixel Experience (Android 10 based) support. \[gallery size="large" ids="296712,301452,301454"\] For the unawares, Pixel Experience is amongst the popular AOSP based custom ROMs that aims towards providing a Pixel-like stock Android experience. It takes no bloat approach along with Pixel exclusive features to provide users pure vanilla Android experience on any device. To flash a custom ROM, users need to unlock the bootloader of their devices and flash a custom recovery, refer to this post for detailed bootloader unlocking procedure but make sure to take a backup of your data before proceeding. TWRP recovery for realme 3 Pro can be downloaded from the link given below, ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=gsNOn-dJYZg:8hI9n3y9UMI:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=gsNOn-dJYZg:8hI9n3y9UMI:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=gsNOn-dJYZg:8hI9n3y9UMI:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=gsNOn-dJYZg:8hI9n3y9UMI:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=gsNOn-dJYZg:8hI9n3y9UMI:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=gsNOn-dJYZg:8hI9n3y9UMI:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/gsNOn-dJYZg)  
+[Read Here»](https://www.fonearena.com/blog/303779/realme-3-pro-pixel-experience-support.html)

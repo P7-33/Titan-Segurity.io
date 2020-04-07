@@ -1,0 +1,12 @@
+---
+title: 'Apple reports $22.2 billion profit on $91.8 billion revenue in FY Q1 2020, biggest quarter ever'
+date: 2020-01-29T04:22:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Apple-iPhone-11-Pro_fonearena-1-1024x602.jpg) Apple has reported quarterly revenue of $91.8 billion, up 8.89% over last year with a net profit of $22.2 billion, up 11.1% YoY, fueled by iPhone and earnings per diluted share of $4.18 for the financial year Q1 2020 that ended December 28, 2019. During earnings call Tim Cook said that it was Apple's biggest quarter ever, which set new all-time records in both revenue and earnings. "Geographically, we set all-time records in the Americas, Europe and rest of Asia Specific and saw Greater China return to growth," said the CEO. iPhone revenue in the December quarter was $56 billion, up 8% over a year ago, thanks to the exceptional demand for the iPhone 11, iPhone 11 Pro and iPhone 11 Pro Max.  iPhone 11 was top-selling model every week during the December quarter and the three new models were three most popular iPhones. iPhone saw double-digit growth in many developed markets, including the U.S., the UK, France and Singapore, and also grew double digits in emerging markets led by strong performances in Brazil, Mainland China, India, Thailand, and Turkey. Active installed base of devices surpassed 1.5 billion, up over 100 million in the last 12 months alone, reaching ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=ANLWnkl6Sm8:Ycm6HDI0-Bg:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ANLWnkl6Sm8:Ycm6HDI0-Bg:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=ANLWnkl6Sm8:Ycm6HDI0-Bg:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ANLWnkl6Sm8:Ycm6HDI0-Bg:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=ANLWnkl6Sm8:Ycm6HDI0-Bg:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=ANLWnkl6Sm8:Ycm6HDI0-Bg:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/ANLWnkl6Sm8)  
+[Read Here»](https://www.fonearena.com/blog/303475/apple-q1-2020-revenue-profit.html)

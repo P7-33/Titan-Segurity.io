@@ -1,0 +1,12 @@
+---
+title: 'Xiaomi Redmi Y3 MIUI Software Update Tracker [Update: MIUI V11.0.4.0 with December security patch]'
+date: 2020-01-03T11:02:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/04/Redmi-Y3_fonearena-15-1024x651.jpg) Xiaomi launched the Redmi y3 smartphone in India on 24th April running MIUI 10.2 Global Stable on top of Android 9.0 (Pie). Xiaomi doesn’t follow any fixed update frequency for the MIUI Global Stable ROM but on average, the Global Stable ROM is updated once in 30-45 days. This post will help our readers in keeping track of MIUI updates for Redmi Y3 (codename ‘onc’), also check out our Redmi Y3 content, Redmi Y3 Camera Samples Redmi Y3 Review MIUI Updates rolled out for the smartphone: \[Jan 2, 2020\]: Xiaomi has started rolling out MIUI 11.0.4.0.PFFINXM with December security patch, the update weighs 1.7GB in size and brings some bug fixes. \[Download Link\] \[Oct 30, 2019\]: Xiaomi has started rolling out MIUI 11.0.3.0.PFFINXM with August security patch, the update weighs 648MB in size and brings MIUI 11 with new features such as New Minimalistic Design, Quick Replies, New Dynamic Sound Effects, Redesigned Settings Menu, Mi Share, Floating Calculator, Updated Mi File Manager and more to the devices, check out this post to learn more about MIUI 11 features. \[Download Link\] \[Aug 10, 2019\]: Xiaomi has started rolling out MIUI 10.3.6.0.PFFINXM with August security patch, the update weighs 342MB in size and brings option to lock google contacts and ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=DuJxB7Oxxlw:5d3laqy875s:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=DuJxB7Oxxlw:5d3laqy875s:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=DuJxB7Oxxlw:5d3laqy875s:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=DuJxB7Oxxlw:5d3laqy875s:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=DuJxB7Oxxlw:5d3laqy875s:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=DuJxB7Oxxlw:5d3laqy875s:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/DuJxB7Oxxlw)  
+[Read Here»](https://www.fonearena.com/blog/286616/xiaomi-redmi-y3-software-update-tracker.html)

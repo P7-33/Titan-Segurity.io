@@ -1,0 +1,12 @@
+---
+title: 'HUAWEI will use TomTom for maps instead of Google Maps'
+date: 2020-01-20T08:43:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/04/Huawei-P30-Pro_fonearena-18-1024x719.jpg) Earlier last year, Google suspended some of its business operations with HUAWEI which includes a ban on using Google Services and Play Store. Subsequently, the company got another 90-day license extension to do business with American firms. While the smartphones launched by HUAWEI recently doesn't come with Google Play Services, the company has been working on alternatives. On similar lines now, HUAWEI will use TomTom for navigation instead of Google Maps. TomTom has closed a deal with HUAWEI and in upcoming devices, HUAWEI will use TomTom maps and services. The deal was closed some time ago, but it was announced publicly. The deal with TomTom could be a big boost to HUAWEI as it cannot use Google Maps for navigation on its new devices. Having said that, it is to be seen how HUAWEI will take advantage of the map data and add its own set of customizations. In case you missed, TomTom is a well-known navigation solutions provider and can be spotted in most automobiles fitted with a navigation system, be it cars or even public transport. It is also widely known that mobile phones have made specialized navigation devices a bit redundant by offering excellent capabilities for everyone that owns a ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=oHPI75dLs5M:TLZztOM1jYw:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=oHPI75dLs5M:TLZztOM1jYw:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=oHPI75dLs5M:TLZztOM1jYw:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=oHPI75dLs5M:TLZztOM1jYw:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=oHPI75dLs5M:TLZztOM1jYw:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=oHPI75dLs5M:TLZztOM1jYw:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/oHPI75dLs5M)  
+[Read Here»](https://www.fonearena.com/blog/302859/huawei-tomtom-maps-google-maps-ban.html)

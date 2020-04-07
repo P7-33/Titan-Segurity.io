@@ -1,0 +1,12 @@
+---
+title: 'Lenovo ThinkPad X1 Carbon Gen 8, X1 Yoga Gen 5 laptops, ThinkCentre M90a AIO desktop announced ahead of CES 2020'
+date: 2020-01-05T09:32:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Lenovo-ThinkPad-CES-2020-announcement.png) Consumer Electronics Show (CES) 2020 is set to kick off from 7th January and some brands announced new products which will be showcased next week. On similar lines now, Lenovo has announced its new ThinkCentre M90a All-in-One (AIO) desktop, ThinkPad X1 Carbon and X1 Yoga models with 10th Gen Intel Core vPro processor, and more. Lenovo's new ThinkCentre M90a AIO desktop features a 23.8-inch FHD display, is powered by 10th Gen Intel Core U i7 vPro processor paired with up to 32GB DDR4 RAM with up to 2TB HDD/1TB M.2 OPAL SSD. The graphics duties are handled by up AMD Radeon 625 GPU. It comes with hidden cable management and features Lenovo's PrivacyGuard that protects sensitive information on the screen, automatically blurs the screen and apart from this, the AIO features Lenovo ThinkShield which is an end-to-end security solution. Furthermore, it has an array of I/O ports, supports WiFI 6, comes with optional services, features Dolby Atmos speaker system, is Always On, Always Connected, and more. Lenovo ThinkCentre M90a AIO desktop specifications 23.8-inch WVA WLED FULL HD display (1920 x 1080 resolution) with optional PrivacyGuard Up to 10th Generation Intel Core U i7 vPro processors Up to AMD Radeon 625 2GB gDDR5 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=FbjnEPUJtHw:WWFy9f8vkTE:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=FbjnEPUJtHw:WWFy9f8vkTE:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=FbjnEPUJtHw:WWFy9f8vkTE:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=FbjnEPUJtHw:WWFy9f8vkTE:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=FbjnEPUJtHw:WWFy9f8vkTE:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=FbjnEPUJtHw:WWFy9f8vkTE:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/FbjnEPUJtHw)  
+[Read Here»](https://www.fonearena.com/blog/301689/lenovo-thinkpad-x1-carbon-gen-8-x1-yoga-gen-5-thinkcentre-m90a-price-ces-2020.html)

@@ -1,0 +1,12 @@
+---
+title: 'LG G8X ThinQ Unboxing and First Impressions – It’s all about the Dual Screen!'
+date: 2020-01-01T16:35:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/LG-G8X-ThinQ_fonearena-8-1024x780.jpg) Last year, many smartphone brands launched a new series of online-only devices and LG was one among them too. The company launched its W-series of smartphones in India, but there were no signs of a flagship smartphone launch. Last month, the company launched its flagship G8X ThinQ smartphone in India after announcing it in September 2019 at the IFA. The G8X ThinQ comes with a unique dual-screen accessory and other interesting features. We got to check out the smartphone, and here is our unboxing and first impressions of LG G8X ThinQ. LG G8X ThinQ specifications 6.4-inch (2340 x 1080 pixels) 19.5:9 FHD+ FullVision OLED Display Octa-Core Qualcomm Snapdragon 855 7nm Mobile Platform with Adreno 640 GPU 6GB LPDDR4x RAM, 128GB storage, expandable memory up to 2TB with microSD Android 9.0 (Pie), upgradable to Android 10 Hybrid Dual SIM (nano + nano / microSD) 12MP rear camera with f/1.8 aperture, 1.4µm pixel size, 78° lens, 13MP ultra-wide camera with f/2.4 aperture, 1.0µm pixel size, 136° lens, LED flash 32MP front camera, f/1.9 aperture, 0.8μm pixel size, 79° lens In-display fingerprint sensor 3.5mm audio jack, Stereo speakers, 32-bit Hi-Fi Quad DAC, FM Radio Dimensions:159.3 x 75.8 x 8.4mm; Weight: 192g Water, dust resistant ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=FmrWOk3E8ds:PQ8lu_fe3cE:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=FmrWOk3E8ds:PQ8lu_fe3cE:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=FmrWOk3E8ds:PQ8lu_fe3cE:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=FmrWOk3E8ds:PQ8lu_fe3cE:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=FmrWOk3E8ds:PQ8lu_fe3cE:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=FmrWOk3E8ds:PQ8lu_fe3cE:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/FmrWOk3E8ds)  
+[Read Here»](https://www.fonearena.com/blog/301468/lg-g8x-thinq-unboxing-first-impressions.html)

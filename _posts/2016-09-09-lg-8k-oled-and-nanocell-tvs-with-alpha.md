@@ -1,0 +1,12 @@
+---
+title: 'LG 8K OLED and NanoCell TVs with Alpha 9 Gen 3 AI Processor announced ahead of CES 2020'
+date: 2020-01-03T09:32:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/LG-8K-OLED-NanoCell-TVs-1024x452.jpg) 8K TVs are coming this year and of course, LG Electronics will be showing off its best of the best at CES 2020. For this year, LG will showcase its expanded 8K TV lineup, with new 77-inch and 65-inch joining the existing premium lineup of 88- and 75-inch screen sizes, featuring its new α (Alpha) 9 Gen 3 AI Processor. LG will showcase 8 8K TVs with 2 OLED models and 6 NanoCell models, all having the Consumer Technology Association(CTA) certification of the new 8K Ultra HD definition standard. The "Real 8K" certification will entail the inclusion of codec support such as HEVC, VP9 and AV1 along with a rapid 60FPS 8K content streaming support over HDMI. The flagship α (Alpha) 9 Gen 3 AI Processor will bring forward advanced new capabilities to the TVs. Leveraging deep learning technology, the TV's will have improved AI-based 8K upscaling, applying techniques like Quad Step Noise Reduction and frequency-based Sharpness Enhancer. The processor will also contain other technologies such as AI Picture Pro and AI Sound Pro. The former, along with Auto Genre Selection, will recognizing faces and text on screen, enhance them accordingly and choose the ideal picture settings. The latter will analyze and classify ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=-5X9xKD6J2M:_vvbeI2vxfE:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=-5X9xKD6J2M:_vvbeI2vxfE:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=-5X9xKD6J2M:_vvbeI2vxfE:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=-5X9xKD6J2M:_vvbeI2vxfE:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=-5X9xKD6J2M:_vvbeI2vxfE:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=-5X9xKD6J2M:_vvbeI2vxfE:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/-5X9xKD6J2M)  
+[Read Here»](https://www.fonearena.com/blog/301562/lg-8k-oled-nanocell-tv-ces-2020.html)

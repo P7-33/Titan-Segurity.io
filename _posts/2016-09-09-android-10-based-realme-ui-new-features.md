@@ -1,0 +1,12 @@
+---
+title: 'Android 10 based realme UI – New Features and First look on realme 3 Pro and realme XT'
+date: 2020-01-19T14:13:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/realme-UI-Poster-FoneArena-1024x576.png) realme recently unveiled their all-new customized user interface called realme UI. Android 10 based realme UI is crafted keeping the preferences and aesthetics of young consumers. The company claims that the new UI will offer smooth performance, elegant visuals, useful features, and is well-built for an enhanced and closer to stock Android experience. The company recently started rolling out realme UI 1.0 update, and here is a list of features that realme UI brings to realme 3 Pro and realme XT. Revamped UI: The entire user interface gets an overhaul with realme UI update, be it notification shade, quick settings tiles, settings app or about phone page, realme has tried creating a young and dynamic UI. \[gallery size="large" link="file" ids="302807,302808,302809"\] Customizable Icon Style: realme UI will bring an option to customize the Icon size and style. Apart from it, users will also be able to choose icon shapes such as Square, Circle, Squircle, etc, similar to what we have seen with stock Android 10. \[gallery size="large" link="file" ids="302803,302804,302805"\] Animated Wallpapers: realme has introduced Animated Wallpapers with realme UI, there are plenty of wallpapers to choose from. These wallpapers are inspired by natural, composition, life and future elements and can be applied to ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Q8tCfAwR8fM:HkE9UgqqhO8:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Q8tCfAwR8fM:HkE9UgqqhO8:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Q8tCfAwR8fM:HkE9UgqqhO8:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Q8tCfAwR8fM:HkE9UgqqhO8:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Q8tCfAwR8fM:HkE9UgqqhO8:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Q8tCfAwR8fM:HkE9UgqqhO8:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Q8tCfAwR8fM)  
+[Read Here»](https://www.fonearena.com/blog/302746/android-10-realme-ui-new-features.html)

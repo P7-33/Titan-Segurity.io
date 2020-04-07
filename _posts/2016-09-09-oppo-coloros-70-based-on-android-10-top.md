@@ -1,0 +1,12 @@
+---
+title: 'OPPO ColorOS 7.0 based on Android 10 — Top 7 features you should know'
+date: 2020-01-09T12:40:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/ColorOS-7-1.jpg) OPPO introduced the ColorOS 7, the next major ColorOS update last month, and the global announcement happened in India soon after. The latest version is based on the Android 10 and comes with refreshed icons in UI, expansion of live wallpapers, dark mode, smart side bar, improved navigation gestures, most talked about India-only DocVault and lots more. ColorOS has more than 300 million users worldwide, covering more than 40 countries and regions, and translated into more than 80 languages. Let us check out the top 7 features that the ColorOS 7.0 brings. 1. New Visuals and icons \[gallery link="file" size="large" columns="2" ids="301223,301221"\] ColorOS 7.0 brings new Infinite Design that makes it attractive. There is also new OPPO Sans default font that goes well with the new design. It also has all-new icon design, which is lightweight. OPPO says that it has been adapted to over hundreds of third party apps, to ensure the visual consistency. ColorOS 7 also gives you more control over icons. You can choose the icon styles from Default, Rectangle, Pebble and even customize the icons details. You can access this from Settings → Home Screen & Lock Screen Magazine → Personalization → Set Icon Style. Art+ Icon option lets you use ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Onn5Pweghqg:76URWqVDE0Y:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Onn5Pweghqg:76URWqVDE0Y:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Onn5Pweghqg:76URWqVDE0Y:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Onn5Pweghqg:76URWqVDE0Y:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Onn5Pweghqg:76URWqVDE0Y:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Onn5Pweghqg:76URWqVDE0Y:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Onn5Pweghqg)  
+[Read Here»](https://www.fonearena.com/blog/301177/oppo-coloros-7-0-based-on-android-10-top-7-features-you-should-know.html)

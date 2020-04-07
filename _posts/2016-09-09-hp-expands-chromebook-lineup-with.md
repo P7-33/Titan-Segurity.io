@@ -1,0 +1,12 @@
+---
+title: 'HP expands Chromebook lineup with launch of 4 new models starting from $259'
+date: 2020-01-22T13:19:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/HP-Chromebook-14-G6-1024x679.jpg) In the education space, the Chromebook is easily the most dominant type of laptop device for teachers and students. HP has now launched 4 new models in the budget Chromebook market with sizes ranging from 11 inches to 14 inches, with prices starting under $300 (approx. Rs. 21362). Beginning at 11-inch models, HP released the 11 G8 EE and 11A G8 EE, with spill-resistant keyboards and MIL-STD 810G standard testing. Both also come with a HD IPS touchscreen option and storage options between 16GB and 64GB. The main difference between the two products comes down to the processor where the 11A has a dual-core AMD APU (the 1.8 GHz A6-9220C or 1.6 GHzA6-9120C), while the 11 has dual- and quad-core Intel options (N4000, N4020, N4100, N4120). The 2-in-1 HP Chromebook 11 x360 features a 360 hinge to rotate the screen completely, Intel Chipsets and even comes with an optional active Wacom EMR pen/digitizer. HP has also added an extra "world-facing" camera and the laptop will only come with IPS options. And finally, going a little up the budget, HP has announced the HP Chromebook 14 G6, the successor to the Chromebook G5. It offers the option of a 14-inch FullHD IPS screen, 8Gb RAM, Intel N4000 series processors, ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=vtQBIkosR14:UOwQxrQM5l8:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=vtQBIkosR14:UOwQxrQM5l8:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=vtQBIkosR14:UOwQxrQM5l8:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=vtQBIkosR14:UOwQxrQM5l8:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=vtQBIkosR14:UOwQxrQM5l8:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=vtQBIkosR14:UOwQxrQM5l8:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/vtQBIkosR14)  
+[Read Here»](https://www.fonearena.com/blog/303030/hp-chromebook-11-g8-ee-11a-g8-ee-chromebook-11-x360-chromebook-14-g6-price.html)

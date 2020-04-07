@@ -1,0 +1,12 @@
+---
+title: 'Xiaomi Mi Motion Activated Night Light 2 launched in India [Update: Now available for all for Rs. 599]'
+date: 2020-01-22T06:19:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Xiaomi-Mi-Motion-Activated-Night-Light-2.jpg) Update: After crowdfunding last year, Xiaomi has started selling the Motion Activated Night Light 2 on mi.com for everyone at Rs. 599. Check out the first impressions here. Earlier: At the Smarter Living 2020 launch, Xiaomi also launched the Mi Motion-Activated Night Light 2. It is a versatile night lamp that automatically turns on upon detecting motion. It blends in perfectly in the home decor and sports two brightness settings and conserves energy by shutting off in 15 seconds if no motion is detected. This is not a smart light so it can't be controlled by an app. Xiaomi Mi Motion-Activated Night Light 2 features 120-degree wide range sensing activated by human motion Photosensitive + human body dual sensor, will only turn on when the ambient brightness is low and a motion is detected in the coverage area 2800k warm yellow light offers ample light in any environment. Choose from two brightness modes of 25 lumens and 4 lumens from small toggle switch. 360-degree rotating stereo light featuring magnetic structure and strong adhesive, so you can install and move the light with ease. Switches off automatically in 15 seconds when you are not in the defined vicinity. Works with 3 AA Batteries ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=ytbrTuUg_8Y:UlUfWLrm-GI:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ytbrTuUg_8Y:UlUfWLrm-GI:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=ytbrTuUg_8Y:UlUfWLrm-GI:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ytbrTuUg_8Y:UlUfWLrm-GI:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=ytbrTuUg_8Y:UlUfWLrm-GI:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=ytbrTuUg_8Y:UlUfWLrm-GI:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/ytbrTuUg_8Y)  
+[Read Here»](https://www.fonearena.com/blog/292156/xiaomi-mi-motion-activated-night-light-2-price-india.html)

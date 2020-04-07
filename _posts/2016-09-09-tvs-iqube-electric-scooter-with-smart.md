@@ -1,0 +1,12 @@
+---
+title: 'TVS iQube Electric scooter with smart features launched for Rs. 1.15 lakhs'
+date: 2020-01-27T05:52:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/TVS-iQube-Electric-1024x673.jpg) TVS has launched iQube Electric, the company's first electric scooter with 4.4 kW electric motor, max speed of 78 kmph, acceleration of 0 to 40 kmph in 4.2 seconds and 75km range. It features TVS SmartXonnect platform and comes with advanced TFT cluster and TVS iQube app and has multiple features such as Geo-fencing, Remote Battery Charge Status, Navigation Assist, Last park location, Incoming call alerts/SMS alerts among others. Other features include Q-park assist, Multi-select economy and power mode, Day and Night display and Regenerative braking and says that it provides noiseless and comfortable ride. Highlights of TVS iQube Electric Top Speed 78kmph, Range 75 km (Eco-mode) 4.4kW hub-mounted motor ensures minimal loss in power transmission 0 to 40km in just 4.2 seconds, 140Nm peak torque TFT dashboard with Day/Night screen for navigation, charge and speed status, Incoming call alerts/SMS alerts Remote charge status, Geo fencing, last park location and smart statistics using iQube app LED Headlights, Tail Lights, Indicators, Side stand indicator, Battery level indicator, Low battery indicator, Service reminder, Vehicle malfunction light 118 kg (kerb weight) 90/90-12, Tubeless tyres on the front and back, Front - 220 mm Discand Rear - 130 mm Drum brakes, Front - Telescopic suspension and Rear ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=GbUDhq7Pbno:QB8UCHvL0WY:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=GbUDhq7Pbno:QB8UCHvL0WY:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=GbUDhq7Pbno:QB8UCHvL0WY:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=GbUDhq7Pbno:QB8UCHvL0WY:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=GbUDhq7Pbno:QB8UCHvL0WY:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=GbUDhq7Pbno:QB8UCHvL0WY:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/GbUDhq7Pbno)  
+[Read Here»](https://www.fonearena.com/blog/303225/tvs-iqube-electric-scooter-price-india-features.html)

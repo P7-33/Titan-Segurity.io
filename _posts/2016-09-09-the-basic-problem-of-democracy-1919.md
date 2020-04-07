@@ -1,0 +1,21 @@
+---
+title: 'The Basic Problem of Democracy (1919)'
+date: 2019-12-28T01:03:00+01:00
+draft: false
+---
+
+![](https://cdn.theatlantic.com/assets/static/a/theatlantic/img/lacroix-default-thumbnail.png "Walter Lippmann on the Basic Problem of Democracy - The Atlantic")  
+
+The mechanism of the news-supply has developed without plan, and there is no one point in it at which one can fix the responsibility for truth. The fact is that the subdivision of labor is now accompanied by the subdivision of the news-organization. At one end of it is the eye-witness, at the other, the reader. Between the two is a vast, expensive transmitting and editing apparatus. This machine works marvelously well at times, particularly in the rapidity with which it can report the score of a game or a transatlantic flight, or the death of a monarch, or the result of an election. But where the issue is complex, as for example in the matter of the success of a policy, or the social conditions among a foreign people, — that is to say, where the real answer is neither yes nor no, but subtle and a matter of balanced evidence, — the subdivision of the labor involved in the report causes no end of derangement, misunderstanding, and even misrepresentation.
+
+Thus the number of eye-witnesses capable of honest statement is inadequate and accidental. Yet the reporter making up his news is dependent upon the eye-witnesses. They may be actors in the event. Then they can hardly be expected to have perspective. Who, for example, if he put aside his own likes and dislikes would trust a Bolshevik’s account of what exists in Soviet Russia or an exiled Russian prince’s story of what exists in Siberia? Sitting just across the frontier, say in Stockholm, how is a reporter to write dependable news when his witnesses consist of _emigrés_ of Bolshevist agents?
+
+At the Peace Conference, news was given out by the agents of the conferees and the rest leaked through those who were clamoring at the doors of the Conference. Now the reporter, if he is to earn his living, must nurse his personal contacts with the eye-witnesses and privileged informants. If he is openly hostile to those in authority, he will cease to be a reporter unless there is an opposition party is the inner circle who can feed him news. Failing that, he will know precious little of what is going on.
+
+Most people seem to believe that, when they meet a war correspondent or a special writer form the Peace Conference, they have seen a man who has seen the things he wrote about. Far from it. Nobody, for example, saw this war. Neither the men in the trenches nor the commanding general. The men saw their trenches, their billets, sometimes they saw an enemy trench, but nobody, unless it be the aviators, saw a battle. What the correspondents saw, occasionally, was the terrain over which a battle had been fought; but what they reported day by day was what they were told at press headquarters, and of that only what they were allowed to tell.
+
+At the Peace Conference the reporters were allowed to meet periodically the four least important members of the Commission, men who themselves had considerable difficulty in keeping track of things, as any reporter who was present will testify. This was supplemented by spasmodic personal interviews with the commissioners, their secretaries, their secretaries’ secretaries, other newspaper men, and confidential representatives of the President, who stood between him and the impertinence of curiosity. This and the French press, than which there is nothing more censored and inspired, a local English trade-journal of the expatriates, the gossip of the Crillon lobby, the Majestic, and the other official hotels, constituted the source of the news upon which American editors and the American people have had to base one of the most difficult judgments of their history. I should perhaps add that there were a few correspondents occupying privileged positions with foreign governments. They wore ribbons in their button-holes to prove it. They were in many ways the most useful correspondents because they always revealed to the trained reader just what it was that their governments wished America to believe.
+
+  
+  
+from Hacker News https://ift.tt/2QSogDg

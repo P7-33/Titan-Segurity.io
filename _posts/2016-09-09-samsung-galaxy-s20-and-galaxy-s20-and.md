@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy S20 and Galaxy S20+ and S20 Ultra press renders surface'
+date: 2020-01-24T17:06:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Samsung-Galaxy-S20-leak-1024x753.jpg) Samsung Galaxy Unpacked 2020 event is scheduled on February 16th where the company will officially unveil the Galaxy S20 series and the Galaxy Fold 2 could be unveiled alongside. While a plethora of rumors, renders of the Galaxy S20, Galaxy S20+, and Galaxy S20 Ultra surfaced recently, now the official renders of the upcoming Galaxy S20 and Galaxy S20+ has surfaced along with key details of the smartphones. According to the renders, the Galaxy S20 and Galaxy S20+ won't be sporting a 3D glass like the previous flagship models, instead they will sport a 2.5D curved glass. The bezels on the Galaxy S20 and Galaxy S20+ will be narrow, according to the renders. Apart from this, the punch-hole front camera will be positioned in the center similar to the Galaxy Note10, Galaxy Note10+, and Galaxy Note10+ Lite smartphones. The volume rockers and the power buttom will be positioned to the right and this time around, Samsung has said to have removed the Bixby button as according to the renders, the left side of the smartphones doesn't house any button. Furthermore, the renders also reveal the rectangular rear camera module on these smartphones. The rear camera setup on the Galaxy S20 is said ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=U7rI9YePYkg:Wv7qVR6V8_0:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=U7rI9YePYkg:Wv7qVR6V8_0:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=U7rI9YePYkg:Wv7qVR6V8_0:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=U7rI9YePYkg:Wv7qVR6V8_0:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=U7rI9YePYkg:Wv7qVR6V8_0:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=U7rI9YePYkg:Wv7qVR6V8_0:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/U7rI9YePYkg)  
+[Read Here»](https://www.fonearena.com/blog/303173/samsung-galaxy-s20-s20-plus-s20-ultra-image-leak.html)

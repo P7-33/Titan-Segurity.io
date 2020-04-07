@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy Z Flip and Galaxy S20 series said to go on sale on February 14 and March 6, pricing tipped'
+date: 2020-01-28T07:22:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Samsung-Galaxy-S20-Ultra-leak-1024x858.jpg) Press renders and most specifications of the Galaxy S20 series and the live images of the Galaxy Z Flip have already surfaced, now details about the availability and the pricing have started surfacing. According to the latest rumors the Samsung Galaxy Z Flip, the company's second foldable smartphone will go on sale on February 14th, soon after it is introduced on February 11th. It is said to retail at $1400 (Rs. 99,840 approx.) and could be AT&T exclusive, similar to the Fold. The Galaxy S20, S20+, S20 Ultra could go on sale on the first Friday of March, which is March 6th, and the S20 Ultra, the top-end smartphone in the series is said to retail for $1300 (Rs. 92,720 approx.). All the S20 series of phones will have IP68 ratings for a maximum depth of 5 meters, says the rumor. S20, S20+, S20 Ultra will likely be available first Friday of March. S20 Ultra should retail for $1300. — Max Weinbach (@MaxWinebach) January 27, 2020 According to an image the Galaxy S20+ and S20 Ultra pre-orders will offer free Galaxy Buds+ worth $149.99 (Rs. 10,700 approx.). The report also says that battery life will be double the Galaxy Buds and it will have ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=dmqabXHlNRI:1foS_Mm7DtE:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=dmqabXHlNRI:1foS_Mm7DtE:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=dmqabXHlNRI:1foS_Mm7DtE:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=dmqabXHlNRI:1foS_Mm7DtE:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=dmqabXHlNRI:1foS_Mm7DtE:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=dmqabXHlNRI:1foS_Mm7DtE:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/dmqabXHlNRI)  
+[Read Here»](https://www.fonearena.com/blog/303378/samsung-galaxy-z-flip-galaxy-s20-price-sale-date-leak.html)

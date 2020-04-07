@@ -1,0 +1,12 @@
+---
+title: 'HUAWEI Y9 Prime 2019 EMUI 10 update based on Android 10 starts rolling out in India'
+date: 2020-01-10T15:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/05/HUAWEI-Y9-Prime-2019.jpg) HUAWEI launched the Y9 Prime 2019 earlier last year in India and the phone shipped with EMUI 9 based on Android 9 Pie. After rolling out EMUI 10 update based on Android 10 to the P30 Pro and HONOR 10 Lite recently, HUAWEI has now started rolling out EMUI 10 update for the Y9 Prime 2019 in India. The update is about 3.49 GB in size and carries the build number 10.0.0.159. However, it doesn't bring the latest January 2020 security patch, rather brings the November 2019 security patch. The update is rolled out gradually and will take time to reach all devices. To recall, EMUI 10 brings three updates: UX design, an all-scenario ultimate experience, and a new standard of smooth operation. It comes with a major UI refresh, brings over 60% improvements in GPU Turbo, over 70% improvements in Turbo Link, and over 20% in EROFS (Extendable Read-Only File System) ROM. It offers multi-device interoperability, allowing users to experience convenient conversations throughout the OS and also enables real-time interaction between computers and mobile phones across systems. Other new features include an updated camera design, an all-new Dark Mode, and more. You can check out the new features of EMUI 10 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Bbn1Bzy7EDs:iNfOylE0m_w:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Bbn1Bzy7EDs:iNfOylE0m_w:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Bbn1Bzy7EDs:iNfOylE0m_w:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Bbn1Bzy7EDs:iNfOylE0m_w:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Bbn1Bzy7EDs:iNfOylE0m_w:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Bbn1Bzy7EDs:iNfOylE0m_w:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Bbn1Bzy7EDs)  
+[Read Here»](https://www.fonearena.com/blog/302258/huawei-y9-prime-2019-android-10-emui-10-update.html)

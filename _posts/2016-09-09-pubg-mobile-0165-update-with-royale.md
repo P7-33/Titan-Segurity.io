@@ -1,0 +1,12 @@
+---
+title: 'PUBG MOBILE 0.16.5 update with Royale Pass Season 11: Operation Tomorrow, Light Snowmobile and more released'
+date: 2020-01-09T11:40:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/PUBG-MOBILE-0.16.0-Royale-Pass-Season-11-Operation-Tomorrow-1024x690.jpg) Tencent games has released new PUBG Mobile update which brings the version number to 0.16.5. This brings Royale Pass Season 11: Operation Tomorrow, New TDM Arena map, New Domination map: Town and more. https://youtu.be/h2Ot2Hl0eZU The PUBG Mobile 0.16.5 update is already available for iOS  and Android from today. If you update before January 15th, you get: 20 Silver, 2,000 BP and 1 Blue Glider Trail. PUBG Mobile 0.16.5 update include: Classic mode - New Vehicle: Light Snowmobile A Light Snowmobile has been added. This vehicle only spawns in Vikendi and is the perfect ride for two. It is faster and moves more efficiently than the Snowmobile, but is also more easily damaged. The 2-seater motorcycle will no longer spawn in Vikendi after the Snowbike is added to the map. Classic mode - Season Recap: After the new season starts, players will be able to view their statistics from the previous season in the Season Recap page. Players will be given a title that matches their play style and a grade based on all their data from Classic mode. They will be able to see their highlights and their teammates from the previous season. They can also generate an exclusive page with a bust-up portrait ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=W34Ar18rz40:kVDaHtbKEMc:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=W34Ar18rz40:kVDaHtbKEMc:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=W34Ar18rz40:kVDaHtbKEMc:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=W34Ar18rz40:kVDaHtbKEMc:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=W34Ar18rz40:kVDaHtbKEMc:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=W34Ar18rz40:kVDaHtbKEMc:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/W34Ar18rz40)  
+[Read Here»](https://www.fonearena.com/blog/302131/pubg-mobile-0-16-5-royale-pass-season-11.html)

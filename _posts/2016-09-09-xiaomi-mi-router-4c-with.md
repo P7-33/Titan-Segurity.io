@@ -1,0 +1,12 @@
+---
+title: 'Xiaomi Mi Router 4C with omnidirectional antennas launched in India for Rs. 999'
+date: 2020-01-21T08:19:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Mi-Router-4C.png) Xiaomi launched the Mi Router 3C back in 2017 and it was due for a refresh for quite some time now. While the company launched Dual Band routers in China, the 3C that was launched here did not support dual-band WiFi. On similar lines now, Xiaomi has launched the single band Mi Router 4C in India and replaces the Mi Router 3C here. Xiaomi Mi Router 4C is an 802.11 b/g/n single-band router with 4 "high-performance" omnidirectional antennas and supports up to 300Mbps transmission speed. It promises an increased operating range and stronger signal.   It is powered by the MediaTek MT7628N processor paired with 64MB RAM and 16MB storage. This router can connect up to 64 devices, can be controlled through the Mi Wi-Fi app, supports one-tap Wi-Fi speed boost, and parental controls. The Mi Router 4C can also be used as a repeater with the in-built repeater mode. Furthermore, it has guest sharing so that you don’t have to share your password with other and Wi-Fi Boost that intelligently sets the Wi-Fi channel to optimize connections. Mi Router 4C highlights 300Mbps 802.11 a/b/n Wi-Fi 2.4GHz 2X2 MediaTek MT7628N processor 64MB DDR2 RAM, 16MB ROM 4 high-performance omnidirectional antennas Up to 64 connected devices ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=p8h9xz9qpdI:zglt-FuPXso:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=p8h9xz9qpdI:zglt-FuPXso:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=p8h9xz9qpdI:zglt-FuPXso:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=p8h9xz9qpdI:zglt-FuPXso:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=p8h9xz9qpdI:zglt-FuPXso:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=p8h9xz9qpdI:zglt-FuPXso:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/p8h9xz9qpdI)  
+[Read Here»](https://www.fonearena.com/blog/302932/xiaomi-mi-router-4c-price-india-specifications.html)

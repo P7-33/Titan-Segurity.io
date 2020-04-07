@@ -1,0 +1,12 @@
+---
+title: 'OnePlus 6 and 6T OxygenOS 10.3.1 update brings multiple bug fixes, December Android security patch and more'
+date: 2020-01-24T10:14:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2018/11/OnePlus-6T-Thunder-Purple_fonearena-7-1024x666.jpg) OnePlus has released an incremental OS update to the OnePlus 6 and 6T that fixes multiple small system wide bugs like black screens appearing after unlocking the device with a fingerprint, device heating issues when charging, random disconnection issue with 5Ghz Hotspot and more. There are also fixes to the camera, specifically the camera crash issues and image preview times in the Pro mode. As usual, this is a staged rollout with limited users receiving it today and a broader rollout in a few days. The update is only an incremental one with a size of 80MB and also brings the Android Security Patch to December 2019. Check out the complete changelog below: Changelog System Fixed the issue with a black screen appearing after unlocking the device using fingerprint Fixed the issue with the animation logo while rebooting the device Fixed the issue with device heating up while charging Fixed the random disconnection issue with 5Ghz Hotspot Improved system stability and fixed general bugs Updated Android security patch to 2019.12 Camera Optimized the image preview time in the Pro mode Fixed the camera crash issue Gallery Fixed the issue with videos and images not displaying in Gallery Source
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=F-YvBmsVmA4:CW6qKKNzWXY:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=F-YvBmsVmA4:CW6qKKNzWXY:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=F-YvBmsVmA4:CW6qKKNzWXY:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=F-YvBmsVmA4:CW6qKKNzWXY:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=F-YvBmsVmA4:CW6qKKNzWXY:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=F-YvBmsVmA4:CW6qKKNzWXY:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/F-YvBmsVmA4)  
+[Read Here»](https://www.fonearena.com/blog/303149/oneplus-6-6t-oxygenos-10-3-1-update-december-android-security-patch.html)

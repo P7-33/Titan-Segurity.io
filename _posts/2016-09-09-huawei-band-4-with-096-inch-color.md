@@ -1,0 +1,12 @@
+---
+title: 'HUAWEI Band 4 with 0.96-inch color display, 50-meter water resistance, built-in USB connector launched in India for Rs. 1999'
+date: 2020-01-23T12:19:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/HUAWEI-Band-4-1024x694.jpg) HUAWEI just launched the HUAWEI Band 4, the company's latest smart band in India. This features a 0.96-inch LCD color touch screen with 2.5D curved glass and an oleophobic coating in addition to Home button, comes with continuous heart rate tracking with HONOR’s TruSeen 3.5 heart rate monitor technology, and is also water resistant up to 50 meters. It has automatic activity tracking. Huawei Band 4 has a built-in USB in-line charge for convenient charging and a battery that promises up to 9 days of power on a single charge. It comes with 8 built-in colourful watch faces, and 66 watch faces available from HUAWEI Watch Face Store, for users to wear in different occasions. It has scientific sleep mode detector can identify 6 most common sleep-related issues, providing more than 200 potential solutions and suggestions for better sleep. The band also features smart identification of cold calls, phone finder functionality, remote shutter capabilities, a smart clock, and sedentary reminder alarms to ensure users stay active. HUAWEI Band 4 specifications 0.96-inch (160×80 pixels) LCD touch color display with customizable clock faces Apollo 3 processor Bluetooth 4.2 LE, Compatible with Android 4.4 (or later) or iOS 9.0 (or later) Pedometer, Sleep tracker, 9 Fitness modes, ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=ljtUcMkrXzE:N20uTd4_IXI:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ljtUcMkrXzE:N20uTd4_IXI:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=ljtUcMkrXzE:N20uTd4_IXI:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ljtUcMkrXzE:N20uTd4_IXI:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=ljtUcMkrXzE:N20uTd4_IXI:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=ljtUcMkrXzE:N20uTd4_IXI:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/ljtUcMkrXzE)  
+[Read Here»](https://www.fonearena.com/blog/303097/huawei-band-4-price-india-specifications.html)

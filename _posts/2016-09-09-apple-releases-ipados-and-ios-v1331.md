@@ -1,0 +1,12 @@
+---
+title: 'Apple releases iPadOS and iOS v13.3.1 with new location setting for U1 chip, security bug fixes and more'
+date: 2020-01-29T09:52:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/06/iOS-13-1024x608.jpg) Apple has rolled out new software updates to iOS and iPadOS changing the software version from 13.3 to 13.3.1. As the software version indicates, this update is a small incremental update with quite a few bug fixes. Noticeably, there is a security fix that now stops contacts being added without entering passcode and Apple has added a setting to control location data sent via the U1 Chip. Check out the changelog for iOS 13.3.1 below: Fixes an issue in Communication Limits that could allow a contact to be added without entering the Screen Time passcode Adds a setting to control the use of location services by the U1 Ultra Wideband chip Addresses an issue that could cause a momentary delay before editing a Deep Fusion photo taken on iPhone 11 or iPhone 11 Pro Resolves an issue with Mail that could cause remote images to load even when the “Load Remote Images” setting is disabled Fixes an issue that could cause multiple undo dialogs to appear in Mail Addresses an issue where FaceTime could use the rear facing ultra-wide camera instead of the wide camera Resolves an issue where push notifications could fail to be delivered over Wi-Fi Addresses a CarPlay ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=wQZ8S9y6ovc:37YLI-B3Qfo:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=wQZ8S9y6ovc:37YLI-B3Qfo:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=wQZ8S9y6ovc:37YLI-B3Qfo:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=wQZ8S9y6ovc:37YLI-B3Qfo:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=wQZ8S9y6ovc:37YLI-B3Qfo:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=wQZ8S9y6ovc:37YLI-B3Qfo:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/wQZ8S9y6ovc)  
+[Read Here»](https://www.fonearena.com/blog/303487/apple-ios-13-3-1-ipados.html)

@@ -1,0 +1,12 @@
+---
+title: 'Vivo’s iQOO to launch Snapdragon 865-powered 5G phone in India in February [Update: Official teaser confirms 5G phone]'
+date: 2020-02-02T16:03:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Vivo-iQOO-5G-India.jpg) Update: February 2, 2020 - iQOO has started teasing that 5G phone is coming to india soon with #MonsterInside. It has also launched iqoo.com/in/. Get ready to witness 5G in India Soon from our side. iQOO India 🇮🇳🇮🇳🇮🇳#iQOOIndia #MonsterInside #5GinIndia pic.twitter.com/LbB7P73ESB — iQOO India (@iQOO\_In) February 2, 2020 Vivo announced iQOO (stands for 'I Quest On and On') sub-brand in China last year, and has launched several smartphones since then in its home ground, including iQOO Pro 5G. Now the company has confirmed that it will launch its first product for the Indian market in February. It also plans to launch 4G smartphones in the country with high-end specifications. The iQOO phone will be India’s first smartphone powered by Snapdragon 865 Mobile Platform and will also feature 5G support. iQOO said that it will be backed by robust performance capabilities in the charging, gaming, and design department, providing phone phonetics uninterrupted content consumption, according to the company. iQOO will be selling its phones in India through online platforms initially, and plans to sell its phones via offline stores in the future. We should know more details about the phone in the coming weeks. Commenting on the same, Gagan Arora, Director of Marketing at iQOO, said: We see extreme ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=6sIhyDNBGuA:XyDCxE-Futw:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=6sIhyDNBGuA:XyDCxE-Futw:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=6sIhyDNBGuA:XyDCxE-Futw:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=6sIhyDNBGuA:XyDCxE-Futw:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=6sIhyDNBGuA:XyDCxE-Futw:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=6sIhyDNBGuA:XyDCxE-Futw:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/6sIhyDNBGuA)  
+[Read Here»](https://www.fonearena.com/blog/303160/vivo-iqoo-snapdrgon-865-5g-phone-india-launch.html)

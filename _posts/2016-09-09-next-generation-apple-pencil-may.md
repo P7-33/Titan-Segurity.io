@@ -1,0 +1,12 @@
+---
+title: 'Next generation Apple Pencil may support more touch gestures including swiping, etc.'
+date: 2020-01-13T12:40:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Apple-iPad-2019-1024x660.jpg) With the Apple Pencil 2, Apple introduced a double tap control interface that enabled secondary functions in supported apps for the iPad Pro. Now, according to a new patent filed by Apple, they may be introducing more gestures and swipe capabilities with the addition of new touch sensors in the next generation Pencil. The patent, filed on January 9th, details the various types of ways the new Pencil can detect user movements. The reason for this new design is to provide more control to the user as it is unlikely that the user will use the touch screen on the iPad when using the Pencil. According to it, the Pencil will be able to 'distinguish between tactile inputs from a user and disregard sustained tactile inputs that are provided while the user simply holds the stylus at the user's natural grip location.' In its diagrams, Apple also reveals the design will be able to detect swipes and also know when the user has lifted their fingers of the surface. To achieve these functionalities, the pencil will contain a "low profile" sensor, such as a capacitive sensing device, added. The sensor will be located near the natural resting position when a user holds ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=pX4UWDamNXo:vIjE957A_7o:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=pX4UWDamNXo:vIjE957A_7o:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=pX4UWDamNXo:vIjE957A_7o:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=pX4UWDamNXo:vIjE957A_7o:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=pX4UWDamNXo:vIjE957A_7o:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=pX4UWDamNXo:vIjE957A_7o:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/pX4UWDamNXo)  
+[Read Here»](https://www.fonearena.com/blog/302352/apple-pencil-3-swiping-gesture-patent.html)

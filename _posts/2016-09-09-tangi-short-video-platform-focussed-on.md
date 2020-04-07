@@ -1,0 +1,12 @@
+---
+title: '‘Tangi’ short video platform focussed on DIY and creativity released by Google’s Area 120'
+date: 2020-01-31T10:07:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Tangi-short-video-platform-1024x518.png) Area 120, which is a workshop for Google's experiment projects in the past has tested many services like a hyper-local experiment app, podcast app, and more. On similar lines now, Google's Area 120 has launched its new short video platform - Tangi which focusses on DIY and creativity. This short video platform includes 1-minute videos that aim to help people learn, unlike other short video platforms like TikTok, Byte which focuses on entertainment. Using Tangi, users can learn to craft, cook and in short, the platform houses an array of 'How-to' videos that help people learn. Similar to other platforms that offer vertical video content, Tangi also offers vertical videos that can last up to 1 minute and the average video length on this platform is around 45 seconds. Furthermore, users can interact with members of other communities through the 'Try it' feature that lets users create photos of their re-creation. Unlike YouTube where there are long-duration videos with more details, users might not find detailed tutorial videos in Tangi. But, creators can leave a detailed tutorial in the comment section, which might be helpful for users looking for a detailed tutorial. Tangi is available on iOS and web for now, and creators need ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=EjS2Iqzbz0o:pknlVjyMk40:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=EjS2Iqzbz0o:pknlVjyMk40:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=EjS2Iqzbz0o:pknlVjyMk40:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=EjS2Iqzbz0o:pknlVjyMk40:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=EjS2Iqzbz0o:pknlVjyMk40:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=EjS2Iqzbz0o:pknlVjyMk40:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/EjS2Iqzbz0o)  
+[Read Here»](https://www.fonearena.com/blog/303721/tangi-app-download-google-area-120.html)

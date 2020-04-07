@@ -1,0 +1,12 @@
+---
+title: 'Xiaomi devices will come with Google Phone as default dialer and Messages for messaging in some regions'
+date: 2020-01-03T17:32:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/07/Redmi-K20-Pro-Carbon-Black_fonearena-4-1024x691.jpg) Xiaomi’s MIUI is amongst the popular Android UIs, but it is famous amongst users because of feature richness, customizations, and minimal design. MIUI focuses on providing a complete user experience and to achieve this, MIUI is loaded with many system apps like Dialer, Messaging, Mi File Manager, Mi Calculator, Recorder, Mi Share, Mi Music, Mi Video, and many other apps. Xiaomi on its global community today announced that due to the privacy laws and restrictions around the globe, it has decided to make use of Google Mobile Services, a bunch of applications and APIs aimed at delivering ensure great user experience. As a result, the company will be rolling out Global ROM update for all the recent devices to replace MIUI Dialer and MIUI Messaging with Google Phone and Google Messages. Due to this change, the Call Recording feature will be unavailable in these regions, but Xiaomi may bring it back in 2020. These changes will be coming to users in Global and Europe regions which doesn't include India, China, Indonesia, Russia. I personally see this as a welcome change, since Google has already rolled out Rich Communication Services (RCS) to all Android users in the US and hopefully, it will roll out ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Ic3h0kWCYUM:WXpsfUoH3dM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Ic3h0kWCYUM:WXpsfUoH3dM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Ic3h0kWCYUM:WXpsfUoH3dM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Ic3h0kWCYUM:WXpsfUoH3dM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Ic3h0kWCYUM:WXpsfUoH3dM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Ic3h0kWCYUM:WXpsfUoH3dM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Ic3h0kWCYUM)  
+[Read Here»](https://www.fonearena.com/blog/301646/xiaomi-google-phone-messages-default.html)

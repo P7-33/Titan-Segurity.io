@@ -1,0 +1,12 @@
+---
+title: 'Microsoft Launcher Preview brings new UI, Dark Mode, Landscape Mode and various Performance Improvements'
+date: 2020-01-14T14:40:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Microsoft-Launcher-Preview-6.0-FoneArena-Screenshots_1-1024x473.jpg) Microsoft introduced the Microsoft Launcher for Android back in 2017 and kept introducing new features such as Theme Support, Cortana Integration, Screen Time, and Cricket Score widget. Now, Microsoft Launcher preview app brings Dark Mode and Landscape Mode along with a new user interface to Microsoft Launcher. \[gallery size="large" columns="2" ids="302426,302427"\] Microsoft recently listed a new app, Microsoft Launcher Preview with version 6.0 on the Play Store, this is still in the Alpha stage as the Play Store listing says pre-release. Microsoft says that the new app is built on a new code base to make new features possible, such as Dark Mode, Landscape Mode, and numerous performance improvements (speed to load, low memory utilization, battery optimization, and fluent animation). \[gallery size="large" columns="2" ids="302428,302429"\] The new preview app brings the Dark Mode to the Microsoft Launcher which Microsoft says is compatible with Android Dark Mode settings. Apart from Dark Mode, it also brings new icons, widgets, adaptive icons to give your phone a consistent look and feel. Microsoft warns that this preview version is buggy, and has some unfinished features and user interfaces. This preview version contains only a subset of the standard features that are available in the main app, so you may stick ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=uxoK81oSnmg:SXqxZ-3xH18:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=uxoK81oSnmg:SXqxZ-3xH18:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=uxoK81oSnmg:SXqxZ-3xH18:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=uxoK81oSnmg:SXqxZ-3xH18:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=uxoK81oSnmg:SXqxZ-3xH18:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=uxoK81oSnmg:SXqxZ-3xH18:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/uxoK81oSnmg)  
+[Read Here»](https://www.fonearena.com/blog/302366/microsoft-launcher-preview-new-ui-dark-mode-landscape-mode.html)

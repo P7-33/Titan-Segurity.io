@@ -1,0 +1,12 @@
+---
+title: 'Realme X2 ColorOS Software Update Tracker [Update: A.18 with January Android security patch]'
+date: 2020-01-22T09:19:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/realme-X2_fonearena-17-1024x705.jpg) realme launched the realme X2 smartphone running ColorOS 6.1 realme edition on top of Android 9.0 (Pie). To recall, realme X2 packs a 6.4-inch Full HD+ AMOLED display with 91.9% screen-to-body ratio and Corning Gorilla Glass 5 protection. It is powered by Snapdragon 730G with up to 8GB of RAM, and packs a 64-megapixel primary rear camera with 1/1.72″ Samsung GW1 sensor and f/1.8 aperture. This post will help our readers in keeping track of ColorOS updates for realme X2, also check out our realme X2 content, realme X2 Unboxing and First Impressions realme X2 Review: Best mid-range phone under Rs. 20000? \[gallery columns="1" size="large" ids="303010"\] \[Jan 22, 2020\]: realme has started rolling out RMX1992EX\_11.A.18 with January security patch. The update weighs about 214 MBs in size and brings multiple bug fixes including error prompt issue while WhatsApp video call. \[Download Link\] \[Jan 20, 2020\]: realme announces realme UI Beta testing for realme X2. \[Jan 3, 2020\]: realme has started rolling out RMX1992EX\_11.A.17 with December security patch. The update weighs about 265 MBs in size, adds a dark mode quick switch toggle in the notification panel and brings multiple bug fixes. \[Download Link\] \[Dec 23, 2019\]: realme releases Android Pie based kernel source code for ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=bk5IYWsgBfA:62SIxTecCps:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=bk5IYWsgBfA:62SIxTecCps:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=bk5IYWsgBfA:62SIxTecCps:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=bk5IYWsgBfA:62SIxTecCps:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=bk5IYWsgBfA:62SIxTecCps:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=bk5IYWsgBfA:62SIxTecCps:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/bk5IYWsgBfA)  
+[Read Here»](https://www.fonearena.com/blog/301010/realme-x2-coloros-software-update-tracker.html)

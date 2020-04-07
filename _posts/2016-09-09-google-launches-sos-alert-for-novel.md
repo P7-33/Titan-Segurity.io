@@ -1,0 +1,12 @@
+---
+title: 'Google launches SOS alert for Novel Coronavirus in Search'
+date: 2020-01-31T11:04:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Coronavirus-Google-Search-SOS-1024x702.jpg) Novel Coronavirus which is spreading in several parts of the world has now turned into an emergency situation worldwide. World Health Organization (WHO) has released important information and safety measures to tackle Coronavirus and now, Google has also stepped in to aid people. Google has now launched an SOS alert for Novel Coronavirus in Search. The SOS alert launched by Google with the World Health Organization (WHO) helps users to easily access resources related to Coronavirus. Starting today, when users search for related info on Google Search, it will display safety tips, info, resources, and Twitter updates from WHO. Searching for “coronavirus” will display a card that reads “2019 Novel Coronavirus SOS Alert” and lets users share directly. At first, Top Stories are displayed which is followed by Local Updates, Help and Information, Safety Tips and lastly, results from other websites. The Safety Tips are sourced from who.int and some safety tips that are displayed include “Clean hands with soap and water or alcohol-based hand rub”, “Thoroughly cook meat and eggs”, and more related tips. Given the situation of Novel Coronavirus now, Google's SOS Alert will be useful for many people. Source
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=byxuYpVfEjA:NL69ll9e4Mc:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=byxuYpVfEjA:NL69ll9e4Mc:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=byxuYpVfEjA:NL69ll9e4Mc:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=byxuYpVfEjA:NL69ll9e4Mc:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=byxuYpVfEjA:NL69ll9e4Mc:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=byxuYpVfEjA:NL69ll9e4Mc:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/byxuYpVfEjA)  
+[Read Here»](https://www.fonearena.com/blog/303732/google-search-coronavirus-sos-alert.html)

@@ -1,0 +1,12 @@
+---
+title: 'Apple said to launch UWB Airtags, new MacBooks, Powerbeats 4 and more in 2020'
+date: 2020-01-31T05:04:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Apple-Airtags-rumour-1024x798.jpg) Popular Apple Analyst Ming-Chi Kuo has released a report that has some interesting plans for Apple in the first half of 2020. The report claims Apple will release several new products including Ultra Wideband tags, high-end wireless headphones, a 4.7-inch iPhone SE successor, refreshed iPad Pro models, and refreshed MacBook Pro and/or MacBook Air models. The first half of 2020 looks to be exciting for Apple fans as the rumours point to a whole host of products being released. The heavily rumoured budget iPhone SE 2 is said to launching soon with a screen size of 4.7 inches. It will also likely be running the A13 Bionic chip, 3GB of RAM and TouchID for biometric authentication. The next interesting product that may be called "Airtags" will utilise Apple's new U1 chip to create Tile-like item tracking device. The use of Wide band technology would make it possible to locate attached devices with much greater accuracy than Bluetooth LE and Wi-Fi. The iPad Pro was last updated back in 2018 with its third generation. The rumours point to a triple-lens rear camera system on the new models that support 3D sensing for augmented reality, to be released sometime in March. Another device that will be ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=b8brUhqdyKU:TsP_ylSRbWQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=b8brUhqdyKU:TsP_ylSRbWQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=b8brUhqdyKU:TsP_ylSRbWQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=b8brUhqdyKU:TsP_ylSRbWQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=b8brUhqdyKU:TsP_ylSRbWQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=b8brUhqdyKU:TsP_ylSRbWQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/b8brUhqdyKU)  
+[Read Here»](https://www.fonearena.com/blog/303647/apple-uwb-airtags-new-macbook-powerbeats-4-2020.html)

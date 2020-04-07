@@ -1,0 +1,12 @@
+---
+title: 'HONOR MagicWatch2 with Kirin A1 chipset, HONOR Band 5i with built-in USB connector launching soon on Amazon India'
+date: 2020-01-07T12:36:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/HONOR-Band-5i-India.png) HUAWEI's HONOR brand announced its MagicWatch 2, the successor to the MagicWatch recently and the company is all set to launch its smartwatch in India soon. Alongside the MagicWatch 2, HONOR is also launching the 'HONOR Band 5i', which is an upgrade to the HONOR Band 5 that was launched last year. Both the products are expected to be unveiled alongside the HONOR 9X next week. HONOR MagicWatch 2 46mm is listed on Amazon India's microsite and the 'Notify Me' option is now live on the site. Also, users purchasing the MagicWatch 2 will get FREE HONOR xSport AM61 Bluetooth earphones worth Rs. 3699. Regarding the specifications, HONOR MagicWatch 2 has a circular AMOLED screen, Kirin A1 chip, support for Bluetooth 5.1, voice calling when connected to Bluetooth, thanks to speaker and microphone, multi-function NFC, support for 15 sports modes, sleep tracking, heart rate tracking and atrial fibrillation, blood oxygen saturation, pressure management and more. It comes with a 5ATM rating so it is water-resistant at a depth of 50 meters. The watch packs a 455mAh battery that promises up to 14 days of battery life. HONOR MagicWatch 2 specifications 1.2-inch / 1.39-inch ( 390 x 390 pixels) / ( 454 x 454 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=9OZkbGOH2Go:HlLsoBxGgYE:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=9OZkbGOH2Go:HlLsoBxGgYE:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=9OZkbGOH2Go:HlLsoBxGgYE:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=9OZkbGOH2Go:HlLsoBxGgYE:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=9OZkbGOH2Go:HlLsoBxGgYE:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=9OZkbGOH2Go:HlLsoBxGgYE:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/9OZkbGOH2Go)  
+[Read Here»](https://www.fonearena.com/blog/301894/honor-magic-watch-2-honor-band-5i-india-launch-date.html)

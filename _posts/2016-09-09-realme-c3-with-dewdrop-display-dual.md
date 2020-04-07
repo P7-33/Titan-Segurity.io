@@ -1,0 +1,12 @@
+---
+title: 'Realme C3 with Dewdrop display, dual rear cameras launching in India on February 6'
+date: 2020-01-29T11:22:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/realme-C3-India-launch-invite-1024x811.jpg) realme just started sending out invites for the launch of realme C3, the company's new budget smartphone in India on February 6th. The invite shows the design of the phone with a dewdrop notch and dual rear cameras, similar to the predecessor, but the rear cameras are arranged vertically. It is not clear if the company is planning to launch realme C3s alongside since it has been in the news recently. A series that successfully made its mark in the entry-level segment! Packed with a 13+2 MP Dual Rear Camera, 5 MP Front Camera and 2GB RAM, both smartphones in the realme C series deliver unmatched performance and have been chosen by 10.2 million global users. pic.twitter.com/cyXU0mVMmR — realme (@realmemobiles) January 28, 2020 The company recently announced that it has sold over 10.2 million C series smartphones. To remind you the realme C2, which was launched back in April last year packs a 6.1-inch HD+ screen, powered by MediaTek Helio P22 SoC with up to 3GB of RAM, 13MP + 2MP rear, 5MP front, and a 4000mAh battery. We can expect the C3 to feature a similar HD+ screen, but with improved screen-to-body ratio, improved cameras, and possibly a bigger battery since the company's realme ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=o876_jfFVu0:T7VFJE4uxs0:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=o876_jfFVu0:T7VFJE4uxs0:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=o876_jfFVu0:T7VFJE4uxs0:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=o876_jfFVu0:T7VFJE4uxs0:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=o876_jfFVu0:T7VFJE4uxs0:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=o876_jfFVu0:T7VFJE4uxs0:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/o876_jfFVu0)  
+[Read Here»](https://www.fonearena.com/blog/303538/realme-c3-india-launch-date.html)

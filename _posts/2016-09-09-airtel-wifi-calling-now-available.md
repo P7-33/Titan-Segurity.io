@@ -1,0 +1,12 @@
+---
+title: 'Airtel WiFi Calling now available across India; crosses 1 million users'
+date: 2020-01-10T11:40:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Airtel-VoWiFi-1024x585.jpg) Earlier last month, Airtel rolled out VoWiFi a.k.a Wi-Fi Calling in Delhi and gradually expanded to other cities like Hyderabad, Chennai, and Bangalore. The company later officially launched the service and made it available in many cities. Now, Airtel has officially announced that its Wi-Fi Calling service is available across India and has crossed 1 million users. Airtel VoWiFi now works with non-Airtel broadband connection too and supports over 100 devices across 16 brands. The service is now available across India and the brands that support Airtel VoWiFi include Xiaomi, Samsung, OnePlus, Apple, Vivo, TECNO, SPICE, ITEL, Infinix, Mobiistar, CoolPad, Gionee, ASUS, Micromax, Xolo, and Panasonic. In related news, there is no official support for Jio Wi-Fi Calling on OnePlus smartphones, but you can check out our workaround guide to enable Jio VoWiFi on OnePlus smartphones. In case you missed, Airtel Wi-Fi Calling leverages cutting edge technology to enhance the indoor voice calling experience for Airtel smartphone customers. The innovative service uses Wi-Fi networks to create a dedicated channel for voice calls and allows customers to make high-quality calls to any network. This dramatically improves customer experience as one can seamlessly switch to Airtel Wi-Fi Calling. Furthermore, Airtel Wi-Fi Calling is a free service, ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=34OavPOJLew:j0XAM8p3VzM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=34OavPOJLew:j0XAM8p3VzM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=34OavPOJLew:j0XAM8p3VzM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=34OavPOJLew:j0XAM8p3VzM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=34OavPOJLew:j0XAM8p3VzM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=34OavPOJLew:j0XAM8p3VzM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/34OavPOJLew)  
+[Read Here»](https://www.fonearena.com/blog/302229/airtel-wifi-calling-pan-india-1-million-users.html)

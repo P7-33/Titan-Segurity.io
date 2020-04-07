@@ -1,0 +1,197 @@
+---
+title: 'The battle to save America’s undercover spies in the digital age'
+date: 2019-12-31T04:55:00+01:00
+draft: false
+---
+
+![](https://s.yimg.com/ny/api/res/1.2/TdZqTuZ9BzWwAZeMLdQdDw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD03MjA-/https://s.yimg.com/uu/api/res/1.2/fkwcFRpk87SWGNgZ2NDwbA--~B/aD03NTY7dz0xMzQ0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-12/f302ea40-2992-11ea-bbff-a9a11e812596 "'Shattered': Inside the secret battle to save America's undercover spies in the digital age")  
+
+When hackers began slipping into computer systems at the Office of Personnel Management in the spring of 2014, no one inside that federal agency could have predicted the potential scale and magnitude of the damage. Over the next six months, those hackers — later identified as working for the Chinese government — stole data on nearly 22 million former and current American civil servants, including intelligence officials.
+
+The data breach, which included fingerprints, personnel records and security clearance background information, shook the intelligence community to its core. Among the hacked information’s other uses, Beijing had acquired a potential way to identify large numbers of undercover spies working for the U.S. government. The fallout from the hack was intense, with the CIA [reportedly pulling its officers out of China](https://www.washingtonpost.com/world/national-security/cia-pulled-officers-from-beijing-after-breach-of-federal-personnel-records/2015/09/29/1f78943c-66d1-11e5-9ef3-fde182507eac_story.html). (The director of national intelligence [later denied](https://www.washingtonpost.com/world/national-security/us-intelligence-head-cia-did-not-pull-officers-from-beijing-after-opm-hack/2015/11/02/8631aa4e-81a5-11e5-a7ca-6ab6ec20f839_story.html) this withdrawal.)
+
+Personal data was being weaponized like never before. In one previously unreported incident, around the time of the OPM hack, senior intelligence officials realized that the Kremlin was quickly able to identify new CIA officers in the U.S. Embassy in Moscow — likely based on the differences in pay between diplomats, details on past service in “hardship” posts, speedy promotions and other digital clues, say four former intelligence officials. Those clues, they surmised, could have come from access to the OPM data, possibly shared by the Chinese, or some other way, say former officials.
+
+Illustration: Shonagh Rae for Yahoo News
+
+The OPM hack was a watershed moment, ushering in an era when big data and other digital tools may render methods of traditional human intelligence gathering extinct, say former officials. It is part of an evolution that poses one of the most significant challenges to undercover intelligence work in at least a half century — and probably much longer.
+
+The familiar trope of Jason Bourne movies and John le Carré novels where spies open secret safes filled with false passports and interchangeable identities is already a relic, say former officials — swept away by technological changes so profound that they're forcing the CIA to reconsider everything from how and where it recruits officers to where it trains potential agency personnel. Instead, the spread of new tools like facial recognition at border crossings and airports and widespread internet-connected surveillance cameras in major cities is wiping away in a matter of years carefully honed tradecraft that took intelligence experts decades to perfect. 
+
+Though U.S. technical capabilities can collect reams of data, human intelligence remains critical. In 2016, for example, a high-level Russian asset recruited by the CIA confirmed that Russian President Vladimir Putin [had personally ordered plans](https://www.nytimes.com/2019/09/09/us/politics/cia-informant-russia.html) to interfere in the 2016 U.S. presidential election. [After fleeing to the United States](https://edition.cnn.com/2019/09/09/politics/russia-us-spy-extracted/index.html), that same covert source was forced to relocate because of his digital trail. Without the ability to send undercover intelligence officers overseas to recruit or meet sources face to face, this type of intelligence might all but disappear, creating a blind spot for U.S. policymakers. 
+
+During a summit of Western intelligence agencies in early 2019, officials wrestled with the challenges of protecting their employees’ identities in the digital age, concluding that there was no silver bullet. “We still haven’t figured out this problem,” says a Western intelligence chief who attended the meeting. Such conversations have left intelligence leaders weighing an uncomfortable question: Is spying as we know it over?
+
+Some have tried to address this crisis. Within the last decade, the CIA assembled a diverse group of intelligence personnel to create the Station of the Future — an ambitious Silicon Valley-style startup costing millions and nestled within a diplomatic facility in Latin America where a team of top spies tried to imagine, build and test innovative tools and techniques that could withstand the digital barrage. 
+
+But the project, which has not been previously reported on, was battered by bureaucratic resistance and hollowed out by financial and administrative neglect; it died an unceremonious death over the last few years. What began as a bold experiment was eventually reduced to what other agency officials saw as simply an expensive proposal to design an open-office floor plan for CIA outposts around the world, say two former intelligence officials.
+
+The Station of the Future was just one crack at tackling the challenges wrought by a world defined by pervasive digital footprints, biometric trackers and artificial intelligence — challenges that have bedeviled U.S. intelligence agencies and divided their senior leadership. So serious is the concern about biometric tracking that in late December the Defense Department’s chief intelligence official [co-signed a memo](https://www.yahoo.com/news/pentagon-warns-military-members-dna-kits-pose-personal-and-operational-risks-173304318.html), obtained by Yahoo News, advising all military personnel to avoid using consumer DNA kits, noting worries about surveillance, among other security concerns. 
+
+These problems are now being recognized by Congress as well. 
+
+“Very few people, maybe shepherds in rural Afghanistan, don’t leave some form of digital trace today,” Rep. Jim Himes, who leads the House Intelligence subcommittee on advancing technology, told Yahoo News. “And that poses real opportunities in terms of identifying bad guys … but it also poses real challenges \[in\] keeping our people from being identified.”
+
+Though the FBI and CIA declined to comment, current and former national security officials who spoke with Yahoo News said efforts to address these issues are underway. CIA Director Gina Haspel, who served decades undercover herself, has doubled down in support of sending spies overseas to track “[hard targets](https://www.npr.org/2019/04/18/714810744/cia-director-gina-haspel-makes-rare-public-appearance-at-auburn-university),” like Russia and Iran.
+
+These changes come at a critical time for the intelligence community. President Trump has made no secret of his disdain for his own intelligence agencies — an attitude underlined by his push to publicly name the anonymous CIA whistleblower whose complaint sparked the ongoing impeachment proceedings. 
+
+Whether the U.S. intelligence agencies will be able to make these radical changes is unclear, but without a fundamental transformation, officials warn, the nation faces an unprecedented crisis in its ability to collect human intelligence. While some believe that a return to tried and true tradecraft will be sufficient to protect undercover officers, others fear the business of human spying is in mortal peril and that the crisis will ultimately force the U.S. intelligence community to rethink its entire enterprise. 
+
+The following account, based on interviews with more than 40 current and former U.S. and Western intelligence officials, reveals previously unreported CIA and FBI cover programs and operations, and details U.S. intelligence agencies’ deep relationship with the private sector in facilitating these efforts. These officials, most of whom requested anonymity to discuss sensitive government matters, also described high-level deliberations within U.S. spy agencies about the digital threat to cover, and how U.S. adversaries are themselves responding to digital pressures and opportunities. Many believe that, despite the numerous benefits provided by technology, the protection of undercover spies’ identities is becoming next to impossible.
+
+“The foundations of the business of espionage have been shattered,” says Duyane Norman, a former senior CIA official and architect of the Station of the Future project. “We haven’t acknowledged it organizationally within CIA, and some are still in denial. The debate is like the one surrounding climate change. Anyone who says otherwise just isn’t looking at the facts.”
+
+The beginning of the CIA’s cover and tradecraft crisis dates back to at least February 2003, when a Muslim cleric known as Abu Omar disappeared off the street in Milan. He didn’t resurface until 2004, when he called his wife from Cairo to tell her about his kidnapping, detention and torture at the hands of the CIA.
+
+Italian investigators, eager to get to the bottom of the audacious abduction on their streets, were later able to track a web of cellphones communicating only with each other in close proximity to the disappearance, leading them to a series of hotel bills, credit card statements and other identifying indicators, according to a [2007 investigation](https://www.youtube.com/watch?v=BwGsr3SzCZc) unveiled at an annual hacker conference in 2013. Italian authorities charged 23 Americans, including the CIA’s former Milan station chief, for their roles in the scheme — most in absentia.
+
+While Omar was just one target of the CIA’s aggressive post-9/11 antiterrorism campaign, several former intelligence officials described the Milan operation’s aftermath as a “come to Jesus” moment that revealed just how vulnerable the agency’s operators were to technology. At the time, some undercover officials naively believed that methods like using potato chip bags would mask cellphone signals, and operatives were generally “freewheeling,” according to one former senior intelligence official. In the space of a few short years, the rapid advance of technology, including nascent international surveillance systems, increasingly endangered the CIA’s traditional human intelligence gathering.
+
+Singapore was one example, recall three former intelligence officials. By the early 2000s, the agency ceased running certain types of operations in the Southeast Asian city-state, because of the sweeping digital surveillance there. The Singaporeans had developed a database that incorporated real-time flight, customs, hotel and taxicab data. If it took too long for a traveler to get from the airport to a hotel in a taxi, the anomaly would trigger an alert in Singaporean security systems. “If there was a gap, they’d go to the hotel, they could flip on the TVs and phones and monitor what was going on” in the room of the suspicious traveler, says the same former senior intelligence official. “They had everything so wired.”
+
+“You used to be able to fly into a country on one name and have meetings in another,” recalls this person. “It limited a lot of capabilities.”
+
+The Singaporean Embassy in Washington did not respond to a request for comment.
+
+Illustration: Shonagh Rae for Yahoo News
+
+Those concerns spread to other places, like London, where CCTV cameras are omnipresent, and the United Arab Emirates, where facial recognition is ubiquitous at the airport. Today there are “about 30 countries” where CIA officers are no longer followed on the way to meetings because local governments no longer see the need, given that surveillance in those countries is so pervasive, said Dawn Meyerriecks, the CIA’s deputy director for science and technology, in a 2018 speech.
+
+In the 2000s, the explosion in biometrics — such as fingerprints, facial recognition and iris scans — propelled the conversation forward, according to multiple former intelligence officials. U.S. intelligence agencies concluded that in many parts of the world, within a short time, all alias work would likely become impossible. 
+
+These fears were largely borne out, say former CIA officials — especially in “hard target” countries like China and Iran. But this trend also affected CIA operations in friendlier countries. By 2012, recalls one former official, some officers were temporarily forbidden to travel for missions in the European Union over fear of exposure, due to widespread sharing of airport biometric data between EU member states. “Facial recognition and biometrics make it very difficult to travel in alias,” says Mike Morell, former acting CIA director and host of the “Intelligence Matters” podcast.
+
+The rise in popularity of consumer DNA kits, which allow people to send in samples of their own DNA, is a growing part of the biometrics problem. Even if an undercover operative hasn’t used a consumer DNA kit, it’s highly likely, say experts, that one of their close relatives has. The Pentagon’s Dec. 20 warning to members of the military not to use these kits appears to be partly in response to that threat.
+
+Greg Hampikian, a biologist at Boise State University and a leading DNA expert, says that with the advent of commercial genetic databases, exposing a spy or other covert operative could be as easy as taking a saliva sample from a cigarette butt or a drinking cup. A suspicious foreign government could send the sample in and potentially find out if the person has been operating under an assumed name.
+
+“It’s right out of a spy novel,” he says.
+
+For spy services, biometric data has become a highly valued currency — leading to a widespread and ongoing campaign by the U.S. and its allies, as well as hostile states, to hack into biometric databases from important airports worldwide. The U.S. has spearheaded breaches of its own, successfully hacking biometric data from the Dubai and Abu Dhabi airports, says a former official. Stealing biometric databases is an attractive strategy for other countries as well. In one case, Chinese intelligence successfully hacked into the biometric data from Bangkok’s airport. “The Chinese have consistently extracted data from all the major transit hubs in the world,” says another former senior official.
+
+The Chinese Embassy in Washington did not respond to a request for comment.
+
+Even before the explosion in biometrics, the CIA sought to take advantage of the new digitized era of border control, working with, and training, other allied countries in the mid-2000s on how to use certain software to identify false passports and other forged documentation, say two former officials. But aside from the obvious information-sharing benefits of this arrangement, officials also discussed inserting a secret backdoor into the software that would allow the agency to surveil participating countries’ passport control systems — and to manipulate the program to allow CIA operatives to slip in and out of these countries undetected, the officials say. Something like these alterations was carried out, says one of the officials, with CIA operatives “moving more freely in and out of Middle Eastern countries than they should have been able to.”
+
+CIA officials also concluded that the days of operating under multiple personas in a single country were over, and began moving toward a “one country, one alias” rule. Undercover officers could no longer fly into a country on one passport and use a separate ID to check into a hotel, and all future trips to that country had to be conducted under the same fake identity. “It’s made the work much harder,” says a former senior agency official, who recalled a time when he possessed multiple fake IDs he kept in a safe for use within the country where he was based, as well as fake passport stamps. “You can’t do that now.”
+
+Starting in 2009, the CIA learned an even more devastating lesson when the Iranian intelligence services, looking for a mole that had given up details on Tehran’s nuclear program, uncovered the agency’s web-based covert communication tools. The discovery set off a deadly chain of events, leading to the exposure — and in some cases death — of CIA sources in China and around the world, [according to an investigation](https://news.yahoo.com/cias-communications-suffered-catastrophic-compromise-started-iran-090018710.html) by Yahoo News in 2018.
+
+The game was changing for undercover officers and their assets. “It’s extremely difficult now to run cover operations when so much is known and can be known about almost everybody,” says Joel Brenner, a former top counterintelligence official. “Now you show up at the border of Russia, they’ve got your high school yearbook out there where you wrote about your lifelong ambitions to work for the CIA. All that stuff is digitized.”
+
+America’s adversaries were also forced to adapt. By the early 2010s, Chinese intelligence operatives started adopting old-school Russian-style tradecraft, like dead drops in the woods or “brush passes,” which involve surreptitiously exchanging objects in a public place, says one former senior intelligence official. “It was unheard of for the Chinese,” says this person. “The conclusion was that they felt the world was too digital and traceable.” 
+
+Illustration: Shonagh Rae for Yahoo News
+
+U.S. officials believed that Chinese intelligence may have shifted to more low- or no-tech methods after cracking the CIA’s covert communications system around this time, or because of training with their Russian counterparts, says this person. Russian intelligence operatives, meanwhile, began shifting their meetings with sources to countries with less sophisticated biometric systems, say two former senior officials, favoring certain Central and South American countries. 
+
+Peru was one such meeting place, says one of these former officials. In the United States, Russian and Chinese intelligence operatives have also transitioned into operating more under their true names, says this former senior official. “The Russians,” says this person, “have moved to traveling in plain sight.”
+
+Nothing — not even the CIA’s most secretive human intelligence gathering programs — has been spared from this digital onslaught.
+
+In the years after 9/11, the CIA invested heavily in sending more officers under nonofficial cover known as NOCs (pronounced “knocks”), who lack diplomatic recognition, into targeted areas, including al-Qaida strongholds, in order to glean on-the-ground information that CIA officers posing as diplomats might have trouble securing. The CIA was responding to lawmakers who slammed the agency for relying too heavily on “embassy cocktail parties” over embedding in extremist groups. The committees “pushed money on us,” recalls a former senior intelligence officer. 
+
+Even so, while Congress pressed the CIA to use more NOCs, who often pose as businesspeople, the intelligence oversight committees were concerned about the officers’ security. In the 2006 Intelligence Authorization Act, the Senate Intelligence Committee demanded a report from the CIA that would address “the emerging threats posed by technological developments to NOC operations.”
+
+By the late 2000s, Congress’s ambitions were dashed. These deep-cover spies working outside the embassies often didn’t speak local languages, their cover identities didn’t make sense and they were often stationed far away from anyone they might try to recruit. The effort was dubbed a “colossal flop,” according to the L.A. Times. It was a “failed multi-billion dollar” program “shot through with waste, fraud, and abuse,” according to a [2015 lawsuit](https://www.documentcloud.org/documents/1678674-mack-charles-complaint.html) filed by a former NOC.
+
+Top CIA executives tasked a senior agency official in charge of the NOC program to initiate a vast paring back of these types of deployments, and instituted a moratorium on new recruitments — earning the enmity of a generation of CIA officials working under him, fairly or not, say two former senior officials. “Some of the NOCs out there were fat, dumb and happy, taking advantage of being a spy and a businessman,” recalled a former senior official.
+
+In response to this downsizing, the agency searched for cheaper, more flexible alternatives to NOCs, ramping up its use of diversified cover officers, foreign nationals who are recruited to spy for the agency, often in areas where it is difficult for Americans to operate, say four former officials. Described by these officials as a sort of “asset on steroids,” these undercover officers undertake polygraphs and are given limited clandestine training, but are contractors rather than career employees, like NOCs.
+
+Around 2010, the FBI also began experimenting with new ways of maintaining cover, particularly when trying to recruit foreigners on U.S. soil, through a new initiative known as the National Security Recruitment Program, according to five former officials. The FBI program, which has not been previously reported on, involved close cooperation with the CIA’s National Resources Division, the agency’s clandestine domestic operational wing.
+
+The program deployed U.S. officials under very light cover, with false backstories and business cards but lacking online footprints or connections to long-running brick-and-mortar undercover operations. That way, officials could approach individuals who had potentially useful information with some level of plausible deniability. The CIA helped provide funding for the FBI program, and FBI and CIA officials paired up in major American cities. While the program was successful, it was met with bureaucratic pushback and was ended by 2014 amid a turf battle, say former officials.
+
+One roadblock, say former senior officials, was the bureau’s long-standing national program for creating legends — that is, fake backstories and identities — and cover, known as Stagehand. The program, based out of Los Angeles, Chicago, Atlanta and other major American cities, sets up and maintains undercover FBI operations. Stagehand employees purchase cars, rent office space, buy homes, design cover identities for FBI officials, create fake companies and buy real ones, say six former officials. 
+
+The bureau employs former real estate brokers, physicians and dentists, among others, who become FBI agents but can assume their former jobs as needed, recalls a former senior official. “The deepest layer \[of cover\] might begin years before you even use it,” the official says.
+
+Illustration: Shonagh Rae for Yahoo News
+
+But the program was saddled by bureaucratic red tape and was sometimes “sloppy,” says one former senior official. A second former senior official recalls the closure of an undercover operation based out of a 100-person office space in the San Francisco Bay Area because of “careless activity by FBI employees” and “possible digital compromise.”
+
+In recent years, the bureau has stopped relying on Stagehand for especially sensitive counterintelligence operations because of fears that the entire program has been compromised, says one former senior official. [In a 2017 letter](https://www.judiciary.senate.gov/download/grassley-to-fbi_-stagehand) to then-FBI Director James Comey, Sen. Chuck Grassley raised concerns about a potential compromise of Stagehand. A whistleblower alleged that “every single investigation or criminal prosecution that involved Stagehand between 2008 and 2011 was compromised, and the identities and sensitive information of FBI undercover agents were disclosed to foreign governments,” wrote Grassley.
+
+A Miami real estate broker who worked with Stagehand and was convicted of embezzling over $60,000 in FBI funds was the source of the potential compromise, according to a 2016 letter from the FBI to Grassley provided by the senator’s office to Yahoo News. As a result, the Stagehand operations in Miami “were dissolved; assets were liquidated and personnel reassigned,” and “field offices that had received Stagehand services were made aware of potential compromise,” said the letter.
+
+Meanwhile, as these efforts faltered, the CIA was looking toward its past to engineer its future. That meant that, by the early 2010s, the agency was once again ramping up its NOC programs — this time with a focus on recruiting and deploying spies in technical fields, such as predictive analytics or data brokerage, according to former officials. But the immense amount of data publicly available — with everything from retirement accounts to Social Security numbers being searchable online — increased the danger for undercover intelligence officers.
+
+The NOC program, which was always expensive, was becoming even riskier, a concern that has prompted ongoing conversations within the agency about whether it’s worth the investment, according to two former officials.  
+
+One former NOC who served in China as an undercover businessman in the mid-2010s approached Congress with specific concerns about the program, says a former national security official. The NOC was frustrated that his colleagues lacked experience in the field, didn’t speak local languages and were expected to recruit unrealistic targets, like top political figures or very senior businesspeople.
+
+The NOC believed there were fundamental problems with the program, says the same former official, as the people working at headquarters assigned to design legends had “no idea how business and finance work.”
+
+By mid-decade, the agency concluded that the best way to hide was in plain sight. Nowadays, say former officials, NOCs must truly “live their cover” — that is, actually work as the professional engineer or businessperson that they present themselves to be. NOCs live and work under their true names, say former officials, though they are known to their CIA counterparts by a pseudonym. Fewer than 10 percent of individuals within the CIA’s Directorate of Operations regularly use alias passports or credit cards, says a former senior official.
+
+The intelligence community has developed sophisticated “backstopping” procedures, which seed a cover story through web traffic, emails and other digital channels. But in an interconnected world, “good backstopping can be defeated in a Google search,” says one former senior intelligence official. Because of that reality, the use of front companies for NOCs has become increasingly untenable, necessitating closer coordination and cooperation with private American businesses for the placement and recruitment of NOCs, say former senior officials.
+
+It’s not always easy, however. “The CIA is very good at this, but they are getting the door slammed in their face,” says one former senior official. In Silicon Valley, recalls another former senior official, it was difficult to convince these companies to participate. The situation got worse in 2013, when Edward Snowden, an intelligence contractor, gave a trove of classified documents to journalists, exposing the extent of tech companies’ cooperation with the National Security Agency. “Before, it was hard,” says this person, and “it was harder to do post-Snowden.”
+
+Even a switch of employer, or an unexplained gap in one’s résumé, can be a giveaway to a foreign intelligence service, say former officials. In response, the agency has also shifted to recruiting individuals within the companies they already work at, and, with the approval of corporate leadership, secretly transitioning those persons onto the CIA payroll, and training them intermittently and clandestinely, far from any known CIA facility. 
+
+Sometimes, when these individuals are finished working for the agency, they simply transition back to a full-time job for the company where they already “work.” In one recent case, a NOC who had worked at a U.S. company as a “full-time career employee” and was transitioning out of his CIA work was “softly landed” back into another position at the same firm — with the agency paying for his moving expenses and a government severance package, says a former senior intelligence official.
+
+The agency, which former officials say recruits and emplaces NOCs in the technology, finance and film industries, among other sectors, targets both major U.S. corporations and smaller U.S. companies, which are sometimes preferred because they are not beholden to shareholders.
+
+Often, say former officials, only a few select executives within a company are aware of its relationship with the agency and the “real” identities of the people in their employ. To encourage or reward cooperation from businesses, agency officials will sometimes provide special, tailor-made briefings to executives on the political and economic climate of countries of business interest to that company, say two former officials.
+
+“There is a serious legal and policy process” in place at the CIA to manage these relationships, says a former official. Otherwise, “you could break industries.”
+
+By President Barack Obama’s second term, conversations and concerns about cover were ricocheting through executive offices at U.S. intelligence agencies. A special roundtable group was assembled at the CIA’s Directorate of Operations to work through the challenges wrought by the advancing digital age. And top FBI and CIA intelligence executives met together repeatedly to discuss how, and if, the practice of undercover human intelligence work could survive the 21st century. 
+
+The digital threat to cover “was a major issue, even before I arrived at the agency,” says Avril Haines, who served as CIA deputy director from 2013 to 2015. “One way to frame our approach to the many challenges posed by technology was to ‘do less, but do it better,’ which meant focusing on what was most important and then spending the time and resources needed to keep it secret. We had conversations with other allied services who were experiencing similar challenges.”
+
+In late 2015, then-CIA Director John Brennan also created a new Directorate for Digital Innovation to focus on threats in the digital world and “safeguard the cover of our clandestine officers,” as part of Brennan’s wide-ranging modernization effort for the agency. It was “over 10 years” overdue, says a former CIA official, who believed its impact was stymied by turmoil within the agency over the broader reorganization. 
+
+By this time, massive amounts of digital records were being stolen — by insiders like Snowden and by adversaries like China, which also targeted private companies like Anthem, Marriott and others, in addition to spearheading two breaches into the OPM, which were revealed in 2015. The full extent of that theft, which included personal disclosure forms, clearance adjudication data and perhaps other linked intelligence community databases, has never been revealed. 
+
+“Part of the discussions we had was, post-OPM hack, we didn’t realize that digitizing government records profoundly changed the threat profile,” says a former senior national security official. The intelligence community did not fully understand how much of its own information was stored outside its own walls until personal data began being stolen by China en masse, says a former senior intelligence official. 
+
+Illustration: Shonagh Rae for Yahoo News
+
+For the bureau, the single biggest takeaway from these high-level discussions, say two former senior officials, was the need to create programs where undercover employees would have no link to the FBI whatsoever. That meant no training at the FBI Academy in Quantico, Va.; no history of overt FBI work before being selected for undercover assignments; and no data trail of text messages or emails linking these personnel to the bureau in any form. It required a “monumental change in thinking,” says one of these former officials.
+
+Generational issues have also frustrated officials. Recruitment to the CIA of younger people, particularly those born in the age of social media, has become more difficult, say former officials, with the agency lacking clearly defined policies for social media use. The CIA has adopted a position of “we’re not going to help you, but you better not do it wrong,” says one former agency official. Until a few years ago, agency officials were still counseling younger employees to quit social media, even though such behavior could be seen as suspicious, say former officials. The CIA still considers a Facebook friendship a “close and continuing relationship” for security purposes, say multiple former officials.
+
+Bureaucratic slip-ups also remain a routine threat to cover. On at least one occasion, when the CIA sent a new alias package to an embassy overseas, the documents were placed on the desk of a foreign national employed there who was presumed to be working for the local hostile foreign intelligence service, says a former senior CIA official. CIA officers stationed in embassies were also provided with new cars and flat-screen TVs, unlike “real” diplomats, says the same person, a fact that frustrated diplomatic security officers.
+
+But progress has been made on other fronts, say former officials, particularly in the creation of legends and alias documentation that can withstand digital scrutiny. The CIA’s alias documents are “the best in the world,” says a former senior official, because they’re real. For example, employees travel to the DMV to receive actual drivers’ licenses. At the CIA, a program called Checkpoint provides “tailored identity and travel intelligence products,” according to an agency document that WikiLeaks published in 2014. 
+
+By midway through the Obama administration, the CIA and FBI were creating “extensive digital legends with increasing sophistication,” as one former senior official puts it, with cooperation from key government agencies like the Social Security Administration, Health and Human Services and the IRS.
+
+U.S. intelligence agencies also work with “friendly digital companies,” like commercially available ancestry databases, to alter personally identifying information, say former officials, and also backdate work histories. Concerned about digital leakage, and cognizant of the need to strictly quarantine deep-cover intelligence officials from their organizations, U.S. officials have adopted a strategy of “eclipsing” these individuals slowly into their cover identities before they are allowed to undertake their missions.
+
+The CIA and FBI both concluded that every person connected to these organizations’ “black side” undercover programs had to be completely sealed off from the rest of their colleagues, say former officials. This firewall is an immensely complex undertaking in a world where electronic emissions from a single cellphone traveling, say, from CIA headquarters in Virginia to an unmarked office building nearby could blow multiple undercover operations. The FBI has also struggled with this transition. As of a few years ago, “none of this was completed yet, and none of it was even remotely being done easily,” says a former senior official.
+
+The CIA, at least, had its own past practices to draw from, especially in its training of NOCs, say former officials. Years ago, the school for NOCs was entirely quarantined from that for normal future CIA operations officers, who undertake rigorous instruction at “the Farm,” a Williamsburg, Va.-area base, say two former senior officials. NOCs “never came to the East Coast” and were trained at separate secret facilities, says one of these former officials. But because of their often “rebellious” attitudes in the field, and in order to “increase their behavioral consistency,” senior CIA officials decided to move their instruction to the Farm. This move produced better-trained NOCs but also increased the threat of exposure. As of recently, the programs were sealed off from each other again, says a former senior official. 
+
+The pressures of the digital age have led the CIA to favor flexibility and deniability. The agency has formed a new reserve officer program to allow spies to work in the private sector, especially the tech industry, says a former intelligence official. The program is designed to allow those operatives to maintain their clearances so they can return seamlessly to the agency after a few years, says this person.
+
+Another measure the CIA has used involves paying companies to gather intelligence for the government without even knowing it. In the last several years, the CIA has ramped up its use of “cutouts” to pay third parties to gather intelligence for them unwittingly, posing as data brokers looking into trends in the oil and gas industries, for example, says the same former official. 
+
+The intelligence community needs to “think creatively about” intelligence collection, says Rep. Himes, who believes the traditional model of CIA officers who train in Virginia and then serve in an embassy overseas undercover will be difficult to continue. “This new panopticon that we’re beginning to live in” makes it “very hard to put people in physical proximity to each other,” says Himes. “That’s obviously dramatically true in some of the cities in China; it’s a little less true in La Paz, Bolivia. But nonetheless, there’s going to be a strong tidal pull away” from traditional human intelligence gathering, he says.
+
+Yet he remains concerned about a tighter embrace between private industry and espionage. “We don’t, I think, want to be in a world where entire professions, whether it’s medical \[workers\] or journalists, are now at even more risk than they already are because people worry that they might be collecting intelligence,” says Himes.
+
+If the old models of human intelligence gathering are compromised, the new alternatives may be inconsistent with democratic values, and it’s unclear what is — or whether there is — a good path forward. “Some people believe that within 10 years, espionage as we know it is going to be done,” says a former intelligence official.
+
+Still, some within the CIA are sanguine about the future of the profession. “Anyone who says that human intelligence will become outdated is dead wrong,” says Marc Polymeropoulos, a recently retired CIA senior operations officer. “Intelligence services will always find ways to meet their agents.”
+
+But even publicly, some intelligence officials are lamenting the dangers posed to cover, though they disagree over whether the problem can be addressed with new programs or procedures. Many are pessimistic that tweaking existing approaches will suffice.
+
+“We can’t protect identities anymore. Tech is going to make it almost impossible. I think we need a new paradigm,” said Eric Haseltine, the former head of the NSA’s research directorate, at a lunch event in Washington in late October, when asked about the problem.
+
+“Our officers overseas are known,” he said. “That’s a hard pill to swallow.”
+
+_Sharon Weinberger contributed reporting to this article._
+
+\_\_\_\_\_
+
+**Read more from Yahoo News:**
+
+  
+  
+from Hacker News https://ift.tt/2rIJzQG

@@ -1,0 +1,12 @@
+---
+title: 'Ather 450x with built-in 4G and Bluetooth launched starting at Rs. 99,000 with additonal monthly subscription packs'
+date: 2020-01-28T08:52:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Ather-450x-1.jpg) Ather just launched 450x smart electric scooter at an event in Delhi as it had promised. It comes with a range of 85 km with new 21700 battery, and one of the quickest accelerations of 6.5 seconds from 0-60 km/hr. It also has faster charging at 1.5km/ minute. The new model comes with built-in 4G support compared to 3G in 450 and built-in Bluetooth as well as three new colors. Models 450x 450 Peak Motor Power 6kW 5.4kW Peak Torque 26Nm 20.5Nm Wheel Torque 200Nm — Battery form factor 21700 18650 Certified Range 116 107 On-Road Range (Eco) 85 75 0 to 40 3.29 sec 3.84 sec 0 to 60 6.5 sec 8.27 sec Modes Eco, Ride, Sport Eco, Ride, Sport, Warp Bluetooth Yes, for music and call notification No Bluetooth Accessories Smart Helmet and Tyre Pressure Sensor No Connectivity 4G 3G Colors White with Green, Grey with Yellow, Green with Orange White with Green There are new Plus and Pro subscriptions that you can choose. The vehicle alone costs Rs. 99,000, and you can choose to pay monthly subscription of Rs. 1699 or 1999 per month, respectively. Both have similar internal specs, but the subscription model differs, which you can interchange on your app. Including the subscription, the Ather 450x is priced at Rs. 1.49 lakhs for the Plus model and the Pro model costs Rs. 1.59 lakhs, and the Delhi pricing will be Rs. 1.35 lakhs and Rs. 1.45 lakhs respectively ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=qIu5A_zhwUU:Xp0jRdlraLU:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=qIu5A_zhwUU:Xp0jRdlraLU:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=qIu5A_zhwUU:Xp0jRdlraLU:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=qIu5A_zhwUU:Xp0jRdlraLU:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=qIu5A_zhwUU:Xp0jRdlraLU:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=qIu5A_zhwUU:Xp0jRdlraLU:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/qIu5A_zhwUU)  
+[Read Here»](https://www.fonearena.com/blog/303385/ather-450x-price-specifications.html)

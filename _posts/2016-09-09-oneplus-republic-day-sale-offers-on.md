@@ -1,0 +1,12 @@
+---
+title: 'OnePlus Republic Day sale: Offers on OnePlus 7T Series and 7 Pro, up to Rs. 15000 cashback, freebies with OnePlus TV'
+date: 2020-01-17T11:52:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/OnePlus-7T-Pro_fonearena-7-1024x651.jpg) OnePlus has announced limited-period discounted sale OnePlus TV 55Q1 and 55Q1 Pro, OnePlus 7T Pro, OnePlus 7T and the OnePlus 7 Pro during Amazon Great Indian Sale 2020 and Republic Day sales starting 18 January to 26 January 2020 across both online and offline channels including OnePlus.in, Amazon.in, as well as OnePlus Experience Stores and offline partner stores. As part of the sale, customers can avail the following benefits: OnePlus 7 Pro and 7T Series Maximum cashback of INR 3000 on EMI transactions using SBI at OnePlus channels and partner stores cashback up to INR 1500 on using SBI credit card on Amazon No-cost EMI on popular banks applicable for up to 12 months during the sale period at the online platforms and experience stores Chance to get the OnePlus Bullets Wireless V1 free on purchase of the OnePlus 7 Pro and Bullets Wireless V2 free on purchase of OnePlus 7T Pro from OnePlus Experience Stores OnePlus TV 55Q1 and 55Q1 Pro Amazon pay cashback INR 10,000 on 55Q1 and INR 15,000 on 55Q1 Pro No-cost EMI on popular banks applicable for up to 12 months on Amazon Extra exchange offer of INR 3000 on Amazon Extended warranty of 1 year on the ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=NasJqhg41KA:YLame0YwyRc:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=NasJqhg41KA:YLame0YwyRc:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=NasJqhg41KA:YLame0YwyRc:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=NasJqhg41KA:YLame0YwyRc:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=NasJqhg41KA:YLame0YwyRc:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=NasJqhg41KA:YLame0YwyRc:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/NasJqhg41KA)  
+[Read Here»](https://www.fonearena.com/blog/302625/oneplus-republic-day-sale-offer-oneplus-7t-oneplus-tv.html)

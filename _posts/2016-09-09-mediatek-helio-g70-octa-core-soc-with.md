@@ -1,0 +1,12 @@
+---
+title: 'MediaTek Helio G70 Octa-Core SoC with HyperEngine Game Technology announced'
+date: 2020-01-14T12:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/MediaTek-Helio-G70-1024x546.jpg) MediaTek has announced Helio G70 in the ‘G series’, which is the cheaper version of the G90 series which was announced last year. Designed to be used in budget and mid-range gaming smartphones, this has MediaTek’s HyperEngine game technology to boost the mobile gaming experience. It use ARM Cortex-A75 and Cortex-A55 CPUs with the Arm Mali — G52 2EEMC2 with speeds of up to 820MHz and are based on 12nm TSMC FinFET technology. It supports up to 8GB of LPDDR4x and up to 2133MHz memory, L3 cache, CPU speeds of up to 2GHz, 48MP single camera and multi-camera combinations, dual-ISP design and AI facial detection and the power to accelerate AI-camera applications. MediaTek’s HyperEngine technology includes: Intelligent Speed Uplift for Rapid Gameplay Intelligent prediction of Wi-Fi & LTE concurrency triggers in just 13 milliseconds A faster response between smartphone and cell-tower Simply defer calls while in-game without the connection dropping for a moment Resource Management Engine for Better, Longer Gameplay Intelligent, dynamic management of CPU, GPU and memory Smoother performance in heavy-loading game engines, demanding scenes and intense gameplay Enhanced power efficiency for even longer gameplay MediaTek Helio G70 specifications    Helio G70  Helio G90 Process TSMC 12nm CPU 2x Cortex-A75 @ 2 GHz 6x Cortex-A55 @ 1.7GHz 2x Cortex-A76 @ ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=WZQ1683eK5s:djW9mAxLjmI:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=WZQ1683eK5s:djW9mAxLjmI:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=WZQ1683eK5s:djW9mAxLjmI:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=WZQ1683eK5s:djW9mAxLjmI:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=WZQ1683eK5s:djW9mAxLjmI:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=WZQ1683eK5s:djW9mAxLjmI:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/WZQ1683eK5s)  
+[Read Here»](https://www.fonearena.com/blog/302420/mediatek-helio-g70-specifications-features.html)

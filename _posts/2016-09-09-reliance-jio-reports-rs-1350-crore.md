@@ -1,0 +1,12 @@
+---
+title: 'Reliance Jio reports Rs. 1350 crore profit in FY Q3 2019-20, crosses 370 million subscribers'
+date: 2020-01-17T15:52:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2018/01/Reliance-Jio-Mukesh-Ambani.jpg) Reliance Jio has reported Rs. 13,968 crore revenue, up 6.4% QoQ and 28.3% YoY and a net profit of 1,350 crore, up 62.5% YoY for last quarter that ended 31st December, 2019. Jio reported Standalone earnings before interest, tax, depreciation and amortisation (EBITDA) of 5,601 crore, up 8.4% QoQ, EBITDA margin of 40.1%, and Standalone earnings before interest and tax (EBIT) of 3,805 crore, up 12.2% QoQ . Consolidated value of services stood at 16,466 crore, up 6.4% over trailing quarter. It has 370 million subscribers as of 31st December, with net addition of 14.8 million during 3QFY20. Average revenue per user (ARPU) during the quarter – ₹128.4 per subscriber per month Total wireless data traffic – 1,208 crore GB (39.9% YoY growth) Average voice traffic – 82,640 crore minutes (30.3% YoY growth), 760 minutes per user per month. Average data consumption per user per month – 11.1 GB Regarding FTTH Jio said that process of converting the initial test users to paid-plans and ramping up sales across 1,600 cities is underway. It expects India enterprise connectivity market to grow multi-fold over the next few years with its extensive fibre backbone and long-term partnership with Microsoft enabling the company to reach ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=2dKn0ZfnE5E:77EVb5ol1bA:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=2dKn0ZfnE5E:77EVb5ol1bA:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=2dKn0ZfnE5E:77EVb5ol1bA:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=2dKn0ZfnE5E:77EVb5ol1bA:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=2dKn0ZfnE5E:77EVb5ol1bA:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=2dKn0ZfnE5E:77EVb5ol1bA:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/2dKn0ZfnE5E)  
+[Read Here»](https://www.fonearena.com/blog/302689/reliance-jio-fy-q3-2019-20-earnings.html)

@@ -1,0 +1,12 @@
+---
+title: 'Samsung NEON Artifical Human powered by Core R3 and Spectra technology announced at CES 2020'
+date: 2020-01-07T17:36:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Samsung-Neon.jpg) Recently, Samsung teased the launch of a new "Artificial Human" at CES 2020 event and didn't disclose many details then. Now, at the Consumer Electronics Show, Samsung has unveiled NEON Artificial Human which is powered by Core R3 and Spectra, and more details about the project have been revealed now. NEON is a virtual being that behaves as real humans and can depict similar intelligence and emotion. They are not like virtual assistants namely Google Assistant, Apple's Siri, Samsung's Bixby, etc. So, you cannot ask questions to NEON like "What's the weather"? "Navigate me to the nearest restaurant"?  or any similar questions. The company describes it as simply "a friend". NEON can speak multiple languages from Spanish to Hindi, from Japanese to English, and just like real humans, it can gain new skills, learn more about humans, and evolve. It can learn from experiences and show emotions and can help users with goal-oriented tasks or can be personalized to assist in tasks that require a human touch. Furthermore, according to the company, the word NEON is derived from two words, NEO which means new + humaN which collectively means a new human. This Artificial Human is powered by the company's Core R3 and ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=mBNkV9KD7YY:xMjNWJ2o634:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=mBNkV9KD7YY:xMjNWJ2o634:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=mBNkV9KD7YY:xMjNWJ2o634:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=mBNkV9KD7YY:xMjNWJ2o634:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=mBNkV9KD7YY:xMjNWJ2o634:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=mBNkV9KD7YY:xMjNWJ2o634:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/mBNkV9KD7YY)  
+[Read Here»](https://www.fonearena.com/blog/301927/samsung-neon-artifical-human-core-r3-spectra.html)

@@ -1,0 +1,12 @@
+---
+title: 'Acer introduces new Spin convertible laptops, TravelMate P6 notebooks, Creator PCs and Predator Gaming Displays at CES 2020'
+date: 2020-01-06T13:06:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Acer-ConceptD-7-Ezel-and-Spin-Notebooks-CES-2020-1024x456.jpg) Acer has introduced a bunch of new products at CES 2020, ranging from thin and lights in convertible and clamshell designs and new creator focused laptops and desktops. Acer is also showcasing its expanded gaming monitor lineups with huge sizes ranging from 32-inches all the way up to 55-inches. The Spin Convertible series has been updated with slimmer designs, newer Intel 10th Gen Core processors and Wi-Fi 6 support. Both the Spin 5 and Spin 3  come with a fast-charging Acer Active Stylus that have Wacom's AES (active electrostatic) technology that promises users with a responsive, super-accurate stylus experience with near zero lag. The laptops feature an aluminium design, USB Type-C with support for Thunderbolt 3 and a long battery of 15 hours (on the Spin 5) that makes the laptop excellent for users who want a single laptop for work, school, entertainment and their hobbies. The Acer Spin series will start from $899 (Rs. 64,765 approx.) for the Spin 5 and $699 (Rs. 50,370 approx.) for the Spin 3 in North America starting from June and April respectively. In the TravelMate series, which are thin and light laptops designed for mobile professionals, Acer has announced two new models; the TravelMate P6 and ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=ZY-6-TOPM0s:tH69Pb9B3f0:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ZY-6-TOPM0s:tH69Pb9B3f0:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=ZY-6-TOPM0s:tH69Pb9B3f0:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ZY-6-TOPM0s:tH69Pb9B3f0:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=ZY-6-TOPM0s:tH69Pb9B3f0:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=ZY-6-TOPM0s:tH69Pb9B3f0:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/ZY-6-TOPM0s)  
+[Read Here»](https://www.fonearena.com/blog/301741/acer-spin-travelmate-p6-creator-pc-predator-gaming-display.html)

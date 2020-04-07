@@ -1,0 +1,12 @@
+---
+title: 'OnePlus Concept One Hands On and First Impressions'
+date: 2020-01-07T17:36:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/OnePlus-Concept-One_fonearena-4-1024x633.jpg) OnePlus just announced the Concept One, the company's first concept phone at its CES event today.  The main highlight of the phone is its invisible camera electrochromic glass technology. The company has partnered with McLaren once again for the phone. We checked out the phone at the event, here is our first impressions. https://www.youtube.com/watch?v=rzZzIwWExak https://www.youtube.com/watch?v=bcxWYv6cYbw The back glass uses organic particles to create changes in transparency so that the glass covering the camera lenses can shift in an instant from opaque black to entirely clear. This is usually used in cars and planes. OnePlus said that it has managed to achieve something far thinner than the industry average. The glass panels on the phone are just 0.1mm each, for a combined total of only 0.35mm, which is as thin as a display glass protector film. Compared to the Glass back on the OnePlus 7T Pro McLaren Edition, this uses a leather back in Papaya orange and PVD-treated aluminium alloy frame, first in the industry making the frame shining in a subtle way. The phone takes a mere 0.7s for the glass to transition from solid black to fully clear, faster even than the camera itself takes to fully activate, and it uses almost no power. OnePlus said that its ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=04YM8i3sol0:O6Adsxr_8c0:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=04YM8i3sol0:O6Adsxr_8c0:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=04YM8i3sol0:O6Adsxr_8c0:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=04YM8i3sol0:O6Adsxr_8c0:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=04YM8i3sol0:O6Adsxr_8c0:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=04YM8i3sol0:O6Adsxr_8c0:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/04YM8i3sol0)  
+[Read Here»](https://www.fonearena.com/blog/301938/oneplus-concept-one-hands-on-first-impressions.html)

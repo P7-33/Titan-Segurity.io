@@ -1,0 +1,12 @@
+---
+title: 'Noise Shots NEO true wireless earbuds with Bluetooth 5.0 launched for Rs. 2499'
+date: 2020-01-18T10:43:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Noise-Shots-NEO-1-1024x699.jpg) Noise, popular for its wearables has launched Noise Shots NEO, the company’s latest true wireless earbuds with full touch control. This lets you control your music, attend, end or reject calls, activate Siri or Google Assistant without having to take your phone out of your pocket. It has 9mm  drivers  that promises clear sound and deeper bass. It has Bluetooth v5.0 and has IPX5 rating for water resistance from sweat and rain. The earbuds promise 6+ hours of battery life in the earphones and a total of 18 hours battery life with the charging case. Noise Shots NEO features and specifications Bluetooth 5.0 to connect to devices 9mm speaker drivers offer balanced sound Smart touch controls on the earbuds give you full control, letting you pause or play music, control volume, skip tracks and answer or rejects calls. Water-resistant (IPX5), making them resistant to sweat from the toughest workouts and light rain Weight: 4.6g (per bud); Case: 31.6g Supports voice assistants such as Google Assistant and Siri Offers 6 hours of playback, case offers additional 12 hours, so it can last up to 18 hours The Noise Shots Neo comes in Icy White and Jet Black colors, is priced at Rs. 2499, but ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=EFrNgyBkYy8:Vb2fnjfDFiM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=EFrNgyBkYy8:Vb2fnjfDFiM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=EFrNgyBkYy8:Vb2fnjfDFiM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=EFrNgyBkYy8:Vb2fnjfDFiM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=EFrNgyBkYy8:Vb2fnjfDFiM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=EFrNgyBkYy8:Vb2fnjfDFiM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/EFrNgyBkYy8)  
+[Read Here»](https://www.fonearena.com/blog/302707/noise-shots-neo-price-features.html)

@@ -1,0 +1,12 @@
+---
+title: 'Realme smartphones to get VoWiFi starting this month, New realme phone for India launching at MWC 2020'
+date: 2020-01-23T16:19:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/realme-X2-Pro_fonearena-14-1024x590.jpg) Today, in the 14the episode of #AskMadhav, the company’s CEO, Madhav Sheth has confirmed that realme smartphones will get VoWiFi or Wi-Fi Calling support via update starting from this month. realme X2 Pro will be the first phone to get the update next week. Other phones will get the update in February and March. realme VoWiFi timeline January realme X2 Pro February realme X2 realme XT realme X realme 5 Pro realme 3 Pro realme 5, 5i, 5s March realme 3/3i realme 2 Pro realme U1 realme 1 realme 2/C1 realme C2 When asked about the launch of realme X50 5G smartphone, realme CEO said that the company will launch a bigger and better smartphone for India at the MWC 2020 next month. This could be the RMX2071 with Snapdragon 865 that surfaced in AnTuTu benchmarks earlier today. It is rumored to be called the realme X50 Pro. The company already said that it will launch 5G smartphones with Qualcomm Snapdragon 5G SoC in 2020 in India. He also confirmed that the realme Fitness band will launch next month, and said that the latest realme 5i smartphone will get realme UI and Android 10 update in May this year, along with the realme 5 and 5s. ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=TtnamVh3xIE:kyQq20QbQGg:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=TtnamVh3xIE:kyQq20QbQGg:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=TtnamVh3xIE:kyQq20QbQGg:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=TtnamVh3xIE:kyQq20QbQGg:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=TtnamVh3xIE:kyQq20QbQGg:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=TtnamVh3xIE:kyQq20QbQGg:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/TtnamVh3xIE)  
+[Read Here»](https://www.fonearena.com/blog/303127/realme-vowifi-update-realme-phone-mwc-2020.html)

@@ -1,0 +1,12 @@
+---
+title: 'HP introduces new Spectre x360 15, Elite Dragonfly with 5G support and Envy RTX Studio AiO at CES 2020'
+date: 2020-01-06T14:06:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/HP-ENVY-32-Spectre-x360-15-Elite-Dragonfly-CES-2020-1024x442.jpg) At CES 2020, HP Inc. is launching two new laptops, an All-in-One and a bunch of other accessories. The laptops include a newer Spectre x360 15 and the Elite Dragonfly while the AiO is part of the Envy series. Along with these, HP has also launched 2 new monitors, laptop sleeves and backpacks at CES. The HP Spectre series represents their highest premium offerings for working professionals and the new Spectre x360 15 does not disappoint. With beautiful gem-cut and dual chamfer angular design, 10th Gen Intel Core i7 processors and NVIDIA GeForce graphics, it is both beautiful and powerful. The screen on this laptop is a 4K OLED 15.6-inch display that has a screen-to-body ratio of 90% and is also DCI-P3 colour calibrated. The laptop supports WiFi 6 and features HP's Webcam Kill Switch, a dedicated mute mic button, a fingerprint reader located on the keyboard deck, and Express VPN and LastPass pre-loaded. The Envy 32 AiO is the first All-in-one in the world that is part of NVIDIA’s RTX Studio program. The AiO can be configured with up to 9th Gen Intel Core i7 processors, up to NVIDIA GeForce RTX 2080 graphics, up to 32 GB of DDR4 memory, and up ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=z3jw0FVCxZk:nJ3Xk-D5Nvo:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=z3jw0FVCxZk:nJ3Xk-D5Nvo:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=z3jw0FVCxZk:nJ3Xk-D5Nvo:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=z3jw0FVCxZk:nJ3Xk-D5Nvo:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=z3jw0FVCxZk:nJ3Xk-D5Nvo:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=z3jw0FVCxZk:nJ3Xk-D5Nvo:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/z3jw0FVCxZk)  
+[Read Here»](https://www.fonearena.com/blog/301769/hp-spectre-x360-15-elite-dragonfly-5g-envy-rtx-studio.html)

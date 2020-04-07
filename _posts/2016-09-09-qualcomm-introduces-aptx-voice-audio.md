@@ -1,0 +1,12 @@
+---
+title: 'Qualcomm introduces aptX Voice audio codec for HD voice calls through Bluetooth'
+date: 2020-01-07T18:36:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2018/05/OnePlus-Bullets-Wireless-1-1024x693.jpg) Smartphone manufacturers have been improving the voice quality on smartphones through better hardware every time to offer the best voice quality experience to users. In the past, brands like Xiaomi have also experimented with Cantilever piezoelectric ceramic acoustic system instead of an earpiece. Although the voice call quality also depends on the network, the quality of the voice calls made through Bluetooth accessories is not there yet. Now, Qualcomm's new aptX voice codec aims to solve this issue and this comes after the introduction of aptX and aptX HD technologies for music streaming previously. Qualcomm aptX Voice audio is an audio codec and is a new feature of Qualcomm aptX Adaptive audio technology that provides HD voice quality over a connection using Bluetooth wireless technology. aptX Voice delivers 32kHz voice quality with a flat 16kHz frequency response, providing HD voice quality for users using Bluetooth accessories to make calls. aptX Voice now makes voice recognition much easier and lets users easily distinguish confusing sounds. According to Qualcomm, "narrowband and wideband codecs used within the Bluetooth Handsfree Profile can sometimes result in indistinguishable voices, muddled words, the inability to distinguish from background noise and ultimately listener fatigue. ". aptX Voice solves this issue ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Zh6aNk0ZBTU:DrtGz_3_WD8:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Zh6aNk0ZBTU:DrtGz_3_WD8:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Zh6aNk0ZBTU:DrtGz_3_WD8:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Zh6aNk0ZBTU:DrtGz_3_WD8:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Zh6aNk0ZBTU:DrtGz_3_WD8:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Zh6aNk0ZBTU:DrtGz_3_WD8:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Zh6aNk0ZBTU)  
+[Read Here»](https://www.fonearena.com/blog/301934/qualcomm-aptx-voice-audio-codec-hd-voice-calls-bluetooth.html)

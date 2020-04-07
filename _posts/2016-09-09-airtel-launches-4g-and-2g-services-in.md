@@ -1,0 +1,12 @@
+---
+title: 'Airtel launches 4G and 2G services in 26 villages in Ladakh region'
+date: 2020-01-02T14:05:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/airtel-logo-new.jpg) Airtel launched 4G services back in 2012 in India and has been expanding the coverage across the country. The company is also expanding its services in remote villages gradually and on similar lines now, Airtel has launched 4G and 2G services in 26 villages in Ladakh and becomes the first operator to bring high-speed internet to these villages. As a part of its network expansion, Airtel has made its 4G and 2G services are now live in the following locations Beyama Apati Derchiks Lalung Akchamal Barchey Lamsusando Yogmakharbu Sanjak, Silmo Garkon Yourbalta Khaltse Skur Buchan Damkhar Dah Tia Leido Takmachik Skinding Hemmis Shyk Pachan Achinathang Dragoo Garkone Batalik Hanuthang To recall, Airtel was the first operator to launch 4G services in Ladakh’s Leh, Kargil and Dras in Dec 2017, as a part of its Project Leap initiative. In related news, Airtel has been introducing new technologies to strengthen its 4G network indoors and outdoors like LTE 900 technology across various cities, WiFi calling, etc. Commenting on the launch, Manu Sood, Hub CEO – Upper North, Bharti Airtel, said: This is a New Year gift from Airtel to the people of Ladakh. We are pleased to bring cheers to thousands of locals in Ladakh with ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=ulM5yuuqICg:aowrugsYB24:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ulM5yuuqICg:aowrugsYB24:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=ulM5yuuqICg:aowrugsYB24:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ulM5yuuqICg:aowrugsYB24:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=ulM5yuuqICg:aowrugsYB24:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=ulM5yuuqICg:aowrugsYB24:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/ulM5yuuqICg)  
+[Read Here»](https://www.fonearena.com/blog/301530/airtel-4g-2g-ladakh-26-villages.html)

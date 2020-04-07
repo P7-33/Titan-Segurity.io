@@ -1,0 +1,12 @@
+---
+title: 'Samsung SSD T7 Touch with built-in fingerprint scanner announced in India starting at Rs. 11999'
+date: 2020-01-09T04:40:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Samsung-T7-Touch-1-1024x646.jpg) Samsung just announced Portable Solid State Drive (SSD) T7 Touch with sleek, compact design based on the USB 3.2 Gen 2 standard offering up to 1,050 MB/s transfer speed, twice as fast as its predecessor, the T5, and up to 9.5 times faster than external HDDs. It also has a built-in fingerprint sensor on top of password protection and AES 256-bit hardware encryption. It also features a ‘Motion LED’, which allows the user to determine the status of the device simply with a single glance. The SSD has solid metal (aluminum) casing, yet weighs just 58 grams. Samsung SSD T7 Touch Specifications Capacity – 500GB/1TB/2TB USB 3.2 (Gen 2, 10Gbps) with backward compatibility Dimensions: 85 x 57 x 8.0m ; Weight: 58 grams Transfer Speed – Read: Up to 1,050 MB/s; Write:  1,000MB/s Strong, shock-resistant metal case and internal support frame UASP Mode AES 256-bit hardware encryption Requires Windows 7 and higher, Mac OS X 10.10 and higher, or Android 5.1 (Lollipop) and higher Certification – CE, BSMI, KC, VCCI, C-tick, FCC, IC, UL, TUV, CB RoHS2 Compliance Connectivity: USB type-C-to-C, USB type-C-to-A Limited 3-year warranty Pricing and availability The Samsung SSD T7 Touch comes in Black and Silver colors and is priced at Rs. ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=ujgsOFyzClc:j-lFIB10_qY:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ujgsOFyzClc:j-lFIB10_qY:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=ujgsOFyzClc:j-lFIB10_qY:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ujgsOFyzClc:j-lFIB10_qY:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=ujgsOFyzClc:j-lFIB10_qY:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=ujgsOFyzClc:j-lFIB10_qY:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/ujgsOFyzClc)  
+[Read Here»](https://www.fonearena.com/blog/302080/samsung-t7-touch-price-india-specifications.html)

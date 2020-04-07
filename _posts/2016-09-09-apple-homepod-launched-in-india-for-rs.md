@@ -1,0 +1,12 @@
+---
+title: 'Apple HomePod launched in India for Rs. 19900'
+date: 2020-01-29T04:52:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2017/06/Apple-HomePod_fonearena-1-1024x659.jpg) Apple has finally launched HomePod, its Siri-powered smart speaker in India. The company has also pushed iOS and iPadOS 13.3.1 update that brings support for Indian English Siri voices for HomePod. To remind you, it was introduced at WWDC 2017 and went on sale in Australia, the UK and the US from February 9, 2018 priced at US$349 (Rs. 24,860 approx.), and got a price cut to US$299 (Rs. 21,300 approx.) in April 2019. It rolled out in Canada, France, and Germany in June 2018 and in Spain and Mexico in October 2018. It went on sale in China and Hong Kong in January 2019 and in August 2019 in Japan and Taiwan. https://www.youtube.com/watch?v=1x24E8bm5Rc The 7-inch tall Homepod adapts to wherever it’s playing and is controlled through natural voice interaction with Siri like playing music, checking the news and controlling other connected devices in the home. It uses spatial awareness to sense its location in a room and automatically adjust the audio. It has six microphones that enables easier interactions and can learn preferences and also handle advanced searches within the music library. The Homepod is powered by A8 chip and Apple says all the instructions to the speaker are recognized locally on the ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=nBcjR2n1E-U:zfjYoCBtC7o:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=nBcjR2n1E-U:zfjYoCBtC7o:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=nBcjR2n1E-U:zfjYoCBtC7o:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=nBcjR2n1E-U:zfjYoCBtC7o:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=nBcjR2n1E-U:zfjYoCBtC7o:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=nBcjR2n1E-U:zfjYoCBtC7o:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/nBcjR2n1E-U)  
+[Read Here»](https://www.fonearena.com/blog/303477/apple-homepod-price-india.html)

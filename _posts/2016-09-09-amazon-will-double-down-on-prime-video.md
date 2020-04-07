@@ -1,0 +1,12 @@
+---
+title: 'Amazon will double down on Prime Video investments in India: CEO Jeff Bezos'
+date: 2020-01-17T08:22:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Amazon-Prime-Video-India.jpg) Amazon Founder and CEO Jeff Bezos yesterday at the Prime video event announced that the company will double down on investment in the company's streaming service in India. He also said that Amazon Prime Video's performance is brilliant in India. “It’s working great. The number of hours Prime Video is watched in India in the last two years has grown by six times. Prime Video is working well all over the world, and there is no place it is doing better than in India. It’s incredible,” said the CEO. Earlier this week at the SMBhav Summit in New Delhi, Amazon announced that it plans to invest US $1 billion to digitally enable micro, small, and medium enterprises (MSMEs) and traders across India, including manufacturers, resellers, local offline shops, and brands. It aims to digitize 10 million MSMEs with this investment, helping Indian businesses grow by selling online worldwide and enabling US $10B in cumulative exports by 2025. As part of this effort, Amazon will establish Digital Haats in 100 cities, villages, and communities to help businesses integrate into the digital economy. The Digital Haats will provide services like e-commerce onboarding, imaging and cataloging, warehouse space, logistics, digital marketing, and compliance.
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=XcAiS7F9zDQ:rTWteUzZHXc:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=XcAiS7F9zDQ:rTWteUzZHXc:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=XcAiS7F9zDQ:rTWteUzZHXc:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=XcAiS7F9zDQ:rTWteUzZHXc:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=XcAiS7F9zDQ:rTWteUzZHXc:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=XcAiS7F9zDQ:rTWteUzZHXc:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/XcAiS7F9zDQ)  
+[Read Here»](https://www.fonearena.com/blog/302601/amazon-double-down-prime-video-investments-india.html)

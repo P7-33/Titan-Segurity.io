@@ -1,0 +1,12 @@
+---
+title: 'Xiaomi says it has fixed Mi Home Security Camera bug that displayed pictures from other cameras on Google Nest hub'
+date: 2020-01-03T14:32:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2018/10/Mi-Home-Security-Camera-360-Review-3.jpg) Xiaomi launched its Home Security Camera earlier this year which supports 1080p recording with AI motion detection, infrared night vision, and more. While there has been a rise in the use and adoption of home security cameras and other smart home devices recently, there are issues related to privacy and security. On similar lines, today, a Xiaomi Security Camera displayed pictures from other cameras on a user's Google Nest Hub and this issue has affected a group of users. A Reddit user reported that his Xiaomi Security Camera started displaying still images from other cameras on his Google Nest Hub and more specifically, it displayed images of a man sleeping in a chair. The user also reported that both the Nest Hub and the Xiaomi Home Security Camera were new and purchased from AliExpress. It was running on the firmware version 3.5.1\_00.66. Following the incident, Google disabled Xiaomi integrations on their devices and to remind you, users can link the Xiaomi Home Security Camera to a Google account for access with Nest devices through the Mi Home application. After Google disabled Xiaomi integrations, Xiaomi in a statement said that they have fixed the issue that plagued a group of users and this issue ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=wnR_1ueWpD8:4HOhDKjTjOU:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=wnR_1ueWpD8:4HOhDKjTjOU:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=wnR_1ueWpD8:4HOhDKjTjOU:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=wnR_1ueWpD8:4HOhDKjTjOU:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=wnR_1ueWpD8:4HOhDKjTjOU:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=wnR_1ueWpD8:4HOhDKjTjOU:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/wnR_1ueWpD8)  
+[Read Here»](https://www.fonearena.com/blog/301602/xiaomi-mi-home-security-camera-bug-nest-hub.html)

@@ -1,0 +1,12 @@
+---
+title: 'HUAWEI P40 Pro with LEICA penta rear cameras, 10x optical zoom, ceramic body surfaces, expected on March 26'
+date: 2020-01-17T04:52:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/HUAWEI-P40-Pro-1-1024x728.jpg) HUAWEI is all set to introduce its P40 series in the coming weeks, now the first clear render of the P40 has surfaced showing off the ceramic back in Black and White, thanks to @evleaks. This also shows dual punch-hole display and penta rear camera arrangement with LEICA branding, and this is said to be P40 Pro Premium Edition. Zooming in the camera part reveals VARIO-SUMMILUX-H 1:1.8-4.0/18-240 equivalence ASPH Lens, between the ultra wide and telephoto for the cameras. This clearly shows periscope lens that is said to adopt 2 mirrors and an extended field of view to achieve a 10x optical zoom, as rumored earlier compared to optical zoom of 5X in the predecessor. It is said to use 52MP main camera for 13MP output. The lower P40 Pro model is said to feature quad rear cameras with 5x optical zoom lens module. The image shows USB Type-C Port, speaker grill and a primary microphone on the bottom. There is no side-mounted fingerprint sensor, so the phone should feature an AMOLED screen with an in-display fingerprint scanner. Based on earlier rumors, the phone is said to feature 6.5-inch OLED curved screen, powered by Kirin 990 SoC, and the company’s CEO, run Android ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=fiy4VYGLvgU:hsBiY7oLqsM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=fiy4VYGLvgU:hsBiY7oLqsM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=fiy4VYGLvgU:hsBiY7oLqsM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=fiy4VYGLvgU:hsBiY7oLqsM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=fiy4VYGLvgU:hsBiY7oLqsM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=fiy4VYGLvgU:hsBiY7oLqsM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/fiy4VYGLvgU)  
+[Read Here»](https://www.fonearena.com/blog/302577/huawei-p40-pro-images-launch-date-rumor.html)

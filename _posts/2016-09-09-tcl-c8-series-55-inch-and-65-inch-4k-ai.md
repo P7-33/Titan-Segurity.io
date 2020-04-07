@@ -1,0 +1,12 @@
+---
+title: 'TCL C8 Series 55-inch and 65-inch 4K AI Smart TVs launched in India starting at Rs. 49990'
+date: 2020-01-09T19:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/TCL-C8-Series.jpg) TCL, the brand known for its wide-range of televisions launched its P8 Series of 4K AI televisions last year in India and now the company is expanding its TV lineup in India with the launch of TCL C8 Series. The company has launched the C8 4K AI Smart TV Series in India and it comes in two different display sizes. TCL C8 4K AI TV Series consists of 55-inch and 65-inch screen sizes. The 55-inch variant offers a 54.6-inch viewable display size and both are 4K panels with a resolution of 3840 x 2160 pixels. It supports Dolby Vision, HDR 10 and features TCL’s Wide Color Gamut, HDR Dynamic Contrast technology along with NBP Photon technology to deliver a vibrant and rich color palette. It is powered by a Dual-Core processor and a Dual-Core GPU. Regarding the audio, it features Onkyo speakers with support for Dolby Atmos. Apart from this, it comes with AI far-field voice recognition technology that lets users control the TVs using their voice. For instance, users can make program reservations, switch channels, power on or off, as well as control other smart home devices like sweeping robots, curtains, lights, etc. with their voice. It supports Dual Band (2.4GHz ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=IStjEeDIPjM:VbKnFf6G_94:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=IStjEeDIPjM:VbKnFf6G_94:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=IStjEeDIPjM:VbKnFf6G_94:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=IStjEeDIPjM:VbKnFf6G_94:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=IStjEeDIPjM:VbKnFf6G_94:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=IStjEeDIPjM:VbKnFf6G_94:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/IStjEeDIPjM)  
+[Read Here»](https://www.fonearena.com/blog/302149/tcl-c8-series-55-inch-and-65-inch-4k-ai-smart-tvs-launched-in-india-starting-at-rs-49990.html)

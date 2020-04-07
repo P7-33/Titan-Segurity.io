@@ -1,0 +1,12 @@
+---
+title: 'Google Translate will soon offer live transcription on Android'
+date: 2020-01-29T09:52:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2018/04/Google_Translate-e1524033538954.jpg) During a demonstration of Artificial Intelligence demos at its San Francisco office, Google showed a prototype feature that is in development for Google Translate called Live Transcription. The feature, if it finally arrives to the public, will allow users to speak in one language and transcribe it to another language in real time on Google Translate. The feature will require an Internet connection as the computing will be done on Google servers and not on device. This is largely due to the fact that real time multilingual transcribing is more complicated than regular translation from one language to another. Hence, this makes the current models of AI on-device learning models incapable of such a feature. At the demonstration Google explained that the transcription feature is constantly evaluating whole sentences recording via the device microphone.  After that, it will decide where to add punctuation and make whole host of corrective measures like contextual word correction, fixing for accents and dialects. The feature currently cannot work with audio files and requires live audio input from the microphone but Google may change that when they finally roll out the feature. Google also expects the AI models for the feature to vastly improve with time goes ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=-D7eRj_hRWA:wqcXdyLDEg4:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=-D7eRj_hRWA:wqcXdyLDEg4:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=-D7eRj_hRWA:wqcXdyLDEg4:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=-D7eRj_hRWA:wqcXdyLDEg4:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=-D7eRj_hRWA:wqcXdyLDEg4:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=-D7eRj_hRWA:wqcXdyLDEg4:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/-D7eRj_hRWA)  
+[Read Here»](https://www.fonearena.com/blog/303505/google-translate-android-live-transcription.html)

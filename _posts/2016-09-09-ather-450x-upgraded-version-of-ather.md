@@ -1,0 +1,12 @@
+---
+title: 'Ather 450X upgraded version of Ather 450 to be unveiled on January 28'
+date: 2020-01-17T11:52:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Ather-450x.jpg) Update: January 17, 2020 — Ather today confirmed that it will launch the Ather 450X at an event in Delhi on January 28th. It will be streaming the official unveil. The invite says "Super quick, super intelligent and super connected, the super scooter is on its way". Earlier this week it released a new teaser hinting at different colors. For the 1000+ people who asked us for more info about the #Ather450X... Say hello to the #SuperScooter! See anything you like? pic.twitter.com/EgwqDp0Q5B — Ather Energy (@atherenergy) January 16, 2020 Earlier: Ather Energy just announced the Ather 450X, an upgraded version of its popular Ather 450. It says that this will feature major upgrades including new features based on feedback from existing Ather 450 customers. Even though it has not revealed features, specifications and price of the Ather 450X, it has opened pre-orders for those who have already pre-ordered or purchased the Ather 450 or expressed pre-order interest on or before 5th January 2020. https://www.youtube.com/watch?v=tt65YkqGRoM Ather will send them 2 invite codes by email to the registered email ID so that they can pre-order the Ather 450X  atherenergy.com by paying Rs. 2500 refundable deposit. Those who pre-order early will get their hands on the 450X Collector’s Edition and ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=4JbS-q5vJeI:2VpJTuMjRIE:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=4JbS-q5vJeI:2VpJTuMjRIE:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=4JbS-q5vJeI:2VpJTuMjRIE:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=4JbS-q5vJeI:2VpJTuMjRIE:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=4JbS-q5vJeI:2VpJTuMjRIE:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=4JbS-q5vJeI:2VpJTuMjRIE:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/4JbS-q5vJeI)  
+[Read Here»](https://www.fonearena.com/blog/301860/ather-450x-pre-order-invite.html)

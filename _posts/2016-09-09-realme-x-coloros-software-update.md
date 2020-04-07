@@ -1,0 +1,12 @@
+---
+title: 'Realme X ColorOS Software Update Tracker [Update: A.11 with December Android security patch]'
+date: 2019-12-30T16:23:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/07/Realme-X_fonearena-12-1024x722.jpg) realme launched the realme X smartphone in India back in July running ColorOS 6.0 on top of Android 9.0 (Pie). realme doesn’t follow a fixed update frequency but the company rolls out updates frequently. This post will help our readers in keeping track of ColorOS updates for realme X. \[gallery size="large" columns="2" ids="301386,301387"\] ColorOS updates rolled out for the realme X so far, \[Dec 30, 2019\]: realme has started rolling out RMX1901EX\_11\_A.11 with December security patch. The update weighs around 206 MBs in size and improves system stability. \[Download Link\] \[Nov 26, 2019\]: realme has started rolling out RMX1901EX\_11\_A.10 with November security patch. The update adds a dark mode quick switch toggle in the notification panel and brings multiple bug fixes. \[Download Link\] \[Nov 25, 2019\]: realme X will be upgraded to Android 10 based ColorOS 7 in Feb 2020, confirms realme. \[Nov 2, 2019\]: realme has resumed rolling out RMX1901EX\_11.A.09 with October security patch. The update is 287MB in size and brings dark mode, new charging animation and more. \[Download Link\] \[Oct 30, 2019\]: realme started rolling out RMX1901EX\_11.A.09 with October security patch, but soon after it said that developers have found a critical bug so it has been postponed temporarily. \[Oct 8, 2019\]: realme ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=8_AkJ_W1KfI:cpmH1hw2eP4:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=8_AkJ_W1KfI:cpmH1hw2eP4:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=8_AkJ_W1KfI:cpmH1hw2eP4:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=8_AkJ_W1KfI:cpmH1hw2eP4:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=8_AkJ_W1KfI:cpmH1hw2eP4:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=8_AkJ_W1KfI:cpmH1hw2eP4:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/8_AkJ_W1KfI)  
+[Read Here»](https://www.fonearena.com/blog/291892/realme-x-coloros-software-update-tracker.html)

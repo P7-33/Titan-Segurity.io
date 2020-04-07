@@ -1,0 +1,12 @@
+---
+title: 'Insta360 ONE R Twin Edition and 1-Inch Edition modular action cameras with interchangeable lens design announced'
+date: 2020-01-08T15:06:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Insta360-ONE-R-Twin-Edition-1-inch-Edition-images-1024x307.jpg) 360-degree cameras are gaining popularity day by day due to the different perspectives that they offer and are now being used by a lot of content creators. GoPro, popular for its action cameras launched its 360-degree camera, but back in 2017, Insta360 launched the Insta360 One 4K 360-degree camera which became popular, and later the company launched the Insta360 ONE X. Following that now, Insta360 has announced its new 'Insta360 ONE R' which is a module action camera that gives users the freedom to change multiple lenses. Insta360 ONE R comes with three different lens mods - a Dual-Lens 360 Mod, the 4K Wide-Angle Mod, and a 1-Inch Wide Angle Mod and the 1-inch Mod lens has been co-engineered with Leica. The 1-Inch Edition sports a 1-inch sensor with f/3.2 aperture and shoots videos at 5.3K resolution at 30fps, 4K at 30fps, and can capture 19MP still pictures. It now comes with an upgraded FlowState stabilization algorithm that provides gimbal-like stabilization and works when shooting in 360 or wide-angle as well. Furthermore, it sports a reversible touch screen, is IPX8 certified which means it is waterproof up to 5 meters, supports 5GHz WiFi, and features a 6-axis Gyroscope. Other features include 'Color ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=K0hagvVC7zs:fEqakqDflmE:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=K0hagvVC7zs:fEqakqDflmE:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=K0hagvVC7zs:fEqakqDflmE:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=K0hagvVC7zs:fEqakqDflmE:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=K0hagvVC7zs:fEqakqDflmE:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=K0hagvVC7zs:fEqakqDflmE:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/K0hagvVC7zs)  
+[Read Here»](https://www.fonearena.com/blog/302044/insta360-one-r-twin-edition-1-inch-edition-price.html)

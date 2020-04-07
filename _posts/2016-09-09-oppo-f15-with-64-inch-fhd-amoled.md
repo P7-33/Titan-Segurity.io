@@ -1,0 +1,12 @@
+---
+title: 'OPPO F15 with 6.4-inch FHD+ AMOLED display, 48MP quad rear cameras, in-display fingerprint sensor launched in India for Rs. 19990'
+date: 2020-01-16T08:22:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/OPPO-A91-1.jpg) OPPO just launched the F15, the company's latest smartphone in the 'F series' in India as it had promised. The phone packs a 6.4-inch Full HD+ AMOLED screen with 90.7 screen-to-body ratio, is powered by MediaTek Helio P70 SoC with 8GB of RAM, packs 48-megapixel rear camera along with an 8-megapixel ultra-wide-angle lens that is also capable of shooting macro images, a 2-megapixel depth and 2-megapixel mono cameras. There is also a 16-megapixel front camera. https://youtu.be/KMS2Ov6AGBU It has an in-display fingerprint scanner that can unlock the phone in 0.32 seconds, 45% faster than the previous generation, features dedicated dual SIM and microSD slots, has gradient finish on the back and packs a 4000mAh battery with VOOC 3.0 flash charge fast charging that can charge the phone up to 50% in 30 minutes. OPPO F15 specifications 6.4-inch (2400 × 1080 pixels) Full HD+ AMOLED display with Corning Gorilla Glass 5 protection Octa Core MediaTek Helio P70 12nm processor (Quad 2.1GHz Cortex A73 + Quad 2GHz Cortex A53 CPUs) with 900MHz ARM Mali-G72 MP3 GPU 8GB (LPPDDR4x) RAM, 128GB storage, expandable memory up to 256GB with microSD Dual SIM (nano + nano + microSD) ColorOS 6.1 based on Android 9.0 (Pie) 48MP rear camera with ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=u7m1ZgAp-4A:mjf8Wie72g4:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=u7m1ZgAp-4A:mjf8Wie72g4:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=u7m1ZgAp-4A:mjf8Wie72g4:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=u7m1ZgAp-4A:mjf8Wie72g4:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=u7m1ZgAp-4A:mjf8Wie72g4:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=u7m1ZgAp-4A:mjf8Wie72g4:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/u7m1ZgAp-4A)  
+[Read Here»](https://www.fonearena.com/blog/302509/oppo-f15-price-india-specifications.html)

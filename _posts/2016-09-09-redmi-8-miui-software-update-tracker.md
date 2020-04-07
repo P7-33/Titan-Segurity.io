@@ -1,0 +1,12 @@
+---
+title: 'Redmi 8 MIUI Software Update Tracker [Update: MIUI 11.0.4.0 with December Security Patch]'
+date: 2020-01-16T09:52:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Redmi-8_fonearena-11-1024x609.jpg) Xiaomi launched the Redmi 8 smartphone in India running MIUI 10.3 Global Stable on top of Android 9.0 (Pie). Xiaomi doesn’t follow any fixed update frequency for the MIUI Global Stable ROM but on average, the Global Stable ROM is updated once in a month. This post will help our readers in keeping track of MIUI updates for Redmi 8 (codename ‘olivein’), also check out our Redmi 8 content, Redmi 8 Unboxing and First Impressions Redmi 8 Review MIUI Updates rolled out for the smartphone: \[Jan 11, 2020\]: Xiaomi has started rolling out MIUI 11.0.4.0.PCNINXM with December security patch. \[Download Link\] \[Nov 22, 2019\]: Xiaomi has started rolling out MIUI 11.0.2.0.PCNINXM with November security patch. The update weighs about 200 MBs in size and brings optimized system performance. \[Download Link\] \[Nov 15, 2019\]: Xiaomi has released Android Pie based Kernel Sources for the Redmi 8 ('olive'). \[Nov 8, 2019\]: Xiaomi has started rolling out MIUI 11 Stable 11.0.1.0.PCNINXM with October security patch. The update weighs around 600 MBs in size and brings MIUI 11 features such as New Minimalistic Design, Quick Replies, New Dynamic Sound Effects, Mi Share, Floating Calculator, Updated Mi File Manager, Steps Trackers and more to Redmi 8, check out this post to ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=_vyElXJpD4s:g-P6v0b76to:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=_vyElXJpD4s:g-P6v0b76to:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=_vyElXJpD4s:g-P6v0b76to:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=_vyElXJpD4s:g-P6v0b76to:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=_vyElXJpD4s:g-P6v0b76to:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=_vyElXJpD4s:g-P6v0b76to:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/_vyElXJpD4s)  
+[Read Here»](https://www.fonearena.com/blog/296176/redmi-8-miui-software-update-tracker.html)

@@ -1,0 +1,12 @@
+---
+title: 'RIL’s Jiomart to take on Grofers, Flipkart Supermart and others'
+date: 2020-01-02T12:35:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Reliance-Jio-Mart.jpg) It seems as though Reliance industries is trying to enter every aspect of the lives of Indians. They have just announced Jiomart, a web portal to buy food and groceries online, launching sometime early this year, beginning in three places; Navi Mumbai, Thane and Kalyan. The venture is not designed to be a direct market to consumers for groceries, rather be a last-mile connection to neighbourhood stores and consumers. The app will behave as an aggregator where it will partner local grocers and equip them with points of sale (PoS) terminals, low interest working capital, inventory management skills, and GST compliance. On their website, pre registrations are open for the service with discounts up to Rs. 3000 savings at launch. They are also promising free home delivery with no minimum order value, a no questions asked return policy with over 50000+ grocery products. Economic Times has reported that official close to the venture has commented "Kiranas are being registered and given POS machines with integrated billing applications. Also, it enables digital transactions, promotions including loyalty, discount coupons by fast moving consumer goods firms and supply chain management." Source
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=1NgGD_Wlo_U:d9wX1LkYq_c:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=1NgGD_Wlo_U:d9wX1LkYq_c:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=1NgGD_Wlo_U:d9wX1LkYq_c:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=1NgGD_Wlo_U:d9wX1LkYq_c:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=1NgGD_Wlo_U:d9wX1LkYq_c:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=1NgGD_Wlo_U:d9wX1LkYq_c:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/1NgGD_Wlo_U)  
+[Read Here»](https://www.fonearena.com/blog/301518/reliance-jiomart-online-grocery.html)

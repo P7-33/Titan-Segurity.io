@@ -1,0 +1,12 @@
+---
+title: 'Google announces Scheduled Actions, household notes, and more for the Assistant at CES 2020'
+date: 2020-01-08T15:06:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Google-Assistant-CES-2020_1.jpg) Google is bringing a bunch of new updates to the Google Assistant today at CES 2020 that will be coming to everyone later this year. This includes features like Scheduled Actions, a central place for sticky notes, interpreter mode for businesses and support for the Assistant on more devices. Scheduled Actions will be coming sometime later this year and will let users direct the Assistant to turn on/off or start/stop a compatible smart device at the time of your choosing. Lets say for example, you want to turn on your lights at 6pm in the evening. You will be able to simply ask the Assistant to, "Turn on the lights at 6pm" and Google will essentially carry out the required task at the mentioned time. Google is expanding this capability with partnerships with various smart home device companies like August Smart Locks, Philips Hue HDMI Sync Box, Telus Wi-Fi Hub routers, GE Appliances Ultrafresh Front Load Washer, etc. The second feature that Google announced is aimed at better organising you important information that you want to keep at your fingertips in your house. It is called household notes and is designed to be used with the Assistant on your Smart Display. It gives ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=WNVbSPHX4I0:e88AYuO2Pkc:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=WNVbSPHX4I0:e88AYuO2Pkc:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=WNVbSPHX4I0:e88AYuO2Pkc:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=WNVbSPHX4I0:e88AYuO2Pkc:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=WNVbSPHX4I0:e88AYuO2Pkc:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=WNVbSPHX4I0:e88AYuO2Pkc:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/WNVbSPHX4I0)  
+[Read Here»](https://www.fonearena.com/blog/302053/google-scheduled-actions-household-notes-ces-2020.html)

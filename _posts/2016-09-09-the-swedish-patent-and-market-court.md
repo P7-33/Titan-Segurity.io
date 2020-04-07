@@ -1,0 +1,37 @@
+---
+title: 'The Swedish Patent and Market Court issues its first  dynamic blocking injunction '
+date: 2020-01-23T14:54:00+01:00
+draft: false
+---
+
+  
+
+_Kat friend [**Hans Eriksson**](https://www.linkedin.com/in/hans-eriksson-9b1503a9/) discusses a recent decision from Sweden on the timely issue of blocking injunctions._  
+  
+Over the last few years, blocking injunction jurisprudence has become one of the more interesting issues of copyright law. Kat readers may[![](https://3.bp.blogspot.com/-5CTRbMybImA/XimcJXrgO2I/AAAAAAAAG7c/9XmOPNzevv8l359CpKhUtIuwW96dQNcgACLcBGAsYHQ/s400/Badger_offensive_linemen_blocking_for_Melvin_Gordon_III.jpg)](https://3.bp.blogspot.com/-5CTRbMybImA/XimcJXrgO2I/AAAAAAAAG7c/9XmOPNzevv8l359CpKhUtIuwW96dQNcgACLcBGAsYHQ/s1600/Badger_offensive_linemen_blocking_for_Melvin_Gordon_III.jpg) recognize the flexible and powerful blocking orders recently issued by UK [**here**](http://copyrightblog.kluweriplaw.com/2018/08/18/high-court-extends-premier-leagues-live-blocking-order-201819-season/) and Italian courts [**here**](http://ipkitten.blogspot.com/2018/08/milan-court-issues-dynamic-blocking.html).  
+  
+As [**noted**](https://ec.europa.eu/transparency/regdoc/rep/1/2017/EN/COM-2017-708-F1-EN-MAIN-PART-1.PDF) by the EU Commission in its 2017 Guidance on certain aspects of Directive 2004/48/EC of the European Parliament and of the Council on the enforcement of intellectual property rights, dynamic blocking injunctions are--
+
+> injunctions which can be issued for instance in cases in which materially the same website becomes available immediately after issuing the injunction with a different IP address or URL and which is drafted in a way that allows to also cover the new IP address or URL without the need for a new judicial procedure to obtain a new injunction.
+
+Dynamic blocking injunctions (or super injunctions, or live injunctions, or fast injunctions – a rose by any other name) are pragmatic tools to handle large scale repeat online copyright infringement, and not only in the area of sports, where these injunctions were initially applied. Still, as of yet, there is not consensus if and how to apply them across the EU.  
+  
+Questions such as the scope and timing of the injunction, as well as the larger and nebulous issue of how the rightsholders and the DSPs should work together to enforce the injunction, including cost allocation, have been variously handled in different jurisdictions. Despite these uncertainties, the EU Commission considers dynamic blocking injunctions to have the capacity to be “effective means to prevent the continuation of an IPR infringement.”  
+  
+Though Swedish courts have wide latitude in fashioning injunctions, whether one of the Swedish IP specialist courts would exercise this power and issue this novel type of injunction was not clear even as we reached the waning weeks of 2019. But, in what amounted to an early surprise Christmas present for rightsholders and copyright aficionados alike, the first instance Swedish Patent and Market Court issued just such a dynamic blocking injunction on December 9, in case PMT 7262-18 between AB Svensk Filmindustri and the major Swedish digital service provider (“DSP”) Telia Sverige AB (the case previously mentioned on this blog [**here**](http://ipkitten.blogspot.com/2018/10/swedish-court-orders-isp-to-block.html) and [**here**](http://ipkitten.blogspot.com/2018/06/swedish-court-considers-new-blocking.html).  
+  
+In the case, several rights holders in the film industry claimed that the DSP’s provision of internet services to a number of repeat offenders of file sharing services, such as the Pirate Bay, constituted contributory copyright infringement. This is the latest in a line of Swedish cases on DSP liability and blocking injunctions, where questions of proportionality, the risk of over-blocking and Swedish law’s compliance with applicable EU rules, have all been litigated at length. This case was, however, novel in two ways: (i) for the first time, a traditional interim blocking injunction was sought; and (ii) also for the first time, a dynamic blocking injunction was sought against the illegal file sharing services.  
+  
+A traditional interim blocking injunction had been issued by the first instance court earlier in the year. Thereafter, in what has arguably become something of a trend in Swedish copyright litigation, the second instance Patent and Market Court of Appeal proceeded to take a strict view of the burden of proof and applicable evidentiary standards and struck down the injunction as not being proportional (on the basis of what this writer believes arguably amounted to an overly strict reading of the evidence), sending the claimants back to the first instance court with only a black eye and liability for the DSP’s litigation costs.  
+  
+Back at the first instance court, the claimants managed to right the ship and the DSP’s actions were found to constitute contributory copyright infringement. But the real bombshell was the court’s decision to issue a dynamic blocking injunction against the DSP. The injunction orders the DSP to block its customers’ access to the illegal file sharing services, not only on the current domain names and web addresses (subject to a separate traditional blocking injunction that had gone into immediate effect) but, for a period of three years, on domain names and websites whose sole purpose is to provide access to said illegal file sharing services.  
+  
+The language of the injunction itself does not specify the mechanism through which the DSP will be made aware of additional IP addresses and URLs to block, or the level of knowledge that will trigger additional blocking actions from the DSP. These points are discussed briefly in the decision and it is evident that the Patent and Market Court envisions a pragmatic system in which the claimants will inform the DSP of new instances where the infringing services are made available and the DSP acts expeditiously to block them, which the court described as within two to three weeks.  
+  
+[![](https://4.bp.blogspot.com/-Ps2QH6xLspk/XimboyAh7HI/AAAAAAAAG7U/_S5CQyBP8GwNeWbcNVD032ARU6UGAw1OACLcBGAsYHQ/s320/Adey_blocking_Bokury_Shield_match_2015.jpg)](https://4.bp.blogspot.com/-Ps2QH6xLspk/XimboyAh7HI/AAAAAAAAG7U/_S5CQyBP8GwNeWbcNVD032ARU6UGAw1OACLcBGAsYHQ/s1600/Adey_blocking_Bokury_Shield_match_2015.jpg)In essence, the dynamic blocking injunction instructs the claimants and the DSP to be friends (frenemies?) and play nice. Arguably, many details of how this should be accomplished presumably could have been clarified in the decision. But, in reality, that is likely something left for the precedent-setting Patent and Market Court of Appeal, which now for the first time gets the opportunity to develop dynamic blocking injunction jurisprudence in Sweden.  
+  
+The DSP was granted leave to appeal, but the Patent and Market Court did not find reason to stay the traditional blocking injunction with immediate effect, perhaps signaling that the subject of the second instance court’s scrutiny in this case will mainly be of the novel dynamic blocking injunction.  
+  
+Photo on right by Royalbroil and is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.  
+  
+Photo on left by Mohamed Waheed and is licensed under the Creative Commons Attribution-Share Alike 3.0 license.

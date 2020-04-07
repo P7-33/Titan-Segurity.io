@@ -1,0 +1,12 @@
+---
+title: 'Razer Kishi cloud-gaming compatible controller, Sila 5G router and more announced at CES 2020'
+date: 2020-01-09T10:40:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Razer-CES-2020-1024x645.jpg) We are halfway through CES week 2020 and Razer has announced new products that are focused on new and upcoming gaming experiences, along with a new 'modular' gaming PC. Razer also introduced an insane Eracing Simulator concept that simulates one of the most immersive racing experience to date. The first one, the Razer Kishi universal mobile gaming controllers is designed as complementary device for cloud gaming mobile experiences. The controller is similar to the Razer Junglecat that was announced for the Razer Phone 2 last year, except this one has compatibility for a lot more devices, including the iPhone and other android phones. The highlight feature of this controller is that it is part of NVIDIA GeForce Now Cloud Gaming Program. This allows users to play their high demanding PC games on their low powered devices through NVIDIA's cloud gaming platform. The controller can connect to mobile devices via a hidden USB-C or Apple Lightning connection and directly interface with GeForce Now for Ultra-low latency native and cloud game control. The second product that Razer announced is their Sila 5G home router that is a device focused on offering offer ultra-low latency during both stationary and mobile gameplay. The router features an in-built ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=TYWHiYUhmD0:PbPViadLeXw:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=TYWHiYUhmD0:PbPViadLeXw:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=TYWHiYUhmD0:PbPViadLeXw:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=TYWHiYUhmD0:PbPViadLeXw:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=TYWHiYUhmD0:PbPViadLeXw:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=TYWHiYUhmD0:PbPViadLeXw:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/TYWHiYUhmD0)  
+[Read Here»](https://www.fonearena.com/blog/302101/razer-kishi-cloud-gaming-controller-sila-5g-router.html)

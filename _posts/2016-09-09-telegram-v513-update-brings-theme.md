@@ -1,0 +1,12 @@
+---
+title: 'Telegram v5.13 update brings theme editor 2.0, verifiable builds, podcast support and more'
+date: 2020-01-02T10:35:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Telegram-5.13-for-Android-and-iOS-1024x668.jpg) Telegram, one of the best, feature rich mass messaging apps has released a new update that brings along a bunch of new features for both iOS and Android users. The update also comes with a security feature called verifiable builds that allow users to independently verify cross check code on GitHub with the app downloaded from the App Store or Play Store. With the new update comes the Theme Editor 2.0 that has the ability to create more personal custom themes. Users can now choose to change colors for separate elements like the main accent color, background and messages. In case, it gets too overwhelming for you, Telegram has also added a bunch of new presets for themes too. Telegram first introduced Scheduled messages back in September and has now updated the feature to send messages when the user comes online. They have also improved venue sharing, allowing users to tap a place directly on the map to select it. Another cool feature is the ability to view search results from a chat in a list view. Now you do not have to go through one by one, instead see them all together in a list. For Android users specifically, the telegram update ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Ty-peIY0MSo:IDczbs1A-dE:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Ty-peIY0MSo:IDczbs1A-dE:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Ty-peIY0MSo:IDczbs1A-dE:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Ty-peIY0MSo:IDczbs1A-dE:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Ty-peIY0MSo:IDczbs1A-dE:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Ty-peIY0MSo:IDczbs1A-dE:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Ty-peIY0MSo)  
+[Read Here»](https://www.fonearena.com/blog/301506/telegram-5-13-update-theme-editor-2-0-podcast-support.html)

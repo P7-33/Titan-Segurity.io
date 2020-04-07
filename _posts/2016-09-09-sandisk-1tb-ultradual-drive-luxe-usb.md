@@ -1,0 +1,12 @@
+---
+title: 'SanDisk 1TB UltraDual Drive Luxe USB Type-C Flash Drive, 8TB SSD Prototype and more at CES 2020'
+date: 2020-01-09T12:40:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/1TB-SanDisk-Ultra-Dual-Drive-Luxe-USB-Type-C-CES-2020-1024x602.jpg) Western Digital is showcasing  a variety of new SanDisk products at CES 2020, including the world's highest capacity 8TB SSD prototype that features the SuperSpeed USB 20 Gbps interface. Among the products that launched, Western Digital has released its newest dual connector drive with capacities up to 1TB. Proving that it is at the forefront of storage technologies, Western Digital, under the brand name of SanDisk, is showing off their new prototype SSD with a capacity of a mind boggling 8TB. It features the newest SuperSpeed USB 20 Gbps standard that ensures users will not get face any slowness in transfer speeds either. The SSD itself does not like any larger than conventional portable SSDs either which is also impressive. SanDisk UltraDual Drive Luxe USB Type-C features dual connectors for maximum compatibility. On one side, there is a USB Type-C connector that can connect to any new smartphone, laptop or the new iPad Pro and on the other side we have a regular USB Type A connector. Capacities will range from 32GB all the way up to 1TB and is expected to available for purchase sometime in Q1 2020. Next, Western Digital announced its first game drive, the WD\_Black P50 Game Drive SSD ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Q5vc95zAFos:Tj71PkMkzxA:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Q5vc95zAFos:Tj71PkMkzxA:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Q5vc95zAFos:Tj71PkMkzxA:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Q5vc95zAFos:Tj71PkMkzxA:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Q5vc95zAFos:Tj71PkMkzxA:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Q5vc95zAFos:Tj71PkMkzxA:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Q5vc95zAFos)  
+[Read Here»](https://www.fonearena.com/blog/302140/sandisk-1tb-ultradual-drive-luxe-8tb-ssd-prototype.html)

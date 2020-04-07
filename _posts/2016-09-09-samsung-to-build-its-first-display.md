@@ -1,0 +1,12 @@
+---
+title: 'Samsung to build its first display manufacturing plant in India'
+date: 2020-01-21T07:19:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2017/10/Samsung-logo.jpg) According to a regulatory filing with the Registrar of Companies (RoC), Samsung is reportedly setting India's first display manufacturing unit in the outskirts of Delhi. The company is investing over Rs. 3500 crores into this  Samsung Display facility, which will be a part of Samsung India Electronics. The Samsung Display company is built principally for manufacturing, assembling, processing and sales of displays (including their parts, components and accessories) for all types and sizes of electronic devices. The plant itself would produce displays of mobile phones and IT display. There are plans to produce laptops and televisions later in the future. The investment into a new facility comes at a time when Samsung started the world’s largest mobile phone manufacturing unit in India at an investment cost of Rs. 4,915 crore. These investment decisions comes as a response to the governments push to boost make in India with increased import duties. Samsung and LG are the worlds major display manufacturers, producing display components for other major companies like Apple, OnePlus and etc. With India having its first display plant being opened, there are possibilities of devices becoming cheaper in the near future as manufacturing costs come down. Source
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=D4dDdwMSoZA:9maDU0bGy3s:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=D4dDdwMSoZA:9maDU0bGy3s:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=D4dDdwMSoZA:9maDU0bGy3s:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=D4dDdwMSoZA:9maDU0bGy3s:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=D4dDdwMSoZA:9maDU0bGy3s:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=D4dDdwMSoZA:9maDU0bGy3s:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/D4dDdwMSoZA)  
+[Read Here»](https://www.fonearena.com/blog/302914/samsung-display-manufacturing-plant-india.html)

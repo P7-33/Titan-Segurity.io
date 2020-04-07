@@ -1,0 +1,12 @@
+---
+title: 'RedmiBook laptops could launch in India soon as Xiaomi files trademark'
+date: 2020-01-06T14:06:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/RedmiBook-13.jpg) Xiaomi's Redmi brand introduced the RedmiBook 13 and RedmiBook 14 Pro laptops last year in China and a lot of users in India were waiting for the company to launch its lineup of laptops here. The wait seems to end soon finally as the RedmiBook trademark has been filed in India and the company could launch laptops in India soon. The trademark has been spotted on the Government of India website under the Ministry of Commerce and Industry. The listing reads "Wordmark: RedmiBook, Proprietor: Xiaomi Inc.," along with the Application Number and other details. This clearly indicates that Redmi could be launching its laptop(s) lineup in India soon. It is to be seen if the company would launch only the RedmiBook 13 laptop which was announced in China recently or also bring the RedmiBook 14 Pro laptop which was announced earlier last year. There is no information on when Redmi will launch these laptops in India, but we should know more information in the coming days. In case you missed, here are the specifications of the RedmiBook 13 and RedmiBook 14 Pro RedmiBook 13 specifications 13.3-inch (1920 x 1080 pixels) 16:9 display, 178° wide viewing angle, 250 nits brightness 1.8GHz Intel Core i7-10510U (8MB ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=TPRAUkVcgmw:GIo9QIrDPck:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=TPRAUkVcgmw:GIo9QIrDPck:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=TPRAUkVcgmw:GIo9QIrDPck:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=TPRAUkVcgmw:GIo9QIrDPck:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=TPRAUkVcgmw:GIo9QIrDPck:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=TPRAUkVcgmw:GIo9QIrDPck:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/TPRAUkVcgmw)  
+[Read Here»](https://www.fonearena.com/blog/301773/redmibook-india-trademark.html)

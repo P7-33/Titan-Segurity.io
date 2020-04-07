@@ -1,0 +1,12 @@
+---
+title: 'OPPO F15 Unboxing and First Impressions'
+date: 2020-01-16T08:22:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/OPPO-F15_fonearena-6-1024x635.jpg) OPPO today launched the F15, the company's latest smartphone in the 'F series' and the successor of last year's F11 smartphone in India. It has several improvements over the predecessor that includes an AMOLED screen, more RAM, improved quad rear cameras and more. Check out the unboxing video below. https://www.youtube.com/watch?v=KMS2Ov6AGBU https://www.youtube.com/watch?v=DKKbY7Ahs8o Box Contents OPPO F15 Smartphone in Unicorn White color 2-pin VOOC 3.0 fast charger (5V-4A) USB Type-C Cable Clear protective case Screen protector (Pre-installed) Earphones User manual and warranty information The phone has a 6.4-inch FHD+ AMOLED display with 20:9 aspect ratio and a screen to body ratio of 90.7% with Corning Gorilla Glass 5 protection. The phone is powered by MediaTek Helio P70 SoC with 8GB RAM and runs Android 9.0 (Pie) with ColorOS 6.1, but it should get ColorOS 7.0 based on Android 10 soon. It features in-display fingerprint sensor 3.0, which offers one of the fastest fingerprint unlocking experiences of just 0.32 seconds, and features hardware based anti-forging feature, according to the company. \[gallery link="file" columns="2" size="medium" ids="302452,302459"\] It has the waterdrop notch that houses the usual set of proximity and ambient light sensors and a 16-megapixel camera. There is a small bezel below the display. \[gallery link="file" columns="2" size="medium" ids="302451,302450,302458,302449"\] The power button ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=uYNRYTyk5Uk:zWopDh6-nfM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=uYNRYTyk5Uk:zWopDh6-nfM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=uYNRYTyk5Uk:zWopDh6-nfM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=uYNRYTyk5Uk:zWopDh6-nfM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=uYNRYTyk5Uk:zWopDh6-nfM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=uYNRYTyk5Uk:zWopDh6-nfM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/uYNRYTyk5Uk)  
+[Read Here»](https://www.fonearena.com/blog/302506/oppo-f15-unboxing-first-impressions.html)

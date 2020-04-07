@@ -1,0 +1,12 @@
+---
+title: 'Redmi Note 8 Pro gets a new Twilight Orange color variant'
+date: 2020-01-08T08:36:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Redmi-Note-8-Pro-Twilight-Orange-1-1024x785.jpg) Xiaomi’s Redmi brand launched the Redmi Note 8 Pro smartphone last year in Gamma Green, Halo White and Shadow Black colors, and the Electric Blue version of the phone went on sale later. Today it has introduced new Twilight Orange color variant of the phone in China. It has also introduced Red color version of the Redmi 8 in China, which is already available in India. Both these will go on sale in China from tomorrow, January 9th. To recall, the Redmi Note 8 Pro features a 6.53-inch Full HD+ LCD screen with HDR support, 2.05mm narrow top frame, 1.8mm narrow left and right borders and 4.2mm bottom border offering 91.4% screen-to-body ratio and has TÜV Rheinland eye protection certification. It the world’s first smartphone to be powered by the latest MediaTek Helio G90T SoC and is the first phone in the price range to feature liquid cooling that will reduce the temperature of the phone by 4 to 6 degrees. The phone features a 64-megapixel primary rear camera with 1/1.7″ Samsung GW1 Sensor with ISOCELL Plus technology  that delivers higher color fidelity along with up to a 15% enhancement in light sensitivity and the Smart ISO supported by Dual Conversion Gain (DCG) technology intelligently adjusts the ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=zC7c540GFIg:0HlSTHkpj6c:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=zC7c540GFIg:0HlSTHkpj6c:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=zC7c540GFIg:0HlSTHkpj6c:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=zC7c540GFIg:0HlSTHkpj6c:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=zC7c540GFIg:0HlSTHkpj6c:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=zC7c540GFIg:0HlSTHkpj6c:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/zC7c540GFIg)  
+[Read Here»](https://www.fonearena.com/blog/301988/redmi-note-8-pro-twilight-orange-color.html)

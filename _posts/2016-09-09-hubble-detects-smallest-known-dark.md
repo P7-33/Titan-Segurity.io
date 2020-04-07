@@ -1,0 +1,79 @@
+---
+title: 'Hubble detects smallest known dark matter clumps'
+date: 2020-01-10T01:17:00+01:00
+draft: false
+---
+
+![**Hubble detects smallest known dark matter clumps](https://scx1.b-cdn.net/csz/news/800/2020/1-hubbledetect.jpg "This graphic illustrates how a faraway quasar's light is altered by a massive foreground galaxy and by tiny dark matter clumps along the light path. The galaxy's powerful gravity warps and magnifies the quasar's light, producing four distorted images of the quasar. The dark matter clumps reside along the Hubble Space Telescope's line of sight to the quasar, as well as within and around the foreground galaxy. The presence of the dark matter clumps alters the apparent brightness and position of each distorted quasar image by warping and slightly bending the light as it travels from the distant quasar to Earth, as represented by the wiggly lines in the graphic. Astronomers compared these measurements with predictions of how the quasar images would look without the influence of the dark matter clumps. The researchers used these measurements to calculate the masses of the tiny dark matter concentrations. Dark matter is an invisible substance that makes up the bulk of the universe's mass and creates the scaffolding upon which galaxies are built. Quadruple images of a quasar is rare because the background quasar and foreground galaxy require an almost perfect alignment. Credit: NASA, ESA, and D. Player (STScI)")
+
+This graphic illustrates how a faraway quasar's light is altered by a massive foreground galaxy and by tiny dark matter clumps along the light path. The galaxy's powerful gravity warps and magnifies the quasar's light, producing four distorted images of the quasar. The dark matter clumps reside along the Hubble Space Telescope's line of sight to the quasar, as well as within and around the foreground galaxy. The presence of the dark matter clumps alters the apparent brightness and position of each distorted quasar image by warping and slightly bending the light as it travels from the distant quasar to Earth, as represented by the wiggly lines in the graphic. Astronomers compared these measurements with predictions of how the quasar images would look without the influence of the dark matter clumps. The researchers used these measurements to calculate the masses of the tiny dark matter concentrations. Dark matter is an invisible substance that makes up the bulk of the universe's mass and creates the scaffolding upon which galaxies are built. Quadruple images of a quasar is rare because the background quasar and foreground galaxy require an almost perfect alignment. Credit: NASA, ESA, and D. Player (STScI)
+
+When searching for dark matter, astronomers must go on a sort of "ghost hunt." That's because dark matter is an invisible substance that cannot be seen directly. Yet it makes up the bulk of the universe's mass and forms the scaffolding upon which galaxies are built. Dark matter is the gravitational "glue" that holds galaxies as well as galaxy clusters together. Astronomers can detect its presence indirectly by measuring how its gravity affects stars and galaxies.
+
+The mysterious substance is not composed of the same stuff that makes up stars, planets, and people. That material is normal "baryonic" matter, consisting of electrons, protons, and neutrons. However, [dark matter](https://phys.org/tags/dark+matter/) might be some sort of unknown subatomic particle that interacts weakly with normal matter.
+
+A popular theory holds that dark matter particles don't move very fast, which makes it easier for them to clump together. According to this idea, the universe contains a broad range of dark matter concentrations, from small to large.
+
+Astronomers have detected dark matter clumps around large- and medium-sized [galaxies](https://phys.org/tags/galaxies/). Now, using Hubble and a new observing technique, astronomers have found that dark matter forms much smaller clumps than previously known.
+
+The researchers searched for small concentrations of dark matter in the Hubble data by measuring how the light from faraway quasars is affected as it travels through space. Quasars are the bright black-hole-powered cores of very distant galaxies. The Hubble images show that the light from these quasars images is warped and magnified by the gravity of massive foreground galaxies in an effect called gravitational lensing. Astronomers used this lensing effect to detect the small dark matter clumps. The clumps are located along the telescope's line of sight to the quasars, as well as in and around the foreground lensing galaxies.
+
+![**Hubble detects smallest known dark matter clumps](https://scx1.b-cdn.net/csz/news/800/2020/hubbledetect.jpg "Each of these Hubble Space Telescope snapshots reveals four distorted images of a background quasar and its host galaxy surrounding the central core of a foreground massive galaxy. The gravity of the massive foreground galaxy is acting like a magnifying glass by warping the quasar’s light in an effect called gravitational lensing. Quasars are extremely distant cosmic streetlights produced by active black holes. Such quadruple images of quasars are rare because of the nearly exact alignment needed between the foreground galaxy and background quasar. Astronomers used the gravitational lensing effect to detect the smallest clumps of dark matter ever found. The clumps are located along the telescope's line of sight to the quasars, as well as in and around the foreground lensing galaxies. The presence of the dark matter concentrations alters the apparent brightness and position of each distorted quasar image. Astronomers compared these measurements with predictions of how the quasar images would look without the influence of the dark matter clumps. The researchers used these measurements to calculate the masses of the tiny dark matter concentrations. Hubble's Wide Field Camera 3 captured the near-infrared light from each quasar and dispersed it into its component colors for study with spectroscopy. The images were taken between 2015 and 2018. Credit: NASA, ESA, A. Nierenberg (JPL) and T. Treu (UCLA)")
+
+Each of these Hubble Space Telescope snapshots reveals four distorted images of a background quasar and its host galaxy surrounding the central core of a foreground massive galaxy. The gravity of the massive foreground galaxy is acting like a magnifying glass by warping the quasar’s light in an effect called gravitational lensing. Quasars are extremely distant cosmic streetlights produced by active black holes. Such quadruple images of quasars are rare because of the nearly exact alignment needed between the foreground galaxy and background quasar. Astronomers used the gravitational lensing effect to detect the smallest clumps of dark matter ever found. The clumps are located along the telescope's line of sight to the quasars, as well as in and around the foreground lensing galaxies. The presence of the dark matter concentrations alters the apparent brightness and position of each distorted quasar image. Astronomers compared these measurements with predictions of how the quasar images would look without the influence of the dark matter clumps. The researchers used these measurements to calculate the masses of the tiny dark matter concentrations. Hubble's Wide Field Camera 3 captured the near-infrared light from each quasar and dispersed it into its component colors for study with spectroscopy. The images were taken between 2015 and 2018. Credit: NASA, ESA, A. Nierenberg (JPL) and T. Treu (UCLA)
+
+Using NASA's Hubble Space Telescope and a new observing technique, astronomers have found that dark matter forms much smaller clumps than previously known. This result confirms one of the fundamental predictions of the widely accepted "cold dark matter" theory.
+
+All galaxies, according to this theory, form and are embedded within clouds of dark matter. Dark matter itself consists of slow-moving, or "cold," particles that come together to form structures ranging from hundreds of thousands of times the mass of the Milky Way galaxy to clumps no more massive than the heft of a commercial airplane. (In this context, "cold" refers to the particles' speed.)
+
+The Hubble observation yields new insights into the nature of dark matter and how it behaves. "We made a very compelling observational test for the cold dark matter model and it passes with flying colors," said Tommaso Treu of the University of California, Los Angeles (UCLA), a member of the observing team.
+
+Dark matter is an invisible form of matter that makes up the bulk of the universe's mass and creates the scaffolding upon which galaxies are built. Although astronomers cannot see dark matter, they can detect its presence indirectly by measuring how its gravity affects stars and galaxies. Detecting the smallest dark matter formations by looking for embedded stars can be difficult or impossible, because they contain very few stars.
+
+While dark matter concentrations have been detected around large- and medium-sized galaxies, much smaller clumps of dark matter have not been found until now. In the absence of observational evidence for such small-scale clumps, some researchers have developed alternative theories, including "warm dark matter." This idea suggests that dark matter particles are fast moving, zipping along too quickly to merge and form smaller concentrations. The new observations do not support this scenario, finding that dark matter is "colder" than it would have to be in the warm dark matter alternative theory.
+
+"Dark matter is colder than we knew at smaller scales," said Anna Nierenberg of NASA's Jet Propulsion Laboratory in Pasadena, California, leader of the Hubble survey. "Astronomers have carried out other observational tests of dark matter theories before, but ours provides the strongest evidence yet for the presence of small clumps of cold dark matter. By combining the latest theoretical predictions, statistical tools, and new Hubble observations, we now have a much more robust result than was previously possible."
+
+Hunting for dark matter concentrations devoid of stars has proved challenging. The Hubble research team, however, used a technique in which they did not need to look for the gravitational influence of stars as tracers of dark matter. The team targeted eight powerful and distant cosmic "streetlights," called quasars (regions around active black holes that emit enormous amounts of light). The astronomers measured how the light emitted by oxygen and neon gas orbiting each of the quasars' black holes is warped by the gravity of a massive foreground galaxy, which is acting as a magnifying lens.
+
+Using this method, the team uncovered dark matter clumps along the telescope's line of sight to the quasars, as well as in and around the intervening lensing galaxies. The dark matter concentrations detected by Hubble are 1/10,000th to 1/100,000th times the mass of the Milky Way's dark matter halo. Many of these tiny groupings most likely do not contain even small galaxies, and therefore would have been impossible to detect by the traditional method of looking for embedded stars.
+
+The eight quasars and galaxies were aligned so precisely that the warping effect, called gravitational lensing, produced four distorted images of each quasar. The effect is like looking at a funhouse mirror. Such quadruple images of quasars are rare because of the nearly exact alignment needed between the foreground galaxy and background quasar. However, the researchers needed the multiple images to conduct a more detailed analysis.
+
+The presence of the dark matter clumps alters the apparent brightness and position of each distorted quasar image. Astronomers compared these measurements with predictions of how the quasar images would look without the influence of the dark matter. The researchers used the measurements to calculate the masses of the tiny dark matter concentrations. To analyze the data, the researchers also developed elaborate computing programs and intensive reconstruction techniques.
+
+"Imagine that each one of these eight galaxies is a giant magnifying glass," explained team member Daniel Gilman of UCLA. "Small dark matter clumps act as small cracks on the magnifying glass, altering the brightness and position of the four quasar images compared to what you would expect to see if the glass were smooth."
+
+The researchers used Hubble's Wide Field Camera 3 to capture the near-infrared light from each quasar and disperse it into its component colors for study with spectroscopy. Unique emissions from the background quasars are best seen in infrared light. "Hubble's observations from space allow us to make these measurements in galaxy systems that would not be accessible with the lower resolution of ground-based telescopes—and Earth's atmosphere is opaque to the infrared light we needed to observe," explained team member Simon Birrer of UCLA.
+
+Treu added: "It's incredible that after nearly 30 years of operation, Hubble is enabling cutting-edge views into fundamental physics and the nature of the universe that we didn't even dream of when the telescope was launched."
+
+The gravitational lenses were discovered by sifting through ground-based surveys such as the Sloan Digital Sky Survey and Dark Energy Survey, which provide the most detailed three-dimensional maps of the universe ever made. The quasars are located roughly 10 billion light-years from Earth; the foreground galaxies, about 2 billion light-years.
+
+The number of small structures detected in the study offers more clues about dark matter's nature. "The particle properties of dark matter affect how many clumps form," Nierenberg explained. "That means you can learn about the particle physics of dark matter by counting the number of small clumps."
+
+However, the type of particle that makes up dark matter is still a mystery. "At present, there's no direct evidence in the lab that [dark matter particles](https://phys.org/tags/dark+matter+particles/) exist," Birrer said. "Particle physicists would not even talk about dark matter if the cosmologists didn't say it's there, based on observations of its effects. When we cosmologists talk about dark matter, we're asking, 'How does it govern the appearance of the universe, and on what scales?'"
+
+Astronomers will be able to conduct follow-up studies of dark matter using future NASA space telescopes such as the James Webb Space Telescope and the Wide Field Infrared Survey Telescope (WFIRST), both infrared observatories. Webb will be capable of efficiently obtaining these measurements for all known quadruply lensed quasars. WFIRST's sharpness and large field of view will help astronomers make observations of the entire region of space affected by the immense gravitational field of massive galaxies and galaxy clusters. This will help researchers uncover many more of these rare systems.
+
+The team will present its results at the 235th meeting of the American Astronomical Society in Honolulu, Hawaii.
+
+* * *
+
+* * *
+
+**More information:**
+
+Daniel Gilman, et al. Warm dark matter chills out: constraints on the halo mass function and the free-streaming length of dark matter with 8 quadruple-image strong gravitational lenses.
+
+[DOI: 10.1093/mnras/stz3480](http://dx.doi.org/10.1093/mnras/stz3480)
+
+. arXiv:1908.06983v4 \[astro-ph.CO\]: https://ift.tt/35B9jfH
+
+**Citation**: Hubble detects smallest known dark matter clumps (2020, January 9) retrieved 9 January 2020 from https://ift.tt/2t4RdFF
+
+This document is subject to copyright. Apart from any fair dealing for the purpose of private study or research, no part may be reproduced without the written permission. The content is provided for information purposes only.
+
+  
+  
+from Hacker News https://ift.tt/2t4RdFF

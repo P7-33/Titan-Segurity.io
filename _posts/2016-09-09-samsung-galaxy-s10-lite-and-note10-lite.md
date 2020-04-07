@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy S10 Lite and Note10 Lite with 6.7-inch FHD+ Super AMOLED Infinity-O Display, triple rear cameras announced'
+date: 2020-01-03T17:32:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Samsung-Galaxy-S10-Lite-and-Note-10-Lite-1.jpg) After rumors Samsung just announced the Galaxy S10 Lite and Note10 Lite smartphones ahead of CES 2020 next week. These pack a 6.7-inch Full HD+ Super AMOLED Plus Infinity-O Display, in-display fingerprint scanner, 32-megapixel front camera inside the tiny punch-hole and a 4500mAh battery with support for 25w fast charging. The Galaxy Note10 Lite features the signature Bluetooth S Pen with Air Commands. The S10 Lite is powered by Snapdragon 855 and the Note10 Lite packs Exynos 9810 SoC used in the S9 and Note9. The S10 Lite packs a 48MP main camera with OIS, 12MP ultra-wide and a 5MP macro camera, while the Note10 Lite comes with 12MP main camera with OIS, 12MP ultra-wide and a 12MP Telephoto camera. Samsung Galaxy S10 Lite specifications 6.7-inch Full HD+ (2400x1080 pixels) Super AMOLED Plus Infinity-O Display with 394ppi Octa-Core Qualcomm Snapdragon 855 7nm Mobile Platform (Max. 2.8 GHz + 2.4 GHz + 1.7 GHz) with Adreno 640 GPU 6GB / 8GB LPDDR4x RAM with 128GB storage (UFS 2.1), expandable memory up to 1TB with microSD Android 10 with OneUI 2.0 Dual SIM 48MP rear camera with LED Flash, f/2.0  aperture, OIS, 12MP Ultra Wide sensor with f/2.2 aperture, 5MP macro camera with f/2.0 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=7eyQyMERy68:4nQxhkv18jI:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=7eyQyMERy68:4nQxhkv18jI:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=7eyQyMERy68:4nQxhkv18jI:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=7eyQyMERy68:4nQxhkv18jI:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=7eyQyMERy68:4nQxhkv18jI:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=7eyQyMERy68:4nQxhkv18jI:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/7eyQyMERy68)  
+[Read Here»](https://www.fonearena.com/blog/301621/samsung-galaxy-s10-lite-note-10-lite-price-specifications.html)

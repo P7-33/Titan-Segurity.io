@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy A51 with 6.5-inch FHD+ Infinity-O AMOLED display, 48MP quad rear cameras launching in India on January 29'
+date: 2020-01-27T14:22:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Samsung-Galaxy-A51-3-1024x718.jpg) Samsung has confirmed the launch of Galaxy A51, the company’s latest smartphone in the A series in India on January 29th. Even though the teaser posted by the company just says a new Galaxy A series phone is coming, code on the micro site confirms the phone is indded Galaxy A51. It was introduced last month in Vietnam and packs a 6.5-inch Infinity-O Super AMOLED infinity display with 20:9 aspect ratio, is powered by Exynos 9611 with up to 8GB RAM, features 48MP main + 12MP 123-degree ultra-wide + 5MP macro and 5MP depth sensors and a 32-megapixel front camera. It has Super Steady Video that eliminates screen flickering when users record videos of a moving object or on the move. Awesome’s just about here. 2 days to go! #GalaxyA coming soon. #AwesomeIsForEveryone Get notified: http://bit.ly/2vim0PV pic.twitter.com/hOq95lBTaF — Samsung India (@SamsungIndia) January 27, 2020 The phone has in-display fingerprint scanner, features dedicated dual SIM and microSD slots, comes with mirror back and a multi-colored diamond cut design with different Tone such as Multicolour in Blue, Sparkling finish in White, Diamond finish in Black. It packs a 4,000 mAh battery with 15W super fast charging technology that promises 3 hours of talk time, 3 hours ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=PiZoht5UEr4:vqBaoWQt61w:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=PiZoht5UEr4:vqBaoWQt61w:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=PiZoht5UEr4:vqBaoWQt61w:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=PiZoht5UEr4:vqBaoWQt61w:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=PiZoht5UEr4:vqBaoWQt61w:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=PiZoht5UEr4:vqBaoWQt61w:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/PiZoht5UEr4)  
+[Read Here»](https://www.fonearena.com/blog/303351/samsung-galaxy-a51-india-launch-date.html)

@@ -1,0 +1,12 @@
+---
+title: 'NoiseFit Fusion hybrid smartwatch with 1.22-inch round touch display launched for Rs. 6999'
+date: 2020-01-28T11:52:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/NoiseFit-Fusion.jpg) Noise, popular for its accessories has launched NoiseFit Fusion, which the company calls India's first full touch hybrid Smart Watch, a blend of traditional analog features with smart watch capabilities. It has stainless steel and sapphire glass, sports a 1.22-inch round, full-color and capacitive touch display. NoiseFit Fusion features and specifications 1.22-inch (240 x 240 pixels) TFT LCD touch screen Bluetooth 4.0 to connect to Android or iOS phones Mechanical Hands with Smart Movement intuitively align alongside crucial notifications such as phone calls, reminders and message notifications Range of 14 digital watch faces — Each designed to appeal to distinct sensibilities. Water-resistant up to 50 meters (5 ATM) 3-axis accelerometer, optical heart rate sensor Activity tracking, Sleep tracking 44mm (width) x12.8mm (thickness); Weight: 90g 200mAh battery for up to 3 days battery life in Smart Mode, 30 days in analog mode The NoiseFit Fusion comes in Classic Black, Vintage Brown and Rose Gold variant for women (coming soon), is priced at Rs. 6999 and is available from Amazon, Flipkart and gonoise.com. It comes with a leather strap and an additional silicone strap.
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=TFbWiK2PXvI:StCGCrtXcpA:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=TFbWiK2PXvI:StCGCrtXcpA:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=TFbWiK2PXvI:StCGCrtXcpA:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=TFbWiK2PXvI:StCGCrtXcpA:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=TFbWiK2PXvI:StCGCrtXcpA:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=TFbWiK2PXvI:StCGCrtXcpA:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/TFbWiK2PXvI)  
+[Read Here»](https://www.fonearena.com/blog/303425/noisefit-fusion-price-specifications.html)

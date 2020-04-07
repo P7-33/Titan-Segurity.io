@@ -1,0 +1,12 @@
+---
+title: 'Facebook posts $7.4 billion profit, up 6.78% YoY in Q4 2019, MAUs up 8%'
+date: 2020-01-30T09:04:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2018/05/Facebook-Smart-Speaker-1024x576.jpeg) Facebook has reported a good year for 2019 as it released its Q4 2019 earnings report. The total earnings posted for this quarter was $21082 million which amounts to a YoY growth of about 24.64% from Q4 2018. The net income on the other hand, was reported at $7349 million which calculates to an increase of approx. 6.78% YoY. Coming to the user statistics, Facebook's Daily Active Users (DAU) was at 1.66 Billion on average during December 2019 that is a approx. 8.79% increase YoY. The Monthly Average Users at the end of December was reported 2.50 Billion which is an increase of approx. 7.67% YoY. When looking at users in Facebook entire product family that includes Facebook, Instagram, Messenger, and/or WhatsApp, Daily Active People (DAP) was reported at $2.26 billion (11% increase YoY) and Monthly Active People (MAP) was reported at $2.89 billion (9% increase YoY). The Diluted Earnings Per Share (EPS) saw an increase of approx. 7.56% from $2.38 to $2.56. However, Operating Margins saw a decrease from 46% in Q4 2018 to 42% in Q4 2019. Headcounts as of December 31st, 2019 was reported at 44,942 that represents a growth of 26% YoY. Commenting on the Q4 earning report, Mark ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=rTfy0hRxnu4:nk7nL8Fbwng:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=rTfy0hRxnu4:nk7nL8Fbwng:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=rTfy0hRxnu4:nk7nL8Fbwng:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=rTfy0hRxnu4:nk7nL8Fbwng:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=rTfy0hRxnu4:nk7nL8Fbwng:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=rTfy0hRxnu4:nk7nL8Fbwng:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/rTfy0hRxnu4)  
+[Read Here»](https://www.fonearena.com/blog/303609/facebook-q4-2019-revenue-profit-mau.html)

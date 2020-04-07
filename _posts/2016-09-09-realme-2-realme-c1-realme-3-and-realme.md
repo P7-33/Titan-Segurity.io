@@ -1,0 +1,12 @@
+---
+title: 'realme 2, realme C1, realme 3 and realme 3i latest updates bring Dark Mode Toggle and January Android Security Patch'
+date: 2020-01-17T04:22:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/03/Realme-3_fonearena-4-1024x660.jpg) realme launched realme 2 and realme C1 back in 2018 running Android Oreo and later updated both the devices to Android Pie. realme launched realme 3 smartphone in India back in March, later in July it launched realme 3i, a cheaper version. A couple of months back, the company rolled out updates for all 4 smartphones bringing system-wide Dark Mode, realme Laboratory and more. Now, the company has started rolling out the new RMX1821EX\_11.A.25 update to realme 3 and realme 3i. The update brings January security patch along with a dark mode quick switch toggle in the notification panel. The update also enables flash on calls feature on realme 3 and realme 3i. realme 3 and 3i aren't the only devices receiving January security patch update, the company is also rolling out RMX1805EX\_11\_A.63 update to realme 2 and realme C1. realme recently shared a few features of its upcoming realme UI that will offer near-stock Android experience. The company has already confirmed Android 10 roadmap for its devices and as per the schedule, realme 3 and realme 3i are expected to get Android 10 update in April 2020. The company doesn't have any plans to upgrade realme 2 and realme C1 to Android 10 or realme UI as of now. If you own any of the above-mentioned devices ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=EYN1bb43IvY:-qkkqkgVdZo:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=EYN1bb43IvY:-qkkqkgVdZo:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=EYN1bb43IvY:-qkkqkgVdZo:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=EYN1bb43IvY:-qkkqkgVdZo:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=EYN1bb43IvY:-qkkqkgVdZo:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=EYN1bb43IvY:-qkkqkgVdZo:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/EYN1bb43IvY)  
+[Read Here»](https://www.fonearena.com/blog/302565/realme-2-realme-c1-realme-3-realme-3i-dark-mode-toggle-january-security-patch.html)

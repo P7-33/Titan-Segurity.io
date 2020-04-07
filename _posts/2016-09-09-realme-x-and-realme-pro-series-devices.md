@@ -1,0 +1,12 @@
+---
+title: 'realme X and realme Pro series devices will get two Android updates'
+date: 2020-01-29T18:22:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/realme-X2-Pro_fonearena-14-1024x590.jpg) realme announced Android 10 update roadmap for its devices back in September, but it didn't mention anything about the older devices like realme C1, realme 2, realme U1. In the recent episode of #AskMadhav, the company’s CEO, Madhav Sheth said that the company will roll-out one Android update to all the smartphones, but didn't mention anything about the premium series of devices such as realme X2 Pro. In response to a user's query on Twitter, the company official Francis Wang said that the X series of devices will get 2 major Android updates, so realme X2 Pro, realme X2, realme XT, and realme X should receive Android 11 update in future. To recall, all these devices are scheduled to receive Android 10 based realme UI update by March 2020. That is saying one Major update at least, because we missed realme 1, c1 and u1. But it is not a common practise for every phone. X series will be definetly getting 2 Major update — Francis Wang (@FrancisRealme) January 28, 2020 Francis also said that the realme Pro series of devices will be receiving two major updates, which is great considering other smartphones priced similarly usually get just one Android update. We can assume ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=foyVrlj7KbU:rux_0RoR0Fs:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=foyVrlj7KbU:rux_0RoR0Fs:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=foyVrlj7KbU:rux_0RoR0Fs:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=foyVrlj7KbU:rux_0RoR0Fs:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=foyVrlj7KbU:rux_0RoR0Fs:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=foyVrlj7KbU:rux_0RoR0Fs:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/foyVrlj7KbU)  
+[Read Here»](https://www.fonearena.com/blog/303571/realme-x-realme-pro-series-two-android-updates.html)

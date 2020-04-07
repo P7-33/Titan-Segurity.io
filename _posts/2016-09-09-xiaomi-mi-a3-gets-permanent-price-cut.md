@@ -1,0 +1,12 @@
+---
+title: 'Xiaomi Mi A3 gets a permanent price cut in India, now available starting at Rs. 11999'
+date: 2020-01-23T09:49:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/08/Xiaomi-Mi-A3-White_fonearena-20-1024x645.jpg) Xiaomi launched the Mi A3, the company’s third Android One smartphone in India back in August last year starting at Rs. 12999. Soon after the launch the company started selling the phone at discounted rates during sales. Today it has announced Rs. 1000 permanent price cut for the phone. The 4GB RAM with 64GB storage version is now available for Rs. 11,999 and the 6GB RAM with 128GB storage version costs Rs. 14,999, after the price cut. It is available from Amazon.in, Flipkart and Mi.com at new rates. Check out our Mi A3 review, if you are planning to get the phone. Mi fans, we've got a new price for the #48MPAndroidOne phone - ₹1⃣1⃣9⃣9⃣9⃣ The #MiA3 also comes with: - Super AMOLED Display - In-screen fingerprint sensor - Triple rear camera Get yours from http://bit.ly/2XBW9Qg, @Flipkart, and @amazonIN. pic.twitter.com/X0qkO9nDv3 — Mi India #108MP IS COMING! (@XiaomiIndia) January 23, 2020 To remind you, the phone packs a 6.088-inch HD+ Super AMOLED display, is powered by Snapdragon 665 11nm SoC with up to 6GB of RAM, runs Android 9.0 (Pie), and the company has promised that it will get Android 10 update mi-February. It has seventh gen in-display fingerprint scanner with a 15% increased fingerprint detection area. The phone features a 48-megapixel ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=s_eGE6A2Tyc:2L4oTQBoGZc:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=s_eGE6A2Tyc:2L4oTQBoGZc:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=s_eGE6A2Tyc:2L4oTQBoGZc:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=s_eGE6A2Tyc:2L4oTQBoGZc:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=s_eGE6A2Tyc:2L4oTQBoGZc:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=s_eGE6A2Tyc:2L4oTQBoGZc:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/s_eGE6A2Tyc)  
+[Read Here»](https://www.fonearena.com/blog/303088/xiaomi-mi-a3-price-cut-india.html)

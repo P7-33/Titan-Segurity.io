@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy Z Flip press renders and detailed specifications surface'
+date: 2020-01-29T08:52:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Samsung-Galaxy-Z-Flip-leak-1024x731.jpg) Samsung is all set to introduce its second-generation foldable smartphone at the Unpacked 2020 on February 11 and earlier this week, the initial renders of the Galaxy Z Flip smartphone surfaced, but not many details were known then. Now, the latest press renders have surfaced and key specifications have been revealed as well. Galaxy Z Flip rumored specifications Display: 6.7-inch FULL HD+ (2636 x 1080 pixels) Dynamic AMOLED Infinity-O display, external 1.06-inch (300 x 116 pixels) Super AMOLED display with Gorilla Glass 6 protection SoC: Octa-Core Snapdragon 855 Plus (1 x Kryo 485 at 2.96GHz + 3 x Kryo 485 at 2.42GHz + 4 x Kryo 385 at 1.8GHz) 7nm Mobile Platform with 675MHz Adreno 640 GPU RAM/ROM: 8GB RAM with 256GB storage (UFS 3.0) Rear camera: 12MP (primary dual pixel f/1.8) + 12MP (ultra-wide f/2.2); LED flash, HDR10+, OIS, Quick Start; Video: Up to 4K 60fps Front camera: 10MP (dual pixel f/2.4); Video: Up to 4K 30fps Sensors: Accelerometer, gyroscope, compass, ambient light sensor, barometer, proximity detection, and fingerprint sensor (rear-mounted) Connectivity: WiFi 6, Bluetooth 5.0, WiFi Direct, Smart View, Mirror Link, GPS, GLONASS, Beidou, Galileo Security: Samsung Knox 3.4.1, secure folder, facial recognition Dimensions: Folded: 87.4 x 73.6 x 15.4 mm, ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=MlhRS7ZHKOg:lLuMmxHPhV4:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=MlhRS7ZHKOg:lLuMmxHPhV4:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=MlhRS7ZHKOg:lLuMmxHPhV4:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=MlhRS7ZHKOg:lLuMmxHPhV4:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=MlhRS7ZHKOg:lLuMmxHPhV4:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=MlhRS7ZHKOg:lLuMmxHPhV4:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/MlhRS7ZHKOg)  
+[Read Here»](https://www.fonearena.com/blog/303485/samsung-galaxy-z-flip-specs-image-leak.html)

@@ -1,0 +1,12 @@
+---
+title: 'Here’s how you can enable Jio WiFi Calling on OnePlus devices'
+date: 2020-01-10T09:40:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/OnePlus-Jio-WiFi-Calling-1024x808.jpg) Jio launched its Wi-Fi calling services shortly after Airtel launched it across several circles. The list of compatible list of devices is huge compared to Airtel, but OnePlus smartphones are not included in the list yet. But, there's a workaround on getting Jio VoWiFi on your OnePlus smartphone, and in this post, we will show you the steps to get Jio Wi-Fi calling on your OnePlus smartphone. Note: We tested on OnePlus 7T, 7T Pro and OnePlus 6 smartphones and it worked as expected. It is not working on OnePlus 6T, as of now.  \[gallery link="file" size="large" ids="302194,302193,302192"\] Steps to enable Jio VoWiFi on OnePlus smartphones Download and install OnePlusLogKit 1.0 APK \[Download Link\] Open Dialer and dial \*#800# You'll get a warning, but click 'Enter' Then, go to oneplus Log Kit->Function Switch->VoWifi switch and enable the same Reboot your device Lastly, navigate to Settings->Wi-Fi & internet->SIM & network->SIM (Jio 4G)->Enhanced Communications->Turn on Wi-Fi Calling WiFi Calling will start working and you will see the 'VoWiFi' icon on the status bar It is to be noted that the Function Switch on the LogKit is a Dev test only, and the functionality might be unstable after enabling. Hopefully, Jio and OnePlus will enable this feature ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=KesyXow6e6Y:veOSrafpvYA:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=KesyXow6e6Y:veOSrafpvYA:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=KesyXow6e6Y:veOSrafpvYA:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=KesyXow6e6Y:veOSrafpvYA:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=KesyXow6e6Y:veOSrafpvYA:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=KesyXow6e6Y:veOSrafpvYA:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/KesyXow6e6Y)  
+[Read Here»](https://www.fonearena.com/blog/302179/enable-jio-wifi-calling-oneplus-devices.html)

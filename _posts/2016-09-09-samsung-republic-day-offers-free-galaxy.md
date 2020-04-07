@@ -1,0 +1,12 @@
+---
+title: 'Samsung Republic Day Offers: Free Galaxy S10 with select QLED 4K TVs, up to 15% cash back on cards and more'
+date: 2020-01-20T12:43:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Samsung-2020-Republic-Offers-1024x872.jpg) For this Republic Day, Samsung is having multiple offers for Indian consumers including attractive finance schemes, cash backs, and easy EMIs options with zero down payment. These offers are available across various Samsung devices such as its TVs, Microwaves, Ovens, Washing Machines and more. Beginning with its most lucrative offers, Customers purchasing select models of its QLED or 4K UHD TV's will get either Galaxy S10 (512GB) worth Rs. 76900, Galaxy A50s (4GB) worth Rs. 19999, Galaxy M30 6GB worth Rs. 16999, Galaxy A10s 2GB worth Rs. 8,499 and Samsung U Flex Headphone worth Rs. 3,799. When purchasing select models of convection Microwave Oven (28L & above), Samsung will gift a free Borosil kit along with a 10 year warranty on the ceramic enamel cavity. During this offer period, Samsung is also providing a 2-year warranty on select air conditioner models Samsung is also offering My Samsung My EMI service and Flexi EMI options, both giving customers easy EMI options when purchasing these products. Customers can avail up to 15% cash back via Axis Bank, Federal Bank and ICICI Bank debit and credit cards. Commenting on launch of these offers, Raju Pullan, Senior Vice President, Consumer Electronics Business, Samsung India said: Samsung believes in consumer centricity and ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=m9DYgC6rb5Y:sTFMQG5N6Yo:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=m9DYgC6rb5Y:sTFMQG5N6Yo:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=m9DYgC6rb5Y:sTFMQG5N6Yo:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=m9DYgC6rb5Y:sTFMQG5N6Yo:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=m9DYgC6rb5Y:sTFMQG5N6Yo:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=m9DYgC6rb5Y:sTFMQG5N6Yo:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/m9DYgC6rb5Y)  
+[Read Here»](https://www.fonearena.com/blog/302905/samsung-republic-day-offers-qled-4k-tv-galaxy-s10-cash-back-offers.html)

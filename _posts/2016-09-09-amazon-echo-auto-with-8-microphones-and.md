@@ -1,0 +1,12 @@
+---
+title: 'Amazon Echo Auto with 8 microphones and far-field technology for in-car usage launched in India for Rs. 4999'
+date: 2020-01-07T11:36:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Amazon-Echo-Auto-1.jpg) Amazon has launched Echo Auto, the company's latest Alexa product designed for in-car usage with 8 microphones and far-field technology to hear you even in noisy traffic conditions. It is powered by the car's 12V charging socket or USB port and connects to your car stereo system for audio playback using a 3.5 mm auxiliary cable or Bluetooth connection. It connects to Alexa through the Alexa app on your smartphone and uses your existing data plan to stream music, make a call or send messages to your phone contacts, and more. With Alexa, you can hear your morning news, listen to an Audible book on your commute, ask for the nearest coffee shops, petrol pumps and more. Add Alexa to your car — Echo Auto is powered by your car's 12V charging socket or USB port and connects to your stereo system through a 3.5 mm auxiliary cable or Bluetooth connection Designed exclusively for in-car usage — With 8 microphones and far-field technology, Echo Auto can hear you over music, A/C, and road noise. Voice control your music — Voice control Echo Auto through the Alexa app to stream from Amazon Prime Music, Apple Music, JioSaavn, and Gaana - just ask ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=8R4tlkxZJTE:t9ZNFo-7x2M:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=8R4tlkxZJTE:t9ZNFo-7x2M:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=8R4tlkxZJTE:t9ZNFo-7x2M:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=8R4tlkxZJTE:t9ZNFo-7x2M:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=8R4tlkxZJTE:t9ZNFo-7x2M:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=8R4tlkxZJTE:t9ZNFo-7x2M:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/8R4tlkxZJTE)  
+[Read Here»](https://www.fonearena.com/blog/301859/amazon-echo-auto-price-india-features.html)

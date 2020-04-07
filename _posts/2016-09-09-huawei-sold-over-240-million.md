@@ -1,0 +1,12 @@
+---
+title: 'HUAWEI sold over 240 million smartphones including 6.7 million 5G phones in 2019'
+date: 2020-01-16T10:22:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/HUAWEI-Mate-30-3-975x1024.jpg) Being on the US entity list has apparently not affected the Chinese smartphone giant HUAWEI in selling Android Smartphones worldwide. HUAWEI has sold over 240 million smartphone devices in 2020 alone with the Mate and P series seeing a growth of over 50% Y0Y. In the 5G market too, HUAWEI reported impressive numbers of 6.9 million 5G smartphones sold. Despite facing pressure from the US government to stop American companies from dealing with HUAWEI, they have managed to perform well in 2019. They introduced alternatives to Google Play services and has committed to developing the ecosystem further and making it more robust. HUAWEI also reported strong numbers for 5G smartphone sales worldwide; with over 6.9 million devices sold. They launched multiple devices, primarily in China, from their flagship Mate 30 Pro 5G all the way down to a more budget HONOR V30 Pro and HONOR V30. Focusing on the China market has really helped HUAWEI navigate the ban from US very effectively. Even in the wearables market, HUAWEI performed well with HUAWEI Watch 2 shipped more than two million in three months and HUAWEI FreeBuds 3 headsets shipped more than one million in the first month. With India announcing that they will allow HUAWEI ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=TQ-hhRp0kPg:jwIJ0Z4FfUE:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=TQ-hhRp0kPg:jwIJ0Z4FfUE:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=TQ-hhRp0kPg:jwIJ0Z4FfUE:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=TQ-hhRp0kPg:jwIJ0Z4FfUE:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=TQ-hhRp0kPg:jwIJ0Z4FfUE:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=TQ-hhRp0kPg:jwIJ0Z4FfUE:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/TQ-hhRp0kPg)  
+[Read Here»](https://www.fonearena.com/blog/302527/huawei-240-million-smartphones-6-7-million-5g-phones.html)

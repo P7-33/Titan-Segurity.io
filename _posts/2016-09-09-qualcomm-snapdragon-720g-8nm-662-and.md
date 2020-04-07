@@ -1,0 +1,12 @@
+---
+title: 'Qualcomm Snapdragon 720G 8nm, 662 and 460 11nm Mobile Platforms with Wi-Fi 6, Bluetooth 5.1, ISRO’s NavIC announced'
+date: 2020-01-21T08:19:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Qualcomm-Snapdragon-720G-662-and-460-1024x633.jpg) Qualcomm has introduced Snapdragon 720G, 662 and 460 Mobile Platforms with 4G connectivity, Wi-Fi 6 features and integrated Bluetooth 5.1 with advanced audio via the Qualcomm FastConnect 6-series subsystems, support Dual-Frequency (L1 and L5) GNSS to improve location positioning accuracy and robustness, and are the first system-on-chip solutions to support Navigation with Indian Constellation (NavIC). These new platforms also feature the Qualcomm AI Engine and Qualcomm Sensing Hub. For the first time supported on mobile, the Qualcomm Location Suite now supports up to seven satellite constellations concurrently, including the use of all of NavIC’s operating satellites for more accurate location performance, faster time-to-first-fix (TTFF) position acquisition, and improved robustness of location-based services. Qualcomm Snapdragon 720G Mobile Platform specifications Up to 2.3 GHz Kryo 465 Octa-core CPUs 8nm process technology Up to 8GB memory, 2×16 LPDDR4x 1866MHz, eMMC, UFS 2.1, USB Type-C support Qualcomm Adreno 618 GPU OpenGL ES 3.2, OpenCL 2.0 FP, Vulkan(R) 1.1 support Qualcomm Spectra 350L Dual 14-bit ISPs — Up to 32 MP single camera, 16MP dual camera, Up to 192 MP Photo Capture, Up to 48 MP with Multi-Frame Noise Reduction, Zero Shutter Lag, 4K Video Capture @ 30 FPS, HEIF: HEIC photo capture, HEVC video capture Supports ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=mPpbnNrHVZc:WrnRQ56sC3o:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=mPpbnNrHVZc:WrnRQ56sC3o:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=mPpbnNrHVZc:WrnRQ56sC3o:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=mPpbnNrHVZc:WrnRQ56sC3o:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=mPpbnNrHVZc:WrnRQ56sC3o:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=mPpbnNrHVZc:WrnRQ56sC3o:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/mPpbnNrHVZc)  
+[Read Here»](https://www.fonearena.com/blog/302931/qualcomm-snapdragon-720g-662-460-specs-features.html)

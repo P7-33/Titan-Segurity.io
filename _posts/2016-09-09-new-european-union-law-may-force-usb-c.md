@@ -1,0 +1,12 @@
+---
+title: 'New European Union law may force USB-C connectors for all smartphones'
+date: 2020-01-17T08:22:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2015/05/USB-Type-C-Android-M-2-1024x576.jpg) The European Union (EU) is considering a rather interesting rule to enforce a mandatory, universal charging connector for future smartphones. If passed, this will likely pave the way for USB-C to become the default connector port for every smartphone sold everywhere, including Apple's iPhone. With the advent of USB-C in everything, it will also finally mean the end of the aging USB  Micro-B connector. The micro-B connector has been in use for over a decade when the age of smartphones arrived and has been slowly dying since the advent of the more durable and better USB-C connector. Almost all flagship and mid-range phones have moved on to USB-C but the micro-B still exists in some low end budget smartphones. Another notable company that would object to this ruling is Apple as it has famously stuck with its propriety Lightning Connector as its primary charging port in the iPhone till date. There have been rumors of Apple switching to USB-C for the 2020 iPhone and some analysts have predicted that Apple will remove the charging port all together, in favour of wireless charging. If the resolution does get passed, it will be very interesting to see how Apple will react. The EU Commission had ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=ZyCjbfIZhgA:ZoQeiecRaIw:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ZyCjbfIZhgA:ZoQeiecRaIw:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=ZyCjbfIZhgA:ZoQeiecRaIw:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ZyCjbfIZhgA:ZoQeiecRaIw:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=ZyCjbfIZhgA:ZoQeiecRaIw:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=ZyCjbfIZhgA:ZoQeiecRaIw:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/ZyCjbfIZhgA)  
+[Read Here»](https://www.fonearena.com/blog/302602/new-european-union-law-usb-c-for-all-smartphones.html)

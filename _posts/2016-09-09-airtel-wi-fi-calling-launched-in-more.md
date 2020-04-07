@@ -1,0 +1,12 @@
+---
+title: 'Airtel Wi-Fi Calling launched in more circles, now supports more devices, works on non-Airtel broadband connection'
+date: 2020-01-08T11:36:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Airtel-VoWiFi-1024x585.jpg) Last month Airtel rolled out Voice over Wi-Fi services officially starting from Delhi NCR, later it expanded to Mumbai, Kolkata,Andhra Pradesh, Karnataka and Tamil Nadu. Today the company has launched Wi-Fi Calling in Kerala, Gujarat, UP (West), Maharashtra, UP (East), Punjab, Haryana and Madhya Pradesh. Previously it was compatible only with Airtel Xstream Fiber home broadband, now it works with all broadband services and Wi-Fi hotspots, even though the site still says it works only on Airtel broadband. It has also expanded the number of supported devices. Airtel Wi-Fi Calling leverages cutting edge technology to enhance the indoor voice calling experience for Airtel smartphone customers. The innovative service uses WiFi networks to create a dedicated channel for voice calls and allows customers to make telco grade calls to any network. This dramatically improves customer experience as one can seamlessly switch to Airtel Wi-Fi Calling. Airtel Wi-Fi Calling does not require any app and can be configured on the smartphone by following the steps mentioned below: Check smartphone compatibility on airtel.in/wifi-calling Upgrade device operating software to the latest version that supports Wi-Fi Calling Go to Settings on your mobile phone and Switch On Wi-Fi Calling Keep VoLTE switched on as well for a ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=nBwp1bsz3AY:5-G6EuhDEwI:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=nBwp1bsz3AY:5-G6EuhDEwI:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=nBwp1bsz3AY:5-G6EuhDEwI:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=nBwp1bsz3AY:5-G6EuhDEwI:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=nBwp1bsz3AY:5-G6EuhDEwI:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=nBwp1bsz3AY:5-G6EuhDEwI:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/nBwp1bsz3AY)  
+[Read Here»](https://www.fonearena.com/blog/302019/airtel-wi-fi-calling-circle-list-device-list.html)

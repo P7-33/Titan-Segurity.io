@@ -1,0 +1,12 @@
+---
+title: 'OnePlus Concept One smartphone with “invisible camera” teased ahead of official CES 2020 announcement on January 7'
+date: 2020-01-03T17:32:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/OnePlus-Concept-One-teaser-1024x494.png) Consumer Electronics Show (CES) 2020 is all set to kick off starting January 7th, 2020, and OnePlus already announced that it will be unveiling 'Concept One' at a special event in CES, but many details weren't shared then. But now, OnePlus has released an official teaser that reveals a glimpse of what the 'Concept One' smartphone looks like along with other key details. According to the official teaser posted by OnePlus, the OnePlus Concept One smartphone will sport an "invisible camera" and for this, OnePlus has partnered with McLaren which is an automotive company. OnePlus is using the glass technology that is found in aircraft and sunroofs of high-end cars. More specifically, the company is using electrochromic glass which is found in the McLaren 720S. https://youtu.be/fDP3vvLDwmw The way this "invisible camera" works is when an electric signal triggers the camera lens, the tint of the camera lens which is housed under this glass changes, and thus produces the effect. "The glass on the OnePlus Concept One uses organic particles to create various tints in color when subject to an electrical field. When a different voltage is applied, the light transmission properties are altered, allowing the glass to shift back and forth from transparent ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=NHXf6gmCahY:Hpe25fgH-8g:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=NHXf6gmCahY:Hpe25fgH-8g:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=NHXf6gmCahY:Hpe25fgH-8g:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=NHXf6gmCahY:Hpe25fgH-8g:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=NHXf6gmCahY:Hpe25fgH-8g:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=NHXf6gmCahY:Hpe25fgH-8g:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/NHXf6gmCahY)  
+[Read Here»](https://www.fonearena.com/blog/301615/oneplus-concept-one-launch-date-invisible-camera.html)

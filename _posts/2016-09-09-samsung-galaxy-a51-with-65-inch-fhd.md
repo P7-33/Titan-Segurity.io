@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy A51 with 6.5-inch FHD+ Infinity-O AMOLED display, 48MP quad rear cameras launched in India for Rs. 23999'
+date: 2020-01-29T12:22:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Samsung-Galaxy-A51-1-1024x694.jpg) Samsung just launched the Galaxy A51 smartphone in India as it had promised. It packs a 6.5-inch Infinity-O Super AMOLED infinity display with 20:9 aspect ratio, is powered by Exynos 9611 with 6GB RAM, features 48MP main + 12MP 123-degree ultra-wide + 5MP macro and 5MP depth sensors and a 32-megapixel front camera. It has Super Steady Video that eliminates screen flickering when users record videos of a moving object or on the move. The phone has in-display fingerprint scanner, features dedicated dual SIM and microSD slots, comes with mirror back and a multi-colored diamond cut design with different Tone such as Multicolour in Blue, Sparkling finish in White, Diamond finish in Black. It packs a 4,000 mAh battery with 15W super fast charging technology that promises 3 hours of talk time, 3 hours of movie watching and 10 hours of music listening with 10 minutes of charging. Samsung Galaxy A51 specifications 6.5-inch (2400 x 1080 pixels) Full HD+  Infinity-O Super AMOLED screen Octa-Core (Quad 2.3GHz + Quad 1.7GHz) Exynos 9611 10nm processor with Mali-G72 GPU 6GB RAM, 128GB Storage, expandable up to 512GB via micro SD card Android 10 with Samsung One UI 2.0 Dual SIM (nano + nano + ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=TN6Ik46z5_U:qv4I7pMNsEY:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=TN6Ik46z5_U:qv4I7pMNsEY:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=TN6Ik46z5_U:qv4I7pMNsEY:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=TN6Ik46z5_U:qv4I7pMNsEY:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=TN6Ik46z5_U:qv4I7pMNsEY:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=TN6Ik46z5_U:qv4I7pMNsEY:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/TN6Ik46z5_U)  
+[Read Here»](https://www.fonearena.com/blog/303554/samsung-galaxy-a51-price-india-specifications.html)

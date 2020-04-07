@@ -1,0 +1,12 @@
+---
+title: 'Paytm removes all transaction fees with introduction of all-in-one QR code for merchants'
+date: 2020-01-09T09:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Paytm-All-in-one-QR-Code-1024x633.jpg) Paytm, one of the most common Digital Wallets apps in India, has introduced their All-in-One QR for businesses across the country, enabling transactions with 0% fee. Along with this, Paytm is also launching 'Paytm Business Khata' and various utility items with the QR code attached to it. The all-in-one QR code will combine services between three services namely Paytm Wallet, Rupay Cards and all UPI based payment apps into one code that can be used by the merchant to accept payments. With this, merchants can directly transfer money they receive from customers to their own bank accounts through the service of their choice, all with 0% transaction fee. Paytm is also launching a variety of utility items with the merchant QR code attached to it such as a calculator, power banks, clocks, pen stands and even a radio. Merchants will also have the ability to avail personalized QR codes with their names, logos, and pictures. There is even a small speaker box called Paytm soundbox that will alert merchants with a sound to signify when a successful transaction is made. All of these can be be ordered from the merchandise store on the ‘Paytm for Business’ app with doorstep delivery. And finally Paytm is ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=y1-4x09a14M:4oeRlwlJHXc:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=y1-4x09a14M:4oeRlwlJHXc:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=y1-4x09a14M:4oeRlwlJHXc:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=y1-4x09a14M:4oeRlwlJHXc:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=y1-4x09a14M:4oeRlwlJHXc:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=y1-4x09a14M:4oeRlwlJHXc:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/y1-4x09a14M)  
+[Read Here»](https://www.fonearena.com/blog/302086/paytm-all-in-one-qr-code.html)

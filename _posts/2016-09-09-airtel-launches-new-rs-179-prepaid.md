@@ -1,0 +1,12 @@
+---
+title: 'Airtel launches new Rs. 179 prepaid bundle with truly unlimited calls, life insurance cover of Rs. 2 lakh'
+date: 2020-01-19T13:43:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/airtel-logo-new.jpg) Airtel has launched new Rs. 179 pre-paid bundle with built-in Bharti Axa Life insurance cover of Rs 2 lakh, unlimited calling to any network, 2GB data, 300 SMS and a validity of 28 days. It also includes Airtel Xstream App Premium and Wynk Music. The company already offers Rs. 149 with similar benefits, but without life insurance. "The pack is designed to serve entry level smartphone users and feature phone users in semi-urban and rural markets. It will give these customers a simple and highly convenient channel to secure themselves and their families financially every time they recharge their Airtel mobile numbers," said the company. Commenting on the launch, Shashwat Sharma, Chief Marketing Officer, Bharti Airtel, said: Our innovative prepaid bundles with built-in term insurance plans have got positive response from customers and this has encouraged us to take the solution even deeper to the masses. The Rs. 179 recharge will offer one of the simplest and most accessible platforms to hundreds of millions of Indians to financially secure themselves and their families while staying connected on Airtel’s world-class network.
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Y5Cc5zgBe8U:uaFnmQN9rFE:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Y5Cc5zgBe8U:uaFnmQN9rFE:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Y5Cc5zgBe8U:uaFnmQN9rFE:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Y5Cc5zgBe8U:uaFnmQN9rFE:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Y5Cc5zgBe8U:uaFnmQN9rFE:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Y5Cc5zgBe8U:uaFnmQN9rFE:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Y5Cc5zgBe8U)  
+[Read Here»](https://www.fonearena.com/blog/302786/airtel-179-plan-unlimited-calls-life-insurance-cover.html)

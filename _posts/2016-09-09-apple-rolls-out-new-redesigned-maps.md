@@ -1,0 +1,12 @@
+---
+title: 'Apple rolls out new redesigned Maps with real time transit info, faster navigation and more in USA'
+date: 2020-01-31T13:04:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Apple-Maps-update-v1.3.5-1024x676.jpg) Apple is rolling out a new update v1.3.5 to its Maps app in the US that offers a redesign with faster navigation, better road coverage, more precise addresses and better land detail cover. It has also been updated with other features like real time transit info, flight statuses, indoor maps and more. With the new update, users can save and share lists of their favourite places using a feature called Collections. Another feature called Favourites gives users an easy way to access places they visit every day like home, work, the gym or school. Similar to Google Street View, Apple has added Look Around, which is an interactive street-level imagery with high-resolution, 3D photography and smooth and seamless transitions through major cities. Apple has also added additional features like real time transit that gives gives detailed transit schedules, live departure times, arrival times, the current location of a bus or train en route and more. Share ETA allows users to send an estimated time of arrival to family, friends or coworkers with a simple tap. Flight Status will scan for information stored in Mail, Calendar or Wallet and proactively serves flight information for terminals and more. The update is currently available for users in the United State ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Tt-34IT2Xj0:hJv7kRhv5mo:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Tt-34IT2Xj0:hJv7kRhv5mo:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Tt-34IT2Xj0:hJv7kRhv5mo:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Tt-34IT2Xj0:hJv7kRhv5mo:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Tt-34IT2Xj0:hJv7kRhv5mo:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Tt-34IT2Xj0:hJv7kRhv5mo:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Tt-34IT2Xj0)  
+[Read Here»](https://www.fonearena.com/blog/303738/apple-redesigned-maps-real-time-transit-info-faster-navigation.html)

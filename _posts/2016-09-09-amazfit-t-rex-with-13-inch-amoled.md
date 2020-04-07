@@ -1,0 +1,12 @@
+---
+title: 'Amazfit T-Rex with 1.3-inch AMOLED screen, military-grade durability and Amazfit Bip S with 40 days battery life, GPS announced'
+date: 2020-01-08T05:06:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Amazfit-T-Rex-2-1024x679.jpg) Amazfit has announced T-Rex, the company's first outdoor smartwatch at the CES 2020, as it had promised. It has passed 12 regulations of the military-standard (MIL-STD-810G) quality test and can withstand extreme heat and cold, is resistant against corrosion, moisture resistance and has a durable body. It has heat resistance of 70℃, resistance to severe cold of minus 40℃, has passed 240-hour damp heat test, and 96-hour acid-alkali test. The T-Rex features a 1.3-inch AMOLED screen with an "always on display" function, GPS + GLONASS with 20-hour continuous working time and up to 20 days of battery life. The smartwatch features 14 sports modes, has 5ATM water resistant design, is equipped with BioTracker PPG optical sensor for all-day heart rate monitoring and provides rapid heart rate alerts. Amazfit T-Rex specifications 1.3-inch (360 x 360 pixels) AMOLED display with Corning Gorilla Glass 3 protection Compatible with Android 5.0 devices or later, iOS 10.0 or later Optical heart rate monitor (PPG) Sensors: 3-Axis Acceleration Sensor, Geomagnetic Sensor, Ambient Light Sensor Dust and Water Resistant up to 50 meters (5ATM), Bluetooth 5.0 LE, GPS+GLONASS MIL-STD 810G Compliance 19 Sports modes Dimensions: 47.7 X 47.7 X 13.5mm; Weight: 58g 390mAh battery with up to 20 days of ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=I0e4xyXTXM8:STihJFeUZdQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=I0e4xyXTXM8:STihJFeUZdQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=I0e4xyXTXM8:STihJFeUZdQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=I0e4xyXTXM8:STihJFeUZdQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=I0e4xyXTXM8:STihJFeUZdQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=I0e4xyXTXM8:STihJFeUZdQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/I0e4xyXTXM8)  
+[Read Here»](https://www.fonearena.com/blog/301971/amazfit-t-rex-price-specifications-bip-s.html)

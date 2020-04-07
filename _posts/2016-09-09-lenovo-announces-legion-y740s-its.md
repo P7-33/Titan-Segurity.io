@@ -1,0 +1,12 @@
+---
+title: 'Lenovo announces Legion Y740S its thinnest ever gaming laptop, eGPU enclosure, gaming monitors and more at CES 2020'
+date: 2020-01-08T09:36:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Lenovo-Legion-CES-2020-1024x895.jpg) Legion, Lenovo's line of gaming focused products has made a few announcements at CES 2020. These include their thinnest ever Legion Gaming laptop called the Legion 740s, their external GPU enclosure called the Legion Booststation, a 240Hz Legion gaming monitor and bunch other peripherals like keyboards and mice. Lenovo has introduced its thinnest gaming as of yet with an interesting quirk, it has no GPU. That is right, the Lenovo Legion Y740S is their newest addition to the Legion brand of gaming laptops and it only comes with an integrated GPU onboard. So how do you game on it? Well, you could use the Lenovo Legion BoostStation which is an external Thunderbolt 3 external GPU enclosure. The laptop alone is still impressive though. It can be configured with up to 10th Gen Intel Core i9 processors (that are coming soon), up to 32GB DDR4 RAM, up to 1TB PCIe SSD2 storage capacity and a 15.6-inch 4K IPS screen with 100 percent sRGB color gamut and VESA DisplayHDR 600 certification. For peak gaming performance, the laptop can connect to an eGPU via its thunderbolt 3 port at the back, achieving nearly desktop level GPU performance. The Legion BoostStation, which will support both NVIDIA GeForce ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=YRZF1d28qgI:MdkAnfLAIu4:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=YRZF1d28qgI:MdkAnfLAIu4:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=YRZF1d28qgI:MdkAnfLAIu4:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=YRZF1d28qgI:MdkAnfLAIu4:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=YRZF1d28qgI:MdkAnfLAIu4:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=YRZF1d28qgI:MdkAnfLAIu4:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/YRZF1d28qgI)  
+[Read Here»](https://www.fonearena.com/blog/301985/lenovo-legion-y740s-egpu-enclosure-legion-y25.html)

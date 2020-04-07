@@ -1,0 +1,12 @@
+---
+title: 'LG G8X ThinQ Review: Is the phone with Dual Screen worth it?'
+date: 2020-01-29T10:52:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/LG-G8X-ThinQ_fonearena-5-1024x652.jpg) After announcing the G8X ThinQ back in September 2019 at the IFA, the South Korean company has launched the flagship device in the Indian market in Aurora Black color at Rs. 49,999 bundled with LG Dual Screen accessory. While we loved the LG V40 ThinQ, our expectation were sky-high for this device considering its dual display feature. In fact, the G8X has accomplished what LG has been trying to do for years — dual displays, for example V10 and V20.  Does this device from LG met our expectations? How useful were the secondary display? Do read it out below. Why should you buy it? Military-grade build quality that LG has mastered over the years Build quality is the first thing I like about LG smartphones. Over the years, the company has mastered the design and build quality, no matter the price range. Talking about the design, it looks exactly like G8 with glass sandwich design and metal rim on sides. The rear side of the device holds a curve towards the edges. \[gallery link="file" columns="2" size="medium" ids="303321,303320,301436,303325"\] The device offers a great in-hand feel, thanks to the premium glass build. Even though it has a solid build quality, it is slippery, so we recommend slapping a ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=1OGkp9md-ZY:i3EPpRyVDak:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=1OGkp9md-ZY:i3EPpRyVDak:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=1OGkp9md-ZY:i3EPpRyVDak:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=1OGkp9md-ZY:i3EPpRyVDak:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=1OGkp9md-ZY:i3EPpRyVDak:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=1OGkp9md-ZY:i3EPpRyVDak:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/1OGkp9md-ZY)  
+[Read Here»](https://www.fonearena.com/blog/303008/lg-g8x-thinq-review.html)

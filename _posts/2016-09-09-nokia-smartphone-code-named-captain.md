@@ -1,0 +1,12 @@
+---
+title: 'Nokia smartphone code named ‘Captain America’ with 6GB RAM surfaces, could be Nokia 5.2'
+date: 2020-02-01T17:04:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/02/Nokia-5.2-Captain-America-leak-1024x639.jpg) HMD Global launched the Nokia 5.1 smartphone back in 2018 and later launched the Nokia 5.1 Plus which was a success for the company. While there was no information regarding the successor of the Nokia 5.1 for quite some time, now, a new Nokia smartphone with a circular quad rear camera module, rear-mounted fingerprint scanner and a waterdrop notch has surfaced and it could be the Nokia 5.2 smartphone. According to Evan Blass (@evleaks), the Nokia that has surfaced is code-named 'Captain America' and it indeed could be the Nokia 5.2. Coming to the specifications, not much is known yet, but the 5.2 is said to sport 6GB RAM with 64GB storage. There is no information on the processor as of now, but we can expect it to be powered by Qualcomm Snapdragon 665 Mobile Platform. Furthermore, it is said to be unveiled on 4th March 2020 and is said to be priced around US$ 180 (Rs. 12,870 approx). We should know more information in the coming days. \[caption id="attachment\_264860" align="aligncenter" width="573"\] Nokia 5.1 Plus\[/caption\] In related news, Nokia's MWC event is set for February 23, 2020, and the company is expected to unveil new mid-range smartphones, Android-based feature phones, and more. Source
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=WmBfoG9nD84:cC2jkrz9Cno:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=WmBfoG9nD84:cC2jkrz9Cno:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=WmBfoG9nD84:cC2jkrz9Cno:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=WmBfoG9nD84:cC2jkrz9Cno:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=WmBfoG9nD84:cC2jkrz9Cno:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=WmBfoG9nD84:cC2jkrz9Cno:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/WmBfoG9nD84)  
+[Read Here»](https://www.fonearena.com/blog/303802/nokia-5-2-image-leak-captain-america.html)

@@ -1,0 +1,12 @@
+---
+title: 'Realme 2 Pro gets dark mode quick switch toggle, January Android Security Patch in the latest update'
+date: 2020-01-08T09:06:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2018/09/Realme-2-Pro-3.jpg) realme launched the Realme 2 Pro smartphone in India running ColorOS 5.2 on top of Android 8.1 (Oreo) and updated it to Android 9.0 (Pie) based ColorOS 6 back in June. ColorOS 6.0 brought several features such as Chroma Boost Mode and Camera2 API support to the device. Recently, the company rolled outrolled out an update that brought system-wide Dark Mode, redesigned notification panel and realme laboratory to the realme 2 Pro. Now, realme has started rolling out RMX1801EX\_11\_C.26 update with latest January 2020 Android security patch. The update weighs  around 643 MBs in size and brings a dark mode quick switch toggle in the notification panel along with the flash on call feature. If you haven’t received the update on your device, you can download the zip file here and flash it manually simply by tapping on the downloaded file. realme has already revealed Android 10 roadmap for its devices and as per the schedule, realme 2 Pro is expected to get Android 10 update in Q3, 2020. RMX1801EX\_11\_C.26 changlog, Security ● Android security patch: January, 2020 System ● Added flash on call feature ● Added click the blank area to back to the launcher on recent task interface Notification Center and Status Bar ● Added fast switch toggles of dark mode in ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=4LK_I8x8_tE:M_E2T5pFRMc:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=4LK_I8x8_tE:M_E2T5pFRMc:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=4LK_I8x8_tE:M_E2T5pFRMc:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=4LK_I8x8_tE:M_E2T5pFRMc:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=4LK_I8x8_tE:M_E2T5pFRMc:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=4LK_I8x8_tE:M_E2T5pFRMc:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/4LK_I8x8_tE)  
+[Read Here»](https://www.fonearena.com/blog/301991/realme-2-pro-dark-mode-toggle-january-android-security-patch.html)

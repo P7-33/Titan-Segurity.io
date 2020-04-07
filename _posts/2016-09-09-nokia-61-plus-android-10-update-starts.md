@@ -1,0 +1,12 @@
+---
+title: 'Nokia 6.1 Plus Android 10 update starts rolling out'
+date: 2020-01-06T16:06:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2018/08/Nokia-6.1-Plus-7.jpg) HMD Global has started rolling out Android 10 update for the Nokia 6.1 Plus smartphone, which makes it the fourth Nokia phone to get the update after the Nokia 8.1 in October, and Nokia 9 PureView and Nokia 7.1 last month. It was launched last year running Android Oreo, and got the Pie update in October. Android 10 brings number of additional privacy and security features for users, as well as Dark Theme, Smart Reply, Focus mode, dedicated ‘Privacy section’, and lots more. Nokia 6.1 Plus users, you ready? Your phone’s are now running on the latest Android 10 update . Tap into your smartphone’s upgraded experience and access the latest features today. Have you already upgraded? Let us know in the comments below!👇http://bit.ly/37Gi5dC pic.twitter.com/7KC9wSOb2V — Nokia Mobile (@NokiaMobile) January 6, 2020 The Nokia 6.1 Plus Android 10 update V4.10C, is about 1.3GB in size and also includes Android security patch for December 2019. The company already confirmed Android 10 update for range of phones which will roll out in Q1 2020 and Q2 2020. Check out the complete changelog below. What’s New Dark Mode — Take it wasy on your eyes Smart reply — Save more time with recommended aactions Gesture navigation — Get around with a ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=R9pE2P43lX8:K8G0t4u8tnM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=R9pE2P43lX8:K8G0t4u8tnM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=R9pE2P43lX8:K8G0t4u8tnM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=R9pE2P43lX8:K8G0t4u8tnM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=R9pE2P43lX8:K8G0t4u8tnM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=R9pE2P43lX8:K8G0t4u8tnM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/R9pE2P43lX8)  
+[Read Here»](https://www.fonearena.com/blog/301806/nokia-6-1-plus-android-10-update.html)

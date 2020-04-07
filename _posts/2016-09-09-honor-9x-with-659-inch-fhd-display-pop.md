@@ -1,0 +1,12 @@
+---
+title: 'HONOR 9X with 6.59-inch FHD+ display, pop-up camera launching in India on January 14'
+date: 2020-01-03T16:32:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/07/HONOR-9X-1.jpg) HUAWEI's HONOR brand announced the 'HONOR 9X' smartphone alongside the 9X Pro back in July last year. There were multiple reports that the smartphone will launch in India by the end of 2019. But now finally after multiple teasers, HONOR is launching the 'HONOR 9X' smartphone in India on January 14th, 2020. HONOR has started to roll out the official media invites and alongside the 9X, the company is also expected to launch the Magic Watch 2 and Magic Book laptop lineup. HONOR 9X will be available on Flipkart and the dedicated microsite is already live on the e-commerce website. To recall, HONOR 9X a 6.59-inch FHD+ no-notch display, is powered by the Kirin 810 7nm SoC, but the Indian variant will likely be powered by the Kirin 710F SoC. It runs on Android 9.0 (Pie) with EMIUI 9.1, features a 16-megapixel pop-up front camera, side-mounted fingerprint scanner and packs a 4000mAh battery. Regarding the camera, it sports a 48-megapixel rear camera along with a 2-megapixel camera for capturing portrait shots. HONOR 9X specifications 6.59-inch (2340 x 1080 pixels) Full HD+ 19.5:9 2.5D curved glass display Octa-Core Kirin 710F 12nm (4 x 2.2GHz Cortex-A73 +4 x 1.7GHz Cortex-A53) with ARM Mali-G51 MP4 GPU ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=KHZBG4MDGy4:Ee9ndYZbJQE:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=KHZBG4MDGy4:Ee9ndYZbJQE:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=KHZBG4MDGy4:Ee9ndYZbJQE:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=KHZBG4MDGy4:Ee9ndYZbJQE:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=KHZBG4MDGy4:Ee9ndYZbJQE:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=KHZBG4MDGy4:Ee9ndYZbJQE:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/KHZBG4MDGy4)  
+[Read Here»](https://www.fonearena.com/blog/301620/honor-9x-india-launch-date.html)

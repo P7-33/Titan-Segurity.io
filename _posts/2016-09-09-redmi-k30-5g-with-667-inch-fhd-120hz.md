@@ -1,0 +1,12 @@
+---
+title: 'Redmi K30 5G with 6.67-inch FHD+ 120Hz display, Snapdragon 765G, liquid cooling, 64MP quad rear cameras to go on sale in China starting from Jan 7'
+date: 2019-12-30T04:23:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Redmi-K30-5G-1-1024x798.jpg) Xiaomi’s Redmi brand announced the Redmi K30 5G and 4G versions at an event in China earlier this month. Even though 4G version of the phone went on sale China from December 12th, the company said that the Redmi K30 5G will go on sale from January 2020. Today it has confirmed that the first sale of the phone will happen starting from January 7th. Even though this might be the first phone to be announced with Snapdragon 765G, the OPPO Reno3 Pro 5G which was introduced last week will be the first Snapdragon 765G-powered phone that will be available in China from tomorrow, December 31st. To remind you, the phone packs a 6.67-inch Full HD+ 120Hz LCD screen with 4.38mm, dual-punch-hole screen with 91% screen-to-body ratio, thanks to 4.25mm ultra-narrow bottom frame, has built-in 5G stand alone and non-stand alone (SA/NSA) sub-6GHz networks. It has 5mm copper tube liquid cooling to the temperature of the phone by up to 7 degrees, and the phone runs Android 10 with MIUI 11 on top. It packs Sony IMX686 64-megapixel 1/1.7″ sensor,  8-megapixel ultra-wide-angle lens, 5-megapixel 2cm super macro lens and a 2-megapixel camera for portrait shots. On the front there is a 20-megapixel ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=s_Km4sYPhLI:fXFHWBA8OBs:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=s_Km4sYPhLI:fXFHWBA8OBs:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=s_Km4sYPhLI:fXFHWBA8OBs:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=s_Km4sYPhLI:fXFHWBA8OBs:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=s_Km4sYPhLI:fXFHWBA8OBs:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=s_Km4sYPhLI:fXFHWBA8OBs:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/s_Km4sYPhLI)  
+[Read Here»](https://www.fonearena.com/blog/301291/redmi-k30-5g-price-sale-date-china.html)

@@ -1,0 +1,12 @@
+---
+title: 'Realme 5i Unboxing and First Impressions'
+date: 2020-01-10T07:40:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/realme-5i-_fonearena-15-1024x744.jpg) Realme launched the realme 5i smartphone, a cheaper version of the realme 5 in India yesterday. We even reviewed the realme 5s, an upgraded version of the realeme 5, here we have the unboxing and the first impressions of the realme 5i. Also, check out the unboxing video from our FoneArena Tamil chnanel. https://www.youtube.com/watch?v=WLw0whQuKwM Box Contents realme 5i smartphone in Aqua Blue color 2-pin charger (5V-2A) Micro USB Cable SIM Ejector tool Screen protector (pre-installed) User Guide and Warranty information The Realme 5i has a 6.5-inch HD+ (1600 x 720 pixels) 20:9 aspect ratio display with 269 PPI pixel density and Corning Gorilla Glass 3+ protection. The display is bright and the colors are vibrant, but the content is not sharp since it is an HD+ screen. \[gallery link="file" columns="2" size="medium" ids="302173,302162"\] The company is calling the notch as mini-drop, which it says is 30.9% smaller than the realme 3. The usual set of proximity and ambient light sensors are present on the bezel near the 8-megapixel camera, compared to 13-megapixel camera on the realme 5 and the 5s. It is powered by Snapdragon 665 11nm SoC with 4GB RAM and runs Android 9.0 (Pie) with ColorOS 6.1. The company already confirmed reame UI based on ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=xIWx0MDckAs:VxFawTkn3mg:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=xIWx0MDckAs:VxFawTkn3mg:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=xIWx0MDckAs:VxFawTkn3mg:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=xIWx0MDckAs:VxFawTkn3mg:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=xIWx0MDckAs:VxFawTkn3mg:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=xIWx0MDckAs:VxFawTkn3mg:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/xIWx0MDckAs)  
+[Read Here»](https://www.fonearena.com/blog/302159/realme-5i-unboxing-first-impressions.html)

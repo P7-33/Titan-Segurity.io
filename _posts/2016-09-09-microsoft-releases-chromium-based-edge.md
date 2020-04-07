@@ -1,0 +1,12 @@
+---
+title: 'Microsoft releases Chromium-based Edge browser for Windows and macOS'
+date: 2020-01-16T06:52:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Microsoft-Edge-1024x567.jpg) Microsoft has released updated Edge browser based on Chromium for all Windows and macOS users, months after the preview. Microsoft says that this offers world-class performance with more privacy, including tracking prevention, which is on by default, and provides three levels of control while you browse,  option to choose a new tab page layout or design, and select the types of news. Other features include AAD support, Internet Explorer mode, 4K streaming, Dolby audio, inking in PDF, Microsoft Search in Bing integration, support for Chrome-based extensions, and more. Windows or MacOS users can download Microsoft Edge 79 stable manually, or Windows users can wait for it to be automatically released via Windows Update in the coming weeks.  When you install Microsoft Edge on an up-to-date Windows 10 device, it will replace the previous (legacy) version. Your favorites, passwords, and basic settings will carry over to the new Microsoft Edge automatically. Web apps (including those built on EdgeHTML), and Microsoft Edge preview channels (such as Dev or Canary) will continue to work without interruption. Microsoft Edge 80 will enter the Beta channel soon, and is expected to release to Stable in February. Source
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=XJ8S-dlCNVc:2BLFGGrw9Y0:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=XJ8S-dlCNVc:2BLFGGrw9Y0:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=XJ8S-dlCNVc:2BLFGGrw9Y0:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=XJ8S-dlCNVc:2BLFGGrw9Y0:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=XJ8S-dlCNVc:2BLFGGrw9Y0:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=XJ8S-dlCNVc:2BLFGGrw9Y0:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/XJ8S-dlCNVc)  
+[Read Here»](https://www.fonearena.com/blog/302502/microsoft-edge-browser-chromium-windows-macos-download.html)

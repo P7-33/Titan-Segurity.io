@@ -1,0 +1,12 @@
+---
+title: 'ASUS unveils ProArt creator monitors and new 10th Gen Intel Core-powered Vivobooks, Zenbook Duo and more at CES 2020'
+date: 2020-01-07T09:36:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Asus-CES-2020-1024x609.jpg) ASUS at CES 2020 has launched new laptops, all updated with 10th gen Intel Core CPUs, in their Chromebook, Zenbook, Vivobook and Expertbook lineups. Along with this, they have also launched two new monitors in their ProArt lineup for professionals having extreme colour accuracy with 100% Rec. 709 color space coverage. In their popular Vivobook series, ASUS has updated the VivoBook S (S333/S433/S533) with the new 10th Gen Intel CPUs, WiFi 6 support, up to 16GB of RAM, discrete NVIDIA GPU options. The Vivobook S series also features an updated all-metal chassis design with the NanoEdge displays and will come in 3 sizes; 13, 14, 15-inches. ASUS has introduced a 4 new colours for the 14 and 15-inch models namely Resolute Red, Gaia Green, Dreamy White and Indie Black. For the 13-inch models, ASUS will offer options of Indie Black, Hearty Gold, or Transparent Silver colours. In their Zenbook lineup, ASUS has introduced a newer Zenbook Duo with its dual screen sizes. Last year, the Zenbook Duo was introduced as a proof of concept design with top end specs. This year, ASUS has announced a newer Zenbook Duo with 10th Generation Intel Core i7 processor, combined with up to 16 GB RAM ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=aE0N7MWqGf4:ot_t8lxU16k:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=aE0N7MWqGf4:ot_t8lxU16k:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=aE0N7MWqGf4:ot_t8lxU16k:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=aE0N7MWqGf4:ot_t8lxU16k:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=aE0N7MWqGf4:ot_t8lxU16k:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=aE0N7MWqGf4:ot_t8lxU16k:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/aE0N7MWqGf4)  
+[Read Here»](https://www.fonearena.com/blog/301835/asus-proart-vivobooks-zenbook-duo.html)

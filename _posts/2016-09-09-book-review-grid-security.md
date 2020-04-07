@@ -1,0 +1,24 @@
+---
+title: 'Book Review: "Smart Grid Security"'
+date: 2020-02-02T18:53:00+01:00
+draft: false
+---
+
+[![](https://1.bp.blogspot.com/-07UkN2hYKQQ/XjRp4Lfdx6I/AAAAAAAALQg/aYzCVzyalg0ENqxMKMOczJ-9qEO3WdR9wCLcBGAsYHQ/s640/smart_grid_security.jpg)](https://1.bp.blogspot.com/-07UkN2hYKQQ/XjRp4Lfdx6I/AAAAAAAALQg/aYzCVzyalg0ENqxMKMOczJ-9qEO3WdR9wCLcBGAsYHQ/s1600/smart_grid_security.jpg)
+
+"Smart Grid Security: An End-to-End View of Security in the New Electrical Grid" by Gilbert N. Sorebo and Michael C. Echols is a great book detailing the many security aspects of the modern power grid. This book was written in 2011, but while slightly dated it still provides fantastic insight into the technologies that make up the modern electrical grid. It also provides sound security advice in every chapter, from covering how confidentiality, integrity, and availability apply to the electric grid, to discussing the various types of intentional and unintentional threats to the grid. I [purchased it used](https://www.amazon.com/Smart-Grid-Security-End-End/dp/1439855870) and still this hardback book was expensive at ~$50 for ~330 pages, but well worth it. Overall, I give this 7 out of 10 stars, for being novel, detailed, and relevant to both cyber security and energy sector individuals. I recommend this book to anyone working near or on electrical grid systems. The bottom line is "Smart Grid Security" provides excellent context and insight to a transformational period of the American power grid. The book is also full of references and links to external articles, providing lots of extra reading material and sources to back its claims. This was a great book for me as someone who was relatively unfamiliar with power grid technologies. It's also been great helping me prepare for our upcoming CPTC event, which is focused around a utility grid company. I feel like this book got me up to speed with the different key components that make up the power grid and how they interact. In my typical style, the following are the chapters of the book, so you can get a better sens of what it content.  
+  
+Chapter 1 - What is the Smart Grid, and Why Should We Care about Security?  
+Chapter 2 - The Smart Grid Evolution: Smart Grid Standards, Laws, and Industry  
+Chapter 3 - Smart Metering: The First Security Challenge  
+Chapter 4 - Home Area Networking: Giving Consumers Control or Opening a Pandora's Box?  
+Chapter 5 - Distribution Automation: Moving from Legacy to Secure  
+Chapter 6 - Transmission Automation: Can Utilities Work Together Securely?  
+Chapter 7 - Distributed Generation and Micro-Grids: Can Distributed Systems Work Together?  
+Chapter 8 - Operations and Outsourcing  
+Chapter 9 - Plug-In Electric Vehicles and Energy Storage: Now the Fun Really Begins  
+Chapter 10 - What about the Consumer?: Securing Relationships Between the Utilities and Their Customers  
+Chapter 11 - Identifying and Recovering the Grid from a Cyber-Disaster  
+Chapter 12 - Crystal Ball Time: Will We Have a Secure Grid and What Will it Take?  
+  
+This [review contains a great summary](https://www.taylorfrancis.com/books/9780429248528) of each chapter if you want the spark notes, but to get to the technologies used on the smart grid you really need to dig into each chapter in the book. In those chapters I learned about the various devices and protocols that are leveraged in generation, transmission, and distribution within the grid. Coming off of [Sandworm](https://lockboxx.blogspot.com/2019/11/book-review-sandworm.html) and prepping for our next CPTC event (Gotham Power), this felt like an extremely topical read. Digging into the details of transmission and distribution was important for me, particularly understanding how the grid is broken up and dynamic in providing generated power. The book is full of graphics, from diagrams of grid designs and layouts to photos of real hardware used, it's insightful to seeing how a real grid is assembled. Granted, this was the first book I read on the electric grid, so I'm not sure how it compares to other books on the subject. That said, this book answered many questions I had like the role of SCADA networks and traditional IT networks in relation to substations. The book also clearly illustrates what a cyber event could look like on the grid, and how catastrophic accidents can occur on the grid, in a large load shedding event for example. "Smart Grid Security" also introduced me to many compliance standards and governing bodies, such as [NERC](https://en.wikipedia.org/wiki/North_American_Electric_Reliability_Corporation). While the following video has little to do with the book in this review, it is one of the better lectures on modern grid security so I thought it made a nice companion video for people looking to learn more about power grid security:

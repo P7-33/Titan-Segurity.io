@@ -1,0 +1,12 @@
+---
+title: 'China to complete its Beidou Navigation Satellite System with launch of 2 satellites in 2020'
+date: 2019-12-30T10:53:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/IRNSS.jpg) China's competitor to the GPS, the Beidou-3 Navigation Satellite System will launch its final two satellites before June 2020 to complete its constellation. The total number of satellites will come up to 24 and will be an alternative to the popular US owned GPS that everyone is familiar with. The Beidou (literally meaning 'Big Dipper') project is currently in its third iteration, after the first iteration was decommissioned in 2012. With the launch of the two satellites, the Beidou navigation system will contain core and important technologies like high performance indicators, new technology systems, high localization, mass production networking. Based on its core system, China is also planning to advance it further with a smarter, more accessible and more integrated system that will come online by 2035. Focusing heavily on its space program, China's government is prioritizing the development of multiple independent high-tech technologies such as 5G integration. A similar alternative to the GPS that is currently in development by India called the NAVIC system. It is a part of the IRNSS program that has steadily been launching satellites since 2013, with its latest satellite launched in 2018. The system is aimed at providing high accuracy position over India and its neighboring countries ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=vBTyBvI2HR8:NZu5zwQZ6Gg:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=vBTyBvI2HR8:NZu5zwQZ6Gg:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=vBTyBvI2HR8:NZu5zwQZ6Gg:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=vBTyBvI2HR8:NZu5zwQZ6Gg:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=vBTyBvI2HR8:NZu5zwQZ6Gg:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=vBTyBvI2HR8:NZu5zwQZ6Gg:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/vBTyBvI2HR8)  
+[Read Here»](https://www.fonearena.com/blog/301326/china-beidou-navigation-satellite-system-satellites-2020.html)

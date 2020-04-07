@@ -1,0 +1,12 @@
+---
+title: 'Jabra announces Elite Active 75t waterproof wireless earbuds and Elite 45H on-ear headphones'
+date: 2020-01-06T09:36:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Jabra-Elite-Active-75t-CES-2020-1024x507.jpg) Jabra has begun CES 2020 with the release of two new products in its Elite lineup. The first one is a successor to the Elite Active 65t, the Elite active 75t that features an improved smaller design and better battery life. The second product is the Elite 45h which is their on ear style headphones that is priced under $100. The Elite Active 75t is built with enhanced durability in mind and features a IP57 rating that promises dust and waterproofing for depths up to 1m, along with a 2 year warranty. The earphones are 22% smaller, for a better fit, than its predecessor, the Jabra Elite Active 65t, but has increased its battery life to 28 hours total with the charging case. On a single charge, the earphones will last upto 7.5 hours of continuous listening. Being an in-ear design, the Elite Active 75t has excellent noise isolation. There is the option of HearThrough too that will let users listen to outside audio through the mic if they choose to. Jabra has also introduced MyControls which is a software update that will come to the earbuds in Q2 2020. It will allow users to configure the functions on the left and ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=hlgHjbwyZ04:YZefKxnlwog:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=hlgHjbwyZ04:YZefKxnlwog:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=hlgHjbwyZ04:YZefKxnlwog:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=hlgHjbwyZ04:YZefKxnlwog:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=hlgHjbwyZ04:YZefKxnlwog:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=hlgHjbwyZ04:YZefKxnlwog:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/hlgHjbwyZ04)  
+[Read Here»](https://www.fonearena.com/blog/301734/jabra-elite-active-75t-elite-45h-price-specifications.html)

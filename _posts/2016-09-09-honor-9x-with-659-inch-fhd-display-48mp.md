@@ -1,0 +1,12 @@
+---
+title: 'HONOR 9X with 6.59-inch FHD+ display, 48MP triple rear cameras, 16MP pop-up camera launched in India starting at Rs. 13999'
+date: 2020-01-14T09:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/HONOR-9X.jpg) HUAWEI's HONOR brand just launched the HONOR 9X, the company's latest mid-range smartphone in India, as it had promised. It packs a 6.59-inch FHD+ no-notch display, is powered by Kirin 710F SoC with 6GB of RAM, runs on Android 9.0 (Pie) with EMIUI 9.1, features 48-megapixel rear camera, 8MP super-wide-angle camera along with a 2-megapixel camera for capturing portrait shots, 16-megapixel pop-up front camera, rear-mounted fingerprint scanner and packs a 4000mAh battery. HONOR 9X specifications 6.59-inch (2340 x 1080 pixels) Full HD+ 19.5:9 2.5D curved glass display Octa-Core Kirin 710F 12nm (4 x 2.2GHz Cortex-A73 +4 x 1.7GHz Cortex-A53) with ARM Mali-G51 MP4 GPU 4GB / 6GB RAM with 128GB storage, expandable memory up to 512GB with microSD Android 9.0 (Pie) with EMUI 9.1.1 Hybrid Dual SIM (nano + nano / microSD) 48MP rear camera with LED flash, 1/2″ sensor, 0.8μm pixel size, f/1.8 aperture, 8MP ultra-wide sensor with f/2.4 aperture, 2MP depth camera with f/2.4 aperture 16MP front-facing camera with f/2.2 aperture Dimensions: 163.1×77.2×8.8mm; Weight:206g Rear-mounted fingerprint sensor Dual 4G VoLTE, Wi-Fi 802.11 ac (2.4GHz + 5GHz), Bluetooth 5.0 LE, GPS + GLONASS, USB Type-C 4000mAh (typical) / 3900mAh (minimum) battery The HONOR 9X comes in Midnight Black and Sapphire ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=MVdzGZewTrg:KDg2pnxVops:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=MVdzGZewTrg:KDg2pnxVops:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=MVdzGZewTrg:KDg2pnxVops:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=MVdzGZewTrg:KDg2pnxVops:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=MVdzGZewTrg:KDg2pnxVops:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=MVdzGZewTrg:KDg2pnxVops:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/MVdzGZewTrg)  
+[Read Here»](https://www.fonearena.com/blog/302385/honor-9x-price-india-specifications.html)

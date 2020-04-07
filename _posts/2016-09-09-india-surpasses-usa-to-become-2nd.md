@@ -1,0 +1,12 @@
+---
+title: 'India surpasses USA to become 2nd largest smartphone maker in the world in 2019: Report'
+date: 2020-01-27T13:22:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Redmi-Note-8-vs-Redmi-Note-7-Pro-FoneArena-1-1024x683.jpg) During Q3 2019, India's smartphone shipments reached 49 million units and subsequently during Q4 2019, Xiaomi and Samsung continued to lead the smartphone market in India. Now, according to a report from Counterpoint Research, India has surpassed the US to become the 2nd largest smartphone maker in the world after reaching 158 million shipments in 2019. There has been a 7% YoY growth and the main reason is due to the growth of the mid-tier segment with Chinese OEMs launching many flagship-grade features and capabilities on smartphones, and also to capture demand from users who are upgrading their smartphone. According to the report, in 2019 Xiaomi grew 5% YoY followed by Samsung which showed a 5% decline YoY. On the other hand, Vivo grew 76% YoY, realme grew a massive 255% YoY, OPPO grew 28% YoY, and other brands showed a 39% decline YoY in 2019. Similarly, in Q4 2019, Xiaomi's smartphone market share was 27%, the same as during Q4 2018, and it is followed by Vivo with 19%, up from 10% during Q4 2018. It is followed by Samsung with 19%, down from 20%, OPPO with 12%, up from 7%, realme with 8%, the same as during Q4 2018. Other brands exhibited ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=mkc8-CR0M3E:IgbXeXKTyU4:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=mkc8-CR0M3E:IgbXeXKTyU4:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=mkc8-CR0M3E:IgbXeXKTyU4:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=mkc8-CR0M3E:IgbXeXKTyU4:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=mkc8-CR0M3E:IgbXeXKTyU4:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=mkc8-CR0M3E:IgbXeXKTyU4:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/mkc8-CR0M3E)  
+[Read Here»](https://www.fonearena.com/blog/303331/india-surpasses-usa-2nd-largest-smartphone.html)

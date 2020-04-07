@@ -1,0 +1,12 @@
+---
+title: 'Portronics Harmonics Twins Mini true wireless earbuds launched, available for Rs. 1649'
+date: 2020-01-02T13:35:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Portronics-Harmonics-Twins-Mini.jpg) Portronics, the brand known for its wide range of portable charges, audio products, accessories, etc, has now launched its new true wireless earbuds in India - Portronics Harmonics Twins Mini. It is the younger brother to the Harmonics Twins earbuds and offers stereo music, offers a secure fit, and more. The Harmonics Twins Mini true wireless earbuds feature the ATS3003 chipset with 8mm drivers, 15-meter range, and supports Bluetooth 5.0. The earbuds pack a 40mAh battery and the charging case packs a 320mAh battery. It also offers "distortion-free sound" and regarding the voice calls, only a single earbud of the Twins Mini will be active. The charging case is compact and weighs 31 grams, and regarding the battery life, the company claims up to 3 hours of music playback and the charging case lets users charge the earbuds up to 3 times. Lastly, the charging case takes about 1.5 hours to charge completely. Pricing and Availability Portronics Harmonics Twins Mini true wireless earbuds come in a single Black color option is priced at Rs. 3499 but can be found selling as low as Rs 1649 on Amazon.in and Flipkart. Also, it has been available for some time online, but the company has made the ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=vjxY4pfOlWw:Vih4j2bAlko:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=vjxY4pfOlWw:Vih4j2bAlko:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=vjxY4pfOlWw:Vih4j2bAlko:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=vjxY4pfOlWw:Vih4j2bAlko:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=vjxY4pfOlWw:Vih4j2bAlko:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=vjxY4pfOlWw:Vih4j2bAlko:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/vjxY4pfOlWw)  
+[Read Here»](https://www.fonearena.com/blog/301524/portronics-harmonics-twins-mini-price.html)

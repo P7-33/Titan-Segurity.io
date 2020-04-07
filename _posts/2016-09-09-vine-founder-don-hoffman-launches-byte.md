@@ -1,0 +1,12 @@
+---
+title: 'Vine founder Don Hoffman launches Byte App; another 6-second video platform'
+date: 2020-01-27T09:22:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Byte-App-Logo.jpg) Ever since Vine was shut down back in 2016, the internet has been yearning for some short form video sharing service. Now Vine's founder, Don Hoffman has announced the launch of a successor to Vine called the Byte App. It is similar to Vine in that it is a platform for shooting or uploading and then sharing 6-second videos on the internet. The Byte App, for the moment, contains the necessities of any social media app with a feed, Explore page, notifications, and profiles. It is definitely not as feature packed like the popular TikTok with no remixability, augmented reality filters, transition effects, etc. Vine, even during the height of its popularity, faced the problem of lack of effective monetisation techniques for creators on the platform. Even today, apps like TikTok and Snapchat do not offer any clear way for creators to make money on the platform. This is a key area where Byte App hopes to make a difference. They have announced an early focus on helping content creators making money, beginning with a  pilot version of their partner program which will use their revenue share + supplementing with their own funds to pay creators. Byte has already acknowledged that they are launching ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=lHf9i64PWao:WMwZafNdCqQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=lHf9i64PWao:WMwZafNdCqQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=lHf9i64PWao:WMwZafNdCqQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=lHf9i64PWao:WMwZafNdCqQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=lHf9i64PWao:WMwZafNdCqQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=lHf9i64PWao:WMwZafNdCqQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/lHf9i64PWao)  
+[Read Here»](https://www.fonearena.com/blog/303244/vine-byte-app-6-second-video.html)

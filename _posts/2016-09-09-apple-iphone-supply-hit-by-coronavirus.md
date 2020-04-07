@@ -1,0 +1,12 @@
+---
+title: 'Apple iPhone supply hit by Coronavirus, shipment forecast for Q1 2020 lowered: Report'
+date: 2020-02-03T09:03:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Apple-iPhone-11-Pro_fonearena-3-1024x639.jpg) As all countries in the world are on high alert to halt the spread of Wuhan Coronavirus, the many industries that are based in China have begun to see the effects of the outbreak. The tech industry especially has become a victim, as Ming Chi Kuo, a popular Apple analyst has lowered his shipment forecast for the iPhone due to the supply chains being hit. The “iPhone SE 2" or “iPhone 9" was rumoured to launch sometime in Q1 2020. New renders had recently popped up, showing a device based on the iPhone 8 design with TouchID and a single camera system. The device was supposed to enter mass production sometime in February with a launch in March. However, the Wuhan Coronavirus outbreak has put a wrench in these plans as the supply chains have been hit. Major cities in China like Shanghai, Beijing and Wuhan have been shut down, limiting production from factories and other facilities. In a note to TF International Securities, Ming Chi Kuo has reduced his iPhone shipment forecast by 10 percent to 36-40 million units. He also noted that the outbreak has possibly caused a decline of 50-60% YoY in the Chinese market during the Chinese New ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=onp-KOH4TQM:Q1UozA9B6vw:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=onp-KOH4TQM:Q1UozA9B6vw:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=onp-KOH4TQM:Q1UozA9B6vw:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=onp-KOH4TQM:Q1UozA9B6vw:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=onp-KOH4TQM:Q1UozA9B6vw:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=onp-KOH4TQM:Q1UozA9B6vw:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/onp-KOH4TQM)  
+[Read Here»](https://www.fonearena.com/blog/303830/apples-iphone-supply-hit-coronavirus-shipment-forecast-q1-2020.html)

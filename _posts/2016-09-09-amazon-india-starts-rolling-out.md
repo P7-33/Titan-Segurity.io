@@ -1,0 +1,12 @@
+---
+title: 'Amazon India starts rolling out electric delivery vehicles, plans for 10,000 EVs by 2025'
+date: 2020-01-20T08:13:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Amazon-Electric-rickshaws-1-1024x533.jpg) Amazon India has announced that it has started rolling out electric delivery vehicles across India after successful pilots across different cities in 2019. It said that its fleet of delivery vehicles in the country will include 10,000 electric vehicles (EVs) by 2025.  These EVs are in addition to the global commitment of 100,000 electric vehicles in the delivery fleet by 2030 announced in the Climate Pledge signed by Amazon. Hey, India. We’re rolling out our new fleet of electric delivery rickshaws. Fully electric. Zero carbon. #ClimatePledge pic.twitter.com/qFXdZOsY4y — Jeff Bezos (@JeffBezos) January 20, 2020 With the introduction of electric vehicles, Amazon India aims to reduce carbon emissions and environmental impact of delivery operations. The fleet of 10,000 EVs will include 3-wheeler and 4-wheeler vehicles which have been designed and manufactured in India. In 2020, these vehicles will operate in over 20 cities of India — Delhi NCR, Bangalore, Hyderabad, Ahmedabad, Pune, Nagpur and Coimbatore to name a few, and this number will continue to grow. Amazon India has been working with several Indian OEMs to build a fleet of vehicles that ensure sustainable and safe deliveries of customer orders. Akhil Saxena, Vice President, Customer Fulfillment - APAC & Emerging Markets, Amazon, said: At Amazon India, ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=yNQ-oJ3XE9g:_TBCZFdVmnI:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=yNQ-oJ3XE9g:_TBCZFdVmnI:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=yNQ-oJ3XE9g:_TBCZFdVmnI:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=yNQ-oJ3XE9g:_TBCZFdVmnI:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=yNQ-oJ3XE9g:_TBCZFdVmnI:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=yNQ-oJ3XE9g:_TBCZFdVmnI:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/yNQ-oJ3XE9g)  
+[Read Here»](https://www.fonearena.com/blog/302861/amazon-india-electric-delivery-vehicles.html)

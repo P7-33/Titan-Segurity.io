@@ -1,0 +1,12 @@
+---
+title: 'Dell Latitude 9510 with 5G support and Dell XPS 13 with border-less InfinityEdge display announced'
+date: 2020-01-03T11:02:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Dell-Latitude-9510-1024x808.jpg) Dell has announced 3 new laptops for CES 2020, 2 new XPS 13 laptops along with a new Latitude 9000 series laptop. The XPS 13 features Dell's new first ever four sided, borderless InfinityEdge display while running Intel's latest 10th Gen CPU's. The Latitude 9510 will come with a 30 hour battery life, 5G antenna support and will have the Dell Optimizer software. The Dell Latitude 9510 claims the longest battery in any 15 inch business laptop, an impressive 30 hours. Dell has managed this by using an extremely energy efficient display panel that sips just 2W when in use. Dell also managed this by pairing this panel with the more efficient 10th Gen Intel Core i7 processor (vPro ready) and an 88 WHr battery. The laptop also comes with WiFi 6 support along with 5G antenna's built into the design of the speaker housing. The new Dell Optimizer software contains a host of software solutions aimed at improving secure log-ins, battery life, audio, etc. to that will benefit business users. \[caption id="attachment\_301581" align="alignleft" width="575"\] Dell XPS 13 9300 Standard Edition\[/caption\] The Dell XPS 13 has been updated with 2 models, the standard and the developer edition. Both laptops will feature 10th Gen Intel ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=iKnJ7k00dc0:KQz7KiMWFnc:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=iKnJ7k00dc0:KQz7KiMWFnc:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=iKnJ7k00dc0:KQz7KiMWFnc:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=iKnJ7k00dc0:KQz7KiMWFnc:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=iKnJ7k00dc0:KQz7KiMWFnc:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=iKnJ7k00dc0:KQz7KiMWFnc:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/iKnJ7k00dc0)  
+[Read Here»](https://www.fonearena.com/blog/301577/dell-latitude-9510-5g-dell-xps-13.html)

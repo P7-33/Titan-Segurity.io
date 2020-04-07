@@ -1,0 +1,12 @@
+---
+title: 'Falkon Aerbook laptop by Marq by Flipkart with Intel Core i5 processor, SSD launched for Rs. 39990'
+date: 2020-01-10T12:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Falkon-Aerbook-MarQ-Flipkart-laptop.jpg) Walmart-owned Flipkart has launched its first new laptop under its home electronics brand 'Marq by Flipkart' called the Falkon Aerbook. The laptop is 13.3-inch, thin and light, Intel powered machine that is designed for everyday use, with a clean design and minimal bezels on the screen. The laptop, which was apparently designed in collaboration with Intel and Microsoft, features a 16.5mm slim design and weighs in at 1.26kg. It is powered by a mid range Intel’s 8th Gen Core i5 processor, features 8GB of RAM, 256GB of SSD storage along with an extra slot for more storage. In the battery department, the laptop contains a 37 Whr battery, which Flipkart claims will give 5 hours of use on a single charge. Walmart, earlier last year, had tried its own series of gaming focused laptops under the brand name 'Overpowered'. But the product line was quickly scrapped as both the desktop and laptops had multiple issues with its hardware, especially considering its price. It will be interesting to see if they will, through Flipkart, have more success entering the Indian market with the launch of this laptop. The MarQ Falcon Aerbook will be available for purchase on Flipkart from January 17th at a starting ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=DoHJaQJru9E:ei8RCNW05FY:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=DoHJaQJru9E:ei8RCNW05FY:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=DoHJaQJru9E:ei8RCNW05FY:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=DoHJaQJru9E:ei8RCNW05FY:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=DoHJaQJru9E:ei8RCNW05FY:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=DoHJaQJru9E:ei8RCNW05FY:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/DoHJaQJru9E)  
+[Read Here»](https://www.fonearena.com/blog/302235/flipkart-falkon-aerbook-price-india-features.html)

@@ -1,0 +1,49 @@
+---
+title: '''Remarkable'' MIP*=RE proof describes how to solve seemingly impossible problem'
+date: 2020-01-20T01:23:00+01:00
+draft: false
+---
+
+![](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/yudrzj0aiizehe7hwbgn.jpg "'Remarkable' Mathematical Proof Describes How to Solve Seemingly Impossible Computing Problem")  
+
+You enter a cave. At the end of a dark corridor, you encounter a pair of sealed chambers. Inside each chamber is an all-knowing wizard. The prophecy says that with these oracles’ help, you can learn the answers to unanswerable problems. But there’s a catch: The oracles don’t always tell the truth. And though they cannot communicate with each other, their seemingly random responses to your questions are actually connected by the very fabric of the universe. To get the answer you seek, you must first devise... the questions.  
+
+Computer scientists are buzzing about a new mathematical proof that proposes a quantum-entangled system sort of like the one described above. It seems to disprovea [44-year-old conjecture](https://link.springer.com/article/10.1007/s11537-013-1280-5) and details a theoretical machine capable of solving the famous halting problem, which says a computer cannot determine whether it will ever be able to solve a problem it’s currently trying to solve.
+
+The [150-page proof](https://arxiv.org/abs/2001.04383), titled simply “MIP\*=RE,” deals in the esoteric subject of computational complexity. If it holds under scrutiny, it demonstrates a profound connection between quantum physics, computation, and mathematics. It shows that a theoretical class of computing devices—a verifier interrogating the quantum-entangled oracles—can check some of the most complex computer problems imaginable. And it has important implications for quantum physicists.  
+
+On the left side of the equal sign sits the theoretical computing class MIP\*. Researchers since the 1980s have analyzed a class of problems called IP, or Interactive Polynomial time, a list of problems solvable by interactive proofs. These are a kind of proof in which a verifier (a regular computer that essentially solves problems by flipping coins, i.e., using bits) is trying to check whether an answer is correct. To do so, it can ask questions to an all-knowing but not necessarily honest observer, called the prover.
+
+If you’re familiar with complexity classes, you may have heard of P, a category of problems solvable in polynomial time, meaning an amount of time equal to the size of the input raised to a constant exponent (any number). Then there are NP problems, those where it’s unclear how long it will take to solve the problem, but given a potential solution, it only takes polynomial time to verify that solution. A famous example of an NP problem is the [graph-coloring problem](https://brilliant.org/wiki/graph-coloring-and-chromatic-numbers/): Given a series of points connected by lines (which mathematicians call a graph), how do you use three colors to paint the points such that no two colors touch? Researchers in the 1980s and early 1990s showed that these interactive proofs can verify all of the NP problems as well as an at-least-as complicated set of problems that can be solved using a polynomial amount of memory.
+
+Other researchers further expanded the class of problems that can be solved with an interactive proof into the MIP class: What if the verifier were able to ask questions to a pair of all-knowing but not necessarily honest provers, like a pair of criminal suspects separated into soundproof rooms? Such a proving system can efficiently verify even harder problems, those such that the amount of time it takes to verify increases exponentially with the size of the input, like a three-colored graphgrowing exponentially larger.
+
+Now, researchers are exploring an even more powerful class, called MIP\*. In this case, imagine the same pair of all-knowing oracles sitting in separate rooms—but they are entangled via the rules of quantum mechanics. Quantum mechanics is the mathematical system that describes the way subatomic particles interact, but its mathematics look like a more complex version of probability. Entangling the provers says that though they are separated, things that might seem random when you’re talking to just a single prover are in fact correlated between both of them.  
+
+Whew, so, to review: MIP is a kind of hypothetical proof system where a regular computer asks questions to a pair of all-knowing but not necessarily honest “oracles” that cannot communicate with one another. This kind of proof system can efficiently check the answers to extremely complex problems. Scientists are now trying to understand how powerful this proof method would be when they expand MIP to MIP\*—the oracles still can’t communicate, but they are now quantum entangled, so the answers they deliver are more correlated than they would be otherwise.  
+
+A researcher now at CalTech, Anand Natarajan, once heard computer scientist Scott Aaronson lecturing on MIP\* and realized there was shockingly little known about the class. “It was one of those rare situations in complexity theory where you have a huge range of possibilities of what the truth can actually be,” Natarajan, one of the study’s authors, told Gizmodo. MIT researcher John Wright explained to Gizmodothat there were already definitions for IP and MIP—and now it was up to them to figure out MIP\*.
+
+“This is a fundamental statement that, in fact, we can really not know the answer to certain things.”
+
+Last year, Wright and Natarajan drafted [a proof](https://www.quantamagazine.org/computer-scientists-expand-the-frontier-of-verifiable-knowledge-20190523/) showing that the spooky connection in the MIP\* class gives the verifier interrogating the entangled provers the power to check even more difficult problems (those whose complexity increases double-exponentially with the size of the input). The added entanglement gives more knowledge to the verifier to ask better questions of the provers (the oracles). Meanwhile, another principle of quantum mechanics, the uncertainty principle, scrambles the provers’ measurements each time the verifier asks about one of two complementary properties, making it difficult for them to mislead the verifier.
+
+This work from Wright, Natarajan, Zhengfeng Ji from the University of Technology Sydney, Thomas Vidick from CalTech, and Henry Yuen from the University of Toronto, has proven that the power of the MIP\* class dwarfs last year’s proof. They posit that MIP\* could efficiently verify every problem in the “recursively enumerable class,” or RE, basically every problem for which it would take a finite amount of time to calculate if the answer was “yes;” a “no” answer could take an infinite amount of time to calculate. MIP\*=RE.
+
+Basically, this theoretical MIP\* device can solve lots of very complex problems, including the famous halting problem, where a computer is asked whether a currently running program will ever terminate, Wright said. The MIP\*=RE proof has important implications across mathematics and physics.
+
+“In short, I think it’s a remarkable result,” Bill Fefferman, assistant professor in computer science at the University of Chicago not involved in the study, told Gizmodo in an email. “This result is a great example of how tools from the quantum information community can be useful across wide areas of science, and lead to solutions in what seem to be completely separate areas. That’s why I’m most excited about this result.”
+
+The proof alone makes an important statement about just how much you can know in quantum mechanics, Stephanie Wehner, professor in quantum information at Delft University of Technology, told Gizmodo. Scientists have wondered just how strong the correlation between entangled quantum systems can be in the most general sense. But as a side effect of the proof’s machinery and the relationship between the oracles and the verifier, it turns out that this question is incalculable.  
+
+“This is a fundamental statement that, in fact, we can really not know the answer to certain things,” Wehner told Gizmodo. “That’s what I find personally interesting about this proof.”
+
+As a byproduct of this incalculability, the behemoth proof refutes a 44-year-old conjecture in abstract algebra called the Connes’ embedding conjecture, an esoteric mathematical statement that has been found to be logically equivalent to other statements in other mathematical and physical topics. Many people have hoped that the Connes’ conjecture would be true, MIT physicist Aram Harrow told Gizmodo, as it would prove true a number of useful facts and tools for mathematicians across the field. For physicists specifically, proving the Connes’ embedding conjecture wrong means that two separate mathematical objects once thought to be equivalent in how they can explain measuring entangled systems are, in fact, not equivalent. Certain approximations from infinite to finite systems no longer work, as physicists once assumed they could.  
+
+This is not a real device that will ever exist—you cannot link all-knowing oracles together, nor can an all-knowing oracle exist at all. But researchers use these abstract scenarios to understand the true limits of what computers can and cannot do. Perhaps pared-down versions of the oracles, like entangled computers reliant on the math of quantum mechanics to perform their calculations, might have power beyond what physicists previously expected.  
+
+Wright cautioned that reviewers haven’t attempted to check the work presented in the proof yet, and a long process of review by other mathematicians is yet to follow. They hope that it’s correct.
+
+  
+  
+from Hacker News https://ift.tt/38gDVoj

@@ -1,0 +1,12 @@
+---
+title: 'Toreto Active-283 and Active Pro-284 Wireless neckband earbuds launched for Rs. 1499 and Rs. 1299 respectively'
+date: 2020-01-28T12:52:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Toreto-Active-Pro-1024x809.jpg) Toreto, a manufacturer of audio equipment, has launched two new magnetic wireless neckband earphones called the Active and the Active Pro. Both wireless earbuds come with Bluetooth 5.0, passive noise cancellation, in built microphone and decent battery. The earbuds feature a light-weight and sleek design with magnetic caps on each earbud that will help prevent tangling. The earbuds are on the in-ear style that fit comfortably in the ear, providing passive noise cancellation which improves the bass performance of the headset. Both earbuds feature volume control and multi-function audio control button that can help take calls with the built-in microphone. The headset also supports voice assistants like Google Assistant. With Bluetooth 5.0, a strong, high quality and stable connection can be assured when using the headset. Coming to the battery life, the Toreto Active and Active earbuds are built with a 120mAh battery that provides 5 hours of constant listening time and can be charged completely in 2 hours. The Toreto Active comes in Black colour while the Toreto Active Pro comes in Black and Red. Both earbuds come with a soft touch carrying case too. The Toreto TorActivepro-284 are available for a price of Rs. 1299 on Amazon and the Toreto TorActive-283 is ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=DSpzOkITnq4:j2Glu7i9OaQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=DSpzOkITnq4:j2Glu7i9OaQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=DSpzOkITnq4:j2Glu7i9OaQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=DSpzOkITnq4:j2Glu7i9OaQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=DSpzOkITnq4:j2Glu7i9OaQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=DSpzOkITnq4:j2Glu7i9OaQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/DSpzOkITnq4)  
+[Read Here»](https://www.fonearena.com/blog/303436/toreto-active-283-active-pro-284-price-features.html)

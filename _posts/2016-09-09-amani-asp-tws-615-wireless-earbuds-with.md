@@ -1,0 +1,12 @@
+---
+title: 'AMANI ASP TWS 615 wireless earbuds with 10 hour battery life launched for Rs. 999'
+date: 2020-01-08T13:36:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Amani-ASP-TWS-615-1-1024x800.jpg) AMANI, a manufacturer of mobile accessories has launched their new truly wireless earbuds called the ASP TWS 615 in India. It connects via Bluetooth 5.0 for a strong reliable connection and AMANI claims a battery life of 10 hours on a single charge. The earbuds feature a smooth texture, glossy finish and a lightweight design, weighing in at 150gms . It can quickly pair with devices via its Bluetooth 5.0 connection The 10 hour battery life is made possible with both the 65mAh battery built into the earbuds along with the 950mAh battery that is included in the charging case. The AMANI ASP TWS 615 Earbuds comes at an MRP of Rs. 999 is available for purchase on amanimart.com and other retailers. Commenting on the launch of the ASP TWS 615, Tarun Bhutani, Managing Director at AMANI said: We have made listening to music a much more hassle-free experience for users who love their freedom from wires. The customers now have another option to choose from AMANI's wide audio range of products. All these products are crafted keeping in mind the challenges and requirements of today's lifestyle. We at AMANI strive to create affordable products packed with high-quality performance for our ever-dynamic consumer's taste. AMANI ASP ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=XCSJzRZo46w:Rw5wVeyQ4Og:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=XCSJzRZo46w:Rw5wVeyQ4Og:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=XCSJzRZo46w:Rw5wVeyQ4Og:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=XCSJzRZo46w:Rw5wVeyQ4Og:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=XCSJzRZo46w:Rw5wVeyQ4Og:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=XCSJzRZo46w:Rw5wVeyQ4Og:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/XCSJzRZo46w)  
+[Read Here»](https://www.fonearena.com/blog/302041/amani-asp-tws-615-price-features.html)

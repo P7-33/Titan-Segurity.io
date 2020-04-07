@@ -1,0 +1,12 @@
+---
+title: '2020 5G iPhones on track for September 2020-January 2021 launch: Report'
+date: 2020-01-13T09:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/2020-iPhone-prediction-1024x563.png) During June 2019, popular Apple analyst Ming-Chi Kuo reported that all the iPhones released in 2020 will come with 5G support and will come 4 model sizes. Now in another report, he has claimed that all 4 models is on track to be released in 2020 with 5G capabilities with sub-6GHz and mmWave support. According to the report, the frequency band supported will depend on the region in which the iPhone will be sold in. mmWave frequency support would be available in five markets, including the United States, Canada, Japan, Korea, and the United Kingdom. For countries with poor 5G penetration or no 5G rollout at all, Apple would disable 5G functionality completely to save production cost. All 4 models are on track to be released in the second half of 2020 but there has been a conflicting report by another analyst Mehdi Hosseini. He disagrees with the time frame reported by Ming-Chi Kuo, instead expects 5G-enabled iPhones to launch in two phases, with the sub-6GHz models in September 2020 and mmWave models in December 2020 or January 2021. Ming-Chi Kuo does have the better track record when it comes to Apple device prediction, however for now, we have to wait and ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=H8ovzYpv4Vg:9xCSMrHkvpk:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=H8ovzYpv4Vg:9xCSMrHkvpk:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=H8ovzYpv4Vg:9xCSMrHkvpk:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=H8ovzYpv4Vg:9xCSMrHkvpk:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=H8ovzYpv4Vg:9xCSMrHkvpk:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=H8ovzYpv4Vg:9xCSMrHkvpk:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/H8ovzYpv4Vg)  
+[Read Here»](https://www.fonearena.com/blog/302311/5g-iphone-2020-launch-date-rumor.html)

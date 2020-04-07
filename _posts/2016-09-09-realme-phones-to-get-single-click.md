@@ -1,0 +1,12 @@
+---
+title: 'realme phones to get single-click option to disable recommendations in apps'
+date: 2019-12-31T04:05:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Realme-5_fonearena-16-1024x683.jpg) Realme has gained popularity since its inception because of value-for-money (VFM) offerings in the mid-range smartphone segment. According to the recent Counterpoint research report, the brand had about 16% industry market share in Q3 2019 in India with 6x growth compared to last year. realme smartphones started receiving updates bringing system-wide Dark Mode a couple of months ago, the company has already announced its plan to introduce realme UI in January 2020. Now, the company has announced its plans to introduce recommendations in ColorOS 6, these recommendations will be shown to users to promote apps and commercial links. These content recommendations in the OS will appear in the Phone Manager app and Security Check page after installing new apps. realme will provide its users an option to turn off content recommendation with a single-click in seconds. realme says, it is introducing recommendations to offer more surprises to users and maintain a healthy and sustainable business model, but the company will also ensure the protection of your privacy and compliance with relevant laws and regulations. Dear realme fans, We hope you had an amazing 2019! We sure did, thanks to your love, and support of our realme family. We are excited to have pushed bounadries by ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=o_Ya8P-vQBs:OveEeyTI_fA:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=o_Ya8P-vQBs:OveEeyTI_fA:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=o_Ya8P-vQBs:OveEeyTI_fA:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=o_Ya8P-vQBs:OveEeyTI_fA:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=o_Ya8P-vQBs:OveEeyTI_fA:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=o_Ya8P-vQBs:OveEeyTI_fA:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/o_Ya8P-vQBs)  
+[Read Here»](https://www.fonearena.com/blog/301393/realme-disable-recommendations-single-click.html)

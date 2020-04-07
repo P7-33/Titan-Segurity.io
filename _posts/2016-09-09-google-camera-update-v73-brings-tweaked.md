@@ -1,0 +1,12 @@
+---
+title: 'Google Camera update v7.3 brings tweaked menu and DND, hints at 24fps mode and Pixel 4A codename'
+date: 2020-01-27T13:52:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Google-Camera-logo.jpg) Google continues to bring updates to its camera with new features like Do Not Disturb and slightly tweaked the menu's in the settings. But more interestingly, with an APK teardown, future features have been revealed like a 24fps mode and even the codenames for the upcoming Pixel 4A. \[caption id="attachment\_303340" align="alignnone" width="575"\] Left: v7.2 Right: v7.3\[/caption\] One of the minor changes in this update is the slight tweak in the settings panels for Portrait and Camera modes. The settings have been rearranged with the flash setting at the top of the menu with the other settings retaining their original order. A cool feature in this update is the option of activating Do Not Disturb mode when using the camera. This will prevent notifications from interrupting the user when shooting a video. For most users, this option will automatically be turned on once the app updates. From the APK teardown, few more interesting updates have been noted. Videography has never been a strong suit for Pixel devices. There has been a lot of backlash from users for Google choosing to not include high frame rate options at 4k in the Pixel 3 and 4. Interestingly, Google also did not allow 24fps shooting, a mode that cinematographers ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=VUpdKFL41Fg:QFjrRJUz4MQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=VUpdKFL41Fg:QFjrRJUz4MQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=VUpdKFL41Fg:QFjrRJUz4MQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=VUpdKFL41Fg:QFjrRJUz4MQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=VUpdKFL41Fg:QFjrRJUz4MQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=VUpdKFL41Fg:QFjrRJUz4MQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/VUpdKFL41Fg)  
+[Read Here»](https://www.fonearena.com/blog/303332/google-camera-7-3-tweaked-menu-dnd-pixel-4a.html)

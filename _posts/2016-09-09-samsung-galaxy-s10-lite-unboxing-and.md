@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy S10 Lite Unboxing and First Impressions'
+date: 2020-01-29T14:22:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Samsung-Galaxy-S10-Lite_fonearena-11-1024x630.jpg) Samsung launched the Galaxy S10 Lite smartphone in India last week. The Galaxy S10 Lite is the company's first mid-range smartphone with flagship Snapdragon 855 SoC and Super Steady OIS feature to launch in India. Here we have the first impressions of the smartphone. Also check out the unboxing video from our FoneArena Tamil channel below. https://www.youtube.com/watch?v=ZrNgW8pLVFA Box Contents Samsung S10 Lite in Prism Blue color In-ear USB Type-C earphones Clear protective case 2-pin 25W charger with Adaptive Fast Charging (5V-2A/9V-1.67A/12V-2.1A) USB Type-C to Type-C cable SIM ejector tool Quick start guide and warranty information The phone sports a 6.7-inch Full HD+ (2400×1080 pixels) Super AMOLED Plus Infinity-O Display with 394ppi pixel density. Thanks to minimal bezels, the display look gorgeous. It has an ergonomic design with thin and light display panel by adopting flexible OLED technology, says Samsung. Powered by Snapdragon 855 it packs 8GB of RAM and runs Android 10 with OneUI 2.0 on top. It has an in-display fingerprint scanner, faetures NFC and full Samsung Pay support. The phone has a very small punch-hole that house a 32-megapixel camera with f/2.2 aperture. \[gallery link="file" columns="2" size="medium" ids="303526,303519,303525,303520"\] On the left side of the phone there is a hybrid SIM slot that accepts two ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=XIkfqp9_dkQ:634s9kcMi2E:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=XIkfqp9_dkQ:634s9kcMi2E:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=XIkfqp9_dkQ:634s9kcMi2E:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=XIkfqp9_dkQ:634s9kcMi2E:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=XIkfqp9_dkQ:634s9kcMi2E:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=XIkfqp9_dkQ:634s9kcMi2E:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/XIkfqp9_dkQ)  
+[Read Here»](https://www.fonearena.com/blog/303561/samsung-galaxy-s10-lite-unboxing-first-impressions.html)

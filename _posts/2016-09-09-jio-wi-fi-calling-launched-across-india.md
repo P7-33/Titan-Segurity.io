@@ -1,0 +1,12 @@
+---
+title: 'Jio Wi-Fi Calling launched across India — Here are the list of over supported devices and how to enable it'
+date: 2020-01-08T15:06:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Jio-Wi-Fi-Calling-1024x649.jpg) Reliance Jio has announced the launch of nation-wide Voice and Video over Wi-Fi calling service. Jio said that it has been testing this service over the past few months, to provide a robust experience to every customer at launch. This lets customers can use any Wi-Fi network for Jio, the voice and video calls will seamlessly switch-over between VoLTE and Wi.Fi to provide an enhanced voice/video-calling experience,  Jio Wi-Fi calling works on over 150 handset models and Jio customers can also make Video over Wi•Fi calls. How to enable Airtel Wi-Fi Calling You need any one of the Wi-Fi Calling Capable Handset and Jio 4G In Apple go to Settings > Click on Wi-Fi Calling > Enable the switch In other Android phones Go to Settings > Search for Wi-Fi Calling > Enable the switch Jio Wi-Fi Calling Compatible Handsets: iPhone 6s, iPhone 6s Plus, iPhone 7, iPhone 7 Plus, iPhone SE, iPhone 8, iPhone 8 Plus, iPhone X, iPhone Xs, iPhone Xs Max, iPhone XR, iPhone 11, iPhone 11 Pro Google Pixel 3, Pixel 3a, Pixel 3a XL Coolpad Coolplay 6, Mega 5, Mega 5C Infinix Hot 7 Pro, Smart 3 Plus, Hot 6 Pro, Infinix S4 Lava Z61, Z92, Z60s, Z81 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=S4yIK2FSRA4:PN-I6HZNaVk:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=S4yIK2FSRA4:PN-I6HZNaVk:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=S4yIK2FSRA4:PN-I6HZNaVk:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=S4yIK2FSRA4:PN-I6HZNaVk:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=S4yIK2FSRA4:PN-I6HZNaVk:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=S4yIK2FSRA4:PN-I6HZNaVk:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/S4yIK2FSRA4)  
+[Read Here»](https://www.fonearena.com/blog/302064/jio-wi-fi-calling-launched-across-india-here-are-the-list-of-over-supported-devices-and-how-to-enable-it.html)

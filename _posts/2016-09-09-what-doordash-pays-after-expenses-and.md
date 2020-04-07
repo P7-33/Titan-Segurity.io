@@ -1,0 +1,23 @@
+---
+title: 'What DoorDash pays, after expenses, and what’s happening with tips'
+date: 2020-01-17T02:32:00+01:00
+draft: false
+---
+
+![](http://static1.squarespace.com/static/5c6ea7674d87113fa997ce97/t/5de651065de8a6184f059864/1575375124688/NEW+Pay+Up+logo.png?format=1500w "No Free Lunch, but almost: what DoorDash actually pays, after expense — #PayUp")  
+
+Food delivery app DoorDash has grown rapidly into the national industry leader, serving all 50 states and outpacing GrubHub, Uber Eats, Postmates, and other players with [an estimated 35% marketshare](https://www.cnbc.com/2019/11/21/doordash-continues-to-lead-in-the-food-delivery-wars.html) in a rapidly-expanding segment. The company is reportedly preparing for an IPO and has been [valued at a remarkable $12.6 billion](https://news.crunchbase.com/news/doordash-said-to-seek-100m-more-at-similar-valuation-to-its-12-6b-series-g/). 
+
+DoorDash has also been the focus of a sustained controversy over a pay model which misappropriated customer tips intended for workers. Under the pay model the company employed from 2017 until the fall of 2019, each dollar of customer tip did not raise workers’ earnings by a dollar — it simply meant the company paid the worker one dollar less. The company repeatedly defended this wildly unpopular tip-swiping pay model over several waves of public controversy, finally [agreeing to change the policy in July](https://www.nytimes.com/2019/07/24/nyregion/doordash-tip-policy.html), and only implementing the change in [September](https://blog.doordash.com/update-on-new-pay-model-more-dollars-to-dashers-28454459d9a2). 
+
+The company’s updated pay model, analyzed in this report, includes minimum pay of just $2 per delivery job. Reportedly, tips no longer directly factor into pay rates. Pay for each job is still set through a black-box algorithm which the company claims accounts for a wide range of various factors; however, workers have no access to the details of how those factors are weighted. They are simply offered a given job which pays a given amount, which they can accept or reject. (However, if a worker rejects too many jobs too frequently, they may receive fewer job offers as a result.) Further, when a job is offered to a worker, the amount of pay from DoorDash and customer tip are combined into a single “guaranteed amount,” with no breakdown available up-front as to how much is pay and how much is tip. This continued opacity has fed much skepticism about whether the company is still somehow factoring tips into pay.
+
+DoorDash has [reported that the new pay model has resulted in an increase in what they pay workers](https://blog.doordash.com/update-on-new-pay-model-more-dollars-to-dashers-28454459d9a2), and that gross earnings on the platform averages $18.54 per “active hour”. The company has declined to disclose how much of that gross amount is tips, how much is pay from the company, how many miles workers drive (and thus much much mileage expense they incur), what periods of time they consider to be part of an “active hour”, or other details and costs involved in achieving that reported level of gross earnings. However, we have been able to assemble a substantial amount of pay data directly from workers which provides a unique, independent view into what DoorDash is actually paying.
+
+**Our analysis of more than two hundred samples of pay data provided by DoorDash workers across the country finds that DoorDash pays the average worker an astonishingly low $1.45/hour**, after accounting for the costs of mileage and additional payroll taxes borne by independent contractors. Nearly a third of jobs actually pay _less than $0_ after accounting for these basic expenses. Just 11% of jobs pay more than the federal minimum wage of $7.25/hour, after expenses, and only 2% meet the standard of $15 + expenses. Further, jobs with higher tips still tend to include lower pay: the set of jobs with tips of less than $1 pay 1.8 times as much as those jobs with tips of more than $8, on a gross hourly pay basis.
+
+**Our analysis shows that DoorDash has deployed a pay model which barely pays workers enough to cover their basic expenses — and sometimes, not even that much**. Workers’ only significant earnings comes not from pay by the company, but from customer tips. And customer tips still seem to have an inverse relationship with pay.
+
+  
+  
+from Hacker News https://ift.tt/3afLjCg

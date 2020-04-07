@@ -1,0 +1,12 @@
+---
+title: 'Google introduces 3 new interesting Digital Wellbeing experiments to help reduce smartphone usage'
+date: 2020-01-22T14:19:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Digital-Wellbeing-Experiments-1024x593.jpg) Google's Digital Wellbeing experiments are interesting quirky little experiments designed by Google that are aimed at reducing the usage of smartphones in our daily lives. Today Google introduced three new experiments; Envelope, Activity Bubbles and Screen Stopwatch that use unique concepts to help users detox from their smartphones. https://youtu.be/Au14zEGkRaQ The first experiment is definitely a weird one called Envelope. It is currently only available for Pixel 3A users and Google describes it as an experimental app that "temporarily transform your phone into a simpler, calmer device, helping you take a break away from your digital world." It literally makes users put their smartphone into a homemade envelope (that can be printed) and have limited functionality of calling, a basic camera and seeing the time. The idea is to see how long the users can go without tearing the phone out of the envelope. The second experiment is called Activity Bubble and it uses a very clever concept that constantly remind users of how long they are using the phone. It is basically a live wallpaper that will create a bubble every time you unlock the phone. With every unlock, a bubble will keep growing as you keep using the phone until you lock the phone ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=FIJRlpgr0h0:CSqzSiWt4do:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=FIJRlpgr0h0:CSqzSiWt4do:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=FIJRlpgr0h0:CSqzSiWt4do:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=FIJRlpgr0h0:CSqzSiWt4do:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=FIJRlpgr0h0:CSqzSiWt4do:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=FIJRlpgr0h0:CSqzSiWt4do:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/FIJRlpgr0h0)  
+[Read Here»](https://www.fonearena.com/blog/303041/google-digital-wellbeing-experiments.html)

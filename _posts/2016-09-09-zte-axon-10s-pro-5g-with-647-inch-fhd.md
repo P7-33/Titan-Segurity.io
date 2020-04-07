@@ -1,0 +1,12 @@
+---
+title: 'ZTE Axon 10s Pro 5G with 6.47-inch FHD+ OLED screen, Snapdragon 865, up to 12GB RAM, Android 10 gets certified'
+date: 2020-01-02T08:35:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/ZTE-Axon-10s-Pro-5G-1.jpg) Last month ZTE confirmed that it will introduce Axon 10s Pro 5G, the company's first phone with Snapdragon 865 and X55 5G modem and support for SA / NSA dual-mode 5G network and Wi-Fi 6 in the first half of 2020. Now the phone has been certified by TENAA in China with the model number A2020 confirming the complete specifications. It will feature metal frame, flexible hyperboloid glass and 7.9mm slim body, making it one of the thinnest 5G flagships, the company had said. ZTE Axon 10s Pro 5G rumored specifications 6.47-inch (2340 x 1080 pixels) FHD+ OLED HDR Display Snapdragon 865 (1 x 2.84GHz Kryo 585 Prime CPU + 3 x 2.42GHz Kryo 585 Performance CPUs + 4x 1.80GHz Kryo 585 Efficiency CPUs) 7nm Mobile Platform with Adreno 650 GPU 6GB / 8GB / 12GB LPDDR4x RAM with 128GB / 256GB / 512GB storage Dual SIM (nano + nano) Android 10.0 (Pie) with MiFavor 10 48MP rear camera, 8MP Ultra Wide Angle lens, 2MP depth sensor 20MP front camera In-display fingerprint sensor Dimensions:  159.2×73.4×7.9mm; Weight: 175g 5G SA/NSA, Dual 4G VoLTE, Wi-Fi 802.11 ac (2.4GHz and 5GHz) (wave2), Bluetooth 5 LE, GPS (L1 + L5 dual band), NFC, USB Type-C (GEN1) ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=z9i8Gz1ksoc:wBAF7K2r3Hs:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=z9i8Gz1ksoc:wBAF7K2r3Hs:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=z9i8Gz1ksoc:wBAF7K2r3Hs:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=z9i8Gz1ksoc:wBAF7K2r3Hs:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=z9i8Gz1ksoc:wBAF7K2r3Hs:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=z9i8Gz1ksoc:wBAF7K2r3Hs:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/z9i8Gz1ksoc)  
+[Read Here»](https://www.fonearena.com/blog/301487/zte-axon-10s-pro-5g-specs-tenaa.html)

@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy XCover Pro rugged smartphone with 6.3-inch FHD+ display, dual rear cameras, Android 10 announced'
+date: 2020-01-13T04:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Samsung-Galaxy-XCover-Pro-1-989x1024.jpg) After rumors, Samsung has officially introduced the Galaxy XCover Pro, the company's latest rugged smartphone in the XCover series. It packs a 6.3-inch FHD+ Infinity Display with an enhanced touchscreen able to work in any condition, including rain or snow. Glove mode allows for gloves-on use and the new voice to text message feature provides real-time dictation and messaging for simple, convenient communication. Powered by Exynos 9611, it has 4GB RAM and runs Android 10 with One UI 2.0. The smartphone is IP68 water and dust resistant, capable of withstanding drops of up to 1.5m, even without a case, and is MIL-STD 810G certified for reliable protection against extreme altitude, humidity, and other severe environmental conditions. It has Pogo pin charging support and is compatible with third-party charging docks, and a 4,050mAh battery promises long battery life, which is also replaceable. Targeted at enterprise customers, it features two programmable keys to create custom actions with one click. "This functionality makes complicated workflows simple letting users open the scanner, turn on the flashlight or launch a CRM app all without swiping through apps, scrolling through menus, or even looking at the screen," said the company. It is push-to-talk ready, enabling instant communication between ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=_T738dg5kzg:gY2JBferzBc:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=_T738dg5kzg:gY2JBferzBc:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=_T738dg5kzg:gY2JBferzBc:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=_T738dg5kzg:gY2JBferzBc:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=_T738dg5kzg:gY2JBferzBc:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=_T738dg5kzg:gY2JBferzBc:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/_T738dg5kzg)  
+[Read Here»](https://www.fonearena.com/blog/302303/samsung-galaxy-xcover-pro-price-specifications.html)

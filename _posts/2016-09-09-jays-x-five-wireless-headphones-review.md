@@ -1,0 +1,12 @@
+---
+title: 'JAYS x-Five wireless headphones Review'
+date: 2019-12-30T13:23:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/JAYS-x-Five-_fonearena-7.jpg) India is a price sensitive market. Here we have many audio brands competing to give the good sound quality at an affordable price range. The new entry into such market space is the Jays x-Five wireless headphones. The Jays is a swedish audio brand well known for their a-Jays in-ear earphones. Packaging and Design Jays as a brand tries to keep their design language simple and minimalistic. The Jays x-Five is no exception, the design is simple and clean with all the essential things. Box Contents Jays x-Five wireless headphones Micro USB Cable  3.5mm to 3.5mm Cable User Manual Specifications Driver unit : 40mm Driver sensitivity : 109±3dB Frequency respone : 32Hz~18KHz Weight : 150 grams Design \[gallery link="file" columns="2" size="medium" ids="301376,301375,301374,301373"\] Coming to the button and port placements. We have the micro usb port for charging and a charging status LED on the left cup. On the right cup we have the 3.5mm port, power button with a Bluetooth status LED and microphone and one side. On the other side we have the play/pause button and volume control buttons. This play button also can be used to attend or reject call likewise the volume buttons can also be used to skip a track or go back to ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=gxEc-g-26mU:tjEF_ClHQ74:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=gxEc-g-26mU:tjEF_ClHQ74:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=gxEc-g-26mU:tjEF_ClHQ74:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=gxEc-g-26mU:tjEF_ClHQ74:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=gxEc-g-26mU:tjEF_ClHQ74:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=gxEc-g-26mU:tjEF_ClHQ74:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/gxEc-g-26mU)  
+[Read Here»](https://www.fonearena.com/blog/301369/jays-x-five-review.html)

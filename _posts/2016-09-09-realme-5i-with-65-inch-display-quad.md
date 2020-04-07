@@ -1,0 +1,12 @@
+---
+title: 'Realme 5i with 6.5-inch display, quad rear cameras, 5000mAh battery announced, launching in India on Flipkart on January 9'
+date: 2020-01-06T10:36:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/realme-5i-1.jpg) realme just introduced the realme 5i, the company's latest smartphone in the realme 5 series in Vietnam as it had promised. The phone doesn’t sport the crystal design like the Realme 5 and Realme 5s, but features a sunrise design. The specifications are identical to the Realme 5, except the 8MP front camera compared to 13MP camera in the realme 5 and 5s. The phone will be launched in India on January 9th on Flipkart, according to the latest teaser. realme 5i specifications 6.5-inch (1600 x 720 pixels) HD+ mini-drop display with Corning Gorilla Glass 3+ protection Octa Core Snapdragon 665 11nm Mobile Platform (Quad 2GHz Kryo 260 + Quad 1.8GHz Kryo 260 CPUs) with Adreno 610 GPU 3GB RAM with 32GB storage, 4GB RAM with 64GB storage, expandable memory up to 256GB with microSD Dual SIM (nano + nano + microSD) ColorOS 6.1 based on Android 9.0 (Pie) 12MP rear camera with Sony IMX386 sensor, f/1.8 aperture, PDAF, LED flash, EIS, 8MP 118° ultra-wide angle lens with 1.12μm pixel size, f/2.25 aperture, 2MP depth sensor and 2MP camera for 4cm macro with 1.75μm pixel size, f/2.4 aperture 8MP front-facing camera Fingerprint sensor 3.5mm audio jack, FM Radio Dimensions: 165.4 x 75.6 x 9.3 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=haZe6rihLkE:xPgaTWLMins:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=haZe6rihLkE:xPgaTWLMins:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=haZe6rihLkE:xPgaTWLMins:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=haZe6rihLkE:xPgaTWLMins:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=haZe6rihLkE:xPgaTWLMins:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=haZe6rihLkE:xPgaTWLMins:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/haZe6rihLkE)  
+[Read Here»](https://www.fonearena.com/blog/301721/realme-5i-price-specifications-india-launch-date.html)

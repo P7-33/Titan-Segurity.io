@@ -1,0 +1,12 @@
+---
+title: 'Huami introduces Amazfit PowerBuds with built-in heart rate monitor, Amazfit ZenBuds that helps you sleep'
+date: 2020-01-08T08:06:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Amazfit-PowerBuds-1-1024x624.jpg) Along with the T-Rex and Bip S smartwatches, Huami has also introduced Amazfit PowerBuds wireless earbuds with a built-in heart rate sensor to monitor your heart rate during workout and the Amazfit ZenBuds will help you to get a good sleep, says the company. Amazfit PowerBuds features and specifications  Magnetic sports ear hooks to keep the PowerBuds in place during workout Monitors your heart rate with a built-in Huami PPG heart rate sensor, keeping you up-to-date with real time heart rate data, workout status and rapid heart rate alert. Dust and water resistant (IP55) Advanced composite diaphragm for high-fidelity sound experience. Thru Mode supports ambient sound enhancement Weight: 7g Intuitive touch control customized with tap function. 55mAh battery on the earbuds offers up to 8 hours of play time on a single charge, 450mAh battery on the magnetic charging box offers 24 hours of usage The Amazfit PowerBuds comes in White, Black and Yellow colors, is priced at $99.9 and will be available in February 2020. Amazfit ZenBuds features Noise-blocking design to insulate from outdoor noises providing the best night's sleep. Earplugs are made of silicone earmuffs, which are soft and skin-friendly, smooth and comfortable. Knowles Balanced Armature a Smart Interference, supporting your ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=uNKAd9BldQI:-py9rnSL324:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=uNKAd9BldQI:-py9rnSL324:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=uNKAd9BldQI:-py9rnSL324:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=uNKAd9BldQI:-py9rnSL324:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=uNKAd9BldQI:-py9rnSL324:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=uNKAd9BldQI:-py9rnSL324:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/uNKAd9BldQI)  
+[Read Here»](https://www.fonearena.com/blog/301977/amazfit-powerbuds-price-specifications-amazfit-zenbuds.html)

@@ -1,0 +1,12 @@
+---
+title: 'Google announces timeline to kill Chrome apps in favour of Web apps'
+date: 2020-01-16T12:22:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2016/05/acer-google-chromebook-generic-1024x794.jpg) It was in 2016 when Google announced that it is planning on ending support and killing Chrome apps, in favour of the more advanced Web apps. Citing the advancement in web browsers and the web platform in general, Google has now confirmed the timeline for when they will stop accepting registration of new apps and when they will completely stop support for Chrome Apps. Chrome apps made an entry when Google launched back in 2013, during a time when they believed developers could build an experience comparable to a native application with Chrome apps. Since then, with the progression in modern web browser capabilities, the idea of separate Chrome apps has become irrelevant. In a blog post, Google announced the timeline they will follow in ending support for Chrome apps for different operating systems: March 2020: Chrome Web Store will stop accepting new Chrome Apps. Developers will be able to update existing Chrome Apps through June 2022. June 2020: End support for Chrome Apps on Windows, Mac, and Linux. Customers who have Chrome Enterprise and Chrome Education Upgrade will have access to a policy to extend support through December 2020. December 2020: End support for Chrome Apps on Windows, Mac, and Linux. June 2021: End ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=yy26E_CtyYY:uyM047IU9LE:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=yy26E_CtyYY:uyM047IU9LE:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=yy26E_CtyYY:uyM047IU9LE:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=yy26E_CtyYY:uyM047IU9LE:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=yy26E_CtyYY:uyM047IU9LE:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=yy26E_CtyYY:uyM047IU9LE:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/yy26E_CtyYY)  
+[Read Here»](https://www.fonearena.com/blog/302542/google-kill-chrome-apps.html)

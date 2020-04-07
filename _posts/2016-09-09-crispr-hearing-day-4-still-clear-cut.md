@@ -1,0 +1,26 @@
+---
+title: 'CRISPR hearing Day 4: Still a clear cut case of invalid priority, Broad Institute''s appeal dismissed'
+date: 2020-01-16T17:57:00+01:00
+draft: false
+---
+
+**The Board of Appeal in the CRISPR hearing has found the Broad Institute's patent to lack priority and dismissed the appeal (T 0844/18). ****George Schlich (Opponent 1) in the CRISPR appeal has just told IPKat: "After nearly 4 days at the Board of Appeal, this was a hard fought case. We now know for absolute certain - appeal dismissed. Patent revoked."**  
+  
+After yesterday's hints from the Board of Appeal that they intended to refer the issue of priority to the Enlarged Board of Appeal, many were predicting that the Board of Appeal would go ahead with the referral (see IPKat's report on [**Day 1**](https://ipkitten.blogspot.com/2020/01/the-broad-institutes-crispr-patent.html), and [**Days 2-3**](https://ipkitten.blogspot.com/2020/01/crispr-hearing-days-2-3-board-of-appeal.html)). However, it seems that the Board of Appeal were convinced by the arguments from the opponents that the referral was not necessary. After hearing 3 days of arguments on the issue of priority, the Board felt confident that they could decide on the point of law and dismissed the appeal. The Board of Appeal [**agreed with the opposition division**](http://ipkitten.blogspot.com/2018/01/epo-revokes-crispr-patent-clear-cut.html) that the priority claim was invalid.  
+  
+
+[![](https://1.bp.blogspot.com/-U-iAIgFbAAA/XiCSPwg9BJI/AAAAAAAAJz0/Ft5-IychJVA72QunlnC44Zwct6U_GWwUwCNcBGAsYHQ/s320/end%2Bof%2Bthe%2Broad.jpg)](https://1.bp.blogspot.com/-U-iAIgFbAAA/XiCSPwg9BJI/AAAAAAAAJz0/Ft5-IychJVA72QunlnC44Zwct6U_GWwUwCNcBGAsYHQ/s1600/end%2Bof%2Bthe%2Broad.jpg)
+
+_End of the road for EP2771468_
+
+The Board of Appeal (3.3.08) finished hearing submissions on priority from the parties this morning. Proceedings were then adjourned until the afternoon whilst the Board conferred. The parties undoubtedly had a tense lunch. The Board was either going to decide on the issue of priority or refer the issue to the EBA for clarification. There was a strong feeling [**following the comments made by the Board of Appeal on Day 3**](https://ipkitten.blogspot.com/2020/01/crispr-hearing-days-2-3-board-of-appeal.html) that a referral to the EBA was likely. However, news came soon after recommencement of the proceedings that the Board of Appeal was to dismiss the appeal. **\[In a classic fake news saga, Merpel watched with bemusement today the ongoing proliferation of reports that the Board of Appeal **_had_** referred the matter to the EBA\].**  
+  
+The immediate impact of the referral would have been to prolong the dispute. Even if the EBA had accepted the referral (far from certain), any decision from the EBA would not have been the end of the matter. The EBA is there to provide clarity on points of law. After a EBA decision, the case would then have had to be sent back to the Board of Appeal. Those wishing for legal clarity will welcome the Board of Appeal's decision to settle the matter today.  
+  
+On the other hand, a fact easily forgotten amidst the all the excitement over this week's appeal hearing, is that the patent in dispute, [EP2771468](https://register.epo.org/application?number=EP13818570), is far from being the Broad Institute only patent relating to CRISPR. Whilst today is the end of the road for [EP2771468](https://register.epo.org/application?number=EP13818570), there are 5 divisional applications in the same family as the patent in dispute: [**EP2784162**](https://register.epo.org/application?number=EP14170383&tab=main), [**EP2896697**](https://register.epo.org/application?number=EP15154539&lng=en&tab=doclist), [**EP2940140**](https://register.epo.org/application?number=EP15154565&lng=en&tab=main), [**EP2921557**](https://register.epo.org/application?number=EP15154566&lng=en&tab=doclist), [**EP3144390**](https://register.epo.org/application?number=EP16194919).  
+  
+**[EP2784162](https://register.epo.org/application?number=EP14170383&tab=main)** and [**EP2896697**](https://register.epo.org/application?number=EP15154539&lng=en&tab=doclist) were revoked in opposition earlier last year. The appeals are pending. [**EP2940140**](https://register.epo.org/application?number=EP15154565)  and [**EP2921557**](https://register.epo.org/application?number=EP15154566&lng=en&tab=doclist) have been opposed. [**EP3144390**](https://register.epo.org/application?number=EP16194919) has been accepted by the Examining Division, but not yet granted. In other words, despite the dismissal of the appeal today, we may see the dispute rumble on. However, presumably, should the other cases in the family reach the Board of Appeal, with the same issues at stake, the appeals would be dealt with in the same way as the one today.  
+  
+The patent family of [EP2771468](https://register.epo.org/application?number=EP13818570) is also, of course, not the only family relating to CRISPR. There are many other patents relating to aspects of CRISPR technology, owned by the Broad Institute and other parties, most notably University California Berkeley.  
+  
+We now await publication of the minutes of oral proceedings and the written decision. Thanks again to all our Katfriends for their faithful reporting.

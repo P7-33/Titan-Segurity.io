@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy S20 and Fold 2 Unpacked 2020 event said to be scheduled for February 11'
+date: 2020-01-04T11:02:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Samsung-Galaxy-Unpacked-2020-S20-Fold-2-1024x505.jpg) After several rumors, the invite for the Samsung Unpacked 2020has surfaced online that revealed February 11 date for the next Galaxy flagship phones, Galaxy S20, Galaxy S20+, Galaxy S20 Ultra and Galaxy Fold 2. The invite shows two devices. Based on recent rumors the company is said to jump from S10 to S20. Samsung Unpacked leaked promo. Unpacked is confirmed for 2/11/20 pic.twitter.com/nQeT6i4aRp — Max Weinbach (@MaxWinebach) January 4, 2020 S11e → S20 ✔ S11→ S20+ ✔ S11+ → S20 Ultra ⁇ “Ultra” is just one of the possibilities, there are other options, to be confirmed，and What word do you think is best? — Ice universe (@UniverseIce) December 31, 2019 In case you missed, earlier renders suggest that Galaxy S11 will sport a 108MP 1/1.33-inch ISOCELL Bright HMX image sensor for the primary camera along with a 5x telephoto lens, ultra-wide-angle lens, and a 3D time-of-flight camera. This suggests that the S20 will sport quad rear cameras, but previous renders suggested a Penta camera setup. According to another report, the S20+ is confirmed to pack a 5000mAh (typical) battery and will carry the model number EB-BG988ABY. Samsung Galaxy S20 Ultra is said to flaunt a 6.9-inch curved Dynamic AMOLED display and the resolution is expected to be QHD+. Similar ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=G377sjuI74Q:OtlqncgUorA:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=G377sjuI74Q:OtlqncgUorA:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=G377sjuI74Q:OtlqncgUorA:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=G377sjuI74Q:OtlqncgUorA:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=G377sjuI74Q:OtlqncgUorA:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=G377sjuI74Q:OtlqncgUorA:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/G377sjuI74Q)  
+[Read Here»](https://www.fonearena.com/blog/301661/samsung-galaxy-s20-launch-date-fold-2-rumor.html)

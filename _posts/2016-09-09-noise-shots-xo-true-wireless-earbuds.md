@@ -1,0 +1,12 @@
+---
+title: 'Noise Shots XO true wireless earbuds with Bluetooth 5.0, aptX launched for Rs. 5499'
+date: 2020-01-15T10:22:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Noise-Shots-XO-1-1024x634.jpg) Noise, popular for its wearables has launched Noise Shots XO, the company’s latest true wireless earbuds with   metallic finish, Bluetooth 5.0, Qualcomm aptX technology and environmental noise cancellation. The headset has voice assistant support on Android and iOS and comes with IPX7 rating for water resistance from sweat and rain. It comes with a C-Type USB charging and promises up to 6 hours of playtime on a single charge and a combined 36 hours of playback time with the case. Noise Shots X-Buds specifications Bluetooth 5.0 to connect to devices, Qualcomm aptX with environmental noise cancellation Smart touch controls on the earbuds give you full control Water-resistant (IPX7), making them resistant to sweat from the toughest workouts and light rain Round charging case with metallic finish Supports voice assistants such as Google Assistant and Siri Lightweight design at 4.5g per earbud, 65g with the case 40mAh battery offers 6 hours of standalone playback, 720mAh battery in the case offers 36 hours of total backup, USB Type-C charging port The Noise Shots XO comes in Space Grey, Rose Gold, and Metallic White colors with a matching case in the same color, is priced at Rs. 5499 and will go on sale on Flipkart, Amazon.in ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=OlFmwGkquhg:o5uZv32H9aQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=OlFmwGkquhg:o5uZv32H9aQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=OlFmwGkquhg:o5uZv32H9aQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=OlFmwGkquhg:o5uZv32H9aQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=OlFmwGkquhg:o5uZv32H9aQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=OlFmwGkquhg:o5uZv32H9aQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/OlFmwGkquhg)  
+[Read Here»](https://www.fonearena.com/blog/302478/noise-shots-xo-price-india-features.html)

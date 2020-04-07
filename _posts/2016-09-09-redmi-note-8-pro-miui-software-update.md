@@ -1,0 +1,12 @@
+---
+title: 'Redmi Note 8 Pro MIUI Software Update Tracker [Update: MIUI 11.0.4.0 with SMS issue fix and December security patch]'
+date: 2020-01-07T07:06:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Redmi-Note-8-Pro_fonearena-15-1024x655.jpg) Xiaomi launched the Redmi Note 8 Pro smartphone in India running MIUI 10.4 Global Stable on top of Android 9.0 (Pie). Xiaomi doesn’t follow any fixed update frequency for the MIUI Global Stable ROM but on average, the Global Stable ROM is updated once in a month. This post will help our readers in keeping track of MIUI updates for Redmi Note 8 Pro (codename ‘begoniain’), also check out our Redmi Note 8 Pro content, Redmi Note 8 Pro Unboxing and First Impressions Redmi Note 8 Pro Camera Samples Redmi Note 8 Pro Review MIUI Updates rolled out for the smartphone: \[Jan 6, 2020\]: Xiaomi has started rolling out MIUI 11.0.4.0.PGGINXM hot fix update to fix the SMS/OTP issue and also includes Android security patch for December. The update weighs 337MB in size and is graudally rolling out so it might take time to reach everyone. \[Dec 13, 2019\]: Xiaomi has started rolling out MIUI 11.0.3.0.PGGINXM with November security patch. The update weighs 602 MBs in size and brings MIUI 11 to the device, check out this post to learn more about MIUI 11 features. \[Download Link/OTA from 10.4.4.0\] \[Nov 14, 2019\]: Xiaomi has started rolling out MIUI 11.0.1.0.PGGINXM. The update weighs around 616 MBs ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=uXYjwMxa0LY:pwtXI_WFejI:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=uXYjwMxa0LY:pwtXI_WFejI:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=uXYjwMxa0LY:pwtXI_WFejI:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=uXYjwMxa0LY:pwtXI_WFejI:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=uXYjwMxa0LY:pwtXI_WFejI:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=uXYjwMxa0LY:pwtXI_WFejI:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/uXYjwMxa0LY)  
+[Read Here»](https://www.fonearena.com/blog/295716/redmi-note-8-pro-miui-software-update-tracker.html)

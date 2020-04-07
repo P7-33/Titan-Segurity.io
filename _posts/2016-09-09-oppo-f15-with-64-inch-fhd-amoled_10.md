@@ -1,0 +1,12 @@
+---
+title: 'OPPO F15 with 6.4-inch FHD+ AMOLED display, 48MP quad rear cameras, in-display fingerprint sensor launching in India on January 16'
+date: 2020-01-10T12:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/OPPO-A91-1.jpg) Update: OPPO has confirmed the launch of F15 smartphone in India on January 16th. It has also started posting teasers on Flipkart and Amazon.in. This confirms that the phone will have similar specifications as A91 that was launched in China recently. Earlier: OPPO has started teasing the launch of F15, the company's next generation F series smartphone and the successor of this year's F11 in India soon. The company says that it will have sleek and fashionable design, and the teaser image shows the side profile of the phone. The teaser video confirms quad rear cameras and a waterdrop notch display. The design of the OPPO F15 in the teaser looks similar to the A91, which was introduced in China last week packing a 6.4-inch Full HD+ AMOLED screen with 90.7 screen-to-body ratio, MediaTek Helio P70 SoC with 8GB of RAM,  48-megapixel rear camera along with an 8-megapixel ultra-wide-angle lens and a 2-megapixel depth and 2-megapixel cameras, 16-megapixel front camera and a 4000mAh battery with VOOC 3.0 flash charge fast charging that can charge the phone up to 50% in 30 minutes. OPPO A91 specifications 6.4-inch (2400 × 1080 pixels) Full HD+ AMOLED display with Corning Gorilla Glass 5 protection Octa Core MediaTek ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=APWdwsV9Pd0:yPCHpvWkJTs:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=APWdwsV9Pd0:yPCHpvWkJTs:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=APWdwsV9Pd0:yPCHpvWkJTs:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=APWdwsV9Pd0:yPCHpvWkJTs:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=APWdwsV9Pd0:yPCHpvWkJTs:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=APWdwsV9Pd0:yPCHpvWkJTs:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/APWdwsV9Pd0)  
+[Read Here»](https://www.fonearena.com/blog/301299/oppo-f15-india-launch-date.html)

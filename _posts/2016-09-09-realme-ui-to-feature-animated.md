@@ -1,0 +1,12 @@
+---
+title: 'realme UI to feature Animated Wallpapers, Dual Earphone Connection, Screen-off Display and more'
+date: 2020-01-13T11:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/realme-UI-FoneArena.jpeg) realme CEO, Madhav Sheth confirmed the existence of realme UI back in October last year and said that it will offer a near-stock Android experience, since then there have been a lot of speculations about realme UI. The company finally announced the realme UI rollout schedule back in November and shared a few images to give users an idea of what’s coming their way. Today the company finally shared a short-video that shows a few new features coming to realme devices with realme UI. Customizable Icon Style: realme UI will bring an option to customize the Icon size and style, users will be able to apply third party fonts with the stock launcher. Apart from it, users will also be able to choose icon shape such as Square, Circle, Sqcircle etc, similar to what we have seen with stock Android 10. Dual Earphone Connection: Dual Earphone connection feature will also make it to realme devices with realme UI. Users will be able to use wired, wireless Bluetooth earphones at the same time. Using this feature, Bluetooth and Wired earphones can receive the same media audio but calls will be diverted to the Bluetooth earphones. Screen-Off Display: Screen-Off Display on realme UI is ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=wIgqRZWrSpo:8L0B3TcRHPo:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=wIgqRZWrSpo:8L0B3TcRHPo:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=wIgqRZWrSpo:8L0B3TcRHPo:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=wIgqRZWrSpo:8L0B3TcRHPo:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=wIgqRZWrSpo:8L0B3TcRHPo:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=wIgqRZWrSpo:8L0B3TcRHPo:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/wIgqRZWrSpo)  
+[Read Here»](https://www.fonearena.com/blog/302336/realme-ui-animated-wallpapers-dual-earphone-connection-screen-off-display.html)

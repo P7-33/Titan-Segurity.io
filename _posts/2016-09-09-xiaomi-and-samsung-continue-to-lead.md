@@ -1,0 +1,12 @@
+---
+title: 'Xiaomi and Samsung continue to lead India smartphone market as realme declines in Q4 2019'
+date: 2020-01-22T09:19:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Redmi-Note-8-Pro_fonearena-12-1024x651.jpg) The festive season during Q4 2019 saw smartphone market share grow for all major smartphone companies with the exception of realme, which saw a significant loss in market share once it peaked during the month of September with 16.74% market share, according to the latest IDC report. Being an online-heavy brand, realme saw a huge boost of sales and market share during the festive September month of 2019. They released a lot of new models, many in the premium budget category with competitive prices. But soon after, it saw its market dip plunge to 9.33% and 8.23% in October and November respectively as its online sales died down. Xiaomi continued to grow its market share (up to 30.42%) during the quarter with strong sales of its Redmi Note 8 series in India. A Xiaomi spokesperson told Economic Times that over a million Redmi Note 8 series smartphones were sold within just a month of its launch. With strong sales with its budget M series of smartphones, especially M30s, Samsung saw its market share increase from 16.19% in September 2019 to 19.85% and 21.08% in October and November, respectively. Vivo had a good quarter with the success of the Vivo Z series, S and ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=YMv9CyLs3HM:tlIri_W3ZKU:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=YMv9CyLs3HM:tlIri_W3ZKU:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=YMv9CyLs3HM:tlIri_W3ZKU:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=YMv9CyLs3HM:tlIri_W3ZKU:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=YMv9CyLs3HM:tlIri_W3ZKU:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=YMv9CyLs3HM:tlIri_W3ZKU:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/YMv9CyLs3HM)  
+[Read Here»](https://www.fonearena.com/blog/303006/india-smartphone-market-q4-2019-idc.html)

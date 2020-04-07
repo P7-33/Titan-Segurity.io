@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy Chromebook 2-in-1 with 13.3-inch 4K AMOLED display, 10th Gen Intel Core processor announced'
+date: 2020-01-06T18:36:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Samsung-Galaxy-Chromebook-1024x683.jpg) Samsung has launched Chromebook laptops with Chrome OS in the past like the Chromebook 4, Chromebook 4+,  Plus V2, and more. Now, the company is expanding its lineup of Chromebook with the launch of its new Galaxy Chromebook 2-in-1 running Chrome OS. Samsung Galaxy Chromebook flaunts a 13.3-inch 4K AMOLED touchscreen display with a resolution of 3840 x 2160 pixels and has a "near-infinite screen" with 3.9mm bezels, and Samsung has said that support for HDR400 will be pushed through a software. It is powered by the 10th Gen Intel Core i5 processor paired with up to 16GB RAM with up to 1TB SSD. The graphics duties are handled by the Integrated Intel UHD GPU. The Chromebook measures 9.9mm thick and is the thinnest Samsung Chromebook ever released. It runs on Chrome OS and thanks to the Click-to-Call and Messaging apps, users can use the features present on Samsung smartphone directly on the Galaxy Chromebook. Regarding the connectivity, it supports the latest WiFI 6, fingerprint scanner, and interestingly it sports a 1MP front camera and also an 8MP camera that is present on the keyboard deck. Coming to the I/O, it has 2 x USB Type-C ports, 3.5mm audio jack, and UFS/MicroSD ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=-MIBM7zSPPE:vhfVQRm6ee0:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=-MIBM7zSPPE:vhfVQRm6ee0:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=-MIBM7zSPPE:vhfVQRm6ee0:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=-MIBM7zSPPE:vhfVQRm6ee0:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=-MIBM7zSPPE:vhfVQRm6ee0:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=-MIBM7zSPPE:vhfVQRm6ee0:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/-MIBM7zSPPE)  
+[Read Here»](https://www.fonearena.com/blog/301809/samsung-galaxy-chromebook-price-features.html)

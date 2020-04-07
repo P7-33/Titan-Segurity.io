@@ -1,0 +1,12 @@
+---
+title: 'Portronics Power Bun Universal USB Charging Hub launched for Rs. 799'
+date: 2020-01-28T09:22:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Portronics-Power-Bun-1-1024x819.jpg) Portronics, a manufacturer of consumer electronics has launched a new Universal USB Charging Hub in India called the Power Bun. The multi functional device features 3 USB ports with an output of up to 2.4A and 2 220V 10A AC Power plugs. The device is designed to be a single charging station with its universal design. The three USB ports are rated at 5V/2.4A and are placed below two regular 220V 10A AC power ports. Both the power plugs and the USB ports can be used simultaneously using Intelligent Charging Technology that match the requirements of smart devices. It can charge up Android Smartphones, iPhones, iPads, Tablets, Bluetooth Headphones, Power banks, Mp3 players and other 5V USB devices. The product is BIS certified offering Surge Protection and is Fire Retardant, casing up to 750 degree Celsius with its high-quality strong ABS Plastic material. It is ideal for office use where charging multiple devices at onc time will be required. There is also a slot in the top of the station where the users can place their phone when charging. The Portronics Power Bun comes only in white colour and is available for purchase on both Amazon and Flipkart for a price of Rs. 799.
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=nCJi6OYGw7Q:buzBBbHdXeY:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=nCJi6OYGw7Q:buzBBbHdXeY:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=nCJi6OYGw7Q:buzBBbHdXeY:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=nCJi6OYGw7Q:buzBBbHdXeY:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=nCJi6OYGw7Q:buzBBbHdXeY:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=nCJi6OYGw7Q:buzBBbHdXeY:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/nCJi6OYGw7Q)  
+[Read Here»](https://www.fonearena.com/blog/303387/portronics-power-bun-price.html)

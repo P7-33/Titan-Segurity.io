@@ -1,0 +1,12 @@
+---
+title: 'Apple warns EU against common charging port; citing risks of stifling innovation'
+date: 2020-01-24T13:35:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2016/03/Apple-iPad-Pro-Lightning-to-USB-C.jpg) About a week ago, news arrived of the European Union (EU) contemplating passing legislature that would force all companies selling gadgets in the EU to have a common charging port. As expected, Apple has pushed back, warning the EU about the potential negative consequences of such a legislature, citing possible risks of stifling innovation in the tech space. If the EU does pass the legislation with this new regulation, it is quite clear that the company that would stand to lose the most would be Apple. This is due to fact that Apple continues to use its proprietary Lightning Connector on the iPhone to this day. Android phones on the other hand, for the most part, have already switched to the USB Type-C port for charging. It is unclear as to what Apple would do in case the legislation does get passed. Would it comply and engineer an iPhone that charges via USB-C or would it try and fight the legislation long enough until it releases the rumoured port-less iPhone in 2021? However, it is important to note that the iPad Pro has already switched to USB-C, showing that Apple isn't against the port completely. Apple does strongly feel that the legislation would cause ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=PzaSKqYVkYs:9rzDQuG3B8A:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=PzaSKqYVkYs:9rzDQuG3B8A:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=PzaSKqYVkYs:9rzDQuG3B8A:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=PzaSKqYVkYs:9rzDQuG3B8A:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=PzaSKqYVkYs:9rzDQuG3B8A:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=PzaSKqYVkYs:9rzDQuG3B8A:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/PzaSKqYVkYs)  
+[Read Here»](https://www.fonearena.com/blog/303171/apple-eu-common-charging-port-stifling-innovation.html)

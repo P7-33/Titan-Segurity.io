@@ -1,0 +1,12 @@
+---
+title: 'Redmi smartwatch likely to launch soon in India as it receives BIS certification'
+date: 2020-01-27T11:22:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Mi-Watch-1-1024x713.jpg) Xiaomi's Redmi brand recently unveiled Redmi-branded routers, power banks in China and while the company hasn't launched those products here, it is likely to change soon. After filing a trademark for Redmi-branded laptops in India, Redmi-branded smartwatch is likely to launch soon in India as it receives BIS certification.  Redmi smartwatch with model number HMSH01GE and registration number R-41150517 has received BIS certification. This clearly suggests that the company is likely to launch the smartwatch soon in India. There is not much information known about the smartwatch yet, but Redmi's Lu Weibing Weibo post reads "How do you feel about the first Xiaomi watch? Looking for a Redmi watch?", hinting about Redmi smartwatch. Based on rumors, Redmi smartwatch is said to be running on Wear OS platform and is said to be powered by Snapdragon Wear chipset. In comparison, Xiaomi Mi Watch has a 1.78-inch AMOLED touch screen with support for over 100 watch faces, is powered by Qualcomm Snapdragon Wear 3100 with 1GB of RAM, runs Wear OS with MIUI for Watch on top with over 40 apps and has support for eSIM for 4G VoLTE calling through all the major operators in China such as China Telecom and China Unicom. It ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=MpwsPThTI8c:eZ10rKB9McA:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=MpwsPThTI8c:eZ10rKB9McA:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=MpwsPThTI8c:eZ10rKB9McA:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=MpwsPThTI8c:eZ10rKB9McA:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=MpwsPThTI8c:eZ10rKB9McA:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=MpwsPThTI8c:eZ10rKB9McA:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/MpwsPThTI8c)  
+[Read Here»](https://www.fonearena.com/blog/303326/redmi-smartwatch-india-bis-certification.html)

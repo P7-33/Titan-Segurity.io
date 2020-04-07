@@ -1,0 +1,12 @@
+---
+title: 'Realme Buds Air Iconic Cover launched in India for Rs. 399'
+date: 2020-01-24T18:14:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Realme-Buds-Air-Iconic-Cover-1024x694.jpg) Realme has launched Iconic Cover for the realme Buds Air in India, as it had promised earlier this month. The Cover features impact resistant, form fitting design offering complete protection against falls and slip-offs. This doesn’t affect the wireless charging. Features of Realme Buds Air Iconic Cover Comes in special Classic Blue that represents trust and peace to protect realme Buds Air safely and stylishly. The tailor-made "R" logo was designed by the world-renowned design company, Pentagram. Using the 3D printing hot isostatic pressing technology, we were able to achieve a special stereoscopic effect and visual appeal. Smooch touch and durable material to make the Iconic Cover Case extremely comfortable to hold and allow continuous use. 360° Full Protection wraps snugly around your realme Buds Air to protect it against falls and slip-offs. Bottom groove design that supports type-C and wireless charging so that you don't need to remove the cover when charging. It comes with a metal carabiner to give your realme Buds Air omnidirectional Protection and prevention against loss. The Realme Buds Air Iconic Cover comes in Black, White, Blue and Yellow colors, is priced at Rs. 399 and will go on sale starting from January 28th on Flipkart and ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=F-cHD9HZqtk:piBd_Ej-oeo:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=F-cHD9HZqtk:piBd_Ej-oeo:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=F-cHD9HZqtk:piBd_Ej-oeo:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=F-cHD9HZqtk:piBd_Ej-oeo:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=F-cHD9HZqtk:piBd_Ej-oeo:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=F-cHD9HZqtk:piBd_Ej-oeo:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/F-cHD9HZqtk)  
+[Read Here»](https://www.fonearena.com/blog/303180/realme-buds-air-iconic-cover-price-india.html)

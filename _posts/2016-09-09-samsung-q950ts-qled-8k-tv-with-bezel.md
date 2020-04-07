@@ -1,0 +1,12 @@
+---
+title: 'Samsung Q950TS QLED 8K TV with bezel-less Infinity Screen, 5.1 channel surround-sound, 88- and 150-inch MicroLED TVs announced'
+date: 2020-01-06T08:06:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Samsung-Q950TS.jpg) After teaser, Samsung has officially announced its flagship Q950TS QLED 8K TV which features  Infinity Screen that eliminates the bezel around the display to create a screen-to-body ratio of nearly 99%, and the first to feature 5.1 channel surround-sound in a 15mm ultra-thin form factor that is completely flat black panel. Powered by Tizen, it takes voice commands and lets you access new features like Tap View, Digital Butler and Samsung Health. It features enhanced AI (Artificial Intelligence) technology to improve audio, video and smart capabilities. Every model in the lineup will meet the requirements of the 8K Association’s Certified Test Specifications as well as the CTA 8K Ultra HD Display Definition, said the company. It's 8K lineup is the first to support native 8K playback so it can play AV1 codec videos filmed in 8K. Samsung Q950TS QLED 8K TV features Quantum Processor 8K features improved AI upscaling capabilities that use machine learning to analyze and identify the characteristics of individual pixels. It then restores different elements of the image to create a pristine 8K picture, regardless of the content source. Adaptive Picture feature distributes light within the particular scene, ensuring that the TV can maintain a clear picture in bright rooms ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=50H--A6LIU0:94qUJo_aGyQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=50H--A6LIU0:94qUJo_aGyQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=50H--A6LIU0:94qUJo_aGyQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=50H--A6LIU0:94qUJo_aGyQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=50H--A6LIU0:94qUJo_aGyQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=50H--A6LIU0:94qUJo_aGyQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/50H--A6LIU0)  
+[Read Here»](https://www.fonearena.com/blog/301728/samsung-q950ts-qled-8k-tv-88-and-150-inch-microled-tv.html)

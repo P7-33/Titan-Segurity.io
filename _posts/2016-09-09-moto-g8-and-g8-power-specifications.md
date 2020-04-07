@@ -1,0 +1,12 @@
+---
+title: 'Moto G8 and G8 Power specifications surface — punch-hole display, Android 10 and more'
+date: 2020-01-28T11:52:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/moto-g8-plusIMG_1227-1024x768.jpeg) Motorola launched the Moto G8 Plus and G8 Play last year, and recently, Moto G8 Power got certified by the FCC. While there was no information on the launch of Moto G8, a new report now reveals key specifications of the Moto G8 and G8 Power. Moto G8 rumored specifications 6.39-inch (1560 x 720 pixels) HD+ LCD screen Octa Core Snapdragon 665 11nm Mobile Platform (Quad 2GHz Kryo 260 + Quad 1.8GHz Kryo 260 CPUs) with Adreno 610 GPU 2/3/4GB of RAM, 32/64GB internal storage, expandable memory up to 512GB with microSD 16MP (f/1.7 primary) + 2MP (f/2.2 macro sensor) + 8MP (f/2.2 wide-angle) rear camera with LED flash 8MP (f/2.0) front camera Fingerprint sensor Dual 4G VoLTE, WiFi 802.11 b/g/n, Bluetooth 5, GPS + GLONASS  4000mAh battery with 10W charging Moto G8 Power rumored specifications 6.36-inch (2300×1080 pixels) FHD+ LCD screen Octa Core Snapdragon 665 11nm Mobile Platform (Quad 2GHz Kryo 260 + Quad 1.8GHz Kryo 260 CPUs) with Adreno 610 GPU 4GB RAM, 64GB internal storage, expandable memory up to 512GB with microSD 16MP (f/1.7 primary) + 2MP (f/2.2 macro sensor) + 8MP (f/2.2 wide-angle) + 8MP f/2.4 (could be telephoto) rear cameras 25MP (f/2.0) front camera Fingerprint sensor Dual ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=3HnhtT1yu1M:QUMq-JuOa-Q:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=3HnhtT1yu1M:QUMq-JuOa-Q:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=3HnhtT1yu1M:QUMq-JuOa-Q:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=3HnhtT1yu1M:QUMq-JuOa-Q:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=3HnhtT1yu1M:QUMq-JuOa-Q:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=3HnhtT1yu1M:QUMq-JuOa-Q:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/3HnhtT1yu1M)  
+[Read Here»](https://www.fonearena.com/blog/303424/moto-g8-power-specs-leak-g8.html)

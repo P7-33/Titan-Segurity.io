@@ -1,0 +1,12 @@
+---
+title: 'itel A25 Android Go Edition smartphone with 5-inch HD display launched in India for Rs. 3999'
+date: 2020-01-06T14:06:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/itel-a25-662x1024.png) TRANSSION's iTel which is known for its budget lineup of smartphones launched the A46 smartphone with dual rear cameras in India, and the company didn't launch many devices in India last year. Now, the company has come up with its first launch of 2020 - itel A25 budget smartphone with HD display, Android Go Edition operating system, and more. itel A25 sports a 5.0-inch IPS HD display with a resolution of 1280 x 720 pixels, is powered by a 1.4Ghz quad-core processor of an unknown chipset maker and is paired with 1GB RAM with 16GB of internal storage. It sports a gradient back, supports face unlock, multi-language, and 4G VoLTE/ViLTE. Regarding the optics, it sports a single 5MP rear camera with an LED flash and a 2MP front camera with flash as well. It runs on Android 9 Pie (Go Edition) and it packs a 3020mAh battery. The smartphone is 9.85mm thick and supports various languages including English, Hindi, Marathi, Punjabi, Bengali, Tamil, Telugu, Kannada, Gujarati, Urdu, Malayalam, Nepali, Assamese, and Oriya. itel A25 specifications 5.0-inch HD (1280×720 pixels) IPS display 1.4GHz Quad-Core processor 1GB RAM, 16GB storage, expandable memory up to 32GB with microSD Android 9.0 Pie (Go Edition) Dual SIM 5MP ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=muqIXBGF4Cg:QgWAZWFBnqk:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=muqIXBGF4Cg:QgWAZWFBnqk:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=muqIXBGF4Cg:QgWAZWFBnqk:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=muqIXBGF4Cg:QgWAZWFBnqk:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=muqIXBGF4Cg:QgWAZWFBnqk:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=muqIXBGF4Cg:QgWAZWFBnqk:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/muqIXBGF4Cg)  
+[Read Here»](https://www.fonearena.com/blog/301783/itel-a25-price-india-specifications.html)

@@ -1,0 +1,12 @@
+---
+title: 'MIUI Launcher gets App Share shortcut, new fingerprint unlock animation'
+date: 2020-01-06T04:36:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/MIUI-launcher-app-share-shortcut-1024x738.jpg) Xiaomi’s MIUI is well-known for the customizations it offers, despite being user-friendly and customizable, people had some complaints with MIUI such as Notification Shade and MIUI Launcher. Xiaomi hugely improved the notification shade with last two iterations of MIUI but MIUI Launcher didn’t get much improvements and features. Last year, Xiaomi introduced Hidden Apps on MIUI Launcher and also introduced App Drawer on MIUI China ROM. \[gallery columns="2" size="large" ids="301540,301541"\] Xiaomi recently updated MIUI Launcher on the Global ROM which enabled App Shortcuts for various apps that allow users to launch any specific part of the app to perform certain key tasks, directly from home screen which was originally introduced in Android Nougat. \[gallery columns="2" size="large" ids="301542,301543"\] Apart from App Shortcuts, MIUI Launcher also got a new feature that lets users share apps directly from home screen, so in case you want to share an app with someone, you can directly long press on the app and choose Share option. Users can also create a Dual App for supported apps directly from the home screen. The update also brought a new fingerprint animation. All these changes are available only on devices running MIUI excluding POCO, and Redmi K20 series since these devices have POCO Launcher ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=vzp6H_Qu-tg:vIyp5oKfavo:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=vzp6H_Qu-tg:vIyp5oKfavo:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=vzp6H_Qu-tg:vIyp5oKfavo:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=vzp6H_Qu-tg:vIyp5oKfavo:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=vzp6H_Qu-tg:vIyp5oKfavo:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=vzp6H_Qu-tg:vIyp5oKfavo:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/vzp6H_Qu-tg)  
+[Read Here»](https://www.fonearena.com/blog/301545/miui-launcher-app-share-shortcut-new-fingerprint-unlock-animation.html)

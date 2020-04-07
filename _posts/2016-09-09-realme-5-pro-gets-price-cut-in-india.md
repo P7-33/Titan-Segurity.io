@@ -1,0 +1,12 @@
+---
+title: 'Realme 5 Pro gets a price cut in India, now available starting at Rs. 12999'
+date: 2020-01-29T07:52:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Realme-5-Pro_fonearena-08-1024x714.jpg) realme launched the realme 5 Pro last year in India with Snapdragon 712 processor and was launched starting at Rs. 13,999. It was available at a discounted price during the festive season and now, the smartphone has got a Rs. 1000 price cut, and it appears to be a permanent drop. realme 5 Pro 4GB + 64GB RAM storage variant is now available at Rs. 13,999, against its original price of Rs. 14,999. The 6GB + 64GB variant is now available at Rs. 13,999, against its original price of Rs. 14,999. Similarly, the 8GB + 128GB is now available at Rs. 15,999, against its original price of Rs. 16,999. The revised prices are now reflecting at Flipkart.com and realme.com. Smartphone Original Price New Price Price Cut realme 5 Pro Rs. 13,999 (4+64GB) Rs. 12,999 (4+64GB) Rs. 1000 Rs. 14,999 (6+64GB) Rs. 13,999 (6+64GB) Rs. 1000 Rs. 16,999 (8+128GB) Rs. 15,999 (8+128GB) Rs. 1000 To recall, realme 5 Pro sports has a 6.3-inch Full HD+ Dewdrop notch display with 90.6% screen-to-body ratio and Corning Gorilla Glass 5 protection, is powered by Snapdragon 712 10nm SoC with up to 8GB RAM, Hyperboost 2.0 with touch boost and frame boost for an enhanced touch control and frame rate while gaming and runs Android 9.0 (Pie) ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=IX6VSjcAcdU:1mVi_rrL_f4:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=IX6VSjcAcdU:1mVi_rrL_f4:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=IX6VSjcAcdU:1mVi_rrL_f4:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=IX6VSjcAcdU:1mVi_rrL_f4:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=IX6VSjcAcdU:1mVi_rrL_f4:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=IX6VSjcAcdU:1mVi_rrL_f4:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/IX6VSjcAcdU)  
+[Read Here»](https://www.fonearena.com/blog/303480/realme-5-pro-price-cut-india.html)

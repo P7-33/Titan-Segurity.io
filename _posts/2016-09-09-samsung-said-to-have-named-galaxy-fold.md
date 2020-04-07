@@ -1,0 +1,12 @@
+---
+title: 'Samsung said to have named Galaxy Fold successor as “Galaxy Bloom” in a secret CES 2020 meeting'
+date: 2020-01-10T11:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Samsung-Galaxy-Fold-2-teaser-1024x517.jpg) In a secret meeting at CES 2020, Samsung has reportedly named the upcoming successor to the Galaxy Fold as the 'Galaxy Bloom'. In a report by the website ajunews.com, the Galaxy Bloom will apparently have a design that is inspired by the powder compact of the luxury cosmetics brand Lancome. The next-generation foldable phone that follows the Galaxy Fold will be a device that will targeted heavily at women in their 20s, who have used relatively few smartphones in their lives. That will explain Samsung's design choice of being inspired by the compact powder from French cosmetics brand Lancome. The device is different from the existing Galaxy Fold in that the screen fold itself is across the horizontal axis and not vertical. The device will also feature an ultra-thin glass called 'UTG (Ultra Thin Glass)' instead of the plastic film that was present in the Galaxy Fold. In addition to this, Samsung has also confirmed that its Galaxy S lineup will adopt a different naming strategy with the upcoming 2020 flagships to be named the Galaxy S20 series. There are 3 rumored phones to be announced this year; the Galaxy S20,  S20+ and S20 Ultra. The Galaxy S20 series and the Galaxy Bloom will ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=-5oADcBftEM:7E7TZroh53o:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=-5oADcBftEM:7E7TZroh53o:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=-5oADcBftEM:7E7TZroh53o:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=-5oADcBftEM:7E7TZroh53o:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=-5oADcBftEM:7E7TZroh53o:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=-5oADcBftEM:7E7TZroh53o:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/-5oADcBftEM)  
+[Read Here»](https://www.fonearena.com/blog/302216/samsungs-galaxy-bloo-galaxy-fold-successor.html)

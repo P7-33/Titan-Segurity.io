@@ -1,0 +1,12 @@
+---
+title: 'HONOR Band 5i with 0.96-inch color display, 50-meter water resistance, built-in USB connector launched in India for Rs. 1999'
+date: 2020-01-14T09:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/HONOR-Band-5i.jpg) HUAWEI's HONOR brand just launched the HONOR Band 5i, a cheaper version of the HONOR Band 5 in India, as it had announced. This features a 0.96-inch LCD color touch screen in addition to Home button, comes with HONOR Clock Face Store for a lot of watch faces, continuous heart rate tracking with HONOR's TruSeen 3.0 heart rate monitor technology, and is also water resistant up to 50 meters. It has automatic activity tracking that lets you track running, cycling, swimming and more. The band has TruSleep that can analyze sleep quality in real-time, identify everyday sleep habits, and provide over 200 personalized assessment suggestions for a better night's sleep. It has a SpO2 sensor for estimating blood oxygen levels. It has music controls and features an easily removable wrist strap that conceals HONOR Band 5i's USB Connector, which offers hassle-free USB charging without a dedicated charging cradle. It promises up to one week of battery life on a single charge. HONOR Band 5i specifications 0.96-inch (160×80 pixels) LCD touch color display with customizable Clock faces Bluetooth 4.2 LE, Compatible with Android 4.4 (or later) or iOS 9.0 (or later) Pedometer, Sleep tracker, 9 Fitness modes, Sedentary reminder PPG heart rate sensor for ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=87zJlbTqzmo:PmpbUmGimKg:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=87zJlbTqzmo:PmpbUmGimKg:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=87zJlbTqzmo:PmpbUmGimKg:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=87zJlbTqzmo:PmpbUmGimKg:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=87zJlbTqzmo:PmpbUmGimKg:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=87zJlbTqzmo:PmpbUmGimKg:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/87zJlbTqzmo)  
+[Read Here»](https://www.fonearena.com/blog/302389/honor-band-5i-price-india-specifications.html)

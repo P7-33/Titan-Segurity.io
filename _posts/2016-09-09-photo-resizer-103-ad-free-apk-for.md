@@ -1,0 +1,46 @@
+---
+title: 'Photo Resizer 1.0.3 Ad Free APK For Android'
+date: 2020-02-03T16:14:00+01:00
+draft: false
+---
+
+![Photo Resizer 1.0.3 Ad Free APK For Android](https://i1.wp.com/apkhome.net/wp-content/uploads/2020/02/Photo-Resizer-1.0.3-Ad-Free.png "Photo Resizer 1.0.3 Ad Free APK For Android")
+
+  
+
+Photo Resizer 1.0.3 Ad Free APK For Android
+
+The Photo Compressor app will allow you to compress large photos into smaller photos with very little or negligible loss of image quality. You now don't need any desktop or laptop computer with a special software for photo compression.In addition to compressing photos, this application can also resize photos for you.  
+**Characteristics:**  
+\* Compress, resize, crop photos.  
+\* Compress and resize several photos at once (see the help provided in the application for how to use it).  
+\* Allows you to decide the quality of the compressed image.  
+\* Share your compressed photos from the app.  
+\* Fast compression or resizing using the last parameters used.  
+\* See the preview after the compression resize crop operation.  
+\* The original images are not affected.  
+\* Very good quality of resized photos.  
+**Supported Android**  
+{4.3 and UP}  
+**Supported Android Version**:-  
+Jelly Bean(4.1â"4.3.1)- KitKat (4.4â"4.4.4)- Lollipop (5.0â"5.0.2) - Marshmallow (6.0 - 6.0.1) - Nougat (7.0 â" 7.1.1) - Oreo (8.0-8.1) - Pie (9.0)
+
+Download Photo Resizer 1.0.3 Ad Free APK For Android
+====================================================
+
+Additional Information
+----------------------
+
+**Developer :** Sigma App Solution
+
+**Version :** 1.0.3
+
+**Google Play :** [PlayStore](https://play.google.com/store/apps/details?id=com.sigmaappsolution.imagecompressor)
+
+  
+
+[Download Now](https://store4app.co/post/photo-resizer-1-0-3-ad-free-apk-for-android_1580742827)
+
+  
+#ApkDownload, #APKForAndroid, #DownloadApkMod, #store4app  
+Source: [Go homepage.](https://store4app.co/post/photo-resizer-1-0-3-ad-free-apk-for-android_1580742827) .downloadtop{ text-align:center; -webkit-appearance: none; -moz-appearance: none; appearance: none; width: 100%; padding: 9px 9px 11px 13px; background-color: #0EBD3F; border: none; color:#fff; border-radius: 3px; outline: none; font-weight;bold; font: 20px 'Open Sans', sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; color: #fff; cursor: pointer; border-radius:15px;-webkit-border-radius:15px;-moz-border-radius:5px;box-shadow:0 0 5px rgba(0,0,0,.2);-moz-box-shadow:0 0 5px rgba(0,0,0,.2);-webkit-box-shadow:0 0 5px rgba(0,0,0,.2) !important; }

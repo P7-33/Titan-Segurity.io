@@ -1,0 +1,12 @@
+---
+title: 'Western Digital launches Blue SN550 NVMe SSD in India starting at Rs. 7300'
+date: 2020-01-16T12:52:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/WD-Blue-SN550-NVMe-SSD-1024x559.jpg) Western Digital, popular makers of digital storage products has introduced their next generation NVMe SSD called the WD Blue SN550 NVMe SSD. The SSD boasts speeds up to 4 times faster than their SATA SSDs at 2,400 MB/s read speeds. The SSD will come in sizes ranging from 250GB to 1TB. The SSD uses a PCIe Gen 3 connection in the M.2 2280 form factor. Following the NVMe protocol along with a Western Digital-designed controller and firmware, the SSD boasts speeds upto 2400MB/s read and 1950MB/s write speeds. These speeds, when compared to SATA SSDs,  make it ideal for creators who want high performing drives for working with 4K/8K video, large document files or other storage-intensive applications. The WD Blue SN550 NVMe SSD is available for purchase across many offline retailers with capacities of 250GB, 500GB and 1TB priced at Rs. 7300, Rs. 10800 and Rs. 21000 respectively. Commenting on the launch of the NVMe SSD's, Eric Spanneut, vice president and general manager, Client Business Unit, Western Digital said: Taking an NVMe-first approach can speed up system performance tremendously. This translates to less time waiting on data, so creators can work smarter, not harder, to increase both output and potential income. The WD Blue SN550 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=MMMbif56468:VUW0PpZAqsI:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=MMMbif56468:VUW0PpZAqsI:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=MMMbif56468:VUW0PpZAqsI:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=MMMbif56468:VUW0PpZAqsI:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=MMMbif56468:VUW0PpZAqsI:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=MMMbif56468:VUW0PpZAqsI:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/MMMbif56468)  
+[Read Here»](https://www.fonearena.com/blog/302550/western-digital-blue-sn550-nvme-ssd-price-india.html)

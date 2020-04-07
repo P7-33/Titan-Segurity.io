@@ -1,0 +1,12 @@
+---
+title: 'Airtel launches ‘Darbar’ Recharge Pack, SIM and interactive quiz for Rajinikanth fans'
+date: 2020-01-06T13:06:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Airtel-Darbar.jpg) Airtel has announced an exclusive partnership with the upcoming Rajinikanth starrer 'Darbar' and has launched interactive ‘Darbar quiz’ on Airtel Xstream app and stand a chance to win exciting prizes including Darbar movie tickets and the opportunity to meet the movie cast and crew. Airtel has also launched Limited Edition Darbar branded SIM pouch and prepaid packs that will offer unlimited calling and roaming benefits along with high-speed data. To take part in the ‘Darbar’ quiz Airtel customers need to be on the latest version of the Airtel Xstream app on Android or iOS Non-Airtel users need to get an Airtel 4G SIM, insert it in SIM Slot 1 of their smartphone and follow step 1 to get started. Commenting on the partnership, Manoj Murali, CEO-Bharti Airtel, Tamil Nadu & Kerala said: We are delighted to be associated with Darbar. We had received an overwhelming response from the customers during our past tie-ups with Kabali and Kaala. As part of our endeavour to offer a great network and content experience to our customers, we are excited to bring an exclusive Darbar experience to our customers. We invite Rajini fans to enjoy this special experience and celebrate yet another thriller from the superstar.
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=BQueehB4cds:LQHKasNvZco:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=BQueehB4cds:LQHKasNvZco:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=BQueehB4cds:LQHKasNvZco:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=BQueehB4cds:LQHKasNvZco:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=BQueehB4cds:LQHKasNvZco:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=BQueehB4cds:LQHKasNvZco:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/BQueehB4cds)  
+[Read Here»](https://www.fonearena.com/blog/301770/airtel-darbar-recharge-pack-sim-quiz-rajinikanth.html)

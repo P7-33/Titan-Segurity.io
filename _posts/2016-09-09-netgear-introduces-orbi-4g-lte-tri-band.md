@@ -1,0 +1,12 @@
+---
+title: 'NETGEAR introduces Orbi 4G LTE Tri-band Wi-Fi Mesh Router at CES 2020'
+date: 2020-01-08T16:36:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/NETGEAR-4G-LTE-Orbi-Tri-Band-Mesh-W-Fi-Router-CES-2020-1024x682.jpg) NETGEAR, a popular manufacturer of networking gear is launching their Orbi 4G LTE Tri-band Wi-Fi Mesh Router at CES 2020. The product essentially is the combination of Orbi Tri-band Mesh Wi-Fi system and a 4G LTE cellular connection. Orbi Tri-band Mesh Wi-Fi system was a popular mesh WiFi system with its clean unique design and excellent performance. Now, by adding 4G LTE cellular connection, the router can ensure constant connection to the internet where there is limited or no access to traditional wired broadband. The Orbi 4G LTE Wi-Fi Router is capable of up to 1.2Gbps over 4G LTE and is combined with high-performance tri-band AC2200 Wi-Fi. Commenting on the launch of the Mesh Router, Marthesh Nagendra, Country Manager India, ME & SAARC, NETGEAR said: NETGEAR is committed to pushing the boundaries with innovative technology and solutions. We are looking forward to an exciting year with the introduction of a new range of Orbi Mesh Routers which will provide our customers with the best in class Wi-Fi speed and coverage as well as the safety and security of NETGEAR Armor Cybersecurity and Circle Parental Controls. We are also thrilled to be recognized by the CES® 2020 Innovation Awards for our Innovation in design ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=n63vTdiZAE4:3VUyR_cT9Ck:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=n63vTdiZAE4:3VUyR_cT9Ck:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=n63vTdiZAE4:3VUyR_cT9Ck:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=n63vTdiZAE4:3VUyR_cT9Ck:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=n63vTdiZAE4:3VUyR_cT9Ck:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=n63vTdiZAE4:3VUyR_cT9Ck:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/n63vTdiZAE4)  
+[Read Here»](https://www.fonearena.com/blog/302071/netgear-orbi-4g-lte-tri-band-wi-fi-mesh-router.html)

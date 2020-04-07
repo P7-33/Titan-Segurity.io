@@ -1,0 +1,12 @@
+---
+title: 'Belkin unveils wireless charging power bank, 20,000mAh fast charging power bank, screen protectors at CES 2020'
+date: 2020-01-07T12:36:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Belkin-1024x768.jpg) Belkin, a leader in global consumer electronics, took the podium to unveil its new products, including power bank featuring fast charging technology, wireless charges and screen protection accessories. Power banks The company has launched two BOOST↑CHARGE USB-C power banks - 10,000mAh and 20,000mAh. The 10K power bank features an 18W USB-C output with Power Delivery and fast charges an iPhone from 0-50% in 30 minutes and charges a second device up to 12W using the USB-A port. The 20K power bank, on the other hand, has 30W of charging power and provides up to 28 hours of extra battery life for a MacBook. It also can charge a second device up to 12W using the USB-A port and includes is a 2 ft. USB-C to USB-C cable for fast charging the power bank itself. The 10,000mAh and 20,000mAh power banks are priced at $39.99-$69.99 (approx Rs. 2,872- Rs.5,027) respectively. It will be available on from March/April 2020. Wireless charging Talking about the wireless charging, the company has launched five Boost Charge wireless chargers. Most notable out of it is the new 3-in-1 dock that allows the user to charge all of their Apple devices simultaneously wirelessly. It includes a charging puck for the Apple Watch, a pad ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=FDF0v2MTbg8:VsRuk1GCkgQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=FDF0v2MTbg8:VsRuk1GCkgQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=FDF0v2MTbg8:VsRuk1GCkgQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=FDF0v2MTbg8:VsRuk1GCkgQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=FDF0v2MTbg8:VsRuk1GCkgQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=FDF0v2MTbg8:VsRuk1GCkgQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/FDF0v2MTbg8)  
+[Read Here»](https://www.fonearena.com/blog/301870/belkin-wireless-charging-power-bank-ces-2020.html)

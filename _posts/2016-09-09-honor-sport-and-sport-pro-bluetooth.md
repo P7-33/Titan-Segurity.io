@@ -1,0 +1,12 @@
+---
+title: 'HONOR Sport and Sport Pro Bluetooth earphones announced in India starting at Rs. 1999'
+date: 2020-01-14T11:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/HONOR-Sport-Pro-earphones-1024x561.jpg) HONOR, the sub-brand of HUAWEI has announced two new wireless Bluetooth earphones called the Sport and the Sport Pro at the launch event for HONOR 9X. The two earphones feature a neckband design with good battery life, fast charging support and IPX5 ratings. \[caption id="attachment\_302414" align="alignnone" width="575"\] HONOR Sport wireless earphones\[/caption\] The HONOR Sport has a lightweight, IPX5 rated design (5gms on each ear) with the shark fins wings on each earbud that provide a secure and comfortable fit. It features 11mm drivers that have a strong bass performance and connects via Bluetooth 4.1 for enhanced call strength and quality. In the battery life department, the HONOR Sport boasts 11 hours of continuous music playback with its 137mAh battery. Coming to the more premium HONOR Sport Pro, it contains a lot more features that justify the premium tag. It features a built-in USB-C port that can instantly connect to phones via its HUAWEI HiPair technology and fast charge at the same time. For audio performance, it features bigger 13mm drivers that provide richer sound with better clarity and bass. There is support for Low Latency Audio, buttons for in-line volume controls and also has an IPX5 rating. For battery life, the HONOR Sport ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=cHWCLUNYQ4w:yookptOTcl0:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=cHWCLUNYQ4w:yookptOTcl0:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=cHWCLUNYQ4w:yookptOTcl0:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=cHWCLUNYQ4w:yookptOTcl0:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=cHWCLUNYQ4w:yookptOTcl0:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=cHWCLUNYQ4w:yookptOTcl0:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/cHWCLUNYQ4w)  
+[Read Here»](https://www.fonearena.com/blog/302409/honor-sport-sport-pro-price-india-features.html)

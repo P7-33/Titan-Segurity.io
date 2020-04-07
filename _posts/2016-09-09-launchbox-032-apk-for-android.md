@@ -1,0 +1,37 @@
+---
+title: 'LaunchBox 0.32 APK For Android'
+date: 2020-01-03T14:42:00+01:00
+draft: false
+---
+
+![LaunchBox 0.32 APK For Android](https://i0.wp.com/apkhome.net/wp-content/uploads/2020/01/LaunchBox-0.32.png "LaunchBox 0.32 APK For Android")
+
+  
+
+LaunchBox 0.32 APK For Android
+
+LaunchBox for Android covers everything from your Android games to your emulated consoles, computers, handhelds and favorite arcade systems. Just import your ROMs and let LaunchBox recommend a Play Store emulator to use.  
+LaunchBox is ready to go and also in very active development, so stay tuned for new consistent versions and new features. We are the first desktop interface in years due to our constant development efforts and listening to community feedback, and we continue with this same strategy here on Android.  
+**Supported Android**  
+{4.4 and UP}  
+**Supported Android Version**:-  
+KitKat (4.4â"4.4.4)- Lollipop (5.0â"5.0.2) - Marshmallow (6.0 - 6.0.1) - Nougat (7.0 â" 7.1.1) - Oreo (8.0-8.1) - Pie (9.0)
+
+Download LaunchBox 0.32 APK For Android
+=======================================
+
+Additional Information
+----------------------
+
+**Developer :** Unbroken Software, LLC
+
+**Version :** 0.32
+
+**Google Play :** [PlayStore](https://play.google.com/store/apps/details?id=com.unbrokensoftware.launchbox)
+
+  
+
+[Download Now](https://store4app.co/post/launchbox-0-32-apk-for-android_1578058873)
+
+  
+Source: [Go homepage.](https://store4app.co/post/launchbox-0-32-apk-for-android_1578058873) .downloadtop{ text-align:center; -webkit-appearance: none; -moz-appearance: none; appearance: none; width: 100%; padding: 9px 9px 11px 13px; background-color: #0EBD3F; border: none; color:#fff; border-radius: 3px; outline: none; font-weight;bold; font: 20px 'Open Sans', sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; color: #fff; cursor: pointer; border-radius:15px;-webkit-border-radius:15px;-moz-border-radius:5px;box-shadow:0 0 5px rgba(0,0,0,.2);-moz-box-shadow:0 0 5px rgba(0,0,0,.2);-webkit-box-shadow:0 0 5px rgba(0,0,0,.2) !important; }

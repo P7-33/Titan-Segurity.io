@@ -1,0 +1,12 @@
+---
+title: 'Stuffcool Theo Portable Bluetooth speaker launched for Rs. 1999'
+date: 2020-01-20T10:13:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Stuffcool-Theo-Wireless-Bluetooth-speaker-1024x453.jpg) Stuffcool, a manufacturer of tech accessories, has launched their new Theo Portable True Wireless Stereo Bluetooth speaker with mic in India. The speaker comes loaded with a variety of connectivity options like Bluetooth 5.0, USB, AUX-in, etc. The Theo portable TWS Bluetooth speaker belongs to the small and compact style of speakers, meant to be highly portable. Powering this tiny speaker are 5W 40 mm drivers that can deliver a good amount of base considering its small package. With Bluetooth 5.0 and TWS capability, the speakers can also connect with another Theo TWS Bluetooth Speaker to have true stereo performance and improved sound. Users can connect via Bluetooth, USB, TF Card, AUX-in and even FM radio, all present on side of the speaker. On the other side, there are buttons for controls The speakers comes with 1200mAh Li-ion battery that provides 6 hours of continuous listening time and it charges via Micro USB. The speaker also has a built in microphone for hands free calling and it comes in 4 colours: red, green, blue and orange. The Theo portable TWS Bluetooth speaker is available for purchase on Amazon, Flipkart, Stuffcool.com and other retail stores for a price of Rs. 2099 but is currently available on ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=f1vdsCxYmeU:suBzKgIjCVs:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=f1vdsCxYmeU:suBzKgIjCVs:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=f1vdsCxYmeU:suBzKgIjCVs:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=f1vdsCxYmeU:suBzKgIjCVs:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=f1vdsCxYmeU:suBzKgIjCVs:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=f1vdsCxYmeU:suBzKgIjCVs:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/f1vdsCxYmeU)  
+[Read Here»](https://www.fonearena.com/blog/302871/stuffcool-theo-price-features.html)

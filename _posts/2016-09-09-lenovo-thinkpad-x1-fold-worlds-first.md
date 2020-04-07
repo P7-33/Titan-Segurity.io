@@ -1,0 +1,12 @@
+---
+title: 'Lenovo ThinkPad X1 Fold world’s first foldable PC, Lenovo Yoga 5G 2-in-1 laptop and more at CES 2020'
+date: 2020-01-08T13:06:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Lenovo-CES-2020-1-1024x632.jpg) This year at CES 2020, Lenovo has introduced two new worlds first products, the first ever foldable PC called the ThinkPad X1 Fold and the first ever 5G laptop called the Lenovo Yoga 5G. Lenovo also announced a version of the ThinkBook series with a e-ink display, a couple of Chromebooks and three new smart home displays. The ThinkPad X1 Fold was teased back in May 2019 with the idea of having a device with laptop efficiency but with smartphone portability. The X1 fold, when unfolded, will be present the user with a fully flat 13.3-inch display. The device is powered by Intel Core series processors and will run Windows 10 initially at launch but Lenovo will ship it the foldable device focused Window 10x later in the year. The foldable pOLED in the X1 fold will offer many different use cases with the laptop for the user. When semi-folded in the vertical orientation, the laptop is ideal for reading e-books while in the horizontal orientation the device can used as a traditional laptop. When unfolded completely, the laptop is excellent as a media consumption device or you can use the pen support to create art. Lenovo also provides the option of ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=JYn_-hXF_YU:yu05dO8surE:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=JYn_-hXF_YU:yu05dO8surE:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=JYn_-hXF_YU:yu05dO8surE:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=JYn_-hXF_YU:yu05dO8surE:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=JYn_-hXF_YU:yu05dO8surE:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=JYn_-hXF_YU:yu05dO8surE:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/JYn_-hXF_YU)  
+[Read Here»](https://www.fonearena.com/blog/302008/lenovo-thinkpad-x1-fold-lenovo-yoga-5g-2-in-1.html)

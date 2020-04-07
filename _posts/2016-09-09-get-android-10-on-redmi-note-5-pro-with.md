@@ -1,0 +1,12 @@
+---
+title: 'Get Android 10 on Redmi Note 5 Pro with OxygenOS port'
+date: 2020-02-01T08:04:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Redmi-Note-5-Pro-Oxygen-OS-FoneArena-e1580539426100-1024x764.jpg) Xiaomi Redmi Note 5 Pro was amongst best-selling devices in 2018, launched with Android Nougat, it received Android 8.1 (Oreo) update in June 2018. The company rolled out Android 9.0 (Pie) update to the smartphone back in May 2019, the device is almost 2 years old now and has already received two Android updates. It is almost certain that Xiaomi will not update the Android version on the Redmi Note 5 Pro, but in case you own a Redmi Note 5 Pro and wish to keep your device updated with the latest Android version, you may try a custom ROM. We had earlier tried Android 10 based Arrow OS and Android 10 based Pixel Experience ROM on our Redmi Note 5 Pro. Oxygen OS is amongst popular Android skin that offers lots of customizations without adding bloat, developers have ported Android 10 based Oxygen OS to Redmi Note 5 Pro. We tried it on our unit and here is our review of the same. Performance and Benchmarks: \[gallery size="large" link="file" ids="303660,303661,303662"\] It obtained AnTuTu score of 147635 on Pixel Experience. It scored 1351 points in single-core test and 4857 points in multi-core test in Geekbench 4. In Geekbench 5 test, it managed to get ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=ZnIUR-1Nmnc:KKlll95htuw:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ZnIUR-1Nmnc:KKlll95htuw:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=ZnIUR-1Nmnc:KKlll95htuw:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ZnIUR-1Nmnc:KKlll95htuw:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=ZnIUR-1Nmnc:KKlll95htuw:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=ZnIUR-1Nmnc:KKlll95htuw:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/ZnIUR-1Nmnc)  
+[Read Here»](https://www.fonearena.com/blog/303691/redmi-note-5-pro-android-10-oxygenos-port.html)

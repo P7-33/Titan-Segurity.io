@@ -1,0 +1,12 @@
+---
+title: 'Samsung launches ‘The Frame’ 65-inch 4K QLED Smart TV in India for Rs. 1,59,999'
+date: 2020-01-17T11:22:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Samsung-Frame-TV-65-1024x597.jpg) Samsung launched 'The Frame' 55-inch 4K QLED lifestyle TV in India back in August last year for Rs. 1,19,999, later it was sold at a discounted rate during Flipkart's Big Billion Days sale. Today the company has launched 65-inch version of it in India. The Frame QLED TV 65-inch is priced at Rs. 1,59,990 and will be available with attractive pre-book offer during the Flipkart Republic Day sale on 19th. The 55-inch model will be available at a special price of Rs. 84,990 on Flipkart with additional cashback offer of Rs. 3,000. The Frame QLED TV will only be available online on Flipkart and Samsung’s official online store Samsung Shop.  For customers buying The Frame QLED TV, Samsung will provide installation support within four hours of delivery, said Samsung. The Frame: Lifestyle TV highlights Art Mode: The Frame gives meaning to the TV even when it’s switched off. When you are not watching TV, instead of it being a black screen, you can use it as a picture frame that displays artwork and photos just like they would be on paper, film or canvas. Art Store: Through the Art Store, you can transform your TV into a picture frame that shows 1,000+ artworks from ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Bk--9_j0KpU:XtCH3y9BqAE:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Bk--9_j0KpU:XtCH3y9BqAE:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Bk--9_j0KpU:XtCH3y9BqAE:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Bk--9_j0KpU:XtCH3y9BqAE:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Bk--9_j0KpU:XtCH3y9BqAE:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Bk--9_j0KpU:XtCH3y9BqAE:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Bk--9_j0KpU)  
+[Read Here»](https://www.fonearena.com/blog/302619/samsung-frame-65-inch-price-india.html)

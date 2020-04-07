@@ -1,0 +1,12 @@
+---
+title: 'Samsung launches 2020 refrigerator line-up in India including Curd Maestro world’s first refrigerator that prepares curd'
+date: 2020-01-22T10:49:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Samsung-Curd-Maestro-1024x851.jpg) Samsung has launched Curd Maestro Refrigerator, which the company claims is the world’s first refrigerator that helps you make curd. “National Dairy Research Institute (NDRI) has tested and recommended the process of curd making in Samsung’s Curd Maestro”, said the company. Curd Maestro enables curd preparation in five to six hours — five hours for soft curd, six hours for thick curd. One needs to boil and cool the milk and mix the curd culture manually, while Curd Maestro does the most crucial part of the job — fermentation. It will not only ferment the curd but will store it too. Samsung says that Curd Maestro makes curd with the same consistency each time and eliminates all the hassle of curd making in different weather conditions. Curd Maestro refrigerators come with Samsung’s Smart Convertible 5 in 1 Twin Cooling technology and will be available in 244-litre, 265-litre, 314-litre and 336-litre capacities. Samsung has also introduced India’s First Frost Free Refrigerator with Base Stand Drawer designed for extra capacity, in which you can store onions and potatoes, and India’s first five-star Direct Cool Single Door Refrigerator lineup based on new 2020 Star Ratings. Smart Convertible 5-in-1 Twin Cooling refrigerators come with five modes — Normal, ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=QeAaSdrkb9g:Liq3LGRo3kI:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=QeAaSdrkb9g:Liq3LGRo3kI:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=QeAaSdrkb9g:Liq3LGRo3kI:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=QeAaSdrkb9g:Liq3LGRo3kI:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=QeAaSdrkb9g:Liq3LGRo3kI:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=QeAaSdrkb9g:Liq3LGRo3kI:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/QeAaSdrkb9g)  
+[Read Here»](https://www.fonearena.com/blog/303022/samsung-curd-maestro-2020-refrigerators-india-price.html)

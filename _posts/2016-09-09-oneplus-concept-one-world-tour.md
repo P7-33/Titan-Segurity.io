@@ -1,0 +1,12 @@
+---
+title: 'OnePlus Concept One World Tour announced in North America, Europe and India'
+date: 2020-01-28T17:22:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/OnePlus-Concept-One_fonearena-4-1024x633.jpg) OnePlus introduced its Concept One smartphone, the company’s first concept phone with ‘invisible camera.’ at CES 2020 earlier this month. Today it has announced OnePlus Concept World Tour starting from February 5 in North America, Europe and India. It is set for February 8th, 2020 in Delhi, Mumbai and Bengaluru at OnePlus Experience Store. You can check out the address on the OnePlus forum here. There is also OnePlus Concept One Product Briefing with the product team in Bengaluru on February 8th for a limited number of people, if you want to know more about the philosophy behind OnePlus Concept One and a look into the technology behind the product. You can check out venue details for US, France, Germany, The Netherlands, UK, Finland and Denmark in the source link below. Regarding the tour OnePlus said: We truly believe the OnePlus Concept One is a device worth experiencing for yourself. You’ll be able to see our electrochromic glass in action, feel the Concept One’s premium leather finish, while also having the chance to meet our staff and share your thoughts on how this technology should be implemented in future smartphone designs. Don’t miss your chance! Check your calendar and join us in one of ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=7R6NAvl8sKo:pAKAlFV80cg:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=7R6NAvl8sKo:pAKAlFV80cg:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=7R6NAvl8sKo:pAKAlFV80cg:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=7R6NAvl8sKo:pAKAlFV80cg:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=7R6NAvl8sKo:pAKAlFV80cg:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=7R6NAvl8sKo:pAKAlFV80cg:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/7R6NAvl8sKo)  
+[Read Here»](https://www.fonearena.com/blog/303472/oneplus-concept-one-world-tour-india.html)

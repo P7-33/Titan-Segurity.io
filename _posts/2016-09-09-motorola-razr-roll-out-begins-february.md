@@ -1,0 +1,12 @@
+---
+title: 'Motorola razr roll out begins February 6, US pre-orders begin January 26'
+date: 2020-01-23T08:19:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Motorola-razr-2019.jpg) Motorola introduced the razr, the company’s latest foldable smartphone with a large 6.2-inch flexible OLED 21:9 CinemaVision screen back in November last year. Priced at $1,499.99 (Rs. 1,08,230 approx.) without contract or $62.49 a month for 24 months on Verizon Device Payment, the phone was supposed to go on sale earlier this month. Now US carrier Verizon has announced that the phone will now be available for pre-order starting January 26 and go on sale on February 6. The phone closes completely in half, thanks to hinge mechanism that allows the phone to close with both sides perfectly flush. The touchscreen Quick View external display lets you respond to notifications, take selfies, play your music, use Google Assistant, and more without having to flip open your phone. It features a 16MP main camera with Laser Auto Focus and Night Vision mode and electronic image stabilization as well as built-in artificial intelligence (AI). There is a 5-megapixel selfie camera. The phone is powered by Snapdragon 710 with 6GB of RAM, runs stock Android Pie and doesn’t have a 3.5mm audio jack, but it comes with Premium USB Type-C headphones, tuned by expert sound engineers. The phone packs a 2510mAh battery that promises all-day battery ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=ZSc9uMrrLm0:ue-n-HD5SNk:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ZSc9uMrrLm0:ue-n-HD5SNk:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=ZSc9uMrrLm0:ue-n-HD5SNk:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ZSc9uMrrLm0:ue-n-HD5SNk:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=ZSc9uMrrLm0:ue-n-HD5SNk:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=ZSc9uMrrLm0:ue-n-HD5SNk:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/ZSc9uMrrLm0)  
+[Read Here»](https://www.fonearena.com/blog/303054/motorola-razr-sale-date-us.html)

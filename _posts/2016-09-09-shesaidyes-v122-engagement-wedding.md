@@ -1,0 +1,12 @@
+---
+title: 'SheSaidYes v1.2.2 – Engagement & Wedding WordPress Theme'
+date: 2020-01-21T09:47:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Samsung-Galaxy-Note-10-Lite-1024x879.jpg) Samsung just launched  the Galaxy Note10 Lite smartphone in India as it had promised. It packs a 6.7-inch Full HD+ Super AMOLED Infinity-O Display, in-display fingerprint scanner, 32-megapixel front camera inside the tiny punch-hole and a 4500mAh battery with support for 25w fast charging. It features the signature Bluetooth S Pen with Air Commands. Powered by Exynos 9810 SoC, it has a 3.5mm audio jack, 12MP main camera with OIS, 12MP ultra-wide and a 12MP Telephoto camera. It comes with Samsung’s ecosystem of intelligent apps and services, including Bixby (Vision, Lens Mode, and Routines), Samsung Pay and Samsung Health. The smartphone comes with defense-grade security platform, Samsung Knox — that protects users’ data against any tampering. Samsung Galaxy Note10 Lite specifications 6.7-inch Full HD+ (2400×1080 pixels) Super AMOLED Infinity-O Display with 394ppi Octa-Core Samsung Exynos 9 Series 9810 (Quad 2.7GHz + Quad 1.7GHz) 10nm processor with Mali G72MP18 GPU 6GB / 8GB LPDDR4x RAM with 128GB storage (UFS 2.1), expandable memory up to 1TB with microSD Android 10 with OneUI 2.0 Dual SIM 12MP Dual Pixel rear camera with LED Flash, f/1.7 aperture, OIS, 12MP Telephoto lens with f/2.4 aperture, OIS, 12MP Ultra Wide sensor with f/2.2 aperture 32MP front-facing camera with ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=2JNlq7tqNIU:jXW4ygSDr4s:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=2JNlq7tqNIU:jXW4ygSDr4s:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=2JNlq7tqNIU:jXW4ygSDr4s:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=2JNlq7tqNIU:jXW4ygSDr4s:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=2JNlq7tqNIU:jXW4ygSDr4s:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=2JNlq7tqNIU:jXW4ygSDr4s:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/2JNlq7tqNIU)  
+[Read Here»](https://www.fonearena.com/blog/302953/samsung-galaxy-note-10-lite-price-india-specifications.html)

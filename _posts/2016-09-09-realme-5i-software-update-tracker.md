@@ -1,0 +1,12 @@
+---
+title: 'realme 5i Software Update Tracker [Update: A.14 with December Security Patch ]'
+date: 2020-01-15T15:52:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/realme-5i-_fonearena-8-1024x623.jpg) realme launched realme 5i in India running ColorOS 6.1 on top of Android 9.0 (Pie). To recall, realme 5i features a  sunrise design that offers a good grip and doesn’t attract fingerprint. All the specifications are identical to the realme 5, except the 8MP front camera compared to 13MP camera in the realme 5 and 5s. realme doesn’t follow a fixed update frequency but the company rolls out updates frequently. This post will help our readers in keeping track of ColorOS updates for realme 5i, also check out our realme 5i content, realme 5i Unboxing and First Impressions Updates rolled out for the realme 5i so far, \[Jan 15, 2020\]: realme has started rolling out RMX2030EX\_11\_A.14 update with December security patch. The update brings camera improvement along with headphone related minor bug fix. \[Download Link\] The realme 5i comes in Aqua Blue and Forest Green colors, is priced at Rs. 8999 and is available on Flipkart and realme.com. RMX2030EX\_11\_A.14 Changelogs, Security ● Android security patch: December, 2019 Camera ● Optimized the issue of redness in front camera ● Improved clarity of wide-angle Known issue fixed ● Fixed Low probability silent issue of gaming when plug in headphones after unplug headphones
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=zZE-Y_nGy0E:92XdV0CnTbM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=zZE-Y_nGy0E:92XdV0CnTbM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=zZE-Y_nGy0E:92XdV0CnTbM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=zZE-Y_nGy0E:92XdV0CnTbM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=zZE-Y_nGy0E:92XdV0CnTbM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=zZE-Y_nGy0E:92XdV0CnTbM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/zZE-Y_nGy0E)  
+[Read Here»](https://www.fonearena.com/blog/302484/realme-5i-software-update-tracker.html)

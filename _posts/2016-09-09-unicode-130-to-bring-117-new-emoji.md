@@ -1,0 +1,12 @@
+---
+title: 'Unicode 13.0 to bring 117 new emoji including Polar bear, Ninja, Mammoth and more'
+date: 2020-01-30T11:34:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Unicode-Emoji-13.0-2020-List-1.jpg) Unicode, which is the international consortium that dictates computing industry standards has released its Emoji 13.0 standard for the year 2020. It includes 117 new emoji such as a smiling face with tear, Polar bear, a pinched finger, including 55 gender and skin-tone variants. Typically, the new emoji's appear in smartphones sometime around September/October with some manufacturers releasing it earlier. Some of the notable ones include a Santa Claus, transgender flags, people hugging, Pinata and more. For a complete list of the new emoji's, check below: Smiling Face with Tear Disguised Face Pinched Fingers (With Skin Tones) Anatomical Heart Lungs Ninja (With Skin Tones) Person in Tuxedo (With Skin Tones) Woman in Tuxedo (With Skin Tones) Person with Veil (With Skin Tones) Man with Veil (With Skin Tones) Woman Feeding Baby (With Skin Tones) Person Feeding Baby (With Skin Tones) Man Feeding Baby (With Skin Tones) Mx Claus (With Skin Tones) People Hugging Black Cat Bison Mammoth Beaver Polar Bear Dodo Feather Seal Beetle Cockroach Fly Worm Potted Plant Blueberries Olive Bell Pepper Flatbread Tamale Fondue Teapot Bubble Tea Rock Wood Hut Pickup Truck Roller Skate Magic Wand Piñata Nesting Dolls Sewing Needle Knot Thong Sandal Military Helmet Accordion Long Drum Coin ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=r3yLxnzSM3k:uU6UzXKrfSA:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=r3yLxnzSM3k:uU6UzXKrfSA:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=r3yLxnzSM3k:uU6UzXKrfSA:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=r3yLxnzSM3k:uU6UzXKrfSA:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=r3yLxnzSM3k:uU6UzXKrfSA:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=r3yLxnzSM3k:uU6UzXKrfSA:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/r3yLxnzSM3k)  
+[Read Here»](https://www.fonearena.com/blog/303631/unicode-13-emoji-list-2020.html)

@@ -1,0 +1,12 @@
+---
+title: 'List of smartphones that support WiFi calling on Jio'
+date: 2020-01-23T09:19:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Jio-Wi-Fi-Calling-1.jpg) In recent days, the term VoWifi has been trending all over the Internet! At present, two telecom operators Airtel and Jio has rolled out Wi-Fi calling for its users. What is VoWifi? Voice over Wi-Fi is a term to describe the delivery of telephone services using Voice over IP (VoIP) technologies from mobile devices connected across Wi-Fi. In simple terms, VoWiFi is a technology that allows customers to make and receive calls over a Wi-Fi network using their existing Jio phone number. Jio says that VoWiFi customers can use any Wi-Fi network for Jio, the voice and video calls will seamlessly switch-over between VoLTE and Wi-Fi to provide an enhanced voice/video-calling experience. Jio Wi-Fi calling works on over 150 handset models and Jio customers can also make Video over Wi-Fi calls. Prerequisites Wi-Fi Calling Capable Handset 4G VoLTE SIM (Jio) How to enable VoWiFi? To enable this feature, you need to enable Wi-Fi calling or VoWiFi on your phone. Step 1: Connect your smartphone to Wi-Fi Step 2: Go to Settings ⇾ Dual SIM & Cellular Network (depends on the phone) Step 3: Tap into your Primary SIM option Step 4: Enable Wi-Fi calling Smartphones supporting Jio VoWiFi Apple iPhone 6s iPhone 6s Plus iPhone 7 iPhone 7 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=bbwldKpsOQg:EhakkgoFqis:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=bbwldKpsOQg:EhakkgoFqis:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=bbwldKpsOQg:EhakkgoFqis:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=bbwldKpsOQg:EhakkgoFqis:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=bbwldKpsOQg:EhakkgoFqis:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=bbwldKpsOQg:EhakkgoFqis:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/bbwldKpsOQg)  
+[Read Here»](https://www.fonearena.com/blog/303075/jio-wifi-calling-smartphones-list.html)

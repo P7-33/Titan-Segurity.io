@@ -1,0 +1,12 @@
+---
+title: 'Samsung ‘Quick Share’ file sharing service said to take on AirDrop, debut with Galaxy S20 Series'
+date: 2020-01-24T18:14:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Samsung-Quick-Share.png) File sharing apps are becoming popular over the course of years, and users are getting more choices to choose from now. On similar lines, Apple's AirDrop service is popular among Apple users and now, AirDrop is now getting competition finally as Samsung has developed its own file sharing service 'Quick Share' which is said to debut with the Galaxy S20 Series. The functionality of Quick Share is pretty straightforward. Users can transfer file between two Galaxy smartphones with this app and works like other file sharing services. With Quick Share, users can also choose whom they want to share files with or receive files from, either 'Contacts only' or 'Everyone'. The first option 'Contacts only' as the name suggests, will let users share with other Samsung Social users in their contact and the second option 'Everyone' will let users share with anyone using a Samsung smartphone. Furthermore, users can send files to Samsung SmartThings devices where the files will be temporarily uploaded to Samsung Cloud and then streamed to the respective smartphone. There is a restriction on sending files to Samsung SmartThings where users can send up to 1GB at a time and a maximum of 2GB/day. The 'Quick Share' service is expected ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=56s0axDhwi8:d0mGTck45To:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=56s0axDhwi8:d0mGTck45To:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=56s0axDhwi8:d0mGTck45To:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=56s0axDhwi8:d0mGTck45To:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=56s0axDhwi8:d0mGTck45To:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=56s0axDhwi8:d0mGTck45To:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/56s0axDhwi8)  
+[Read Here»](https://www.fonearena.com/blog/303177/samsung-quick-share-file-sharing-galaxy-s20-airdrop.html)

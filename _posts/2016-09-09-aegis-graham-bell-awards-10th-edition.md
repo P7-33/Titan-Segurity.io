@@ -1,0 +1,12 @@
+---
+title: 'Aegis Graham Bell Awards 10th edition 2nd jury round concludes; winners will be facilitated on Feb 27th'
+date: 2020-01-28T10:22:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Aegis-Graham-Bell-Awards.png) Back in September 2018, Aegis School of Data Science, Cyber Security & Telecom, run by Aegis Knowledge Trust announced nominations for the 9th edition of Aegis Graham Bell Awards (AGBA) and earlier this year the winners were announced. Similarly now, the 10th edition of the awards concluded the 2nd jury round and the winners will be facilitated on 27th February 2020. The second jury round was hosted with a focus on IT, SMAC and exponential technologies in Bangalore. Several companies demonstrated their innovation and the list of companies include Quantiphi, Course5 Intelligence, Playment, Math Company, Wipro GE, Yulu Bikes, PhonePe, Finzy, Claym Media & Tech, Siemens, Orrtus, HCL, Comviva, Tech Mahindra, Locus, Sigmoid, Cisco, ESDS IFTAS, Parallel Wireless, Khushi Foods, Meesho, Servify, ShareChat, TailorSmart, Bliss & Style Mobility, etc. The jury who chose the best of the innovation include Dr. Abhijit Gangopadhyay, Dean, Aegis School of Data Science Bhupesh Daheria, CEO, Aegis School of Data Science Dr. Vinay Kulkarni, Adjunct Professor at Indian Institute of Technology, Bombay, Director, Faculty and Mentor, Aegis School of Data Science Rajib Mahalik, COO, Aegis International Chandan Kumar Sonowal, Managing Director, Coretouch Technologies Snehanshu Mitra, Head of CoE, DS & AI, NASSCOM Dr. Viral Shah, Cofounder and ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=oYWsex-tB9M:HMBSfApVg-g:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=oYWsex-tB9M:HMBSfApVg-g:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=oYWsex-tB9M:HMBSfApVg-g:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=oYWsex-tB9M:HMBSfApVg-g:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=oYWsex-tB9M:HMBSfApVg-g:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=oYWsex-tB9M:HMBSfApVg-g:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/oYWsex-tB9M)  
+[Read Here»](https://www.fonearena.com/blog/303395/aegis-graham-bell-awards-10th-edition-2nd-jury-round.html)

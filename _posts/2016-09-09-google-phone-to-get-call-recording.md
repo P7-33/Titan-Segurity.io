@@ -1,0 +1,12 @@
+---
+title: 'Google Phone to get Call Recording feature reveals App teardown'
+date: 2020-01-29T11:52:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Google-Stock-Android-Call-Recording-2.jpg) Call recording is a popular feature that has been missing natively in Googles Phone app for many years now. Many other manufacturers have included this feature in their custom phone app and it looks like Google might follow suit as the feature was spotted in an APK teardown. Almost every manufacturer from Samsung, OnePlus, Huawei, etc. have had an in-built call recorder in their respective phone apps for quite a while now. Phones that ran stock android with the Google Phone app as the dealer had always had this feature missing, relying on third party apps to do so. However, in the new Google Phone App v44, an APK teardown has revealed the presence of the feature and some have managed to activate the feature in a few phone like the Pixel 4 and OnePlus 7 Pro. When the feature is first activated, the following message will appear: “When using the call recording feature, you are responsible for complying with applicable laws related to the recording of calls. Please be aware that many jurisdictions require the consent of both parties for such recording.”. During the call, the user will be able to see a 'Record' button in the in-call UI. Once clicked, the ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=G77E5_XvIdo:3wak581GpE4:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=G77E5_XvIdo:3wak581GpE4:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=G77E5_XvIdo:3wak581GpE4:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=G77E5_XvIdo:3wak581GpE4:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=G77E5_XvIdo:3wak581GpE4:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=G77E5_XvIdo:3wak581GpE4:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/G77E5_XvIdo)  
+[Read Here»](https://www.fonearena.com/blog/303542/google-phone-call-recording-app-teardown.html)

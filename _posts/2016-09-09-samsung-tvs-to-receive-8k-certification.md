@@ -1,0 +1,12 @@
+---
+title: 'Samsung TVs to receive 8K certification from the 8K Association'
+date: 2020-01-02T09:35:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/8KA-8K-certification-1024x467.jpg) Samsung Electronics has partnered with the 8K Association (8KA) to create and receive its certification from a new program that aims to distinguish 8K-enabled televisions and other devices. Samsung 8K TV's will one of the first in the industry to meet this standard which involves various criteria like resolution, brightness and contrast, ports, etc. The 8K Association, which includes founding members like Samsung, Panasonic, TCL, etc., aims to educate and guide consumers on the upcoming 8K TVs that will be released in the coming years. The 8K certification program will require the TV to include a display resolution reaching 7680 x 4320 or more, peak brightness greater than 600 nits, image transmission of HDMI2.1 and high efficiency video codec (HVEC). Although LG electronics is not part of this association, they were recently in the news for having certified their upcoming 8K TV with the 8K UHD from the Consumer Technology Association (CTA). The 8K UHD TV's from LG will be showcased during CES 2020 and is expected to go on sale this year. Commenting on the 8K certification of their TVs, Hyogun Lee, Executive Vice President of the Visual Display Business at Samsung Electronics said: We are proud to be one of the founding ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=e9o9SEFUd_E:D6Y8sanftz0:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=e9o9SEFUd_E:D6Y8sanftz0:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=e9o9SEFUd_E:D6Y8sanftz0:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=e9o9SEFUd_E:D6Y8sanftz0:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=e9o9SEFUd_E:D6Y8sanftz0:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=e9o9SEFUd_E:D6Y8sanftz0:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/e9o9SEFUd_E)  
+[Read Here»](https://www.fonearena.com/blog/301500/samsung-tv-8k-certification-8k-association.html)

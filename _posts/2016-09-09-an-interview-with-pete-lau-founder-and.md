@@ -1,0 +1,12 @@
+---
+title: 'An interview with Pete Lau — Founder and CEO of OnePlus on OnePlus Concept One, wearable devices and more'
+date: 2020-01-20T09:43:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/OnePlus-Concept-One_fonearena-4-1024x633.jpg) At CES 2020, we had a chance to sit down with with Pete Lau – Founder and CEO of OnePlus, and we asked questions that would answer all your queries regarding the latest OnePlus Concept One, what's next for OnePlus, OnePlus wearable device? and more. You can check out our hands-on and first impressions of the OnePlus Concept One here. On with the interview:- FoneArena: Hey Pete, I hope you're doing great! Welcome to the FoneArena Interview. First off, what has been the reaction from everyone regarding the unveiling of the OnePlus Concept One? Pete:  It's been great. A lot of feedback came from all the media today and people seem really excited about it. There was a lot of feedback on the ND Filter, the glass and the overall form, as well. FoneArena: Any new ideas that you have got so far from the feedback? Pete: We didn’t expect that there will be so much of a focus on the ND Filter and we find that exciting. It is also an inspiration for us to think about how we can focus on capabilities going forward as our R&D teams continue to explore possibilities for the ND filters. FoneArena: Great! Can you control the ND filter ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=ACk6B0QLqpc:Rsx_HyBcsXQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ACk6B0QLqpc:Rsx_HyBcsXQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=ACk6B0QLqpc:Rsx_HyBcsXQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ACk6B0QLqpc:Rsx_HyBcsXQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=ACk6B0QLqpc:Rsx_HyBcsXQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=ACk6B0QLqpc:Rsx_HyBcsXQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/ACk6B0QLqpc)  
+[Read Here»](https://www.fonearena.com/blog/302066/an-interview-with-pete-lau-founder-and-ceo-of-oneplus-on-oneplus-concept-one-wearable-devices-and-more.html)

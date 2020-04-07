@@ -1,0 +1,12 @@
+---
+title: 'Fossil Hybrid HR with always-on read-out display, heart rate sensor, 2-week battery life launched in India starting at Rs. 14995'
+date: 2020-01-30T08:34:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Fossil-Hybrid-HR-1024x588.jpg) Fossil has launched Hybrid HR, the company's latest hybrid smartwatch in India, after it was introduced last year. This offers users the most important information at a glance, thanks to new power-efficient display while still enjoying the classic look and feel of a traditional watch with integrated mechanical hands. It also comes with heart rate tracking. Hybrid HR features call and text previews, heart rate and workout tracking, real-time weather and more and promises more than two weeks of battery life on a single charge. The smartwatch allows users to preview texts/emails, answer calls and even program the three push buttons to their own choice of shortcuts. Pairing via Bluetooth technology to the Fossil Smartwatches app allows users to view in-depth activity, set on-watch features, customize the watch face dial, filter incoming smartphone notifications, and more. All devices have limitless options for personalization including interchangeable straps in leather, silicone and stainless steel. Fossil Hybrid HR features and specifications Combines mechanical hands with a dynamic, full round read-out display to view incoming text messages and app alerts as well as contextual information such as weather updates, second time zone and more Displays wellness stats like heart rate, steps, calories and active minutes, also allowing ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=AtPH2mp7GZ4:mt1Iafd3IA0:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=AtPH2mp7GZ4:mt1Iafd3IA0:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=AtPH2mp7GZ4:mt1Iafd3IA0:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=AtPH2mp7GZ4:mt1Iafd3IA0:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=AtPH2mp7GZ4:mt1Iafd3IA0:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=AtPH2mp7GZ4:mt1Iafd3IA0:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/AtPH2mp7GZ4)  
+[Read Here»](https://www.fonearena.com/blog/303608/fossil-hybrid-hr-price-india-features.html)

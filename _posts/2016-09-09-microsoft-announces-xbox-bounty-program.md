@@ -1,0 +1,12 @@
+---
+title: 'Microsoft announces Xbox Bounty Program to identify vulnerabilities, offers awards up to $20000'
+date: 2020-01-31T11:04:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Xbox-Logo.jpg) Microsoft Xbox has announced a new bug bounty program in an attempt to use the public's help to identify critical bugs in the Xbox software ecosystem. The bounties will be decided according to the severity of the bug, its security impact and the quality of report submitted by the researcher (bounty hunter). Many companies have announced bug bounty programs in the past as a way of finding critical problems in their software systems. In this program, there are multiple tiers of security impacts, from Remote Code Execution to Tampering. Each security impact has its bounty rewards decided by its severity ranging from critical to low and three levels of report quality. To qualify for an eligible submission, a researcher must identify a previously unreported vulnerability that can be reproduced in that latest, fully patched version of Xbox Live network and services at the time of submission. The report must also include clear, concise, and reproducible steps, either in writing or in video format. Some examples offered by Microsoft for vulnerabilities include Cross site scripting (XSS), Cross site request forgery (CSRF), Insecure direct object references, Insecure deserialization, etc. Those interested in providing submissions may do so using the MSRC Submission portal, following the recommend ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=PHPUfxFWIVc:YABqz1vFKVU:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=PHPUfxFWIVc:YABqz1vFKVU:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=PHPUfxFWIVc:YABqz1vFKVU:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=PHPUfxFWIVc:YABqz1vFKVU:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=PHPUfxFWIVc:YABqz1vFKVU:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=PHPUfxFWIVc:YABqz1vFKVU:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/PHPUfxFWIVc)  
+[Read Here»](https://www.fonearena.com/blog/303722/xbox-bounty-program-20000-usd-rewards.html)

@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy S20 Ultra 5G could pack 16GB RAM, 108MP camera with 10x optical and 100X ‘Space Zoom’'
+date: 2020-01-14T10:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Samsung-Galaxy-S20-Plus-5G-leak-1024x681.jpg) Live images of the Galaxy S20+ 5G surfaced earlier this week now details about the Galaxy S20 Ultra 5G have surfaced. According to latest rumors, the top-end Galaxy S20 Ultra 5G model will come in 12GB and whopping 16GB RAM options with 128GB/256GB/512GB storage options. This could be the world's first phone to pack 16GB of RAM. Other specifications include 108MP ISOCELL Bright HMX main camera sensor, 48MP secondary camera with support for 10x optical zoom and 12MP ultra wide sensor. It is also said to feature 100X 'Space Zoom' feature making use of the high megapixel count. It is also said to pack 5000mAh battery with 45W option fast charge that will let you charge from 0 to 100% in 74 minutes. The Samsung Galaxy S20+ 5G is said to feature 12MP 1.8μm pixel size main camera with Sony IMX 555 sensor, 64MP secondary camera with Samsung GW2 sensor, Samsung ISOCell S5K2LA tertiary camera and an additional camera, which could be a macro sensor. It is said to use 10MP Sony IMX374 sensor for the front camera, same as Galaxy S10/Note 10. The phone is said to support 4K 60fps video recording and 8K 30fps video recording and support for zoom-in ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=9j9qm1vFvN8:VnGoFbFOp5I:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=9j9qm1vFvN8:VnGoFbFOp5I:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=9j9qm1vFvN8:VnGoFbFOp5I:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=9j9qm1vFvN8:VnGoFbFOp5I:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=9j9qm1vFvN8:VnGoFbFOp5I:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=9j9qm1vFvN8:VnGoFbFOp5I:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/9j9qm1vFvN8)  
+[Read Here»](https://www.fonearena.com/blog/302407/samsung-galaxy-s20-ultra-5g-16gb-108mp-camera-specs-leak.html)

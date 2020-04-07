@@ -1,0 +1,12 @@
+---
+title: 'Vu Cinema TV 43, 50 and 55-inch 4K Android TVs with 40W multi-dimensional soundbar launched starting at Rs. 26999'
+date: 2020-01-15T18:22:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Vu-Cinema-TV-1-1024x573.jpg) VU Technologies has launched Vu Cinema TV series of 4K TVs equipped with Vu’s Pixelium Glass Technology, in-built 40 Watt Tweeter and front sound bar, and Dolby Audio. Vu Cinema TV is India’s first TV that involves 100% robotic assembly of LED panels that ensures absolute precision, uniform brightness across all edges and sleek frame less design, says the company. Powered by Android 9.0 Pie with support for Netflix, Prime Video, YouTube, Google Play with hot keys on the remote, it has Vu Pixelium Glass Technology that enhances light reflection by 40% elaborating picture brightness and wide viewing angle. It features 40W multi-dimensional front sound bar along with 2 Tweeters (5+5 watt Tweeter) handling the higher notes and ensures clarity of vocals and surround sound. Vu Cinema TV (43" 50" and 55") specifications 43 / 50 / 55-inch (3840 × 2160 pixels) DLED display with 178-degree viewing angle, Dolby Vision, HDR10, HLG, 500 Nits brightness Digital Noise Reduction, MPEG Noise Reduction Quad-Core processor with Dual-Core GPU 1.5GB RAM, 8GB storage Android TV 9.0, Chromecast built-in, Multi Screen (iPhone and Android) WiFi 802.11 b/g/n, Bluetooth 5.0, IR, Voice Control, 3 x HDMI (1 contain ARC), 2 x USB, Ethernet, AUX Port VOD Upscaler, ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=I541D7b7Aqo:-Czpa16TPEE:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=I541D7b7Aqo:-Czpa16TPEE:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=I541D7b7Aqo:-Czpa16TPEE:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=I541D7b7Aqo:-Czpa16TPEE:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=I541D7b7Aqo:-Czpa16TPEE:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=I541D7b7Aqo:-Czpa16TPEE:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/I541D7b7Aqo)  
+[Read Here»](https://www.fonearena.com/blog/302496/vu-cinema-tv-price-specifications.html)

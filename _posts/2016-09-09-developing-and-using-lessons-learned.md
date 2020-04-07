@@ -1,0 +1,72 @@
+---
+title: 'Developing and Using Lessons Learned'
+date: 2020-01-27T17:52:00+01:00
+draft: false
+---
+
+From the very beginning of my time in DFIR, and even before then, I saw the value in having some form of "lessons learned" process.   
+  
+By "even before then", I mean that while I was on active duty in the military, we had "lessons learned" events following major exercises that proved to be very valuable.  After exercises such as Valiant Blitz '90 and Team Spirit '91, units involved (MACS-4, MATCS-18, MASS-2, LAAD-2, etc.) got together a did a "hot washup", which was a formalized lessons learned process.  I was a communications officer, providing communications services to the "operators", as well as connecting them to other units.  This sort of process is immensely valuable to military units, particularly given that I and others in my unit (my Gunnery Sgt, my CO, etc.) would likely not be with our unit for the next major event, due to rotations.  This meant that lessons learned were preserved for others for future use.  
+  
+Within DFIR work, things are very different.  We often do not have the luxury of conducting a "lessons learned" process for most of our engagements, and because it's not part of our culture, when we do have the opportunity to do so, we don't do it well.  Further, there needs to be much more to a process such as this than just knowledge sharing via the oral tradition (i.e., having a 'brown bag' lunch with someone giving a presentation), as this sort of passing along of 'corporate knowledge' is extremely transient.  What this means is that if a lesson is indeed learned, a presentation may be provided, but two additional questions need to be addressed.  First, are analysts held accountable for using the new knowledge, and second, how is this new information preserved such that it persists beyond the employment lifetime of the author?  
+  
+I can't really address the first question, as I'm not a manager.  I have my own thoughts as to how this is accomplished; specifically, managers have to remain knowledgeable themselves, and then engage with the analysts (even if through customer updates and reports) in a purposeful, intentional manner.  Part of this includes purposeful, intentional reviews of the analysts' work (via customer updates, reports, etc.), but given that the business model used in most IR consulting organizations is one in which utilization is the primary metric, managers do not often have the time to engage in such a manner.  
+  
+As to the second question, however, there are a number of ways that the corporate knowledge can be preserved, one being something as simple as a wiki.  A corporate or team-based wiki can be a central repository, and it's particularly valuable if it's maintained, updated, curated and searchable.  
+  
+Another way of preserving the corporate knowledge well beyond the lifetime of any individual analyst or manager is to bake findings back into the overall process, such as via the collection or pre-processing mechanism.  
+  
+For example, several years ago, I was listening to a "lessons learned" call when the analyst speaking glossed over something seemingly unimportant (to them), and I got curious about it.  As such, I accessed the data and found something extremely valuable...in this particular instance, the adversary had launched their remote access Trojan (RAT) via a Scheduled Task, rather than launching the RAT installer. Immediately thereafter, once the RAT was running, the adversary deleted the scheduled task.  This was on a Windows 7 system, so deleting the scheduled task meant that both the XML and XP-style .job files were deleted, but the RAT was still running in memory.  Approximately 72 hrs after the RAT was launched, an event record with [event ID 709](http://kb.eventtracker.com/evtpass/evtpages/EventId_709_Microsoft-Windows-TaskScheduler_65994.asp) was generated in the Task Scheduler Event Log.  This event indicated that an error had occurred while attempting to update the backwards-compatible .job file...in this case, because that file no longer existed.  Additional research indicated that this was known functionality within Windows...specifically, that the Task Scheduler service would attempt to update the job information after...you guessed it...72 hours.  
+  
+It turned out that this was an extremely high fidelity indicator of the adversary's behavior.  Rather than launching the RAT installer via the Scheduled Task (something that generally runs pretty quickly and is complete in a matter of seconds), the actor launched the RAT itself, something that was intended to be "long lived".  There was speculation at that time as to whether the threat actor knew about the 72 hr time frame or not, and how 'sophisticated' they were.  I simply reminded myself that this had not been self-detected by the customer and we were analyzing data months after the intrusion occurred.  
+  
+As cool as the event record was, it was highly unlikely that I'd remember to look for something like that on an engagement 6, 8, or 12 months from then, so I added the indicator to my pre-processing methodology, and from that point on, that record was automatically tagged every time I parsed that Windows Event Log file.  My pre-processing methodology includes documentation as to the nature and context of the event record, so I don't have to memorize anything.  This also means that by sharing the methodology with others, every analyst can benefit from the experience of one, without having to have engaged in the analysis themselves (i.e., knowledge sharing).  
+  
+_Threat Hunting Process_  
+Threat hunting is often described as pursuing a hypothesis, or finding a thread and pulling it.  Even if nothing is found, something can be learned.  
+  
+So how do you do this?  Well, if you're in an FTE (full-time employment) internal position, start with understanding something about your infrastructure.  For example, I know of one analyst who knew that their organization did NOT use native Windows tools (i.e., _net.exe_) to manage user accounts; as such, they found a thread (i.e., use of _net.exe_ to create and manager user accounts), used that as the basis for hunting across telemetry collected from their environment...and found a bad guy.  Start with, "this is how _we_ do it", and "this is how the bad guy might do it", and pull that thread.  Lather, rinse, repeat.  
+  
+A great place to get these threads to pull is from social media, particularly sources (Twitter, LinkedIn) that point to write-ups shared by others.  Very often, we might develop a hypothesis or "thread to pull" from something we find online, and from there, our hunt may turn up a system or two (or three) of interest.  For example, not long I saw on Twitter that the Ryuk ransomware had new functionality that allowed it to send a "wake-on-LAN" packet to turn other systems on, so it could then be used to infect them.  If your threat hunting capability allows you to detect UDP datagrams being sent to port 7, why not conduct a hunt to see if this has happened within your environment?  
+  
+What threat hunting then leads us to is the systems which require closer attention, via either full image acquisition, or triage data collection. For example, during targeted threat response for 150,000 endpoints, we were able to reduce this "data ocean" to just the 8 systems the threat actor had engaged with, and then using triage data collection, reduced what we had to look at to a "data cup".   
+  
+_Developing Lessons Learned_  
+In a manner similar to the threat hunting process, intrusion intelligence can be developed from DFIR engagements.  I say "can be" because in my experience, this is something rarely done.  When I started in DFIR, many of those I worked with came from either military or LE backgrounds, and one would think that a "lessons learned" session after an engagement would be just something that just happened, but as it turned out, it didn't.  Not doing so became part of the culture.  
+  
+What happens if you do a "lessons learned" session after engagements?  At the very least, you get things like [this](https://www.secureworks.com/blog/wmi-persistence), [this](https://www.secureworks.com/blog/samas-ransomware), and eventually [this](https://www.secureworks.com/research/samsam-ransomware-campaigns).  The common factor amongst all three of those examples is that they include data that is immediately usable to someone who reads them; they offer actionable intelligence that someone who did not experience one of those engagements can now take full advantage.   
+  
+_Data Sources_  
+If you do DFIR work, the best data source  for producing intrusion intelligence is your own DFIR data.  If you have access to EDR telemetry, as well, then the data is even richer, because you can correlate the actions of the threat actor directly to the artifacts on systems.  
+  
+If you're in an FTE position internal to a company, this is a great way to develop very detailed insight into internal operations within your own organization.  If you're a consultant, this (DFIR + EDR) is THE best way to produce intrusion intelligence, hands down.  
+  
+Another data source is to monitor social media (as well as specific blogs and other resources) and determine what you can use within your own environment.  Use open source threat intel to develop your own hunting leads (for EDR and/or DFIR data), and then bake what you learn from those hunts back into your own process.  
+  
+A good example of this is [this MenaSec blog post](https://blog.menasec.net/2019/07/interesting-difr-traces-of-net-clr.html); there's a good explanation of what was observed, as well as some great indicators (file names) provided that are generated by the operating system as a result of the activity of interest.  As such, these indicators are not as easy to change, unlike IP addresses or file hashes.  
+  
+Another good example is the [SecureList description of Project TajMahal](https://securelist.com/project-tajmahal/90240/).  One of the aspects of this write-up that caught my eye was the module that facilitates data theft by enabling the _KeepPrintedJobs_ flag for printers on the system; this allows the adversary to collect data that is normally deleted as soon as the print job has been completed.  This provides a great opportunity for high fidelity detections in both EDR and DFIR pre-processing.  
+  
+_Using Lessons Learned_  
+Now that we have these items of interest, these indicators, what do we do with them?  Well, that really depends on what you have available.  
+  
+For example, are you using an EDR tool that can detect Registry operations (key creations, writes to values, etc.)?  If so, create an EDR detection or filter that will tell you when the _Attributes_ value for printers on a system has been modified.  If you're doing DFIR work, add the appropriate check to your pre-processing methodology.  It's pretty trivial to write a RegRipper plugin that will not only collect the _Attributes_ value from each printer, but also check to see if the _KeepPrintedJobs_ flag is set.  
+  
+Lessons learned items can be implemented via a number of means, including (but not limited to):  
+\- Yara Rules  
+\- RegRipper plugins  
+\- WEVTX eventmap,txt entry ([here's a good one](https://blog.didierstevens.com/2020/01/15/using-cveeventwrite-from-vba-cve-2020-0601/) to add...)  
+\- EDR detection rules  
+\- snort rules  
+\- Etc.  
+  
+I call this as"baking" what we've learned back into our processes and methodologies.  A great example of implementing something like this occurred several years ago when [Nuix added two extensions to their Workstation product](https://www.nuix.com/blog/step-step-guide-adding-yara-and-regripper-nuix-workstation), one for Yara, and one for RegRipper.  This allows anyone who adds these extensions (and the open source tools) to their analysis platform can now take full advantage of the collective experience of hundreds of analysts and investigators, without ever having to engaged in the same hundreds or thousands of investigations.  An analyst who'd downloaded [this Yara rule](https://github.com/Neo23x0/signature-base/blob/master/yara/thor-hacktools.yar), for example, could now use it to scan images for all of the tools listed without ever having seen a single one of them.  The same is true for [web shells](https://github.com/tenable/yara-rules/tree/master/webshells), [PHP backdoors](https://securityonline.info/php-backdoors-collection-php-backdoors/), etc.; acquired images can be automatically scanned for these items without the analyst having to have ever seen one.  
+  
+To some extent, this is more of using the lessons learned by others to extend our analysis, but anything you learn yourself from this process could then be added right back into the environment.  If someone wanted, they could also add an extension for processing Windows Event Log files and tagging specific events (by source and ID, or other criteria)  
+  
+_Extending Your Reach_  
+Not everything we know needs to be the result of our own personal experiences.  [Jim Mattis stated in his book](https://www.amazon.com/Call-Sign-Chaos-Learning-Lead/dp/0812996836) that "our own personal experiences are not enough to sustain us", and the same applies to DFIR.  No one of us is as smart as all of us working together.  If someone finds something and makes it public, it would behoove those of us impacted (even potentially so) by the finding to implement that finding in a manner that works for our environment and tooling.  
+  
+Clearly, this goes back to the Data Sources section of this blog post, but that simply echos the fact that this is an iterative process.  As you find or learn new things, you add them to collection and pre-processing methodology.  As these new findings are tagged in subsequent engagements, analysis will raise new findings "near" our tagged items, allowing us to then extend our collection and pre-processing methodology further.  
+  
+The same methodology can be applied to EDR, as well.  Let's say you create a detection that alerts you when printer _Attributes_ values are modified, and you receive such an alert.  A review of EDR metadata "near" that alert may not give you the visibility you need, so you implement your forensic collection process and run the collected data through your pre-processing toolset.

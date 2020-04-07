@@ -1,0 +1,12 @@
+---
+title: 'Realme 3 Pro realme UI Software Update Tracker [Update: Android 10 based realme UI 1.0 download link]'
+date: 2020-01-30T15:04:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/04/realme-3-pro-review-2-1024x742.jpg) realme launched the realme 3 Pro in the country back in April running ColorOS 6.0 based on Android 9.0 (Pie). realme doesn’t follow a fixed update frequency but the company rolls out updates frequently. This post will help our readers in keeping track of realme UI updates for realme 3 Pro. Updates rolled out for the realme 3 Pro so far, \[gallery columns="2" size="large" ids="302854,302855"\] \[Jan 30, 2020\]: realme has started rolling out Android 10 based realme UI 1.0 vRMX1851EX\_11.C.02 to realme 3 Pro widely. \[Download Link\] \[Jan 20, 2020\]: realme has started rolling out a new RMX1851EX\_11.C.02 update. The update weighs 541 MBs in size and fixes camera crash issue along with other minor bug fixes to improve the system stability. \[Jab 17, 2020\]: realme has started rolling out Android 10 based realme UI 1.0 to realme 3 Pro. The update comes as RMX1851EX\_11.C.01, weighs 3.52 GBs in size and brings all the new features such as dual earphone connection, animated wallpapers, customizable icon shape, new charging animation, realme Share (cross-brand file-sharing technology) and more. Check out this post to learn about new features that realme UI brings to realme 3 Pro. \[Dec 13, 2019\]: realme has started rolling out ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=i1JYZm_lt10:aeRUKjgymUA:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=i1JYZm_lt10:aeRUKjgymUA:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=i1JYZm_lt10:aeRUKjgymUA:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=i1JYZm_lt10:aeRUKjgymUA:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=i1JYZm_lt10:aeRUKjgymUA:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=i1JYZm_lt10:aeRUKjgymUA:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/i1JYZm_lt10)  
+[Read Here»](https://www.fonearena.com/blog/293189/realme-3-pro-realme-ui-software-update-tracker.html)

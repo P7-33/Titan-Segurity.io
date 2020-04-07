@@ -1,0 +1,12 @@
+---
+title: 'PUMA launches its first smartwatch in India with WearOS, heart rate tracking, GPS for Rs. 19995'
+date: 2020-01-31T14:34:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Puma-Smartwatch.jpg) PUMA has partnered with Fossil Group to launch their first smartwatch in India. The PUMA PT9100 is a sporty styled smartwatch running Android WearOS with a heart rate sensor, GPS, Rapid charging, Activity Tracking and more. The PT9100 is powered by Qualcomm Snapdragon 3100, 512MB of RAM, 4GB of ROM and connects via Bluetooth 4.2. It has 1.19 inch AMOLED display with a resolution of 390 x 390 pixels. Being an PUMA sporty smartwatch, there is also water resistance up to 50M. Running WearOS, the device can sync up with Google Fit which, along with the GPS sensor, allows Activity Tracking like pilates, rowing, or spinning, and count reps from strength training workouts such as pushups. Users can also track heart rate, activity goals, goal progress and completion. The PT9100 can sync up with a smartwatch to provide notifications directly on the watch and control music playback. The device also features an NFC chip that can be used for Google Pay payments. For battery life, PUMA claims up to 1 to 2 days on a single charge with a two hour charging time. The Puma PT9100 smartwatch comes in three colours; Black, White and Yellow and is available for purchase on Flipkart for a price of ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=ylu-djdWHho:Ok7G2kvkEnM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ylu-djdWHho:Ok7G2kvkEnM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=ylu-djdWHho:Ok7G2kvkEnM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ylu-djdWHho:Ok7G2kvkEnM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=ylu-djdWHho:Ok7G2kvkEnM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=ylu-djdWHho:Ok7G2kvkEnM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/ylu-djdWHho)  
+[Read Here»](https://www.fonearena.com/blog/303756/puma-pt9100-price-india.html)

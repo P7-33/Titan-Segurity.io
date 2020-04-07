@@ -1,0 +1,12 @@
+---
+title: 'Caltech wins patent infringement lawsuit as Apple and Broadcom ordered to pay $1.1 Billion'
+date: 2020-01-30T12:34:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2016/05/applestorepa6-1024x682-1024x682.jpg) In this year's biggest jury verdict from this year, Apple Inc. and Broadcom Inc. have been ordered by a California Court to pay a collective $1.1 billion in damages for patent infringement. The plaintiff in this case is California Institute of Technology (Cal Tech.) who claimed that Apple broke patent laws by using Broadcom Wi-Fi chips in their devices. Apple has been ordered to pay $837.8 million while Broadcom was hit with a $270.2 million verdict to pay Cal Tech. The case was based on Cal Tech claiming that the companies violated over a range of patents related to wireless data transmissions. The lawsuit was filed back in 2016 and it claimed that Apple devices like iPhones, iPads, iPods, Apple Watches, Mac computers, HomePod smart speakers, and the since-discontinued AirPort wireless routers have been using patent infringing Broadcom components. Apple and Broadcom did confirm that they will appeal the verdict, denying the infringement of the patents at all. Their lawyers also do not agree with how much significant damages CalTech is entitled to even if they were using the inventions. A spokesperson from Caltech, upon hearing the verdict, said that Caltech is, “pleased the jury found that Apple and Broadcom infringed Caltech patent,” and ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=MOGfHsDNEX4:6m1E0yVd_Co:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=MOGfHsDNEX4:6m1E0yVd_Co:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=MOGfHsDNEX4:6m1E0yVd_Co:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=MOGfHsDNEX4:6m1E0yVd_Co:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=MOGfHsDNEX4:6m1E0yVd_Co:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=MOGfHsDNEX4:6m1E0yVd_Co:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/MOGfHsDNEX4)  
+[Read Here»](https://www.fonearena.com/blog/303640/apple-1-1-billion-patent-infringement-broadcom-caltech.html)

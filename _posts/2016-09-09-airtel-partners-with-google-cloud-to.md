@@ -1,0 +1,12 @@
+---
+title: 'Airtel partners with Google Cloud to offer G Suite apps to Indian SMBs'
+date: 2020-01-20T11:13:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Airtel-G-Suite.jpg) Bharti Airtel has announced a partnership with Google Cloud to offer G Suite with its integrated ICT portfolio, designed for small to medium business (SMBs). The move will help accelerate productivity and digitisation of SMBs across India that use Airtel as its telecommunications provider. G Suite is a host of powerful cloud based applications like Gmail, Docs, Drive, Calendar and more, that are designed around real time collaboration among users in an organisation. When activated, G Suite provides multiple solutions for business requirements, including unlimited cloud storage, calendar planning, administrative control and security. Airtel serves over 2,500 large businesses and over 5,00,000 SMBs and technology startups across India. Many SMBs have only begun the journey towards digitisation with the rate of adoption being low. With this partnership, SMBs using Airtel telecommunications will gain easy access to the G Suite Apps and help future-proof their business. For more information of pricing and availability, you can check out Airtel's  website here. Commenting on the partnership, Gopal Vittal, MD & CEO (India and South Asia), Bharti Airtel said: Airtel and Google Cloud have a shared vision of delighting customers with great products. India, with its growing economy and adoption of digital services, offers one of the biggest opportunities ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=S4oLPuKVRUI:EODqcrCcPw4:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=S4oLPuKVRUI:EODqcrCcPw4:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=S4oLPuKVRUI:EODqcrCcPw4:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=S4oLPuKVRUI:EODqcrCcPw4:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=S4oLPuKVRUI:EODqcrCcPw4:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=S4oLPuKVRUI:EODqcrCcPw4:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/S4oLPuKVRUI)  
+[Read Here»](https://www.fonearena.com/blog/302898/airtel-google-g-suite-apps-indian-smb.html)

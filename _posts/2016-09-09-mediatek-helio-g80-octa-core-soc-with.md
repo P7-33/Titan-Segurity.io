@@ -1,0 +1,12 @@
+---
+title: 'MediaTek Helio G80 Octa-Core SoC with HyperEngine Game Technology announced'
+date: 2020-02-03T05:03:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/MediaTek-Helio-G70-1024x546.jpg) MediaTek has announced Helio G80 in the ‘G series’, which is an enhanced version of the G70 series which was announced last month. It is targeted at budget and mid-range gaming smartphones and features MediaTek’s HyperEngine game technology to boost the mobile gaming experience. It packs dual ARM Cortex-A75 and hexa Cortex-A55 CPUs with the Arm Mali — G52 2EEMC2 with speeds of up to 950MHz and is based on 12nm TSMC FinFET technology. Similar to the G70, the G80 also lacks dedicated APU, which the Helio G90 series have. MediaTek’s HyperEngine technology includes: Intelligent Speed Uplift for Rapid Gameplay Intelligent prediction of Wi-Fi & LTE concurrency triggers in just 13 milliseconds A faster response between smartphone and cell-tower Simply defer calls while in-game without the connection dropping for a moment Resource Management Engine for Better, Longer Gameplay Intelligent, dynamic management of CPU, GPU and memory Smoother performance in heavy-loading game engines, demanding scenes and intense gameplay Enhanced power efficiency for even longer gameplay MediaTek Helio G70 specifications    Helio G80  Helio G70 Process TSMC 12nm CPU 2x Cortex-A75 @ 2 GHz 6x Cortex-A55 @ 1.8GHz 2x Cortex-A76 @ 2 GHz 6x Cortex-A55 @ 1.7GHz Memory 1x LPDDR3 Up to 933 MHz, up to 4GB, 2x LPDDR4x Up to 1800MHz, up to 8GB, eMMC ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=q3nTu4Wwois:OlPnNeUApmI:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=q3nTu4Wwois:OlPnNeUApmI:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=q3nTu4Wwois:OlPnNeUApmI:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=q3nTu4Wwois:OlPnNeUApmI:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=q3nTu4Wwois:OlPnNeUApmI:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=q3nTu4Wwois:OlPnNeUApmI:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/q3nTu4Wwois)  
+[Read Here»](https://www.fonearena.com/blog/303824/mediatek-helio-g80-specs-features.html)

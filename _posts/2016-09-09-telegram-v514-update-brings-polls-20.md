@@ -1,0 +1,12 @@
+---
+title: 'Telegram v5.14 update brings Polls 2.0 with Visible Votes, Multiple Answers, Quiz mode and more'
+date: 2020-01-24T09:35:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Telegram-v5.14-update-1-1024x740.jpg) Telegram has now been updated with version 5.14 and the new update brings Polls 2.0, the option to modify chat bubble corners and a download progress bar for Android. Polls 2.0 brings a lot of nice features like the ability to see who voted for what, polls with multiple answers and a neat little quiz type poll. \[gallery link="file" columns="2" size="large" ids="303146,303147"\] Earlier when creating Polls on telegram, there was only the option to create anonymous polls. Now with the new update, Telegram users can create polls where the entire group can see who voted for what. The option to create anonymous is still available though. The second type of polls that Telegram allows is the option to create polls with multiple answers. This is useful when creating polls for which a playlist of songs or when scheduling events for groups. The third new type of poll Telegram added is the ability to create a mini quiz. The Quiz Mode type of poll lets users create a poll with only one correct answer and if answered right, Telegram will shower the chat screen with confetti. Naturally, polls can only be created with in groups or in channel chats. Users can simply click the poll ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=kc4S-ampW0s:irKAbbPHaZU:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=kc4S-ampW0s:irKAbbPHaZU:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=kc4S-ampW0s:irKAbbPHaZU:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=kc4S-ampW0s:irKAbbPHaZU:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=kc4S-ampW0s:irKAbbPHaZU:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=kc4S-ampW0s:irKAbbPHaZU:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/kc4S-ampW0s)  
+[Read Here»](https://www.fonearena.com/blog/303138/telegram-v5-14-polls-2-0-visible-votes-multiple-answers.html)

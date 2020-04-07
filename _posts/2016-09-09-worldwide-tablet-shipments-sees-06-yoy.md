@@ -1,0 +1,12 @@
+---
+title: 'Worldwide Tablet shipments sees 0.6% YoY decline for Q4 2019; Apple continues lead with 36.5% market share: IDC'
+date: 2020-01-31T10:07:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2017/07/Apple-iPad-Pro-10.5_fonearena-01-1024x885.jpg) The tablet market continues to suffer as the global shipments in Q4 2019 dropped to 43.5 million units, marking a decline of 0.6% compared to Q4 last year. Apple continues to lead the market with its highly successful iPad series with Samsung, HUAWEI, Amazon.com and Lenovo taking the next 4 spots in global shipments and market share. The iPad continues to be the world most popular tablet, with Apple seeing a growth of about 22.7% YoY and a market share over double the next company, at 36.5%. With the release of iPadOS, Apple has seated itself as the best tablet maker for the conceivable future. At second position, even though it saw a decline of 7.4% YoY, Samsung saw a comeback to the spot with 7 million units sold. Although the Tab S product lineup saw a growth during this quarter, it could not offset the overall decline. Shipping 4 million units, HUAWEI took up the third spot in Q4 2019, calculating a YoY decline of 2.8%. Though the company saw record growth in the Asia/Chine market, the ban from USA is still affecting the company, causing its global shipments to fall. At 4th and 5th place, we have Amazon.com and Lenovo with 3.3 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=ckEcSKRKbD4:vmkRtg2OmRs:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ckEcSKRKbD4:vmkRtg2OmRs:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=ckEcSKRKbD4:vmkRtg2OmRs:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ckEcSKRKbD4:vmkRtg2OmRs:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=ckEcSKRKbD4:vmkRtg2OmRs:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=ckEcSKRKbD4:vmkRtg2OmRs:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/ckEcSKRKbD4)  
+[Read Here»](https://www.fonearena.com/blog/303717/worldwide-tablet-shipments-q4-2019-idc.html)

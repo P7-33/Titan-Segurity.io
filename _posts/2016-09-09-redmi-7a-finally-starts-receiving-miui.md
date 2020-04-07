@@ -1,0 +1,12 @@
+---
+title: 'Redmi 7A finally starts receiving MIUI 11 Global Stable update'
+date: 2020-01-07T12:36:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/08/Redmi-7A_fonearena-4-1024x605.jpg) Update: Redmi 7A MIUI v11.0.2.0 has started rolling out widely after v11.0.1.0 was rolled back. You can download the recover ROM here or the OTA from V10.2.10.0 here and update it manually, if you have not received the update yet. Earlier: Xiaomi launched the Redmi 7A smartphone in India back in July running MIUI 10.2 Global Stable on top of Android 9.0. In August, the company rolled out a major MIUI 10.2.7.0 update bringing portrait mode to the smartphone. To remind, the smartphone packs a 5.45-inch HD+ 18:9 aspect ratio display, is powered by Snapdragon 439, and has a 12-megapixel Sony IMX486 rear camera sensor. Now, the company has started rolling out MIUI 11 Global Stable update to Redmi 7A users in India. The new update comes as MIUI 11.0.1.0.PCMINXM and weighs around 726 MBs in size. The new update brings November Android security patch along with new features such as New Minimalistic Design, Blur App Previews, Quick Replies, Mi Share, New Dynamic Sound Effects, Floating Calculator, Updated Mi File Manager, and more to the device. MIUI 11 is being rolled out to all eligible devices as per the schedule, you can keep a track of MIUI 11 updates with our dedicated MIUI section. Also, make sure ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=oYcJfeOPVPA:uH6_9Zk2W0Q:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=oYcJfeOPVPA:uH6_9Zk2W0Q:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=oYcJfeOPVPA:uH6_9Zk2W0Q:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=oYcJfeOPVPA:uH6_9Zk2W0Q:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=oYcJfeOPVPA:uH6_9Zk2W0Q:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=oYcJfeOPVPA:uH6_9Zk2W0Q:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/oYcJfeOPVPA)  
+[Read Here»](https://www.fonearena.com/blog/300482/redmi-7a-miui-11-update-download.html)

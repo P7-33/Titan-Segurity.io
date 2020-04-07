@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy Tab S6 5G with S Pen, 10.5-inch WQXGA Super AMOLED display, dual rear cameras announced'
+date: 2020-01-29T16:22:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Samsung-Galaxy-Tab-S6-5G.jpg) Samsung has announced Galaxy Tab S6 5G, which is the 5G version of the Galaxy Tab S6 that was introduced last year. It is powered by a Octa-Core Snapdragon 855 SoC with Qualcomm X50 5G modem. Other specifications are similar including a 10.5-inch Super AMOLED WQXGA screen, quad-stereo speakers tuned by AKG by HARMAN, in-display fingerprint scanner, 8-megapixel primary camera along with a 5-megapixel 123-degree ultra-wide camera and an 8-megapixel front camera. It has a 5.7mm slim metal body and weighs 420g. Samsung Galaxy Tab S6 5G specifications 10.5-inch (2560×1600 pixel) WQXGA Super AMOLED display Octa-Core Qualcomm Snapdragon 855 7nm Mobile Platform with Adreno 640 GPU 6GB RAM, 128GB storage, expandable memory up to 1TB with microSD Android 10 with One UI 2 13MP rear camera, 5MP 123-degree ultra-wide secondary camera 8MP front-facing camera Optical In-display fingerprint scanner, Accelerometer, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, RGB Light Sensor 4 speakers tuned by AKG, Dolby Atmos S Pen with Bluetooth, 0.35mAh battery Dimensions: 244.5 x 159.5 ×5.7mm; Weight: 420g 5G, WiFi 802.11 ac (2.4GHz/5GHz) MIMO, Wi-Fi Direct, Bluetooth 5, GPS + GLONASS, Beidou, Galileo, USB Type-C, POGO pin 7,040mAh battery with Fast Charging The Samsung Galaxy Tab S6 5G comes in Mountain Gray color, is ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=lDkbyQGSvIE:zzfLL-ey84U:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=lDkbyQGSvIE:zzfLL-ey84U:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=lDkbyQGSvIE:zzfLL-ey84U:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=lDkbyQGSvIE:zzfLL-ey84U:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=lDkbyQGSvIE:zzfLL-ey84U:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=lDkbyQGSvIE:zzfLL-ey84U:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/lDkbyQGSvIE)  
+[Read Here»](https://www.fonearena.com/blog/303570/samsung-galaxy-tab-s6-5g-price-specifications.html)

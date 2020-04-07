@@ -1,0 +1,12 @@
+---
+title: 'Dell introduces 86-inch 4K touch monitor, new Ultrasharp monitors and Alienware 25-inch 240Hz monitor ahead of CES 2020'
+date: 2020-01-03T13:02:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Dell-CES-2020-monitors-1024x575.jpg) In the world of monitors at CES 2020, Dell is introducing a dozen new models, from its high end 86 4K Interactive Touch Monitor to a 27 inch Ultrasharp 4k monitors. Dell is also announcing the new Alienware 25 Gaming Monitor, featuring a fast IPS 240Hz screen with 1 millisecond gray-to-gray response time. The Dell 86 4K Interactive Touch Monitor is designed to be a 86.5 inch digital alternative to the whiteboard with a 4K UHD resolution, 20-point multi-touch and USB-C connectivity. The monitor also features Dell’s exclusive Screen Drop Feature which helps improve accessibility and reach-ability for users of different heights. The Dell 86 4K Interactive Touch Monitor (C8621QT) will be available worldwide on April 10, 2020 with the price to be announced soon. Dell's UltraSharp series also got updated with newer models, ranging from sizes of a massive 43 inches down to 25 inches. The UltraSharp 43 4K USB-C Monitor can connect up to four PCs and view the content from each computer simultaneously and has USB-C connectivity that can deliver up to 90W of power. The Dell UltraSharp 43 4K USB-C (U4320Q) will be priced at $1,049.99 (Rs. 75,413) and will be available globally from Jan. 30. The UltraSharp 27 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=6ToXIBsbjBY:75_aCBXvY40:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=6ToXIBsbjBY:75_aCBXvY40:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=6ToXIBsbjBY:75_aCBXvY40:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=6ToXIBsbjBY:75_aCBXvY40:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=6ToXIBsbjBY:75_aCBXvY40:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=6ToXIBsbjBY:75_aCBXvY40:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/6ToXIBsbjBY)  
+[Read Here»](https://www.fonearena.com/blog/301587/dell-86-inch-4k-touch-monitor-alienware-240.html)

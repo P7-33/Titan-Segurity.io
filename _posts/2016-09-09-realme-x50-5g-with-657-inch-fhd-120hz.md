@@ -1,0 +1,12 @@
+---
+title: 'Realme X50 5G with 6.57-inch FHD+ 120Hz display, Snapdragon 765G, 64MP quad rear cameras, dual in-screen front cameras announced'
+date: 2020-01-07T09:06:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/realme-X50-5G.jpg) realme just announced X50 5G, the company's first 5G smartphone at an event in China as it had promised. It packs a 6.57-inch FHD+ LCD screen with 120Hz refresh rate and 90.48% screen to body ratio and the punch-hole screen houses a 16MP camera as well as an 8MP 105° ultra-wide sensor, is powered by Snapdragon 765G with up to 12GB RAM and support for built-in 5G stand alone and non-stand alone (SA/NSA) sub-6GHz networks. It features 8mm liquid-cooled copper pipe 3.0 for improved heat dissipation. The X50 features quad rear cameras that includes a 64-megapixel primary rear camera with 1/1.72″ Samsung GW1 sensor and f/1.8 aperture, 8MP 119° ultra-wide angle lens, 12-megapixel telephoto lens for 20x hybrid zoom and 2MP macro sensor. It has a 3D glass back with Corning Gorilla Glass 5 protection, features side-mounted fingerprint scanner that can unlock the phone within a second, features Dolby Atmos, Hi-Res audio certification,  and packs a 4200mAh battery with 30W VOOC Flash Charge 4.0 fast charging that can charge the phone up to 70% in 30 minutes. It has also introduced X50 5G Master Edition created by renowned Japanese designer Naoto Fukasawa in Black and Gold versions inpired by Points and Lines. ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=TYQY6t4slE0:gz0zJG87my0:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=TYQY6t4slE0:gz0zJG87my0:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=TYQY6t4slE0:gz0zJG87my0:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=TYQY6t4slE0:gz0zJG87my0:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=TYQY6t4slE0:gz0zJG87my0:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=TYQY6t4slE0:gz0zJG87my0:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/TYQY6t4slE0)  
+[Read Here»](https://www.fonearena.com/blog/301834/realme-x50-5g-price-specifications.html)

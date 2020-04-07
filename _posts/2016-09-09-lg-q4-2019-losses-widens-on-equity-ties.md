@@ -1,0 +1,12 @@
+---
+title: 'LG Q4 2019 losses widens on equity ties, sluggish smartphone sales'
+date: 2020-01-30T11:34:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/LG-G8X-ThinQ_fonearena-1-1024x568.jpg) LG Electronics has reported revenues of 16.06 trillion won (US$ 13.65 billion) for the fourth quarter that ended December 31, 2019, which is up 2.3% compared to the same quarter last year. It posted profits of 101.8 billion won (US$ 86.5 million), up 26.1% YoY, while net profit was down 953% YoY to 849.8 billion won (US$ 717 billion). This is due to losses in its equity ties with LG display, in which it has 37.9% stake and sluggish smartphone sales. LG Display is said to post more than 1 trillion won in losses in 2019, according to analysts, and we should know the exact figures when it posts the results on Friday. For the whole 2019 it posted revenues of 62.3 trillion won (US$ 53.0 billion) in 2019, reflecting strong demand for premium home appliances such as LG SIGNATURE and high-growth, category-creating products. It posted full-year operating profits of 2.44 trillion won (US$ 2.07 billion), down 10% compared to 2018 due to increased investments in marketing and future technologies. Mobile Communications sector reported a quarterly revenue of 1.32 trillion won (US$ 1.12 billion), down 13.15% QoQ and down 21.4 % YoY due to sluggish sales of mass-tier smartphones in North America. ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=ZsjJOdt9LeQ:X4anO8FWhXM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ZsjJOdt9LeQ:X4anO8FWhXM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=ZsjJOdt9LeQ:X4anO8FWhXM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ZsjJOdt9LeQ:X4anO8FWhXM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=ZsjJOdt9LeQ:X4anO8FWhXM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=ZsjJOdt9LeQ:X4anO8FWhXM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/ZsjJOdt9LeQ)  
+[Read Here»](https://www.fonearena.com/blog/303636/lg-2019-revenue-profits.html)

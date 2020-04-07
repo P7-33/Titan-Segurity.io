@@ -1,0 +1,12 @@
+---
+title: 'HiFuture TidyBuds Pro Review – True Wireless Earbuds with 3000mAh Charging Case + Power Bank'
+date: 2020-01-11T11:40:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/HiFuture-TidyBuds-Pro-fonearena-2-1024x576.jpg) The Indian audio market is flooded with a lot of truly wireless earbuds and users have a plethora of options to choose according to their budget. We have reviewed a lot of budget truly wireless earbuds recently like the realme Buds Air, 1More Stylish truly wireless earbuds, Noise Shots X1 Air, and more. We recently checked out true wireless earbuds from a relatively new brand called HiFuture and the charging case also doubles up as a power bank which is quite interesting. It retails for a price of Rs. 4,499 and in this review, let us see if the HiFuture TidyBuds Pro is worth buying or not. Box Contents TidyBuds Pro Earbuds (Left and Right) Charging case with power bank functionality Additional ear tips USB Type-C cable Quick Start Guide Design and Build Quality The design of the TidyBuds Pro is similar to other offerings in the market and is compact and lightweight. There are clear indications for the left and right earbuds, and they light up when you take it out from the charging case. The intuitive touchpad has a concentric circle design and looks amazing. Although the fit of earbuds in one's ears is subjective, the TidyBuds Pro offered a secure ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=8iYMlLprEsE:VQ5MhNYoEj8:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=8iYMlLprEsE:VQ5MhNYoEj8:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=8iYMlLprEsE:VQ5MhNYoEj8:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=8iYMlLprEsE:VQ5MhNYoEj8:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=8iYMlLprEsE:VQ5MhNYoEj8:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=8iYMlLprEsE:VQ5MhNYoEj8:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/8iYMlLprEsE)  
+[Read Here»](https://www.fonearena.com/blog/302264/hifuture-tidybuds-pro-review.html)

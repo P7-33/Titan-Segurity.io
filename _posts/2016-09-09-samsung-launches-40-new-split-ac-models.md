@@ -1,0 +1,12 @@
+---
+title: 'Samsung launches 40 new Split AC models including Wind Free 2.0 ACs for 2020 in India'
+date: 2020-01-10T10:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/Samsung-Windfree-AC-1024x527.jpg) For the year 2020, Samsung has updated their split AC line-up including their unique Wind Free AC 2.0, Triple Inverter, Eco Inverter, and On/Off series. Samsung now has over 40 models for its split AC with aesthetic designs and with price ranges that suit any home. In their premium segment, Samsung has updated the Wind-Free series with the new Wind-Free AC 2.0 with Wi-Fi capability. The model now has 23000 micro-holes, up from the 21000 in last years model, that will gently spread air evenly throughout the room, maintaining a comfortable level of coolness without any draft. Through WiFi control on the Smart Home App, users can remotely control the AC, monitor limit power usage and even schedule operations. They are now equipped with R32, eco-friendly refrigerant and also come with the Easy Filter that eliminates dust, contaminants, allergens, bacteria and viruses. The products will come 10 years of warranty on the compressor and features an energy-efficient Digital Inverter. In its Triple Inverter series, Samsung has introduced new models with tonnage ranging from 1-2 tons. The new models feature the world’s First 8-Pole Inverter Technology and even has a Convertible Mode that will use less compressor capacity, thereby reducing power consumption. Samsung also ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=qVJGZEL6g1w:0zECTAj4vxk:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=qVJGZEL6g1w:0zECTAj4vxk:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=qVJGZEL6g1w:0zECTAj4vxk:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=qVJGZEL6g1w:0zECTAj4vxk:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=qVJGZEL6g1w:0zECTAj4vxk:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=qVJGZEL6g1w:0zECTAj4vxk:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/qVJGZEL6g1w)  
+[Read Here»](https://www.fonearena.com/blog/302181/samsung-split-ac-models-india-2020-price.html)

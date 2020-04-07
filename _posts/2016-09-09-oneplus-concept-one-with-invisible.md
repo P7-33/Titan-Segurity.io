@@ -1,0 +1,12 @@
+---
+title: 'OnePlus Concept One with invisible camera inspired by McLaren design announced'
+date: 2020-01-07T17:36:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2020/01/OnePlus-Concept-One-1024x653.jpg) After teasing the phone, OnePlus has officially announced OnePlus Concept One, the company's first concept phone at CES 2020. This is the first phone to use color-shifting glass technology (electrochromic glass technology), allowing it to change transparency and giving it an 'invisible camera.', says the company. It has partnered with McLaren for the third time, and the design of the phone draws inspiration from the McLaren’s design ethos and approach. Features of OnePlus Concept One The glass of the phone uses organic particles to create changes in transparency so that the glass covering the camera lenses can shift in an instant from opaque black to entirely clear. The glass also provides a practical benefit, doubling as a built-in polarizing filter for the camera that allows users to achieve sharper, more finely detailed shots under strong light. It draws inspiration from similar technology used in McLaren's 720S Spider luxury sports car, which features a retractable hard top glazed with an electrochromic glass panel that can rapidly switch between tinted and transparent states. The design integrates both glass and leather, using the same luxury trim specially tailored for McLaren’s supercars, in the iconic McLaren papaya orange - a tribute to McLaren Racing’s history ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=6EhqYCFthpw:TlMyfckt0Iw:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=6EhqYCFthpw:TlMyfckt0Iw:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=6EhqYCFthpw:TlMyfckt0Iw:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=6EhqYCFthpw:TlMyfckt0Iw:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=6EhqYCFthpw:TlMyfckt0Iw:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=6EhqYCFthpw:TlMyfckt0Iw:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/6EhqYCFthpw)  
+[Read Here»](https://www.fonearena.com/blog/301929/oneplus-concept-one-features.html)
