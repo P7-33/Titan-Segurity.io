@@ -1,0 +1,12 @@
+---
+title: 'Microsoft Office beta for Android combines Word, Excel and PowerPoint into a single app'
+date: 2019-11-04T08:07:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Microsoft-Office-Word-Excel-PowerPoint-1024x683.jpg) Microsoft already has separate Word, Excel and PowerPoint apps for Android, and it has been updating the app with new features. Last week it started testing a new Microsoft Office app that combines Word, Excel and PowerPoint into one. You can also scan to PDFs and also sign PDF files easily using the app. The new Microsoft Office Beta for Android is down on the  Google Play Store  (Cache), however you can download the APK from here and side-load it manually. Highlights of Microsoft Office Create, edit and work in groups on the same document in real time. Store and access documents on cloud storage or device memory. Easily access recent and frequently used Word, Excel, and PowerPoint files stored in the cloud or on your device. Search for documents stored on the cloud, on the phone or on the organization's network (if using a work account). Take a picture of a document and turn it into an editable Word file. Convert images of tables into Excel spreadsheets so you can work with data quickly. Quickly create PDFs from photos or documents of Word, Excel and PowerPoint. Sign PDF with your finger. Create quick notes with Sticky Notes. Easily move files between your ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=8iUWY-630Ek:Her3K9IW33o:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=8iUWY-630Ek:Her3K9IW33o:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=8iUWY-630Ek:Her3K9IW33o:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=8iUWY-630Ek:Her3K9IW33o:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=8iUWY-630Ek:Her3K9IW33o:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=8iUWY-630Ek:Her3K9IW33o:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/8iUWY-630Ek)  
+[Read Here»](https://www.fonearena.com/blog/297108/microsoft-office-android-word-excel-powerpoint-beta.html)

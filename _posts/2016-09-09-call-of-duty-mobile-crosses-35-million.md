@@ -1,0 +1,12 @@
+---
+title: 'Call of Duty: Mobile crosses 35 million downloads on App Store and Google Play Store'
+date: 2019-10-05T13:13:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Call-of-Duty-Mobile.jpg) Activision, in collaboration with Tencent, launched Call of Duty: Mobile for Android and iOS globally earlier this week. It has been just 4 days since launch and the game has crossed 35 million downloads on the App Store and Google Play Store. The company says that the game surpassing 35 million downloads is faster than any other mobile First Person or Third Person Action games on App Store and Google Play Store. The game has also got the #1 app ranking on App Store based on downloads in over 100 countries since launch. In case you missed, Call of Duty: Mobile was announced back in March this year, after that it started Alpha testing in December. It is a free to play with free updates, and there are in-app purchases like PUBG Mobile. This game brings together the maps, weapons, and characters from across the Call of Duty series in the definitive first-person action experience on mobile. It has a fully-customizable control scheme, numerous modes of play, fan-favorite characters and weapons to choose from, as well as a new, sprawling and epic Battle Royale mode. Download Call of Duty: Mobile (Free with in-app purchase) – Android | iOS Commenting on this, Rob Kostich, president, Activision said: The response from ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=MSod7BkXwuA:Rx2sabSd5ek:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=MSod7BkXwuA:Rx2sabSd5ek:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=MSod7BkXwuA:Rx2sabSd5ek:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=MSod7BkXwuA:Rx2sabSd5ek:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=MSod7BkXwuA:Rx2sabSd5ek:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=MSod7BkXwuA:Rx2sabSd5ek:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/MSod7BkXwuA)  
+[Read Here»](https://www.fonearena.com/blog/294128/call-of-duty-mobile-35-million-downloads-on-app-store-google-play-store.html)

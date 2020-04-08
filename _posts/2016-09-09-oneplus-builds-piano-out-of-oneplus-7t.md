@@ -1,0 +1,12 @@
+---
+title: 'OnePlus builds a piano out of OnePlus 7T Pro phones'
+date: 2019-11-11T10:17:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/OnePlus-Phone-Piano.jpg) OnePlus has gone and done something unique. They built a piano out of 17 OnePlus 7T Pros lined up together as its keys. OnePlus has created this as a project for the community and will be bringing it to cities in Europe for people to experience it. OnePlus has built the piano from scratch using "3D modelling and precision craftsmanship". OnePlus is proud to talk about their flagship’s class-leading 90 Hz Fluid Display technology and powerful performance, making the entire experience smooth. The piano will not be coming to India, but if you're in Europe now, the OnePlus piano will make an appearance with a pianist called Karim Kamar in the following cities: Sunday, November 10 from 12 PM: Riverbank outside Tate Modern, London, United Kingdom Tuesday, November 12 from 10 AM: Place Jacques Rueff, Champ de Mars, Paris, France Thursday, November 14 from 10 AM: Herrngasse 1, 91541 Rothenburg ob der Tauber, Germany Saturday, November 16 from 12 PM: Helsinki Hall, Central Station, Helsinki, Finland Was this project necessary? By no means. But it is definitely a fun one. The OnePlus community is definitely an engaging one and it is nice to see the company creating unique projects using its products for the ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=8C0yihkiONY:WRff1NASLtY:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=8C0yihkiONY:WRff1NASLtY:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=8C0yihkiONY:WRff1NASLtY:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=8C0yihkiONY:WRff1NASLtY:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=8C0yihkiONY:WRff1NASLtY:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=8C0yihkiONY:WRff1NASLtY:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/8C0yihkiONY)  
+[Read Here»](https://www.fonearena.com/blog/297723/oneplus-piano-oneplus-7t-pro.html)

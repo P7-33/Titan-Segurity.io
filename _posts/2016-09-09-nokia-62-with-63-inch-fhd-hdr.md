@@ -1,0 +1,12 @@
+---
+title: 'Nokia 6.2 with 6.3-inch FHD+ HDR PureDisplay, 4GB RAM, triple rear cameras launched in India for Rs. 15999'
+date: 2019-10-11T07:21:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Nokia-6.2.jpg) HMD Global just launched Nokia 6.2, the company's latest mid-range smartphone in India, as it had promised. The phone was introduced at the IFA and packs a  6.3-inch FHD+ Waterdrop PureDisplay that uses Dedicated Pixelworks visual processor to upscale video content to HDR quality in real time, with up to a billion shades of color, higher contrast and expanded dynamic range, is powered by Snapdragon 636 with 4GB of RAM, runs Android 9.0 (Pie), which is upgradable to Android 10. The phone features a 16-megapixel rear camera with Night mode with image fusion and exposure stacking — for increased low light performance. Portrait mode brings AI features like: adjustable bokeh with various bokeh styles such as Classic, Heart and Star for a professional-looking background blur. There is an 8-megapixel 118-degree ultra-wide lens and a 5-megapixel depth sensor, similar to the Nokia 7.2. There is also a 8-megapixel camera on the front. The phone is crafted from polymer composite that’s twice as strong as polycarbonate and half the weight of aluminium, and features Corning Gorilla Glass 3 on the front and the back. It features rear-mounted fingerprint scanner, dedicated dual SIM and microSD slots and packs a 3500mAh battery. Nokia 6.2 specifications 6.39-inch ( 1080 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=JJjI_a_97wU:qc3WVgzDiBQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=JJjI_a_97wU:qc3WVgzDiBQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=JJjI_a_97wU:qc3WVgzDiBQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=JJjI_a_97wU:qc3WVgzDiBQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=JJjI_a_97wU:qc3WVgzDiBQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=JJjI_a_97wU:qc3WVgzDiBQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/JJjI_a_97wU)  
+[Read Here»](https://www.fonearena.com/blog/294786/nokia-6-2-price-india-specifications.html)

@@ -1,0 +1,12 @@
+---
+title: 'FiiO M5 portable High-Res audio player launched in India for Rs. 8990'
+date: 2019-09-27T14:16:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/FiiO-M5.jpg) FiiO, the brand which is known for its wide range of audio products has today launched its new portable High-Res audio player in India - FiiO M5. This comes after the launch of FiiO M11 portable High-Res music player back in July. The M5 is now the 6th product to be added to the M series line-up of FiiO’s Hi-Res audio players. Fiio M5 has an aluminium alloy body and sports a 1.54-inch HD display (24- x 240 pixels) with double-sided 2.5D tempered glass and it also supports gestures, making it ideal to use tiny screens. It is powered by Ingenic X1000E processor with AKM AK4377 DAC and native DSD support. It has Qualcomm's Bluetooth chip CSR8675 and also has dedicated multi-channel power management. FiiO M5 features Audio Player and high-fidelity sound recorder Support both Bluetooth transmitting and receiving Supports Bluetooth receiver formats - SBC/AAC/aptX/aptX HD/LDAC and Bluetooth transmitter formats - SBC/LDAC Dual-microphone along with cVc noise cancellation technology microSD card support up to 2TB USB Audio: Supports up to 384kHz-32bit/DSD128 output, and supports DoP/D2P output USB DAC: asynchronous USB DAC supporting up to 384kHz/32 bit and DSD128 Audio outputs: supports headphone out, line out, and coaxial out USB decoding and output ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=4arXqHYPHEU:l1g-VrLGqgE:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=4arXqHYPHEU:l1g-VrLGqgE:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=4arXqHYPHEU:l1g-VrLGqgE:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=4arXqHYPHEU:l1g-VrLGqgE:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=4arXqHYPHEU:l1g-VrLGqgE:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=4arXqHYPHEU:l1g-VrLGqgE:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/4arXqHYPHEU)  
+[Read Here»](https://www.fonearena.com/blog/293309/fiio-m5-price-india.html)

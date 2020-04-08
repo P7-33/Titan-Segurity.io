@@ -1,0 +1,12 @@
+---
+title: 'Redmi 6 Pro and Redmi Y2 MIUI 11 Global Stable Beta starts rolling out [Update: Roll out resumes]'
+date: 2019-11-14T17:18:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2018/09/Redmi-6-Pro-Review-1.jpg) Update: Nov 14, 2019: Xiaomi has resumed the MIUI 11 roll out for the Redmi Y2, but it's still under testing. Update: Nov 11, 2019: Xiaomi has suspended the MIUI 11 roll out for the Redmi Y2. We will update the post once it resumes. Xiaomi announced the latest iteration of its own proprietary Android skin MIUI, dubbed MIUI 11 along with the Redmi Note 8 series at an event in India. MIUI 11 aims to bring a brand new optimized modern UI design focused on content viewing and has also introduced nifty additions specifically for India. The company has almost completed MIUI 11 rollout for the first phase of devices and has already started testing MIUI Stable Beta for the second batch of devices. \[gallery columns="2" size="large" link="file" ids="297170,297171"\] As per posts on Mi Community, Xiaomi has started rolling out MIUI 11 to Redmi Y2 and Redmi 6 Pro users in India. Redmi 6 Pro gets MIUI 11.0.3.0.PDMMIXM update that weighs about 534MB in size while Redmi Y2 gets MIUI 11.0.1.0.PEFMIXM which weighs about 1.5GB in size. Xiaomi has updated the security patch on both the devices as with MIUI 11 update both the devices now run on October security patch. \[gallery columns="2" size="large" link="file" ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=T_nzSecCrHY:fqJUhtUJsow:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=T_nzSecCrHY:fqJUhtUJsow:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=T_nzSecCrHY:fqJUhtUJsow:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=T_nzSecCrHY:fqJUhtUJsow:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=T_nzSecCrHY:fqJUhtUJsow:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=T_nzSecCrHY:fqJUhtUJsow:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/T_nzSecCrHY)  
+[Read Here»](https://www.fonearena.com/blog/297169/redmi-6-pro-redmi-y2-miui-11-update.html)

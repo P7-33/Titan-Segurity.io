@@ -1,0 +1,12 @@
+---
+title: 'Xiaomi Redmi 5 and Redmi 5A MIUI 11 Global Stable update starts rolling out'
+date: 2019-11-13T03:58:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2018/03/Xiaomi-Redmi-5_fonearena-4-1024x697.jpg) Xiaomi announced the latest iteration of its own proprietary Android skin MIUI, dubbed MIUI 11 along with the Redmi Note 8 series at an event in India. MIUI 11 aims to bring a brand new optimized modern UI design focused on content viewing and has along with nifty additions designed specifically for India. The company has already completed MIUI 11 rollout for the first phase of devices and has already started testing MIUI Stable Beta for the second batch of devices. \[gallery size="large" link="file" ids="297896,297895,297894"\] As per posts on Mi Community, Xiaomi has started rolling out MIUI 11 to Redmi 5 and Redmi 5A users in India. Redmi 5 gets MIUI 11.0.1.0.ODAMIXM update that weighs about 458 MBs in size while Redmi 5A gets MIUI 11.0.2.0.OCKMIXM which weighs about 476 MBs in size. Xiaomi has updated the security patch on both the devices as with MIUI 11 update both the devices now run on October security patch. \[gallery size="large" link="file" ids="297899,297900,297898"\] MIUI 11 brings new features such as New Minimalistic Design, Quick Replies, New Dynamic Sound Effects, Mi Share, Floating Calculator, Updated Mi File Manager, Steps Trackers and more to both the devices. MIUI 11 is being rolled out to all eligible devices as per ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=OGKttcfrEX4:WRkD6UdMU8U:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=OGKttcfrEX4:WRkD6UdMU8U:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=OGKttcfrEX4:WRkD6UdMU8U:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=OGKttcfrEX4:WRkD6UdMU8U:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=OGKttcfrEX4:WRkD6UdMU8U:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=OGKttcfrEX4:WRkD6UdMU8U:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/OGKttcfrEX4)  
+[Read Here»](https://www.fonearena.com/blog/297892/xiaomi-redmi-5-redmi-5a-miui-11-update.html)

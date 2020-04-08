@@ -1,0 +1,12 @@
+---
+title: 'Google Recorder with auto-transcription, audio search now works on non-Pixel smartphones [Download Link]'
+date: 2019-11-01T14:17:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Google-Recorder-features.jpg) Google unveiled its new Recorder app with AI capabilities last month alongside the Pixel 4, Pixel 4 XL smartphones. Now Google has confirmed that the Recorder app which was exclusive to Pixel 4 Series will be rolled out to older Pixel smartphones. But, we tried side-loading the recorder app APK and surprisingly, it is working on non-Pixel smartphones (Android 9.0+) too. The new Recorder app has nifty features than just a normal voice recorder. It comes with features like Auto transcription, Audio search, and even works offline too. Auto-transcription transcribes your speech so that you can find what you need later and the Audio search feature helps you find words, music, and sounds. This app also allows you to choose different themes like Light, Dark or adapt with the System Default theme. You can just Tap Record  to start recording your speech and you can find your speech auto-transcribed in real-time in the dedicated 'Transcript' section found next to the 'Audio' tab. You can add title, location to save your recordings as well as the transcript. The transcript can also be shared, saved to Google Drive, and can be deleted if you wish to. Also, you can search for words, phrases, or sounds, like ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=LVZIkwqsW5s:eDHhBS0vKHw:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=LVZIkwqsW5s:eDHhBS0vKHw:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=LVZIkwqsW5s:eDHhBS0vKHw:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=LVZIkwqsW5s:eDHhBS0vKHw:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=LVZIkwqsW5s:eDHhBS0vKHw:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=LVZIkwqsW5s:eDHhBS0vKHw:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/LVZIkwqsW5s)  
+[Read Here»](https://www.fonearena.com/blog/296999/google-recorder-download-any-phone.html)

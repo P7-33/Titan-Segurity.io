@@ -1,0 +1,12 @@
+---
+title: 'Sony a9 II 24.2MP Full Frame camera launched in India'
+date: 2019-12-05T13:55:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Sony-Alpha-II-1024x721.jpg) Sony has announced an upgrade to its flagship Alpha 9 full frame professional camera series, the Sony Alpha 9 II. The camera features a lot of new features that mark a massive improvement from the previous model with an updated connectivity options, faster BIONZ X image processing engine, better auto focus  and more. One of the flagship features in the new camera is the 1000BASE-T Ethernet terminal that allows high-speed, stable data transfer operations. Along with this, built-in wireless LAN functionality has also been increased, adding a stable and fast 5 GHz band support, in addition to the 2.4GHz band. Improvements to the BIONZ X image processor along with the updated front-end LSI gives the Alpha 9 II with ground breaking speed performance including blackout-free continuous shooting at up to 20 frames per second with Auto Focus and Auto Exposure tracking and 60 times per second AF/AE calculations. The camera offers an anti-flicker shooting mode that automatically detects and adjusts for the presence of fluorescent or artificial lighting. The advanced focusing system in the new Alpha 9 II is comprised of 693 focal-plane phase- detection AF points covering approximately 93% of the image area, as well as 425 contrast AF points. Sony has also ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=1sfISD6moo4:itL3TMKekus:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=1sfISD6moo4:itL3TMKekus:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=1sfISD6moo4:itL3TMKekus:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=1sfISD6moo4:itL3TMKekus:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=1sfISD6moo4:itL3TMKekus:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=1sfISD6moo4:itL3TMKekus:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/1sfISD6moo4)  
+[Read Here»](https://www.fonearena.com/blog/299711/sony-alpha-9-ii-price-india.html)

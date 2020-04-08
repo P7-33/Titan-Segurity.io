@@ -1,0 +1,12 @@
+---
+title: 'Amazon introduces Echo Dot with clock, new Echo with fabric design and Echo Studio with Dolby atmos starting at Rs. 5499'
+date: 2019-09-26T03:56:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Amazon-Echo-3rd-Gen-Echo-Dot-with-Clock-Echo-Studio-1024x464.jpg) At an event in the US, Amazon introduced All-new Echo (3rd Gen) - Smart speaker with Alexa with the same audio, but with an updated fabric design, new Echo Dot (3rd Gen) with clock that has an LED display that shows the time, outdoor temperature, timers, or alarms and Echo Studio with five directional speakers and Dolby Atmos for immersive studio-quality sound, room adaptation technology, and a built-in smart home hub. All-new Echo (3rd Gen) features Comes with a new fabric design and improved sound, providing the best all-in-one access to Alexa. Enjoy premium sound – New premium speakers with 2.5" woofer and  0.6" tweeter powered by Dolby to play 360° audio with crisp vocals and dynamic bass response. Voice control your music: Stream music from Amazon Prime Music, Apple Music, JioSaavn, Gaana and Hungama Music – just ask for a song, artist or genre. You can also use your voice to adjust equalizer settings. Connect with others: Call or message family and friends who have an Echo device or the Alexa app and use Alexa to make Skype calls. Use announcements like a one-way intercom to broadcast messages to all your Echo devices. Voice control your smart home: Control lights, ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=WscmVw1TC9g:jOoAWIwpYbE:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=WscmVw1TC9g:jOoAWIwpYbE:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=WscmVw1TC9g:jOoAWIwpYbE:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=WscmVw1TC9g:jOoAWIwpYbE:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=WscmVw1TC9g:jOoAWIwpYbE:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=WscmVw1TC9g:jOoAWIwpYbE:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/WscmVw1TC9g)  
+[Read Here»](https://www.fonearena.com/blog/293091/amazon-echo-dot-with-clock-echo-3rd-gen-echo-studio-price-india.html)

@@ -1,0 +1,12 @@
+---
+title: 'Realme releases kernel source code for realme X2 Pro'
+date: 2019-11-28T03:06:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/realme-X2-Pro_fonearena-1-1024x664.jpg) realme announced its most premium and flagship offering realme X2 Pro at an event in India last week. The company has already announced Android 10 update roadmap for its devices and recently announced beta testers recruitment for realme UI based on ColorOS 7. Now, the company has released kernel sources for realme X2 Pro, so there are good chances that we see Android 10 based custom ROMs for the smartphone in the coming months. The company has also updated its Bootloader unlock tool, thus realme X2 Pro users can now unlock the bootloader of their devices but unlocking bootloader will erase all the data on the device and also downgrade the Widevine certification level to L3 from L1, so users will no longer be able to enjoy HD content on apps like Hotstar, Amazon Prime Videos, and Netflix. The in-display fingerprint sensor will stop working after unlocking the bootloader until relocked again and bootloader unlocking might affect OTA updates as well, users will also not get official OTA updates as unlocking makes the secure data partition inaccessible. The company says that bootloader unlocking and flashing a custom ROM will not affect the warranty of the device. Users are supposed to visit the service center in case ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=H80HOzvrqtk:xQx_qI4HPO8:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=H80HOzvrqtk:xQx_qI4HPO8:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=H80HOzvrqtk:xQx_qI4HPO8:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=H80HOzvrqtk:xQx_qI4HPO8:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=H80HOzvrqtk:xQx_qI4HPO8:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=H80HOzvrqtk:xQx_qI4HPO8:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/H80HOzvrqtk)  
+[Read Here»](https://www.fonearena.com/blog/299234/realme-x2-pro-kernel-source.html)

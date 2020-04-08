@@ -1,0 +1,12 @@
+---
+title: 'Realme X2 with 6.4-inch FHD+ AMOLED display, Snapdragon 730G, up to 8GB RAM, 32MP front camera launched in India starting at Rs. 16999'
+date: 2019-12-17T09:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/realme-X2-Green.jpg) realme just launched the realme X2, the company's latest mid-range smartphone and the successor of the realme XT in India, as it had promised. The phone packs a 6.4-inch Full HD+ AMOLED display with 91.9% screen-to-body ratio and Corning Gorilla Glass 5 protection. It is powered by Snapdragon 730G with up to 8GB of RAM, runs Android 9.0 (Pie) with ColorOS 6.1 and packs a 64-megapixel primary rear camera with 1/1.72″ Samsung GW1 sensor and f/1.8 aperture. It has a 8MP 118° ultra-wide angle lens with 1.12μm pixel size, f/2.25 aperture, 2MP depth sensor and 2MP camera for 4cm macro with 1.75μm pixel size, f/2.4 aperture are same. The phone also has AI scene recognition, Chrome boost, Super nightscape and Expert mode. There is also EIS support for video. It has a 32-megapixel camera on the front. It has a 3D Corning Gorilla Glass 5 protection on the back, and the back offers hyperbola light effect. The phone has an in-display fingerprint sensor and packs a 4000mAh battery with 30W VOOC 4.0 fast charging that lets you charge the phone up to 67% in just 30 minutes and also comes with USB Type-C port. realme X2 specifications 6.4-inch (2340 × 1080 pixels) ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=ODGoqy3CKrQ:tcOfAiP6dA8:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ODGoqy3CKrQ:tcOfAiP6dA8:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=ODGoqy3CKrQ:tcOfAiP6dA8:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ODGoqy3CKrQ:tcOfAiP6dA8:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=ODGoqy3CKrQ:tcOfAiP6dA8:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=ODGoqy3CKrQ:tcOfAiP6dA8:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/ODGoqy3CKrQ)  
+[Read Here»](https://www.fonearena.com/blog/300524/realme-x2-price-india-specifications.html)

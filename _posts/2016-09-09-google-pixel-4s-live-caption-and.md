@@ -1,0 +1,12 @@
+---
+title: 'Google Pixel 4’s Live Caption and Astrophotography features coming to Pixel 3, 3a series later this year'
+date: 2019-10-17T09:39:00+01:00
+draft: false
+---
+
+![](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Live_Caption_keyword_2880x1200.max-1000x1000.png) Earlier this year at Google I/O 2019, Google announced a feature called Live Caption coming to Android 10, and this feature has finally been released in the new Pixel 4 and Pixel 4XL. Another Pixel 4 feature was the ability to take long exposure night sky shots or astrophotography, as a part of their enhanced Night Sight mode. Google has now announced that these two features will be coming to Pixel 3 and Pixel 3a series later this year. Live Caption in Pixel 4 is a feature that was announced with the launch of Android 10. The feature is an automatic captioning system, similar to the captioning system in YouTube, except that all the processing happens in real time and completely on-device, so it works even if you don’t have cellular data or Wi-Fi, and the captions always stay private and never leave your phone. This feature will come to older  Pixel 3, Pixel 3 XL, Pixel 3a and Pixel 3a XL later this year and Google is working with other manufactures to bring this feature to more phones soon. The feature is designed to help users enjoy content if they do not have their headphones and can’t play the audio out ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=NhYotYMwgRg:d1e8dcB71Cs:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=NhYotYMwgRg:d1e8dcB71Cs:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=NhYotYMwgRg:d1e8dcB71Cs:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=NhYotYMwgRg:d1e8dcB71Cs:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=NhYotYMwgRg:d1e8dcB71Cs:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=NhYotYMwgRg:d1e8dcB71Cs:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/NhYotYMwgRg)  
+[Read Here»](https://www.fonearena.com/blog/295463/pixel-4-live-caption-astrophotography-pixel-3-pixel-3a.html)

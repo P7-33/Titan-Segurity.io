@@ -1,0 +1,12 @@
+---
+title: 'Stuffcool 10000mAh Power Bank Review — Type-C PD 18W QC 3.0 with Two-way Fast Charging'
+date: 2019-11-26T05:04:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Stuffcool-10000mAh-Type-C-18W-PD-Power-Bank_fonearena-7-1024x774.jpg) Stuffcool launched its ultra-compact 10000mAh Power Bank in India earlier this month. Unlike most of the power banks available in the market, the power bank is light-weight and compact so that it can fit your pant pocket, and comes with USB Type-C PD 18W QC 3.0 with Two-way Fast Charging support. Box Contents Stuffcool 10000mAh Power Bank in Black color 20cm Type-C to USB A mini cable User manual Design and build Starting with the design, the power bank has small rectangular design with curved corners and plastic body. The plastic body is prone to scratches easily, so it is recommended to keep the power bank away from keys and sharp items when you store it in your bag. There is stuffcool branding on the front, and text to show that it is both USB Type-C PD 18w and Quick Charge 3.0 compatible. It also has texts to denote Type-C PD 18W input/output and Type-A output ports. The power bank measures 91x64x21.5mm, which is slightly thicker than most 10000mAh power banks, but the compact size makes up for it. It weighs just 169 grams. You can see the model, battery capacity, and the input and output data on the back. There is a Type-C port ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=o6_Z78RZw9o:EFRWg5_7KrQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=o6_Z78RZw9o:EFRWg5_7KrQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=o6_Z78RZw9o:EFRWg5_7KrQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=o6_Z78RZw9o:EFRWg5_7KrQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=o6_Z78RZw9o:EFRWg5_7KrQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=o6_Z78RZw9o:EFRWg5_7KrQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/o6_Z78RZw9o)  
+[Read Here»](https://www.fonearena.com/blog/298934/stuffcool-10000mah-power-bank-review.html)

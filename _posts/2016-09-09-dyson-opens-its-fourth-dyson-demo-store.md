@@ -1,0 +1,12 @@
+---
+title: 'Dyson opens its fourth Dyson Demo Store in India at VR Chennai'
+date: 2019-10-18T12:29:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Dyson-Store-Chennai-1024x602.jpg) Dyson today opened its first Dyson Demo Store in Chennai, located at VR Chennai in Anna Nagar, making this is its fourth Demo store after two stores in New Delhi, and one in Bengaluru. The company entered India in February last year. The retail space has been designed as an interactive space to encourage visitors to pick-up, test and experience Dyson’s technology, said the company. Dyson products are already available on Amazon.in, Flipkart, as well as Dyson online store and offline across India. Dyson has engineering and testing operations in Malaysia, Singapore, the Philippines and the UK. It has committed £2.5bn in investments for the development of future technology. Dyson V11 cord-free vacuum: The Dyson V11 Absolute Pro cord-free vacuum is a result of more than a decade of cord-free vacuum and Dyson digital motor development to intelligently deep clean your home. Thanks to the new Dyson digital motor V11, which spins at up to 125,000rpm, the Dyson V11 cord-free vacuums provide powerful fade-free suction with 40% more suction power than its predecessor, the Dyson Cyclone V10 vacuum. The Dyson V11  vacuums bring a new level of intelligence to cleaning, automatically sensing and capturing debris, while reporting vacuum performance on an LCD screen ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=o8qytoT8pw4:D8XtZU0-tZQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=o8qytoT8pw4:D8XtZU0-tZQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=o8qytoT8pw4:D8XtZU0-tZQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=o8qytoT8pw4:D8XtZU0-tZQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=o8qytoT8pw4:D8XtZU0-tZQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=o8qytoT8pw4:D8XtZU0-tZQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/o8qytoT8pw4)  
+[Read Here»](https://www.fonearena.com/blog/295608/dyson-demo-store-india-chennai.html)

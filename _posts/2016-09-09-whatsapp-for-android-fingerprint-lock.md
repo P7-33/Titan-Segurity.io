@@ -1,0 +1,12 @@
+---
+title: 'WhatsApp for Android fingerprint lock feature now rolling out for all globally'
+date: 2019-10-31T16:37:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/WhatsApp-Android-Fingerprint-lock-2-1024x587.jpg) Earlier this year, WhatsApp rolled out Touch ID and Face ID for iPhone to provide an extra layer of security for WhatsApp users. After introducing the feature in WhatsApp for Android beta back in August, the company today announced the roll out for all the users globally that allows you to unlock the app with your fingerprint, on supported Android phones. How to enable fingerprint lock on WhatsApp for Android? Open WhatsApp Settings(can be accessed by clicking the three dots present on top right corner) > Account > Privacy. You will find a new option called ‘Fingerprint lock’ under ‘Privacy’. Turn on ‘Unlock with fingerprint’ option to enable the feature. Confirm the selection by touching the fingerprint sensor. WhatsApp is providing three options to users on when they can authenticate their identity to open and access the app. The options are visible under ‘Automatically lock’ and includes options like ‘Immediately’, ‘After 1 minute’ and ‘After 30 minutes’. With the fingerprint lock turned on, the widget content is hidden by default. But users can still answer WhatsApp calls and reply to messages from notifications since the authentication of the fingerprint is only required when the user wants to open the app and access it. Users also ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Arql3OdE-nw:zbeuUM59F6Q:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Arql3OdE-nw:zbeuUM59F6Q:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Arql3OdE-nw:zbeuUM59F6Q:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Arql3OdE-nw:zbeuUM59F6Q:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Arql3OdE-nw:zbeuUM59F6Q:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Arql3OdE-nw:zbeuUM59F6Q:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Arql3OdE-nw)  
+[Read Here»](https://www.fonearena.com/blog/296925/whatsapp-android-fingerprint-lock-globally.html)

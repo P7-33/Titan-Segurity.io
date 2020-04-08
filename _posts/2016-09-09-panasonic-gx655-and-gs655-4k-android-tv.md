@@ -1,0 +1,12 @@
+---
+title: 'Panasonic GX655 and GS655 4K Android TV series launched in India starting at Rs. 27900'
+date: 2019-10-04T16:36:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Panasonic-GX655.jpg) Panasonic has launched its new 4K Android Smart TV series in India - GX655 and GS655. GX655 Series comprises of 43-inch, 49-inch, 55-inch, and 65-inch models while the GS655 Series comprises of 32-inch and 43-inch models. Panasonic GX655 Panasonic GX655 Series sport an IPS LED Super Bright Panel and Vivid Digital Pro technology for good colour reproduction, brightness, and sharpness. It features a bezel-less design and is equipped with HDR10, 4K Dimming, and Dolby Vision and it also has an adaptive backlight-dimming feature to enhance colour contrast and black levels. Regarding the audio, it packs a 20W speaker along with built-in Home Theatre, and Audio Link (One-Way Bluetooth). Since it runs Android OS, there is built-in Google Assistant and also has support for video streaming services such as Netflix, Amazon Prime, ZEE5, Hotstar, YouTube, Voot, SonyLive and JioCinema. Panasonic GS655 Panasonic GS655, on the other hand, sports an IPS LED Super Bright Panel as well with Vivid Digital Pro technology and Adaptive Backlight Dimming. This series packs a 16W Speaker along with built-in Home Theatre, and Audio Link (1-way Bluetooth), Similar to GX655 Series, GS655 Series also runs Android OS, has built-in Google Assistant, has support for video streaming services such as Netflix, Amazon Prime, ZEE5, Hotstar, YouTube, ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=3m_v8dTR9yM:1RsugIt8fH0:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=3m_v8dTR9yM:1RsugIt8fH0:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=3m_v8dTR9yM:1RsugIt8fH0:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=3m_v8dTR9yM:1RsugIt8fH0:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=3m_v8dTR9yM:1RsugIt8fH0:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=3m_v8dTR9yM:1RsugIt8fH0:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/3m_v8dTR9yM)  
+[Read Here»](https://www.fonearena.com/blog/294022/panasonic-gx655-and-gs655-4k-price-india.html)

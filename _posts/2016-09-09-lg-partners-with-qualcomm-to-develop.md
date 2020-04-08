@@ -1,0 +1,12 @@
+---
+title: 'LG partners with Qualcomm to develop webOS Auto in-vehicle infotainment'
+date: 2019-10-30T08:57:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/LG-Qualcomm-webOS-Auto-1024x593.jpg) LG Electronics (LG) and Qualcomm Technologies Inc. have announced today their partnership to further develop LG's connected in-vehicle infotainment system, webOS Auto. The partnership aims to integrate the features of LG's webOS and Qualcomm's Snapdragon Automotive Development Platform (ADP) to create a more convenient experience for drivers and passengers. LG's webOS platform was recently updated the webOS Open Source Edition 2.0, added with webOS Open Source Edition 2.0, allowing developers some future features that are going to be integrated into the platform. The Snapdragon ADP, on the other hand, features many interesting technologies such as artificial intelligence (AI) capabilities, advanced graphics for high-resolution multiple display configurations and ultra HD media streaming. These technologies are meant to provide robust experiences for passenger and rear-seat entertainment (RSE) displays. Commenting on the collaboration, Dr. I.P. Park, president and CTO of LG Electronics said: We very much value this collaboration with Qualcomm expands the ecosystem of the webOS Auto platform and with the latest solutions from Qualcomm such as 5G networks and multimedia, customers will be able to experience the same entertainment at home in connected cars. Together, webOS and Snapdragon ADP will provide a high-performing, comprehensive hardware and software platform for future vehicle infotainment systems. Jim Cathey, senior ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=EZ_FXvWEjyA:_QuwBd4KAc8:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=EZ_FXvWEjyA:_QuwBd4KAc8:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=EZ_FXvWEjyA:_QuwBd4KAc8:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=EZ_FXvWEjyA:_QuwBd4KAc8:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=EZ_FXvWEjyA:_QuwBd4KAc8:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=EZ_FXvWEjyA:_QuwBd4KAc8:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/EZ_FXvWEjyA)  
+[Read Here»](https://www.fonearena.com/blog/296759/lg-qualcomm-webos-auto-in-vehicle-infotainment.html)

@@ -1,0 +1,51 @@
+---
+title: 'How and where may implementers sue for FRAND-licences?'
+date: 2019-10-26T08:56:00+01:00
+draft: false
+---
+
+  
+Earlier this week, the England & Wales High Court (Hacon J) handed down its decision in _Vestel Elektronik Sanayi v. HEVC Advance LLC_, [**\[2019\] EWHC 2766 (Ch)**](https://www.bailii.org/ew/cases/EWHC/Ch/2019/2766.html). The case raises the interesting issue **whether an implementer can sue for a FRAND licence, and if so, what would be the proper basis for this claim and where it might be brought.**  
+  
+When he was still a kitten, this Kat often discussed issues of jurisdiction with his former colleague [**Lars Braams**](http://www.allenovery.com/people/en-gb/Pages/Lars-Braams.aspx) (Allen & Overy). So he called up his old sparring partner once more, and benefitted from his insights while writing this post. Shout out to Lars!  
+  
+**The case**  
+  
+Vestel is a Turkey-based manufacturer of electronic consumer products, including televisions. In order to broadcast high-definition content, televisions must apply the so-called HEVC protocol. Patents have been declared to be essential to the HEVC standard and bundled in (at least) two patent pools, the Advance patent pool and the MPEG LA pool. The patents in each pool overlap to a significant extent and FRAND-declarations have been made in respect of all patents in each pool.  
+  
+Vestel seeks a licence to practise the HEVC standard. Patent licences are entered into by the Turkish parent company, which manufactures the television sets and sells them to local group companies, such as Vestel UK. Vestel UK then markets the televisions to wholesalers and retailers in the UK.  
+  
+Vestel obtained a licence from the MPEG LA pool. It stated that, thereby, it obtained a licence to about 81% of the SEPs in the Advance pool, but when it approached Advance for a licence to the remaining patents, it demanded royalty rates many times higher than the MPEG LA pool, i.e. Advance allegedly refused to make Vestel a licence offer on FRAND conditions.  
+  
+In parallel, Vestel also approached Philips, a major patent holder in the Advance pool. But Vestel claim that Philips, too, demanded too high a royalty rate and refused to negotiate about a rate that might be considered FRAND.  
+  
+Vestel then brought suit against the Advance pool and Philips, stating that both had abused their dominant market position within the meaning of Article 102 TFEU by refusing to licence to Vestel. In particular, (only) Vestel UK sought declaratory relief to the effect that the defendants had abused their dominant market position, that the terms of their offers were not FRAND, that consequently any attempt to claim injunctive relief against Vestel would constitute an abuse within the meaning of art. 102 TFEU, and that Vestel's offers were FRAND or, alternatively, to set FRAND terms for the Advance patent pool \[see par. 32\].  
+  
+**The decision**  
+  
+Put shortly, Vestel's claims against both defendants were dismissed on jurisdictional grounds.  
+  
+Vestel argued that the English court had jurisdiction to hear the claim against Philips on the basis of **Article 7(2)** [**Brussels I-Reg (recast)**](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=celex%3A32012R1215). As readers will know, that provision establishes in matters of tort jurisdiction for courts in the place "where the harmful event" occurred, i.e. where damage is suffered. Vestel UK argued that, if its parent company were forced to enter into a licence on abusive terms, that would necessarily result in it having to charge higher prices or making less profits as the cost of the licence would be passed down to it by the parent company. Thus, Vestel UK argued, there was a risk of it suffering damage in the UK if Advance and Philips were not ordered by the court to enter into a licence on FRAND terms.  
+  
+The Court disagreed. It held that Vestel UK's damages depended on future conduct by Philips. Hypothetically, it could choose not to enforce its patents, in which case Vestel UK would not suffer damages; more likely, it could enforce its patents, but then, "_in practice the court before which the action for enforcement were brought would probably settle FRAND terms and Philips would be entitled to claim the royalties due under the terms settled_" \[par. 63\]. **Thus, also in the case of later enforcement by Philips, Vestel UK would not suffer damages beyond having to pay royalties according to a FRAND-rate**. Consequently, there was no jurisdiction under Article 7(2) Brussels I-Reg (recast), and the case against Philips was dismissed.  
+  
+Against Advance, Vestel UK relied on jurisdictional gateways under the UK Civil Procedure Rules. The first gateway seems to mirror Article 7(2) Brussels I-Reg, and the Court came to the same conclusion as it did in respect to the claims against Philips \[par. 99\]. As against Advance, Vestel UK also argued that it would suffer damage because it would be forced to set aside funds to pay the later-determined FRAND-royalties, but also here the Court was not persuaded that actual damages would be suffered \[par. 100 et seq\].  
+  
+Another gateway invoked by Vestel grants English courts jurisdiction in matters relating to property situated within the jurisdiction. It argued that its claims related, inter alia, to UK patents and that therefore its action should be allowed. **But since Vestel's claims pertained to all patents in the pool and UK patents made up – at most – 4.9% of the total, this gateway was also insufficient to establish jurisdiction.**  
+  
+
+[![](https://1.bp.blogspot.com/-DoJv1NXBDpc/XbP5vtsa-eI/AAAAAAAAADk/YXe0_hbE3TQqY5f_6QoYyWJQYhT8Dj2zwCLcBGAsYHQ/s320/20191025%2BFRAND%2Bimplementers.jpg)](https://1.bp.blogspot.com/-DoJv1NXBDpc/XbP5vtsa-eI/AAAAAAAAADk/YXe0_hbE3TQqY5f_6QoYyWJQYhT8Dj2zwCLcBGAsYHQ/s1600/20191025%2BFRAND%2Bimplementers.jpg)
+
+_Jurisdiction in global FRAND cases remains murky_ (Meme credit: Quickmeme)
+
+**Comment**  
+  
+A first thing to note is that it is not clear that an implementer can successfully rely on Article 102 TFEU to pro-actively demand a FRAND-licence, absence enforcement steps by the SEP-holder. The Court hinted at this in par. 60, but expressed no view on the matter. Under the CJEU's decision _Huawei/ZTE_ \[C-170/13, [**here**](http://curia.europa.eu/juris/liste.jsf?num=C-170/13)\], the potential abuse is "_bringing an action for infringement seeking an injunction prohibiting the infringement of \[a\] patent_". Thus, **so long as the SEP-holder does not take enforcement measures outside of the Huawei/ZTE-framework, they will not engage in abuse, and it seems hard to positively establish they are likely to do so in a situation where all that has happened is that the negotiations between parties have stalled**.  
+  
+But implementers have a real interest in the establishment of a licence, so it seems fair that they, too, should be able to bring suit if an impasse is reached in negotiations. Perhaps the proper way to do it is through a contractual claim: after all, the FRAND-declaration entitles any implementer to a (world-wide) licence and the dispute is only about the proper terms. That would mean jurisdiction could be based on Article 7(1)(a) Brussels I-Reg (recast) by the courts for the place of performance of the obligation in question. Arguably, that is the Member State in which the licence is to be granted, making it possible for implementers to sue in their most important markets.  
+  
+The question, then, is whether this court would have cross-border jurisdiction so that it may established a global FRAND-agreement between parties. Just this week, the UK Supreme Court heard oral arguments in the _Unwired Planet v. Huawei_ case, which to an important extent focused on the question whether a UK court may, at the request of a SEP-holder, enjoin an implementer in the UK unless they enter into a global FRAND-agreement \[see [**here**](https://www.supremecourt.uk/cases/uksc-2018-0214.html)\]. Both the High Court and the Court of Appeal held that it may indeed, and if this decision is upheld, one might argue that the implementer should also have a forum for establishment of a global FRAND-licence. That forum will normally be the home state of the SEP-holder, but in exceptional cases it might perhaps also be a court that seizes jurisdiction based on Article 7(1) Brussels I-Reg (recast).  
+  
+Still, if an implementer were to ask a court outside of the SEP-holder's home state to determine a global FRAND-rate, this Kat thinks that court should exercise restraint. This is because once a court assumes cross-border jurisdiction, the SEP-holder with likely be barred from bringing infringement suits elsewhere \[cf. Article 30(1) Brussels I-Reg (recast)\]. It is one thing if a SEP-holder seizes a court to determine a global FRAND-licence and subsequently faces limitations in requesting injunctions elsewhere \[see my earlier post [**here**](http://ipkitten.blogspot.com/2019/08/are-frand-disputes-too-complex-for-pi.html)\]; it is quite another for the implementer to do this. That possibility might tempt undue torpedo strategies. And since the order setting forth the FRAND-terms would presumably preclude the SEP-holder from seeking injunctive relief elsewhere so long as the implementer complies with the terms, the decision would have far-reaching effects.  
+  
+A final observation relates to the finding that Vestel UK would not suffer damages if Philips were to enforce their SEP-patents at a later stage, since it would only get a FRAND-rate. **In my view, that is not necessarily so: after all, even SEP-holders can be granted injunctions, if the implementer is found to be unwilling** \[see e.g. [**here**](http://ipkitten.blogspot.com/2019/05/dutch-court-of-appeal-injuncts.html)\]. Furthermore, it is not unthinkable that the threat of actual enforcement would force an implementer to accept terms towards the higher end of the FRAND-spectrum than would result from "pre-emptive" claims such as the one here attempted by Vestel. But, like many other interesting issues in this case, that is "for another day", to end with the court's phrase in par. 60.

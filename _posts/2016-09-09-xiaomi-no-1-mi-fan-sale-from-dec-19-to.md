@@ -1,0 +1,12 @@
+---
+title: 'Xiaomi No. 1 Mi Fan Sale from Dec 19 to 25: Redmi Note 7 Pro from Rs. 9999, Discounts on TVs, accessories and more'
+date: 2019-12-18T10:40:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Mi-No-1-Fane-Sale-2019-deals-1024x645.jpg) Xiaomi today announced that year-end No.1 Mi Fan Sale will happen from tomorrow, 19th December until Wednesday, 25th December offering discounts on smartphones, Mi LED TVs, accessories and more. It is being held on Mi.com, as well as its online partner platforms — Flipkart, Amazon and all offline partner outlets depending on the products. Xiaomi said that Redmi Note 7 Pro will be available for the highest discount ever of INR 4000 and will be available at INR 9,999 for the 4GB+64GB variant. Redmi Note 7 Pro’s other variants, 6GB+64GB and 6GB+128GB will be available for INR 12,999 and INR 14,999 respectively with an additional INR 1,000 Bumped Up Exchange offer on Flipkart. Redmi K20 series will also witness discounts with the Redmi K20 Pro priced at INR 24,999 and INR 27,999 for the 6GB+128GB and 8GB+256GB variants with effective discount of INR 3,000. Redmi K20 6GB+64GB will be available for INR 19,999 after a discount of INR 2,000 while the 6GB+128GB variant will be available for INR 22,999 with an effective discount of INR 1,000. Redmi K20 series will also receive an additional INR 2,000 Bumped Up Exchange offer across Flipkart and Amazon. Redmi 7A, 2GB+16GB variant will get a discount of INR ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=KhNucWc4gRc:8bPMNW_HoSE:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=KhNucWc4gRc:8bPMNW_HoSE:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=KhNucWc4gRc:8bPMNW_HoSE:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=KhNucWc4gRc:8bPMNW_HoSE:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=KhNucWc4gRc:8bPMNW_HoSE:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=KhNucWc4gRc:8bPMNW_HoSE:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/KhNucWc4gRc)  
+[Read Here»](https://www.fonearena.com/blog/300646/xiaomi-no-1-mi-fan-sale-2019-discount-offers.html)

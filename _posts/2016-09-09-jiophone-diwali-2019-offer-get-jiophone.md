@@ -1,0 +1,12 @@
+---
+title: 'JioPhone Diwali 2019 offer: Get JioPhone at Rs. 699 with additional data worth Rs. 700 for limited period'
+date: 2019-10-01T09:46:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2017/09/JioPhone_fonearena-11-1024x610.jpg) Reliance Jio launched the JioPhone back in 2017 for Rs. 1500. Last year it launched the 'Monsoon Hungama' that allowed feature phone users exchange their phone for a new JioPhone at an effective price of Rs. 501 instead of paying the full amount of Rs. 1500. Today the company has launched new JioPhone Diwali 2019 offer that lets users get the phone at a special price of  Rs. 699, which is Rs. 800 less, without any special conditions like having to exchange your old phone. For JioPhone customers who join Jio through the DIWALI 2019 OFFER, Jio will offer data benefits valued at Rs. 700. For first 7 recharges that the customer does, Jio will additionally add Rs. 99 worth of data. The savings of Rs. 800 on the JioPhone and the Rs 700 worth of data, totals to a benefit of Rs 1,500 on every JioPhone. This JioPhone offer will be available only for a limited period, during the festive season of Dussehra and Diwali. Commenting on the same, Mukesh D. Ambani, Chairman & Managing Director of Reliance Industries Ltd. Said: Jio will ensure that no Indian is deprived of affordable Internet and the fruits of the Digital Revolution. By offering the ‘JioPhone ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=5sav5g4HuTA:8OZrofKmymc:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=5sav5g4HuTA:8OZrofKmymc:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=5sav5g4HuTA:8OZrofKmymc:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=5sav5g4HuTA:8OZrofKmymc:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=5sav5g4HuTA:8OZrofKmymc:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=5sav5g4HuTA:8OZrofKmymc:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/5sav5g4HuTA)  
+[Read Here»](https://www.fonearena.com/blog/293762/jiophone-699-diwali-2019-offer.html)

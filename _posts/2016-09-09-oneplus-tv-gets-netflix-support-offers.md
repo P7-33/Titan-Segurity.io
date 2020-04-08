@@ -1,0 +1,12 @@
+---
+title: 'OnePlus TV gets Netflix support, offers new Remote for free, up to Rs. 11000 cashback on Amazon'
+date: 2019-12-09T09:14:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/OnePlus-TV-Netflix-1024x704.jpg) OnePlus has announced that their OnePlus TV's will now come with support for Netflix with its latest software update. New users will get the app pre-installed and existing users will get the app installed through the next software update for both the OnePlus TV 55 Q1 and OnePlus TV 55 Q1 Pro TVs. OnePlus made its first entry into the connected home market with its OnePlus TV series back in September. The TVs initially came with support for Hungama, Eros and Zee5 content and other content partners like a content partners include Amazon Prime Video, Hotstar, SonyLiv and YouTube. The remote also has been updated to include a dedicated shortcut to the Netflix. Earlier there were only shortcuts to Amazon Prime and the Google Assistant. This new remote will come bundled with the purchase of the TV and OnePlus is offering to replace the older remotes for the existing customers too for free. To avail the new remote from OnePlus, click here. OnePlus TV V1.8.0T1911211115 update brings Netflix on board! Added setting for directly entering recent "Input Source" at startup Optimized volume adjustment experience to increase or decrease audio volume more comfortable Pressing volume up and down buttons together to mute the TV ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=YFrnJ3p-dB8:6ya7P-Z_bfM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=YFrnJ3p-dB8:6ya7P-Z_bfM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=YFrnJ3p-dB8:6ya7P-Z_bfM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=YFrnJ3p-dB8:6ya7P-Z_bfM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=YFrnJ3p-dB8:6ya7P-Z_bfM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=YFrnJ3p-dB8:6ya7P-Z_bfM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/YFrnJ3p-dB8)  
+[Read Here»](https://www.fonearena.com/blog/299901/oneplus-tv-netflix-support-up-to-rs-11000-cashback-amazon-india.html)

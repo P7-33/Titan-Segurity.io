@@ -1,0 +1,13 @@
+---
+title: 'The Mandalorian: Episode Two Is Out November 15, Then Weekly After That'
+date: 2019-11-14T06:45:00+01:00
+draft: false
+---
+
+The first episode of [The Mandalorian](https://www.cnet.com/news/the-mandalorian-everything-we-know-about-the-new-star-wars-show-on-disney-plus/) has already launched--you can watch it now, and read our [review](https://www.gamespot.com/reviews/star-wars-the-mandalorian-review-shoot-first-answe/1900-6417362/). Star Wars fans with fresh subscriptions to Disney's new streaming service, [Disney+](https://www.cnet.com/news/disney-plus-streaming-service-everything-to-know-prices-shows-movies-marvel-star-wars-pixar/), will usually have to wait a week between installments over the show's ten episode run. Disney has opted for a traditional weekly release structure over the Netflix-popularized "binge" model, whereby an entire season is dropped online at once. However, the wait between episodes one and two is shorter than the wait will be for episode three onward, and fans who like to watch fast and avoid spoilers will want to plan accordingly.
+
+The Mandalorian's second episode will release on November 15, just three days after the first episode. This means that viewers will have a short wait to see more of Pedro Pascal's Mandalorian. After this, the next episode is due to release on Disney+ on November 22, a week after the second episode, and a weekly schedule will kick off from there with new episodes each Friday.
+
+The first four episodes of The Mandalorian were all written by Jon Favreau (Iron Man, The Lion King remake), and this second episode is directed by Rick Famuyiwa (Dope). Incidentally, Famuyiwa is the first person of color to direct a live-action installment of Star Wars; the third episode, directed by Deborah Chow (American Gods, Reign) will be the first live-action Star Wars directed by a woman. Other directors across the season include Bryce Dallas Howard, Dave Filoni, and Taika Waititi.
+
+Disney+ is [loaded with Star Wars content](https://www.gamespot.com/gallery/disney-plus-every-star-wars-movie-and-tv-show-to-w/2900-3167/) at launch, although some users have had trouble [using it at all](https://www.gamespot.com/articles/disney-plus-suffering-from-technical-issues-and-er/1100-6471368/). We've also got some thoughts (including episode 1 spoilers) on how an [important Star Wars figure](https://www.gamespot.com/articles/how-yoda-may-fit-into-the-mandalorian/1100-6471415/) might factor into the series.

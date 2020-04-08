@@ -1,0 +1,12 @@
+---
+title: 'Vivo iQOO Neo Racing Edition with 6.38-inch FHD+ AMOLED display, Snapdragon 855 Plus, up to 12GB RAM announced'
+date: 2019-12-06T07:50:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Vivo-iQOO-Neo-Racing-Edition-1.jpg) Vivo introduced iQOO Neo with Snapdragon 845 in China in July, later in October it introduced the iQOO Neo Snapdragon 855 Edition, now it has introduced the new iQOO Neo 855 Racing Edition with the 855 Plus and up to 12GB RAM. Other specifications are similar including the 6.39-inch FHD+ water drop notch with 90.0% screen-to-body ratio, liquid cooling, Android Pie, 12-megapixel primary rear camera with Sony IMX363 sensor, 8-megapixel ultra-wide lens and a 2-megapixel sensor for portrait shots. There is also a 16-megapixel camera on the front. It has an in-display fingerprint scanner, has 4D gaming experience with real-time recognition of the game scene that vibrates the phone to intelligent match the scenes. It packs a 4500mAh battery, same as the 845 edition, but this has 33W flash charge that can charge from 0 to 25% in 10 minutes. Vivo iQOO Neo Racing Edition specifications 6.39-inch ( 1080 × 2340 pixels) Full HD+ Super AMOLED 19.5:9 aspect ratio display, 105% NTSC color gamut Octa-Core Snapdragon 855 Plus (1 x Kryo 485 at 2.96GHz + 3 x Kryo 485 at 2.42GHz + 4 x Kryo 385 at 1.8GHz) 7nm Mobile Platform with 675MHz Adreno 640 GPU 8GB / 12GB LPDDR4x RAM with 128GB (UFS ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=lFh4PZPEAt8:bwhRLPYlrAk:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=lFh4PZPEAt8:bwhRLPYlrAk:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=lFh4PZPEAt8:bwhRLPYlrAk:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=lFh4PZPEAt8:bwhRLPYlrAk:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=lFh4PZPEAt8:bwhRLPYlrAk:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=lFh4PZPEAt8:bwhRLPYlrAk:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/lFh4PZPEAt8)  
+[Read Here»](https://www.fonearena.com/blog/299763/vivo-iqoo-neo-racing-edition-price-specifications.html)

@@ -1,0 +1,12 @@
+---
+title: 'HONOR Band 5 update brings SpO2 monitoring and music control in India'
+date: 2019-09-30T04:16:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/HONOR-Band-5_fonearena-5-1024x672.jpg) HUAWEI's HONOR brand launched the HONOR Band 5 in India back in August, but people were a bit disappointed since there were not much change between the Band 4 and the Band 5. Now the company has rolled out a new update that brings remote music control function along with the SpO2 monitoring after beta testing them couple of weeks back. Music Control can be switched on via the Huawei Health app, so that you can use Band 5 to instantly view and control their favorite music apps right from the wrist. Apps supported include Shazam, VLC for Android, Google Play Music, YouTube, Tube Go, Spotify, Audify, KKBOX, Blackplayer, Pulsar, and Huawei Music. Remote music control is compatible with smartphones running Android 5.0 and above. Before the next function can be start, a 3 second interval is required. These functions include: play, pause, skip track, and last track, said HUAWEI. The SpO2 sensor enabled via update helps to monitor blood oxygen levels. This might not be accurate compared to top-end devices, and the company says that it's for non-medical use. The update is available with Huawei Health App with 10.0.1.011 and Band 5 update 1.1.0.93 which is about 7MB is size, and is ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=I3G00-TbEto:nyvfUDBn4cs:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=I3G00-TbEto:nyvfUDBn4cs:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=I3G00-TbEto:nyvfUDBn4cs:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=I3G00-TbEto:nyvfUDBn4cs:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=I3G00-TbEto:nyvfUDBn4cs:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=I3G00-TbEto:nyvfUDBn4cs:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/I3G00-TbEto)  
+[Read Here»](https://www.fonearena.com/blog/293558/honor-band-5-spo2-music-control-india.html)

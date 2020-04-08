@@ -1,0 +1,12 @@
+---
+title: 'Samsung discounts Galaxy ecosystem devices with purchase of Note 10 series or Galaxy S10 series'
+date: 2019-11-14T12:48:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Samsung-Galaxy-Offers-1024x625.jpg) Samsung is offering yet more discounts, up to 32% on a range of Samsung products, with the purchase of Galaxy Note10 and S10 series. These discounts are available on Samsung Wireless Charger, Galaxy Watch Active and Strap Combos, AKG Y500 headset, Galaxy Friends Cover, Clear View Cover and Galaxy Tab S5e. The offers begin with the Galaxy Wireless Charger, with a discounted price of Rs. 3590, down from its Rs.4999, when purchased with Galaxy Note10 or S10 series. The Galaxy Watch Active and strap combo will be discounted to Rs. 20,986 while the AKG Y500 headset can be purchased for Rs. 8,000. The Galaxy Friends Cover will be discounted to Rs. 2230, Galaxy Tab S5e (W-Fi) down to Rs. 32,800 and the Clear View Cover can be bought for Rs. 2,717. The Galaxy Note 10/10+ will come with a Rs. 6000 HDFC cash back offer or Rs. 6000 upgrade bonus. The Galaxy S10+ can be availed with an instant discount of Rs. 4000, Galaxy S10 with an instant Rs. 5000 discount and the Galaxy S10e with an instant discount of Rs. 8000. The above offers will be available at Samsung Exclusive stores and Samsung online store (E-store). Source
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Szl45oor8o0:vCFh9Gt3AJU:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Szl45oor8o0:vCFh9Gt3AJU:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Szl45oor8o0:vCFh9Gt3AJU:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Szl45oor8o0:vCFh9Gt3AJU:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Szl45oor8o0:vCFh9Gt3AJU:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Szl45oor8o0:vCFh9Gt3AJU:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Szl45oor8o0)  
+[Read Here»](https://www.fonearena.com/blog/298039/samsung-galaxy-devices-discount-note-10-series-galaxy-s10-series.html)

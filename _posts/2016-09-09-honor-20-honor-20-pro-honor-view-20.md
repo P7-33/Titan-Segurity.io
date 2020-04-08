@@ -1,0 +1,12 @@
+---
+title: 'HONOR 20, HONOR 20 Pro, HONOR View 20 Magic UI 3.0 Android 10 stable update starts rolling out globally'
+date: 2019-11-17T11:13:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/06/Honor-20_fonearena-03.jpg) HUAWEI released EMUI 10 based on Android 10 last month and also revealed the list of devices that are confirmed to get the update. HUAWEI P30 Pro started receiving EMUI 10 Open Beta update in India and now, HONOR devices have started receiving Magic UI 3.0 update based on Android 10. The list of devices include HONOR View 20, HONOR 20, and HONOR 20 Pro. Honor 20 users have reported that they are receiving the Magic UI 3.0 update based on Android 10 and the OTA update weighs 4.63GB in size carrying the build number 10.0.0.168 (C431E9R3P7). However, there is no clarity regarding the build number as users are receiving different builds through HiCare app or system updater. The update is also rolling out globally for HONOR 20 Pro and HONOR View 20 users. This update brings all Android 10 features alongside customizations from HONOR. It includes new Magazine Design, Morandi color scheme, dynamic animations in the User Interface. The update also brings improvements to GPU Turbo, Phone Clone, media playback enhancements, and more.  You can check out the detailed change log in the images above. Users who did not sign up for Beta testing earlier have also reported that they have started receiving ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Z6lA_ICdOmg:iorE73_oZUM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Z6lA_ICdOmg:iorE73_oZUM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Z6lA_ICdOmg:iorE73_oZUM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Z6lA_ICdOmg:iorE73_oZUM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Z6lA_ICdOmg:iorE73_oZUM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Z6lA_ICdOmg:iorE73_oZUM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Z6lA_ICdOmg)  
+[Read Here»](https://www.fonearena.com/blog/298192/honor-20-honor-20-pro-honor-view-20-magic-ui-3-0-android-10-update.html)

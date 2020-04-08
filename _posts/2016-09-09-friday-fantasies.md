@@ -1,87 +1,249 @@
 ---
-title: 'Friday Fantasies'
-date: 2020-02-07T09:43:00+01:00
+title: 'Friday Fantasies '
+date: 2019-10-11T09:08:00+01:00
 draft: false
 ---
 
-There is a lot to cover in this week's Friday Fantasies: events, calls for papers, IP news ... Let's get straight into things!  
-  
-
-[![](https://1.bp.blogspot.com/-X59IplkpA6c/XjtLWiqyDxI/AAAAAAAAAPM/iAngUxiKkkwV_w58eDYOPawVfyZuoByxACLcBGAsYHQ/s320/brown-tabby-cat-167773.jpg)](https://1.bp.blogspot.com/-X59IplkpA6c/XjtLWiqyDxI/AAAAAAAAAPM/iAngUxiKkkwV_w58eDYOPawVfyZuoByxACLcBGAsYHQ/s1600/brown-tabby-cat-167773.jpg)
-
-**Events**
-
-**UCL IBIL Courses for Winter & Spring 2020**
-
-The UCL Institute of Brand and Innovation Law recently announced its courses for Winter and Spring 2020. They will all be held at the UCL Faculty of Laws, Bentham House, 4-6 Endsleigh Gardens, London, WC1H 0EG, and **early bird tickets are available** for all of the events **until 21 days before the course**. You can find further details on each of the events in the links below:  
-
-*   Tuesday 11 February 2020, 9:30am-5pm: **[Drafting and negotiating clinical trial agreements](https://www.ucl.ac.uk/laws/events/2020/feb/drafting-and-negotiating-clinical-trial-agreements)**
-*   Tuesday 18 February 2020, 9:30am-5pm: **[Drafting and negotiating contracts with universities](https://www.ucl.ac.uk/laws/events/2020/feb/drafting-and-negotiating-contracts-universities)**
-*   Tuesday 3 March 2020 or Tuesday 2 June 2020 (both from 9am-5pm): **[Contract Drafting Skills Workshop](https://www.ucl.ac.uk/laws/events/2020/mar/contract-drafting-skills-workshop)**
-*   Monday 20 April - Friday 24 April 2020: **[IP Transactions: Law and Practice 2020](https://www.ucl.ac.uk/laws/events/2020/apr/ip-transactions-law-and-practice-2020)**. Note that the course application deadline is Friday 28 February 2020, and only a few places remain.
-*   Tuesday 12 May 2020, 9am-5pm: **[Drafting and negotiating IP terms in research contracts](https://www.ucl.ac.uk/laws/events/2020/feb/drafting-and-negotiating-ip-terms-research-contracts)**
-*   Tuesday 19 May 2020, 9:30am-5pm: **[P Licensing: An advanced level drafting workshop](https://www.ucl.ac.uk/laws/events/2020/may/ip-licensing-advanced-level-drafting-workshop)**
-*   Tuesday 26 May 2020, 9am-5pm: **[Introduction to Contracts](https://www.ucl.ac.uk/laws/events/2020/may/introduction-contracts)**
-*   Tuesday 9 June 2020, 9am-5pm: **[Drafting "legal" clauses in commercial contracts](https://www.ucl.ac.uk/laws/events/2020/jun/drafting-legal-clauses-commercial-contracts)**
-
-**UCL IBIL - 'Privacy and Data: Law and Practice' course**
-
-UCL IBIL is also running a 2-day CPD course for lawyers and company executives working with IP, the media, public figures, privacy, confidential information and managing third parties' personal data. This will be held on 17 and 18 February 2020, from 9am-6pm on both days, in the Hong Kong Alumni Room, UCL Faculty of Laws, Bentham House, Endsleigh Gardens, London, WC1H 0EG. You can find further details **[here](https://www.ucl.ac.uk/laws/events/2020/feb/privacy-and-data-law-and-practice)**.
+This week, the blog has prepared a smorgasbord of Kat food delights. Some were already served in Tuesday Thingies. The rest is now being offered up in this delicious post.
 
   
 
-**Bucerius IP Lecture Series**  
-On 25 February 2020 at 7:00 pm, Bucerius Law School in Hamburg will host a lecture delivered by The IPKat's own Eleonora Rosati, on the topic of 'Brexit through the Lens of UK Copyright'. Here's the abstract:  
-
-> On 31 January 2020, the United Kingdom formally left the European Union, though Brexit will not display its real effects until IP Completion Day, that is 31 December 2020. As things currently stand, after that date and among other things, UK courts will in principle no longer be bound by decisions of the Court of Justice of the European Union (CJEU), nor will they be able to refer new cases to the CJEU. This apparent freedom might translate in a different approach of UK legislature and courts to key IP issues. By using UK copyright as a case study, this talk will consider to what extent this is however likely to be the case, especially in the absence of a major overhaul of the relevant statute.
-
-If you wish to sign up, **[click here](https://buceriuslawschool.wufoo.com/forms/bucerius-ip-lecture-series-25022020/)**.  
-**Bird & Bird's Triple Book Launch**
-
-In celebration of the launch of 3 major books (all published by Sweet & Maxwell) from the Bird & Bird life sciences, internet and data protection teams, Bird & Bird will be holding an event on 27 February 2020, from 6 - 9pm, at its London office at 12 New Fetter Lane, London, EC4A 1JP. The books launched include:  
-
-*   _Life __Sciences and Intellectual Property: Law & Practice_ (1st Edition) by Patrick Kelleher;
-*   _Internet __Law and Regulati_on (5th Edition) by Graham Smith; and
-*   _Data __Protection Strategy: Implementing Data Protection Compliance_ (3rd Edition) by Ruth Boardman and Richard Morgan
-
-Those who attend will get to meet the authors, pick up a discount voucher (and enjoy the view from the eleventh floor of the Bird & Bird London office!) You can find further details, including how to RSVP, **[here](https://www.twobirds.com/en/events/uk/2020/bird-and-birds-triple-book-launch#)**.  
-**CIPIL Annual Spring Conference 2020: Is IP Good for Our Health?**
-
-In its Annual Spring Conference (chaired by Lord Justice Richard Arnold), the Centre for Intellectual Property and Information Law's conference will bring together practitioners, scholars and policymakers to examine the latest decisions, research and political developments in the field of intellectual property and health. The event will be held on 7 March 2020 from 9:30am to 5:50pm, at the Faculty of Law, 10 West Road, Cambridge, CB3 9DZ. Topics will include, amongst others: the implications of non-obviousness for follow-on medical innovation (e.g. drug repurposing) after the UK Supreme Court's 2019 decision in _Actavis v ICOS_; the current and future roles of competition law in controlling drug prices, including an update on Flynn and Pfizer; and the potential effect of Brexit on the trade of medical products. You can sign up **[here](https://onlinesales.admin.cam.ac.uk/conferences-and-events/faculty-of-law/cipil-spring-conference/cipil-annual-spring-conference-2020-is-ip-good-for-our-health)**, find further information **[here](https://www.cipil.law.cam.ac.uk/seminars-and-eventscipil-spring-conference/cipil-spring-conference-2020)**, and the conference programme [here](https://www.cipil.law.cam.ac.uk/sites/www.law.cam.ac.uk/files/images/www.cipil.law.cam.ac.uk/conference_programme_pdf_-_16.12.19_0.pdf).
-
-  
-**CIPIL 15th Annual Intellectual Property Lecture**  
-  
-Professor Arti K. Rai (Elvin R. Larry Professor of Law, Duke Law School) will deliver the fifteenth annual intellectual property lecture on 10 March 2020 on 'Patents and Trade Secrecy in AI: The Case of Health'. This is an invitation-only event - if you would like an invitation, please contact the CIPIL Administrator at **cipil@law.cam.ac.uk**.  
-  
-**BPIP Annual Conference 2020**  
-This year's 'Best Practices in Intellectual Property' Conference 2020 (held on 23 and 24 March 2020) will bring global decision makers and international IP stars to Tel Aviv to ensure you are updated on the IP global issues, trends and legislation that affect your company's IP. Master classes will also be held, covering topics including Big Data and AI and litigation financing for patent suits. It will be held at the Sheraton Hotel in Tel Aviv, and you can find further information **[here](https://www.bpipconference.com/)**.  
-
-[![](https://1.bp.blogspot.com/-2-EkOcNpzXg/XjyOLPpTrdI/AAAAAAAAAPY/U6s1emExi9k5e-fmm0IySLdfh1kdWARfACLcBGAsYHQ/s320/eyes-cat-coach-sofa-96938.jpg)](https://1.bp.blogspot.com/-2-EkOcNpzXg/XjyOLPpTrdI/AAAAAAAAAPY/U6s1emExi9k5e-fmm0IySLdfh1kdWARfACLcBGAsYHQ/s1600/eyes-cat-coach-sofa-96938.jpg)
-
-... That's a lot of IP events to sink your teeth into...
-
-  
-**EPO Search Matters 2020**  
-The European Patent Office is organising its annual event 'Search Matters', where attendees (patent search professionals from business, academia and IP firms) can meet EPO examiners to gain an insightinto how they tackle the complex task of searching the ever expanding prior art. This year's Search Matters conference aims to deliver workshops and lectures with a special focus on disruptive technologies such as 3D printing/additive manufacturing, AI and CII (computer-implemented inventions). Additionally, during their popular “at-the-desk” sessions, a limited number of pre-registered participants will have the opportunity to talk to examiners individually and gather first-hand information about their search strategies in specific technical areas.  
-  
-The event will be held from 11-13 May 2020, at The Hague, Netherlands, and you can find further information, including programme details and how to register (in the side bar), **[here](https://www.epo.org/learning-events/events/conferences/search-matters.html)**.  
-**Call For Papers**  
-**Call for Papers - 12th Annual Conference on Innovation and Communications Law**  
-The Center of IP, Media and Innovation Law (Danube University Krems) and the IT | IP Law Group (Vienna University of Economics and Business) will jointly host and organize the 12th Annual Conference on Innovation and Communications Law (CICL) on 7 and 8 May 2020 at venues in Vienna and Krems (Austria). (Note that for speakers, the social program is complementary and there will be no conference fee for academics.)  
   
 
-The organisers of CICL 2020 would like to invite papers on the topic of this year's conference: "Society in Transition - Challenges and Implications for Innovation and Communications Law". They welcome proposals on a wide variety of topics related to intellectual property law, communications law, and subjects at the intersection of the two; inter- or trans-disciplinary papers are particularly welcome. To submit a paper for presentation at CICL 2020, please submit your proposal via **www.cicl2020.at** by 15 February 2020. You can find further details on how to submit an abstract **[here](https://drive.google.com/file/d/1ZQBJuZ7SUJO2CbHNcEUnjwZL118fNben/view?usp=sharing)**.
+**Events** 
 
-**Extended Deadline - Call for papers - International Conference celebrating the 40th Anniversary of CRIDS: "Time to Re-shape the Digital Society"**  
-To celebrate the 40th anniversary of CRIDS (Centre de recherche information, droit et société - Information, Law and Society Research Centre), is organising an international conference: "Time to Re-Shape the Digital Society" which will take place on Thursday 2nd July and Friday 3 July 2020; as well as an international summer school to take place on Tuesday 30 June and Wednesday 1 July 2020. (This will be held in Namur, Belgium, and you can find out how to register **[here](https://www.crids.eu/40ans/registrations)**.)  
   
-As part of the conference, which will assemble those from all over the world and from different disciplines to reflect on a future framework for the development of a better digital society, many slots are open to researchers and practitioners through this call for papers. Cutting-edge papers, delivering vision and insight, are welcome from all fields covered at the CRIDS and the NADI: law; communication and digital media education philosophy and ethics; computer sciences; and management.  
-  
-Abstracts should be submitted by 15 March 2020, and you can read further information **[here](https://www.crids.eu/40ans/call-for-papers)**.  
-  
-  
-**IP News**
 
-**The Intellectual Property Office updates IP guidance ready for the transition period to 31 December 2020**  
-The UK Intellectual Property Office has updated its guidance for when the UK departs from the EU on 31 January 2020. The guidance, entitled 'Intellectual Property and the Transition Period', will be available not view on the IPO website **[here](https://www.gov.uk/government/news/intellectual-property-and-the-transition-period)**, and you can find an overview of the guidance **[here](https://drive.google.com/file/d/1SdZDc5hXyIhP1f3iye4467bJMD3CNqVe/view?usp=sharing)**.
+  
+
+**The 4th EU-China IP Academic Forum** 
+
+  
+
+The Academic Forum will be held on **22nd October 2019 **at Sede Universitaria Ciudad de Alicante. It is dedicated to a broad discussion with the participation of leading professors and universities from EU and China. The Forum will conduct the following sessions: 
+
+  
+
+Session 1: IP issues in the context of globalization: 
+
+*   The trend of IP enforcement in free trade negotiations 
+*   Enhancing the IP segment in the Digital Silk Road Initiative 
+*   IP and the new protectionism 
+
+Session 2: IP and Artificial Intelligence: 
+
+*   AI-generated inventions under European and Chinese Patent Law 
+*   AI-generated works under EU and Chinese Copyright Law 
+*   Text and data mining activities under EU and Chinese Copyright Law 
+
+A Session dedicated to the experiences of PhD students (Chinese students studying in the EU and vice versa), with practical advice and lessons learnt. 
+
+  
+
+You can register on the online platform [**here**](https://euipo.blumm.it/event/ar/1/ip-key-china-fourth-eu-china-ip-academic-forum). 
+
+  
+
+  
+
+**Book Launch: Copyright and Collective Authorship** 
+
+  
+
+UCL Laws Institute of Brand and Innovation Law is pleased to host the launch of Dr Daniela Simone's new book _Copyright and Collective Authorship: Locating the Authors of Collaborative Work_, published by Cambridge University Press. 
+
+  
+
+The launch will take place on **23rd October 2019, from 18:00 to 19:45** at The Hub/Gideon Schreier Lecture Theatre, UCL Faculty of Laws, Bentham House, Endsleigh Gardens, London WC1H 0EG 
+
+  
+
+Rt Hon Professor Sir Robin Jacob will chair the launch. The launch will also involve a panel discussion of the book with Professor Tanya Aplin, King's College London and Professor Séverine Dusollier, SciencesPo Paris 
+
+  
+
+The link for the registration and more information on the event can be found [**here**](https://www.ucl.ac.uk/laws/events/2019/oct/book-launch-copyright-and-collective-authorship-dr-daniela-simone). 
+
+[![](https://1.bp.blogspot.com/-DX3anQtXt8U/XZ-ASZMYwhI/AAAAAAAAADk/o5XoROb8lk4kNPkH35cw6XyyMhyYczNMACLcBGAsYHQ/s320/adorable-animal-cat-1741205.jpg)](https://1.bp.blogspot.com/-DX3anQtXt8U/XZ-ASZMYwhI/AAAAAAAAADk/o5XoROb8lk4kNPkH35cw6XyyMhyYczNMACLcBGAsYHQ/s1600/adorable-animal-cat-1741205.jpg)
+
+Ready to be served
+
+  
+
+  
+
+**WIPO Seminar on the Hague System: Insights into Refusals and New Developments, Opportunities **
+
+  
+
+A seminar “The Hague System: Insights into Refusals and New Developments, Opportunities", will be held on **October 29th 2019, from 8:00 to 16:40** at WIPO headquarters, in Geneva. 
+
+  
+
+The seminar will focus on national procedures for international registrations of certain major examining jurisdictions, such as Japan, the Republic of Korea, the Russian Federation and the United States. In particular, there will be a roundtable involving examining jurisdictions concerning their examination practices.  
+  
+
+A registered participant may submit issues for eventual discussion during the seminar, either by e-mail: hagueseminar.mail@wipo.int, or through the Contact Hague page Alternatively, you may get in touch with Mr. Max Germeil, Associate Market Analyst, Hague Development and Promotion Section, The Hague Registry, Brands and Designs Sector, World Intellectual Property Organization (WIPO) (T. 41223388526; email: max.germeil@wipo.int).
+
+  
+
+Information about the seminar, including online registration form, is [**here**](https://www.wipo.int/hague/en/news/2019/news_0012.html). 
+
+  
+
+  
+
+**Talks at the University of Nottingham Commercial Law Centre **
+
+  
+
+The centre will host following two talks 
+
+  
+
+1._'Paintings from Photographs: A Copyright Conundrum'_ on **20th November 2019, from 18:00 - 19:00**, at B55, Law and Social Sciences, University Park 
+
+  
+
+Lord Richard Arnold will speak about his recent article in IIC entitled“Paintings from Photographs: A Copyright Conundrum” 
+
+  
+
+No RSVP required. All are welcome. 
+
+  
+
+More information for this talk is **[here](https://www.nottingham.ac.uk/research/groups/commercial-law-centre/events/event-items/2019/paintings-photographs.aspx)**. 
+
+  
+
+2._'Exhaustion in intellectual property'_ on **25th March 2020**. The time and venues are still to be determined. Dr Peter Mezei (Szeged University) will speak.. 
+
+  
+
+More information for this talk is [**here**](https://www.nottingham.ac.uk/research/groups/commercial-law-centre/events/event-items/2020/mezei-25-mar-20.aspx). 
+
+  
+
+Further events organised by the centre can be found **[here](https://www.nottingham.ac.uk/research/groups/commercial-law-centre/events/index.aspx).** 
+
+  
+
+  
+
+**Joint JIPLP-GRUR Conference on 'The Future of IP in a Changing World' **
+
+  
+
+JIPLP and GRUR will jointly offer a free half-day conference in London on **10th December 2019, from 13:30 to 19:30** to discuss 'The Future of IP in a Changing World'. The programme features leading industry representatives, practitioners, and academics, as well as two keynote addresses to be delivered by, Sir Robin Jacob (Sir Hugh Laddie Chair of Intellectual Property Law at UCL) and Ms Ros Lynch (Copyright and IP Enforcement Director at the UK Intellectual Property Office). 
+
+  
+
+Kindly hosted at the Tower Bridge offices of RPC (Tower Bridge House, St Katharine's Way, London, E1W 1AA), the conference will allow participants to discuss key issues in the patent, copyright, trade mark and enforcement fields. 
+
+  
+
+For more information: [**here**](http://jiplp.blogspot.com/2019/10/join-us-for-joint-jiplp-grur-conference.html).  
+  
+  
+**Call for Papers**  
+  
+
+****The 5th Asian IP Works-in-Progress Conference****
+
+  
+
+The Applied Research Centre for Intellectual Assets and the Law in Asia (ARCIALA), School of Law, Singapore Management University, teaming up with the School of Law, City University of Hong Kong, will co-host the 5th Asian IP Works-in-Progress Conference on **January 9th and 10th 2020** in City University of Hong Kong.
+
+  
+
+Presentation proposals that cover at least two Asian jurisdictions will be preferred. Interested colleagues please submit the title of the proposed presentation, an abstract of 300 words and CV in a Word document before** October 15th, 2019** to [arciala@smu.edu.sg](mailto:arciala@smu.edu.sg).
+
+  
+
+To promote and encourage the study of Asian IP laws for the betterment of IP regimes in Asia, ARCIALA has secured funding for a total of 25-28 speakers in the form of Asian IP Scholar Awards and Young Asian IP Scholar Awards (for PhD and graduate students), which includes return tickets and accommodation of three nights (excluding visa fees). Colleagues interested in applying for the awards need to submit an abstract and CV in a Word document with an outline of 800 words (instead of the 300 word abstract) before **October 15th, 2019** to arciala@smu.edu.sg. The selected paper proposals will be uploaded and displayed on the ARCIALA website https://arciala.smu.edu.sg. 
+
+  
+
+For more information: [here](https://arciala.smu.edu.sg/sites/arciala.smu.edu.sg/files/ARCIALA/5th%20Asian%20IP%20Works-In-Progress%20Conference%202020.pdf)
+
+  
+  
+
+**The 2nd IP & Innovation Researchers of Asia (IPIRA) Conference**
+
+  
+
+The IP & Innovation Researchers of Asia (IPIRA) Network is pleased to announce the Second IP & Innovation Researchers of Asia (IPIRA) Conference, which will be held on **27th -28th February 2020** at the Faculty of Law, Universitas Indonesia, in Jakarta, Indonesia.  
+  
+This Conference is organized by the Faculty of Law, Universitas Indonesia in collaboration with Texas A&M University School of Law, and the Faculty of Law of the University of Geneva, the World Intellectual Property Organization (WIPO), and the World Trade Organization (WTO). 
+
+  
+
+The IPIRA Conference is an initiative created to provide a forum for academics and other researchers to present and discuss their papers and works-in-progress with colleagues from other universities, policy makers, and other stakeholders. The scientific organizers welcome submissions by senior, mid-career, and junior academics writing on topics related to IP law-related issues in Asian law, international law, and comparative law
+
+  
+
+The deadline to submit an abstract and a request to present is **30th October 2019**.
+
+  
+
+There will be no registration fee or any other costs associated with attending the Second IPIRA Conference. However, all presenters must cover their own travel-related and accommodation expenses. The organizers are working to secure funds to partially assist a limited number of researchers with financial needs from developing countries in Asia. 
+
+  
+
+For more information, see [here](http://ipresearchersasia.org/annual-conference/).
+
+  
+
+  
+
+**12th Annual ISHTIP Workshop: 'Landmarks of Intellectual Property'**
+
+  
+
+The International Society for the History and Theory of Intellectual Property will host its 12th annual workshop from **13th to 17th July 2020** in the second largest natural harbour in the world: Poole, UK—home to Bournemouth University. 
+
+  
+
+The 2020 workshop will explore the contemporary relevance of landmark developments of intellectual property. Proposals are invited to consider the different ways in which a place, a time, a personality, a case, or a particular year has become a landmark in IP. 
+
+  
+
+Proposers should be aware that authors (except for doctoral students, who will present in a separate dedicated session) do not present their own work at ISHTIP workshops. Rather, a discussant presents a brief summary and critique of the contribution to facilitate a more general discussion. To accommodate this, final contributions must be submitted ahead of the workshop. 
+
+  
+
+The doctoral-student panel will be dedicated to the work of Prof Martha Woodmansee who founded ISHTIP in 2008, and who will be retiring. She has published widely at the intersection of aesthetics, cultural history, and copyright law; proposals are particularly encouraged to pursue this intersection. 
+
+  
+
+Proposals for contributions (please see the submission form for details) should be sent by email to Claudy Op den Kamp at copdenkamp@bournemouth.ac.uk. 
+
+  
+
+*   **Date for submission of proposals: Friday 17 January 2020 **
+*   **Expected date for notification of acceptance: Friday 7 February 2020 **
+*   **Date for submission of final contributions: Monday 1 June 2020 **
+
+More information can be found [**here**](https://microsites.bournemouth.ac.uk/cippm/2019/10/07/call-for-papers/). 
+
+  
+
+  
+
+**Job Opportunities **
+
+  
+
+  
+
+**Post-doctoral position 'Platform Governance and Copyright'** 
+
+  
+
+The Alexander von Humboldt Institute for Internet and Society (HIIG) invites applications for a postdoctoral positionp "Platform Governance and Copyright". The expected start date is 1st January 2020. The successful candidate will work as a post-doctoral researcher in the EU H2020 research project "Rethinking Digital Copyright Law for a Culturally Diverse, Accessible, Creative Europe" (National PI: Dr Christian Katzenbach), and will be part of the research group-- "The Evolving Digital Society: Concepts, Discourses, Materialities". Documents should be submitted by **28th October 2019**, using the online form.. Please contact Dr Christian Katzenbach ([christian.katzenbach@hiig.de](mailto:christian.katzenbach@hiig.de)) with any questions,. 
+
+  
+
+More information are [**here**](https://www.hiig.de/en/postdoctoral-position-platform-governance-and-copyright-m-f-d/).

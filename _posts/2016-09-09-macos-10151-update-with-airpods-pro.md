@@ -1,0 +1,12 @@
+---
+title: 'macOS 10.15.1 update with Airpods Pro support, new emoji and more released'
+date: 2019-10-30T10:17:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/macOS-Catalina-logo.jpg) Apple has released their first major update to macOS Catalina, jumping to version 10.15.1, alongside their iOS 13.2 and WatchOS 6.1 update. Along with bug fixes and improvements, the update also adds 70 new emojis, support for AirPods Pro, HomeKit Secure Video, HomeKit enabled routers, and new Siri privacy settings. macOS Catalina 10.15 update is 4.49GB in size and is available to download for eligible devices, and can also be downloaded from the Mac App Store for free. Check out the complete change log below. Emoji • Over 70 new or updated emoji, including animals, food, activities, new accessibility emoji, gender neutral emoji, and skin tones selection for couple emoji AirPods • Introduces support for AirPods Pro Home app • HomeKit Secure Video enables you to privately capture, store, and view encrypted video from your security cameras and features people, animal, and vehicle detection • HomeKit enabled routers let you control how your HomeKit accessories communicate over the internet or in your home • Adds support for AirPlay 2-enabled speakers in scenes and automations Siri • Privacy settings to control whether or not to help improve Siri and Dictation by allowing Apple to store audio of your Siri and Dictation interactions • Option to delete your Siri and Dictation history from Siri ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=aKCI0_Z_4cs:fEJ-9FCtGxQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=aKCI0_Z_4cs:fEJ-9FCtGxQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=aKCI0_Z_4cs:fEJ-9FCtGxQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=aKCI0_Z_4cs:fEJ-9FCtGxQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=aKCI0_Z_4cs:fEJ-9FCtGxQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=aKCI0_Z_4cs:fEJ-9FCtGxQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/aKCI0_Z_4cs)  
+[Read Here»](https://www.fonearena.com/blog/296779/macos-10-15-1-update-features-download.html)

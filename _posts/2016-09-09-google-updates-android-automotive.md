@@ -1,0 +1,12 @@
+---
+title: 'Google updates Android Automotive emulator'
+date: 2019-10-22T09:44:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Volvo-Android-Auto-1024x682.jpg) With many collaborations with vehicle manufacturers like Volvo Car Group, General Motors and others to power infotainment systems with Android Automotive OS, Google is closer with its vision of achieving safe and seamless connected experience to every car. On 21st October, Google released new updates enabling developers to create more innovative, and drive optimized experiences. At the Google I/O 2019, Google published design guidelines to help developers create media apps for cars, added wizard support to Android Studio, updated emulator to have car specific controls and the Android Automotive OS emulator system image. These features were designed to help developers design, develop and test their existing media apps to run on Android Automotive OS. Google now announced an update in which developers can download an updated Android Automotive OS emulator system image that includes the Google Play Store. This emulator eliminates the need to for developers to require the vehicle on hand and can run and test their apps directly through the emulator. Developers will also be able to test distribution Play Console by requesting access. Google has also revealed that since Google I/O 2019, many media apps such as Amazon Music, Audioburst and YouTube Music have already adapted their apps for Android ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=gGMDm5XmEPw:r0NLvJUrKBg:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=gGMDm5XmEPw:r0NLvJUrKBg:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=gGMDm5XmEPw:r0NLvJUrKBg:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=gGMDm5XmEPw:r0NLvJUrKBg:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=gGMDm5XmEPw:r0NLvJUrKBg:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=gGMDm5XmEPw:r0NLvJUrKBg:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/gGMDm5XmEPw)  
+[Read Here»](https://www.fonearena.com/blog/296041/android-automotive-emulator-update.html)

@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy XCover FieldPro rugged phone with MIL-STD-810G certification, Push-to-Talk connectivity announced'
+date: 2019-10-30T12:57:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Samsung_Galaxy_XCover_FieldPro_front_rear.jpg) Samsung's lineup of smartphones also include rugged phones (XCover lineup) alongside the Galaxys and Notes and the company launched the Galaxy Tab Active 2 rugged tablet earlier this year. Expanding its lineup, Samsung has now announced Galaxy XCover FieldPro rugged smartphone with Samsung Knox security platform, Push-t0-Talk connectivity, and more. Samsung Galaxy XCover FieldPro flaunts a 5.1-inch QHD display with a resolution of 2560 x 1440 pixels, is powered by Exynos 9810 Octa-Core CPU paired with 4GB RAM with 64GB internal storage. It runs on Android Oreo and supports an upgrade to Android 10. Regarding the optics, it sports a single 12MP Dual Aperture rear camera and 8MP front camera along with triple rear LED flash. It sports a rear-mounted fingerprint scanner, packs a 4500mAh battery with POGO pin charging and it also ships with an extra battery and is field replaceable. As it a rugged smartphone, it is MIL-STD-810G and IP68 certified and according to Samsung, it can survive drops, shocks and vibrations to extreme temperatures, rain, blowing dust and even a half-hour in five-foot-deep water. Apart from this, it comes with a dedicated physical push-to-talk and emergency request buttons that are programmable to send location data or alerts and can ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=XMKH-1Jf9B8:4OFoUYSVzew:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=XMKH-1Jf9B8:4OFoUYSVzew:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=XMKH-1Jf9B8:4OFoUYSVzew:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=XMKH-1Jf9B8:4OFoUYSVzew:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=XMKH-1Jf9B8:4OFoUYSVzew:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=XMKH-1Jf9B8:4OFoUYSVzew:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/XMKH-1Jf9B8)  
+[Read Here»](https://www.fonearena.com/blog/296798/samsung-galaxy-xcover-fieldpro-specifications.html)

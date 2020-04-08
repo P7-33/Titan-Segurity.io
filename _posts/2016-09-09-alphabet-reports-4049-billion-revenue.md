@@ -1,0 +1,12 @@
+---
+title: 'Alphabet reports $40.49 billion revenue in Q3 2019, up 20% YoY'
+date: 2019-10-29T09:57:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2016/02/Alphabet.jpg) In its Q3 2019 earnings report released today, Alphabet has announced a revenue of $40.5  billion that is an increase of 20% in revenue compared to same period last year. With an operating income of $9.17 billion, that represents an operating margin of 22%. The company did well in meeting most of its expectations but fell short in some. The company had expected revenues of $40.32 billion and exceeded it with $40.5 billion. Where the company fell short is in Earnings per share, $10.12 vs. $12.42 per share expected. This caused a dip of approx 1% in its shares. Googles other revenues, that include hardware, Play Store, and Google Cloud enterprise efforts reported a rise approximately 38%, from $4.64 billion last year to $6.42 billion this year. The "Other bets" continue to have an increase in operating loss but sees a slow increase in revenue. Alphabet held a livestream to further breakdown the numbers from the Q3 2019 release report with investors and members of the press. Commenting on the release of the report, Sundar Pichai, Chief Executive Officer of Google said: I am extremely pleased with the progress we made across the board in the third quarter, from our recent advancements in search and ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=yDx_46ACSAA:66ZwYh8shI8:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=yDx_46ACSAA:66ZwYh8shI8:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=yDx_46ACSAA:66ZwYh8shI8:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=yDx_46ACSAA:66ZwYh8shI8:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=yDx_46ACSAA:66ZwYh8shI8:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=yDx_46ACSAA:66ZwYh8shI8:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/yDx_46ACSAA)  
+[Read Here»](https://www.fonearena.com/blog/296666/alphabet-q3-2019-earnings-revenue.html)

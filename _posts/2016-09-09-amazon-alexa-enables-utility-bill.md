@@ -1,0 +1,12 @@
+---
+title: 'Amazon Alexa enables utility bill payments via Amazon Pay'
+date: 2019-10-16T08:34:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Amazon-Pay-Alexa-Integration-1024x578.png) Amazon India has announced today that users will be able to pay their utility bills by using Amazon Pay just by speaking to Alexa. This payment method has been available through many other online wallets for quite a while and has finally come to Amazon Pay. Users can now use Alexa to pay their utilities across a variety of categories such as electricity, water, post-paid mobile, cooking gas, broadband, DTH and more. Users can use this feature across any of their Alexa enabled devices such as Amazon Echo, Fire TV Stick and other devices with Alexa built-in by using commands such as “Alexa, pay my mobile bill” or “Alexa, pay my electricity bill”. For existing customers of Amazon Pay, Alexa will first retrieve the due amount for the particular utility from their registered Amazon account. The payment will go through after customer confirmation is received. For added security, customers can enable a voice pin for authentication. Once the transaction is approved, Alexa will use Amazon Pay to complete the transaction and send a confirmation notification to the customers registered mobile number. New Amazon Pay customers will be first required to register their bill details to their account before proceeding  with the transaction. Amazon has ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=tDXGtDfvRTo:9kykiFayYDc:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=tDXGtDfvRTo:9kykiFayYDc:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=tDXGtDfvRTo:9kykiFayYDc:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=tDXGtDfvRTo:9kykiFayYDc:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=tDXGtDfvRTo:9kykiFayYDc:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=tDXGtDfvRTo:9kykiFayYDc:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/tDXGtDfvRTo)  
+[Read Here»](https://www.fonearena.com/blog/295289/amazon-alexa-amazon-pay-utility-bill-payments.html)

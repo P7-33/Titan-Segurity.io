@@ -1,0 +1,12 @@
+---
+title: 'Redmi Note 8 Pro (M1912G7BE/M1912G7BC) with Snapdragon 730G said to be in works; Redmi K30 said to launch in December'
+date: 2019-11-15T12:58:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Redmi-Note-8-Pro_fonearena-12.jpg) Xiaomi's Redmi brand launched its latest Note smartphone, Redmi Note 8 Pro and Redmi Note 8 last month in India. It's been barely a month since the launch, but now there is a rumor regarding a variant of Redmi Note 8 Pro with Snapdragon 730G in works. The tipster also suggests that the Redmi K30 5G smartphone is said to launch next month. According to the tipster @xiaomishka, a Redmi smartphone carrying model numbers M1912G7BE/M1912G7BC has got 3C certification in China recently and has appeared in the database. The smartphone is said to be Redmi Note 8 Pro with Snapdragon 730G processor. The certification also reveals 27W fast charging. Furthermore, according to the tipster, Redmi K30 that is expected to feature dual front in-screen cameras, SA/NSA dual-mode 5G support is said to launch in December 2019. It is still not clear when this smartphone will be official. But, on the other hand, realme is all set to launch the realme XT 730G smartphone in India next month, so there might be chances that Xiaomi will launch the 730G variant of Redmi Note 8 Pro in India. We advise you to take this information with a grain of salt, and we should know ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=vgSRobafqmA:GrBahLs6VFg:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=vgSRobafqmA:GrBahLs6VFg:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=vgSRobafqmA:GrBahLs6VFg:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=vgSRobafqmA:GrBahLs6VFg:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=vgSRobafqmA:GrBahLs6VFg:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=vgSRobafqmA:GrBahLs6VFg:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/vgSRobafqmA)  
+[Read Here»](https://www.fonearena.com/blog/298138/redmi-note-8-pro-m1912g7be-m1912g7bc-snapdragon-730g.html)

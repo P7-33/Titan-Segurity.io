@@ -1,0 +1,12 @@
+---
+title: 'Nokia 55-inch 4K HDR LED Smart Android TV with Dolby Vision, JBL audio launched in India for Rs. 41999'
+date: 2019-12-05T07:50:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Nokia-Smart-TV-1-1024x669.jpg) Flipkart and Nokia just launched its first Nokia branded Smart TV in India, as it had promised as a part of ‘Make in India’ initiative. The 55-inch 4K Ultra HD TV has a bezel-less design offering infinity-edge viewing experience. It has HDR 10 support, MEMC technology, intelligent dimming, wide color gamut and Dolby Vision. The TV has built-in 24 watt speakers on the bottom with DTS TruSurround, Dolby Audio and audio optimizations from JBL for deep bass. It runs Android 9.0 with support for apps via Google’s Android TV Play Store. Nokia 55-inch Smart TV specifications 55-inch (3840 × 2160 pixels) display with 178-degree viewing angle, 400 nits brightness,  1200:1 (Static) contrast ratio, Dolby Vision, HDR 10, MEMC technology,  Intelligent Dimming 1 GHz PureX quad-core Cortex A53 processor, Mali 450MP4 GPU 2.25GB RAM, 16GB storage Android TV 9.0 WiFi 802.11 ac (2.4GHz / 5GHz), Bluetooth, 3x HDMI (ARC), 2x USB, Ethernet 24w Bottom-firing JBL speakers, DTS audio, Dolby Audio The Nokia Smart TV is priced at Rs. 41,999 and will go on sale on Flipkart starting from December 10th. The company said that it will launch more model in different screen sizes soon. Launch offers 10% discount on all credit/debit cards and EMI transactions. ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=oOMmUOMpN1Y:Ui8pOPYQGtQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=oOMmUOMpN1Y:Ui8pOPYQGtQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=oOMmUOMpN1Y:Ui8pOPYQGtQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=oOMmUOMpN1Y:Ui8pOPYQGtQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=oOMmUOMpN1Y:Ui8pOPYQGtQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=oOMmUOMpN1Y:Ui8pOPYQGtQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/oOMmUOMpN1Y)  
+[Read Here»](https://www.fonearena.com/blog/299657/nokia-smart-tv-price-india-specifications.html)

@@ -1,0 +1,12 @@
+---
+title: 'HONOR 9X with Android operating system to launch in India by end of 2019 : Report'
+date: 2019-10-21T12:29:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/07/HONOR-9X-1.jpg) HUAWEI's HONOR brand announced the HONOR 9X and HONOR 9X PRO in China earlier this year. While the company unveiled the Vision TV in India recently, there was no word on the India launch of HONOR 9X. But now, HONOR has revealed that it will be launching HONOR 9X in India and it will be on Android operating system. In an interview to PTI recently, HONOR India President Charles Peng revealed the information regarding the HONOR 9X India launch and according to another report, the company is also planning to bring its ecosystem products to India and is altering its product strategy for the same. HONOR will be following an IoT product strategy called "1+8+N" wherein "1" signifies smartphones, "8" signifies TVs, speakers, watches, laptops, fitness bands, glasses, etc, and "N" represents ecosystem products which include mobile offices, smart homes, sports and health, audio-visual entertainment, and smart travel products. To recall, HUAWEI announced HarmonyOS, the company’s own operating system for smartphones, tablets and smart IoT devices such as smart speakers, computers, smartwatches, wireless earbuds, cars and more back in August. But, HONOR 9X smartphone that will be launched in India by end of 2019 will run on the Android operating system. We should ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=s0PGwguGgaE:cfoCeyep4zc:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=s0PGwguGgaE:cfoCeyep4zc:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=s0PGwguGgaE:cfoCeyep4zc:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=s0PGwguGgaE:cfoCeyep4zc:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=s0PGwguGgaE:cfoCeyep4zc:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=s0PGwguGgaE:cfoCeyep4zc:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/s0PGwguGgaE)  
+[Read Here»](https://www.fonearena.com/blog/295899/honor-9x-india-launch-date-android.html)

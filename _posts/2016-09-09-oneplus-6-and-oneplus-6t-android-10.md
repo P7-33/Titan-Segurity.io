@@ -1,0 +1,12 @@
+---
+title: 'OnePlus 6 and OnePlus 6T Android 10 based OxygenOS Open Beta 1 released [Download Link]'
+date: 2019-10-19T17:29:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2018/11/OnePlus-6T-Thunder-Purple_fonearena-3.jpg) OnePlus released Android 10 based OxygenOS Open Beta 1 for the 7 and 7 Pro last month. Following that, now, the company has started rolling out Android 10 based OxygenOS Open Beta 1 for OnePlus 6 and OnePlus 6T. The new Oxygen OS update for OnePlus 6 and OnePlus 6T brings Android 10, with it a brand new UI design, enhanced location permissions for privacy, new customisation feature in settings. The change log also includes Android 10 Full-Screen Gestures, new ‘Game Space’ feature, Smart display and also adds the ability to block spam by keywords for Message. This Build is only for OnePlus 6/6T unlocked Non-Carrier variants, so this update does not work with Carrier-locked models. OnePlus users enrolled in the beta program will receive the Open Beta 1 through an OTA. As this is an Open Beta Version(OBT) and not the stable build(MP version), OnePlus says that there are known issues like application compatibility issues, system lag and stability issues. You can download the beta links for OnePlus 6 and OnePlus 6T here, and it is safe to back up required data before proceeding with the upgrade. Changelog System Upgraded to Android 10 Brand new UI design Enhanced location permissions for privacy New ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=s54iTfunSNs:I7e6sAWkN7Y:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=s54iTfunSNs:I7e6sAWkN7Y:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=s54iTfunSNs:I7e6sAWkN7Y:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=s54iTfunSNs:I7e6sAWkN7Y:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=s54iTfunSNs:I7e6sAWkN7Y:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=s54iTfunSNs:I7e6sAWkN7Y:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/s54iTfunSNs)  
+[Read Here»](https://www.fonearena.com/blog/295707/oneplus-6-oneplus-6t-android-10-beta-download.html)

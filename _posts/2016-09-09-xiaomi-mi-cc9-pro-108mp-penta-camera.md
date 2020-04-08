@@ -1,0 +1,12 @@
+---
+title: 'Xiaomi Mi CC9 Pro 108MP Penta camera samples teased, 5260mAh battery with 30W fast charging confirmed'
+date: 2019-10-31T11:32:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Mi-CC9-Pro-1024x621.jpg) We already know that Xiaomi's Mi CC9 Pro smartphone with 108MP rear camera and penta rear cameras will be announced on November 5th. The company already revealed details about the camera sensors and the specifications were revealed through TENAA listing. Now it has shared more samples and confirmed the battery details of the phone. The phone will feature 108MP main camera with 1/ 1.33″ Samsung HMX sensor, 0.8μm pixel size, f/1.7 aperture 12MP 1/2.6-inch 2PD Samsung SAK2L3 sensor with 1.4um pixel size for 2x zoom and portrait with 50mm focal length 20MP  117° ultra-wide angle camera Telephoto lens for 5x optical zoom, 10x hybrid zoom and 50x digital zoom Super macro lens for 1.5cm macro shots It has also shared camera samples that shows normal 2x, 5x optical and 10x hybrid zoom. Here are the 1.5cm macro shots and Portrait shots using the 12MP camera that also offers 2x zoom. \[gallery link="file" columns="2" size="medium" ids="296879,296878,296877,296874,296873,296872"\] Here are the night mode shots that offers 14-bit night mode based on RAW's loss-less algorithm. \[gallery link="file" columns="1" size="large" ids="296875,296876"\] In addition, the company has also confirmed that the phone will pack a 5260mAh (5160mAh minimum) battery with support for 30W fast charging that can charge the phone to 58% in ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Y1c95JnY4Hw:FDk0FTCez9U:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Y1c95JnY4Hw:FDk0FTCez9U:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Y1c95JnY4Hw:FDk0FTCez9U:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Y1c95JnY4Hw:FDk0FTCez9U:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Y1c95JnY4Hw:FDk0FTCez9U:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Y1c95JnY4Hw:FDk0FTCez9U:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Y1c95JnY4Hw)  
+[Read Here»](https://www.fonearena.com/blog/296868/xiaomi-mi-cc9-pro-camera-samples-5260mah-battery-30w.html)

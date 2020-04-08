@@ -1,0 +1,12 @@
+---
+title: 'Mi TV 5 and Mi TV 5 Pro 55-inch, 65-inch and 75-inch Quantum Dot 4K QLED TVs with 8K video playback announced'
+date: 2019-11-05T08:27:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Mi-TV-5-and-Mi-TV-5-Pro-1024x956.jpg) Xiaomi just announced its Mi TV 5 series at an event in China, as it had promised. These come in 55-inch, 65-inch and 75-inch models with Quantum Dot 4K QLED panels and the frame is 47.1% narrower than the Mi TV 4 series offering high screen-to-body ratio for an immersive experience. It has a metal body with integrated curved frame so the back plate has no screws. The 55-inch model just 5.9mm at its thinnest point, 65-inch is 6mm and the 75-inch model is 9.9mm. Similar to the Mi Full Screen TV Pro, this has Amologic T972 12nm chip with support for 8K video playback, thanks to 9th generation of image quality engine technology. There is also MEMC motion compensation technology and support for HDR 10+.  These have two-channel two-way design, the left and right channels contain two vocal and woofer units, which improve the acoustic response curve by optimizing the acoustic waveguide structure, reducing the sound caused to the TV's body. Resonance greatly enhances the audio's audio response range (90Hz~14KHz) and user audiovisual experience, surpassing the industry standard of 200Hz~6.3KHz. Xiaomi Mi TV 5 and 5 Pro (55″, 65″ and 75-inch) specifications 55/65/75-inch (3840 × 2160 pixels) Quantum Dot 4K QLED  ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=l5wLGVHQUpk:aZEId9BKE7o:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=l5wLGVHQUpk:aZEId9BKE7o:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=l5wLGVHQUpk:aZEId9BKE7o:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=l5wLGVHQUpk:aZEId9BKE7o:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=l5wLGVHQUpk:aZEId9BKE7o:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=l5wLGVHQUpk:aZEId9BKE7o:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/l5wLGVHQUpk)  
+[Read Here»](https://www.fonearena.com/blog/297182/mi-tv-5-mi-tv-5-pro-price-features.html)

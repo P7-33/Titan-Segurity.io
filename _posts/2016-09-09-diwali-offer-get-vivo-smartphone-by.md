@@ -1,0 +1,12 @@
+---
+title: 'Diwali offer: Get a vivo smartphone by paying Rs. 101 up front across offline channels'
+date: 2019-10-17T12:49:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Vivo-Sale-1-1-1024x558.jpg) As a part of their Diwali celebrations, Vivo has announced many offers on its latest products across all offline channels in India. Starting from October 18th till 31st October 2019, customers can avail special offers on Vivo's smartphones — V17Pro, V15Pro, Z1x (8GB), V15, S1, Y17, Y15 and Y12. The most attractive offer among them is that you can pay a flat amount of  just INR 101/- and get your favourite Vivo smartphone. Other offers include: 10% cashback with HDB Financial Services 5% cashback with HDFC and ICICI Bank Credit Card EMI transactions and HDFC Bank consumer loans Lowest EMI starts from INR 926/- Exchange bonus worth INR 1,999/-(Bluetooth Headphones) on V17 Pro and S1 via vivo-Cashify upgrade application Customers can also avail other offers such as No Cost EMIs with Zero Processing Fee and Zero Down payment options on the range of products through Bajaj Finserve, Home Credit, IDFC First Bank, HDFC Bank & HDBFS with upto 12 months EMI tenure. Commenting on the sale, Mr. Nipun Marya, Director Brand Strategy, Vivo India said: We are excited to bring attractive offers for consumers across India, as we get ready for Diwali season. The offers have been specially curated to provide exciting propositions to ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=sYVAMloehV0:iIMCUYsxrlc:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=sYVAMloehV0:iIMCUYsxrlc:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=sYVAMloehV0:iIMCUYsxrlc:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=sYVAMloehV0:iIMCUYsxrlc:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=sYVAMloehV0:iIMCUYsxrlc:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=sYVAMloehV0:iIMCUYsxrlc:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/sYVAMloehV0)  
+[Read Here»](https://www.fonearena.com/blog/295496/diwali-sale-vivo-smartphone-101-offline.html)

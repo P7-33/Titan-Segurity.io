@@ -1,0 +1,12 @@
+---
+title: 'Realme 5 ColorOS Software Update Tracker [Latest update brings camera improvements and September security patch]'
+date: 2019-09-30T14:16:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Realme-5-fonearena-Android-Pie-1024x683.jpg) realme launched the realme 5 smartphone in India last month running ColorOS 6.0 realme edition on top of Android 9.0 (Pie). realme doesn't follow a fixed update frequency but the company rolls out update frequently. This post will help our readers in keeping track of ColorOS updates for realme 5, also check out our realme 5 content, realme 5 Unboxing and First Impressions \[gallery link="file" columns="2" size="large" ids="293708,293707"\] ColorOS updates rolled out for the realme 5 so far, \[Sep 30, 2019\]: realme has started rolling out RMX1911EX\_11\_A.14 update with September 2019 security patch. The OTA update weighs around 375 MBs in size and brings camera enhancements along with system optimizations. \[Download Link\] \[Sep 13, 2019\]: realme has started rolling out RMX1911EX\_11\_A.13 update with August 2019 security patch. The update weighs around 751 MBs in size and brings digital wellbeing and camera enhancements including improved clarity in HDR mode, improved the clarity and preview effect in portrait mode in night scene along with improved system stability. \[Download Link\] \[Sep 13, 2019\]: realme 5 will be upgraded to Android 10 in Q2 2020, confirms realme. \[Sep 06, 2019\]: realme starts rolling out RMX1911EX\_11\_A.12 update with August 2019 security patch. The update weighs around 325 MBs in size and ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=vf_gDaemJZc:O1HTPUpr4NQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=vf_gDaemJZc:O1HTPUpr4NQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=vf_gDaemJZc:O1HTPUpr4NQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=vf_gDaemJZc:O1HTPUpr4NQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=vf_gDaemJZc:O1HTPUpr4NQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=vf_gDaemJZc:O1HTPUpr4NQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/vf_gDaemJZc)  
+[Read Here»](https://www.fonearena.com/blog/291889/realme-5-coloros-software-update-tracker.html)

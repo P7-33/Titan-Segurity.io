@@ -1,0 +1,12 @@
+---
+title: 'Samsung PlayGalaxy Link beta released, lets you stream PC games on a Galaxy smartphone'
+date: 2019-11-27T15:54:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Samsung-PlayGalaxy-Link-1024x576.png) Samsung has just launched a new streaming service for the Galaxy Note 10+ users - PlayGalaxy Link. Users can continue the left-off PC gameplay on their smartphone through this app and can also connect wired or Bluetooth-enabled controllers to their device for an improved gaming experience. Galaxy Note10 users should set up the PlayGalaxy Link app on both PC and smartphone first by installing it from playgalaxy.com. Users have to sign into PlayGalaxy Link with their Samsung account, and the app will search for their PC and the installed games automatically. In the next step, the app should be installed on the Note10 smartphone and a connection with their PC and controller (if required) should be established using Wi-Fi or mobile data (4G/5G). Once it is done, users can pick up right where they left off in the game. Also, when the PC is turned on, users can always access it to play PC games from outside via a mobile network. The app is designed with a P2P connection which provides users with simplicity for better performance without a relay server and it also uses Adaptive FPS to ensure better connectivity even in poor network environments. Samsung also lists the recommended computer specs ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=lmGtycgwqR4:ihL64J3cYIQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=lmGtycgwqR4:ihL64J3cYIQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=lmGtycgwqR4:ihL64J3cYIQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=lmGtycgwqR4:ihL64J3cYIQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=lmGtycgwqR4:ihL64J3cYIQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=lmGtycgwqR4:ihL64J3cYIQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/lmGtycgwqR4)  
+[Read Here»](https://www.fonearena.com/blog/299213/samsung-playgalaxy-link-beta-stream-pc-games-on-a-galaxy-smartphone.html)

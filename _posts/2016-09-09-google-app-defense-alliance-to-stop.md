@@ -1,0 +1,12 @@
+---
+title: 'Google App Defense Alliance to stop malicious apps before they hit the Play Store'
+date: 2019-11-07T09:31:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Google-Play-Protect-1.jpg) Google has partnered with ESET, Lookout, and Zimperium to create the App Defense Alliance that is aimed at improving the protection for users from bad apps in the market. The partnership will boost the current Play Protect service with the goal of reducing the risk of app-based malware, identifying new threats, and protecting our users. Google Play Protect was introduced at Google IO 2017 as a way to ensure users from Potentially Harmful Applications (PHAs) and take the appropriate action to protect users. The program scans over 50 billion apps every day, protecting users no matter where they install the app from. For the Apps Defense Alliance, Google has partnered with ESET, Lookout, and Zimperium. The alliance will utilizes each companies researchers in the field, integrating Google Play Protect detection systems with each partner’s scanning engines. This will generate new app risk intelligence as apps are being queued to publish, providing another vital set of eyes prior to an app going live on the Play Store. The detection systems use a combination of machine learning and static/dynamic analysis to detect abusive behavior with multiple heuristic engines working in concert to increase efficiency. As an end-user, all we have to understand is that our phones, ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=BttA2BQSgT8:KLUuemw1uik:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=BttA2BQSgT8:KLUuemw1uik:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=BttA2BQSgT8:KLUuemw1uik:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=BttA2BQSgT8:KLUuemw1uik:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=BttA2BQSgT8:KLUuemw1uik:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=BttA2BQSgT8:KLUuemw1uik:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/BttA2BQSgT8)  
+[Read Here»](https://www.fonearena.com/blog/297420/googles-app-defense-alliance-play-store-apps.html)

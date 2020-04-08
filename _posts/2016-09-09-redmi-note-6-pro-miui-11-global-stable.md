@@ -1,0 +1,12 @@
+---
+title: 'Redmi Note 6 Pro MIUI 11 Global Stable update starts rolling out'
+date: 2019-11-12T03:37:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2018/11/Redmi-Note-6-Pro-Review-1.jpg) Xiaomi launched the Redmi Note 6 Pro in India last year running MIUI 10 on top of Android 8.1 (Oreo) and updated it to Android 9.0 (Pie) based MIUI 10.3 with system-wide Dark Mode back in May. The company recently announced the latest iteration of its own proprietary Android skin MIUI, dubbed MIUI 11 at an event in India. MIUI 11 aims to bring a brand new optimized modern UI design focused on content viewing and has also introduced nifty additions specifically for India. \[gallery columns="2" size="large" link="file" ids="297777,297778"\] Xiaomi has already completed MIUI 11 rollout for the first phase of devices and has already started testing MIUI Stable Beta for the second batch of devices. The company has started rolling out Android 9.0 (Pie) based MIUI 11 Global ROM to Redmi Note 6 Pro users. As per posts on Mi Community, MIUI 11.0.1.0.PEKMIXM is being rolled out, the update is around 565 MBs in size. If you haven’t received the update on your device, you can download the Recovery ROM here and try flashing it using the recovery method but it may not work as it is staged roll out. MIUI 11 brings new features such as New Minimalistic Design, Quick Replies, New Dynamic ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=qC3Rgwl-_54:cJcxj5LPIf4:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=qC3Rgwl-_54:cJcxj5LPIf4:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=qC3Rgwl-_54:cJcxj5LPIf4:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=qC3Rgwl-_54:cJcxj5LPIf4:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=qC3Rgwl-_54:cJcxj5LPIf4:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=qC3Rgwl-_54:cJcxj5LPIf4:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/qC3Rgwl-_54)  
+[Read Here»](https://www.fonearena.com/blog/297775/redmi-note-6-pro-miui-11-update-download.html)

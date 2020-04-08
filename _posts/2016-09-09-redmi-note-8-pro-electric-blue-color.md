@@ -1,0 +1,12 @@
+---
+title: 'Redmi Note 8 Pro Electric Blue color variant launched in India'
+date: 2019-11-28T08:46:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Redmi-Note-8-Pro-Electric-Blue.jpg) Xiaomi’s Redmi brand launched the Redmi Note 8 Pro smartphone in India last month in  Gamma Green, Halo White and Shadow Black colors, now it has launched  new Electric Blue version of the phone. This will go on sale on Amazon.in, Mi.com and Mi Home stores from tomorrow, November 29th, priced starting at Rs. 14999. To recall, the Redmi Note 8 Pro features a 6.53-inch Full HD+ LCD screen with HDR support, 2.05mm narrow top frame, 1.8mm narrow left and right borders and 4.2mm bottom border offering 91.4% screen-to-body ratio and has TÜV Rheinland eye protection certification. It the world’s first smartphone to be powered by the latest MediaTek Helio G90T SoC and is the first phone in the price range to feature liquid cooling that will reduce the temperature of the phone by 4 to 6 degrees. #RedmiNote8Pro, the #64MPQuadCamBeast gets a new striking Electric Blue colour variant. Hit 🔄 if you ♥️ it! First sale tomorrow at 12 noon on http://bit.ly/2HCm4xQ and @amazonIN. #BlackFridaySale pic.twitter.com/LJnMVQsMZ2 — Redmi India for #MiFans (@RedmiIndia) November 28, 2019 The phone features a 64-megapixel primary rear camera with 1/1.7″ Samsung GW1 Sensor with ISOCELL Plus technology  that delivers higher color fidelity along with up to a 15% enhancement in light sensitivity and the ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=ZV4RRb62CX4:r8u7Sv3Tg3Q:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ZV4RRb62CX4:r8u7Sv3Tg3Q:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=ZV4RRb62CX4:r8u7Sv3Tg3Q:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ZV4RRb62CX4:r8u7Sv3Tg3Q:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=ZV4RRb62CX4:r8u7Sv3Tg3Q:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=ZV4RRb62CX4:r8u7Sv3Tg3Q:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/ZV4RRb62CX4)  
+[Read Here»](https://www.fonearena.com/blog/299255/redmi-note-8-pro-electric-blue-india-price.html)

@@ -1,0 +1,12 @@
+---
+title: 'Microsoft Edge Browser gets Microsoft Search in Bing, Tracking Prevention and more'
+date: 2019-11-05T09:57:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Microsoft-Edge-1024x578.jpg) Microsoft has announced new updates to its Edge browser and Bing search engine. The updates are designed to improve compatibility to Edge while increasing the capabilities to find and access corporate information that is known to exist on company intranets. Microsoft has also released a host of features for IT professionals. Microsoft updated the Edge logo to reflect the design changes that will "capture the waves of innovation".  The new browser, running on the same Chromium web engine as Google’s Chrome browser, will contain a new feature called Tracking prevention. Turned on at the beginning, the setting is aimed at protecting the user from phishing schemes, malicious software and new types of malware like cryptojacking. Microsoft is also testing new features in its Preview Build such as Collections. It will allow the customer to more easily collect web content, organize your research and export that content into Word and Excel for further analysis and collaboration. With Bing, Microsoft Search has improved the ability to search for information inside your company. Users can search for people by using natural language, such as by their title, team name and office location. Users can also search for office location, with answers that show floor plans for directions. Microsoft ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=2HPgkLbYXbI:sztKofmFBfQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=2HPgkLbYXbI:sztKofmFBfQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=2HPgkLbYXbI:sztKofmFBfQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=2HPgkLbYXbI:sztKofmFBfQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=2HPgkLbYXbI:sztKofmFBfQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=2HPgkLbYXbI:sztKofmFBfQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/2HPgkLbYXbI)  
+[Read Here»](https://www.fonearena.com/blog/297186/microsoft-edge-browser-bing-tracking-prevention.html)

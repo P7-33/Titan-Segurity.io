@@ -1,0 +1,12 @@
+---
+title: 'Qualcomm Snapdragon 865 Benchmarks: How fast is this compared to Snapdragon 855 Plus?'
+date: 2019-12-16T17:40:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Qualcomm-Snapdragon-865_fonearena-1-1024x576.jpg) Qualcomm introduced its flagship Snapdragon 865 Mobile platform at its Snapdragon Tech Summit 2019 earlier this month. The latest flagship SoC finally moves from A76 to A77-based Kryo 585 cores arranged in a tri-cluster architecture that includes one Kryo 585 Prime A77-based CPU clocked at up to 2.84GHz, three Kryo 585 Performance A77-based CPUs clocked at up to 2.42GHz and the other four Kryo 585 Efficiency A55-based CPUs are clocked at up to 1.80GHz. It is fabricated using the Samsung 7nm EUV (7LPP) Process Technology. This promises up to 25% performance improvement, over the Snapdragon 855. It also packs the new Qualcomm Adreno 650 GPU that promises up to 25% overall performance boost compared to Adreno 640 GPU in the Snapdragon 855. The Snapdragon 865 is capable of operating at whopping speeds of up to 2 gigapixels per second, is capable of shooting 8K 30fps video, and capturing up to massive 200-megapixel photos. The 5th Generation Qualcomm AI Engine delivers 15 TOPS (Trillion Operations Per Second) of AI performance and at the heart is the Qualcomm Hexagon Tensor Accelerator that has 4 times the TOPS performance of the previous Tensor Accelerator. We checked out the Snapdragon 865 refrence device with a 6-inch (1440 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=v09dtlic2dI:qeAeK48OgnM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=v09dtlic2dI:qeAeK48OgnM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=v09dtlic2dI:qeAeK48OgnM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=v09dtlic2dI:qeAeK48OgnM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=v09dtlic2dI:qeAeK48OgnM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=v09dtlic2dI:qeAeK48OgnM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/v09dtlic2dI)  
+[Read Here»](https://www.fonearena.com/blog/300477/qualcomm-snapdragon-865-benchmarks-how-fast-is-this-compared-to-snapdragon-855-plus.html)

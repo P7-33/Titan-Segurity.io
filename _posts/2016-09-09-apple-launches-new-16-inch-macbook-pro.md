@@ -1,0 +1,12 @@
+---
+title: 'Apple launches new 16-inch MacBook Pro with 9th Gen Intel processor, up to 64GB RAM, up to 8TB storage, India price starts at Rs. 1,99,900'
+date: 2019-11-13T15:48:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Apple-MacBook-Pro-2019-1-1024x614.jpg) Apple was working on a 16-inch MacBook Pro and previous reports, assets in macOS Catalina confirmed the existence of the new MacBook from Apple. Now, Apple has officially announced the all-new MacBook Pro sports a Retina display, 9th generation processor, up to 64GB RAM, up to a whopping 8TB storage, and more. The new MacBook Air flaunts a larger 16-inch Retina display with a resolution of 3072 x 1920 pixels, up to 60Hz refresh rate, 500 nits brightness and comes with P3 wide color gamut. It is powered by up to 8-core Intel Core i9 processor with 2.3GHz base clock speed and can be boosted up to 5GHz. Regarding the GPU, it features the new AMD Radeon Pro 5000M series graphics paired with GDDR6 video memory and with an 8GB VRAM option. It comes with up to 64GB RAM and the comes in 512GB and 1TB SSD configuration. But this time around, the storage can be expanded to a whopping 8TB. Apple has also fixed the keyboard issues that plagued older MacBook models and has now introduced a new Magic keyboard with a scissor mechanism on the 16-inch MacBook Pro. The new Magic Keyboard also features a physical Escape key (esc) and ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Qyg7hkzegJg:KHiDrE-j4_o:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Qyg7hkzegJg:KHiDrE-j4_o:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Qyg7hkzegJg:KHiDrE-j4_o:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Qyg7hkzegJg:KHiDrE-j4_o:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Qyg7hkzegJg:KHiDrE-j4_o:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Qyg7hkzegJg:KHiDrE-j4_o:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Qyg7hkzegJg)  
+[Read Here»](https://www.fonearena.com/blog/297978/apple-macbook-pro-16-2019-price-india.html)

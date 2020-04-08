@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy A10s 3GB RAM, 32GB storage version goes on sale in India'
+date: 2019-09-25T12:43:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/08/Samsung-Galaxy-A10s-1-1024x907.jpg) Samsung launched the Galaxy A10s smartphone in the ‘A series’ in India last month priced at Rs. 9,499 for the 2GB RAM + 32GB storage variant and  3GB RAM + 32GB storage variant at Rs. 10,499. The 2GB + 32GB version was available from August 28, 2019, today the company has announced that the 3GB + 32GB storage version will be  across all retail stores, e-Shop, Samsung Opera House and all major leading online channels from today, September 25th in Green, Blue and Black colors. To remind you, the phone packs a 6.2-inch HD+ Infinity-V display, is powered by new Exynos Octa-Core processor and runs Android 9.0 (Pie) with Samsung One UI. It has a 13-megapixel rear camera along with a 2-megapixel secondary camera for portrait shots and an 8-megapixel front camera with face unlock. The phone has a rear-mounted fingerprint scanner, features dedicated dual SIM and microSD slots and packs a 4000mAh battery. Samsung Galaxy A10s Specifications 6.2-inch (1520 × 720 pixels) HD+ Infinity-V display Octa-Core (Quad 2.0GHz + Quad 1.5GHz) Exynos processor 2GB / 3GB RAM, 32GB Storage, expandable up to 512GB via micro SD card Android 9.0 (Pie) with Samsung One UI Dual SIM (nano + nano + microSD) 13MP ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Rx0Lq5rJeeg:tiAtKL6Zog0:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Rx0Lq5rJeeg:tiAtKL6Zog0:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Rx0Lq5rJeeg:tiAtKL6Zog0:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Rx0Lq5rJeeg:tiAtKL6Zog0:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Rx0Lq5rJeeg:tiAtKL6Zog0:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Rx0Lq5rJeeg:tiAtKL6Zog0:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Rx0Lq5rJeeg)  
+[Read Here»](https://www.fonearena.com/blog/293015/samsung-galaxy-a10s-3gb-32gb-sale-india.html)

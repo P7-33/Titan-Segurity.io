@@ -1,0 +1,12 @@
+---
+title: 'Android Focus mode tool in Digital Wellbeing rolling out globally for Android Pie and Android 10'
+date: 2019-12-05T08:50:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Android-Focus-Mode.jpg) Google introduced Digital wellbeing along with Android 9 as a bunch of tools to help users unplug from their smartphones and have more fulfilling lives. Since then, Google has constantly been working on adding more tools to the suite, with the latest being Android Focus Mode. Focus mode was released in beta and now, after testing with satisfactory results, Google has decided to roll this out globally to all android phones running Android 9 and 10. The tool helps the user pause apps during a specified time period to reduce distractions when doing work. When enabled, users can choose the apps that they find distracting like social media apps or games. Once Focus mode is enabled, if the user tries to open the app, Focus mode will remind the user that the app is paused. Notifications from the apps will also be paused during this time until it is switched off. After receiving feedback from Beta testers, Google has introduced quite a few functionalists such as scheduled Focus mode on and and off (for example from 9 a.m. to 5 p.m. on weekdays). If the user completes their work early, they can turn off Focus mode just for that day and have the ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=WSHforkX1So:2w0aM7oYFkk:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=WSHforkX1So:2w0aM7oYFkk:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=WSHforkX1So:2w0aM7oYFkk:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=WSHforkX1So:2w0aM7oYFkk:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=WSHforkX1So:2w0aM7oYFkk:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=WSHforkX1So:2w0aM7oYFkk:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/WSHforkX1So)  
+[Read Here»](https://www.fonearena.com/blog/299660/android-focus-mode-tool-in-digital-wellbeing-rolling-out-globally-for-android-pie-and-android-10.html)

@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy A91 with 6.7-inch FHD+ AMOLED display, Snapdragon 855, 8GB RAM, 45W fast charging surfaces'
+date: 2019-10-12T06:46:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Samsung-Galaxy-A90-5G-1024x917.jpg) Samsung introduced the Galaxy A90 5G (SM-A905G) last month, after rumors, and we had heard rumors about the Galaxy A91 (SM-A915F) back in August, which revealed 45W fast charging. Now the complete specifications of the 4G smartphone have surfaced. This is said to have a similar design and specifications as the A90 5G, but with a faster charging support and a 12-megapixel ultra-wide sensor, instead of 8-megapixel sensor, while retaining the 48-megapixel main, 5-megapixel depth sensor and the 32-megapixel front camera. Samsung Galaxy A91 rumored specifications 6.7-inch (2400 x 1080 pixels) Full HD+ Infinity-U Super AMOLED display Octa-Core Qualcomm Snapdragon 855 7nm Mobile Platform (Max 2.84GHz + 2.42Ghz + 1.8GHz) with Adreno 640 GPU 8GB RAM, 128GB Storage, expandable memory with microSD Android 9.0 (Pie) with Samsung One UI Dual SIM 48MP rear camera with f/2.0 aperture, LED flash, 12MP 123° ultra-wide-angle camera, 5MP depth sensor with f/2.2 aperture 32MP front camera with f/2.2 aperture In-display Fingerprint sensor USB Type-C audio Dual 4G VoLTE, Wi-Fi 802.11 ac (2.4GHz + 5GHz) VHT80 MIMO, Bluetooth 5, GPS + GLONASS, USB Type-C USB 3.1 Gen 1 4500mAh (typical) / 4400mAh (minimum) battery with 45W super fast charging The Samsung Galaxy A91 is rumored to be launched ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=D4tRLFmJyE0:Js8OZwPjTl8:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=D4tRLFmJyE0:Js8OZwPjTl8:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=D4tRLFmJyE0:Js8OZwPjTl8:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=D4tRLFmJyE0:Js8OZwPjTl8:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=D4tRLFmJyE0:Js8OZwPjTl8:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=D4tRLFmJyE0:Js8OZwPjTl8:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/D4tRLFmJyE0)  
+[Read Here»](https://www.fonearena.com/blog/294851/samsung-galaxy-a91-specs-leak-snapdragon-855-45w-fast-charging.html)

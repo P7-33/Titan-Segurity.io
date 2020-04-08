@@ -1,0 +1,12 @@
+---
+title: 'China introduces new regulations to control spread of Deepfake news and videos'
+date: 2019-12-02T09:16:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/AI.jpg) Deepfake technology has already caused a huge amount of worry among governments around the world, giving rise to many investigations into the dangers of deepfake tech. Governments are introducing regulations or outright banning the tech with now, China being the latest country to regulate deepfake technologies that can be used to create and broadcast fake news. The ban comes about a month and half after US state California introduced legislature that made political deepfakes illegal. The EU is also reported to be investigating online disinformation methods that includes deepfake tech. Deepfake technology is an implementation of AI where people in videos can be manipulated to produce fabricated messages and sounds that appear to be real. It can be used to overlay images of celebrity faces on other peoples’ bodies, fooling viewers with very convincing results. The technology can be incredibly effective and dangerous tool in creating and spreading misinformation among the public via apps and social media. With concerns rising on how fake advertisements influenced elections in the past, governments have become cautious with use of Deepfake technology by the public. The new China regulation published by the Cyberspace Administration of China, is effective from January 1, 2020 and will require providers and users ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=JZDloE_E3bQ:2XpQuzxVBV8:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=JZDloE_E3bQ:2XpQuzxVBV8:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=JZDloE_E3bQ:2XpQuzxVBV8:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=JZDloE_E3bQ:2XpQuzxVBV8:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=JZDloE_E3bQ:2XpQuzxVBV8:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=JZDloE_E3bQ:2XpQuzxVBV8:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/JZDloE_E3bQ)  
+[Read Here»](https://www.fonearena.com/blog/299397/china-regulations-control-deepfake.html)

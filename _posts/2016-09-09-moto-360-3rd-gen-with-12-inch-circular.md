@@ -1,0 +1,12 @@
+---
+title: 'Moto 360 (3rd Gen.) with 1.2-inch circular display, Snapdragon Wear 3100 platform, Wear OS announced'
+date: 2019-10-29T15:47:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Moto-360-3rd-Gen.jpg) Motorola launched its circular Moto 360 Gen 1 smartwatch back in 2015 and launched Moto 360 Gen 2. in 2016. But, the company exited the smartwatch market in 2016 citing not much interest in wearable devices back then. After 3 years now, Moto 360 third-generation has been officially announced through a new company called eBuyNow. The new Moto 360 smartwatch has been revived by eBuyNow which is an independent, data-driven consumer electronics company and is now the official licensee for this product.  The Moto 360 3rd Gen sports a 1.2-inch fully circular OLED display with a resolution of 360 x 360 pixels, features always-on functionality and has two physical buttons (similar to rotating crowns seen on other smartwatches) on the sides. The top button helps you to scroll through the user interface and the lower button helps you customise app launch shortcuts. It is powered by Qualcomm Snapdragon Wear 3100 platform paired with 1GB RAM with 8GB internal storage and it runs on Wear OS by Google, features NFC, GPS, and heart rate monitor. It packs a 355mAh battery and supports fast charging that charges this smartwatch from 0 to 100 per cent in one hour. Pricing and Availability Moto 360 3rd Gen is ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Vmxy_o2hwN0:glefEbJ25i0:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Vmxy_o2hwN0:glefEbJ25i0:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Vmxy_o2hwN0:glefEbJ25i0:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Vmxy_o2hwN0:glefEbJ25i0:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Vmxy_o2hwN0:glefEbJ25i0:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Vmxy_o2hwN0:glefEbJ25i0:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Vmxy_o2hwN0)  
+[Read Here»](https://www.fonearena.com/blog/296691/moto-360-3rd-gen-price-specifications.html)

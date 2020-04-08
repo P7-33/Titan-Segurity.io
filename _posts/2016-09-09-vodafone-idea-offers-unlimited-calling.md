@@ -1,0 +1,12 @@
+---
+title: 'Vodafone Idea offers unlimited calling to other networks with all unlimited plans'
+date: 2019-12-09T07:44:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Vodafone-Unlimited-calls-1024x881.jpg) After Airtel, Vodafone Idea has is also now offering unlimited calling to other networks on their unlimited plans. Similar to Airtel,  there are 'no conditions' applicable and users can enjoy unlimited calling to any network on all unlimited plans. Vodafone Idea  revised its prepaid plans few days back to introduce FUP in off-net minutes and charged 6p/min for them, which is not applicable anymore with any of the unlimited plans. Enjoy free unlimited calls to everyone. More reasons for you to rejoice for being on your favourite network. pic.twitter.com/nqcqK8e00z — Vodafone (@VodafoneIN) December 6, 2019 We're always changing to give you the best. That's why we're giving you truly unlimited calls to any network in the country. pic.twitter.com/peDx2pjP2e — Idea (@Idea) December 6, 2019 Vodafone Unlimited plans Unlimited plans with 28 days validity Rs.149 — Unlimited voice to any network, 2 GB data, 300 SMS, 28 days validity Rs. 249 — Unlimited voice to any network, 1.5 GB/day of Data, 100 SMS/ day, 28 days validity Rs. 299 — Unlimited voice to any network, 2 GB/day of Data, 100 SMS/ day, 28 days validity Rs. 399 — Unlimited voice to any network,  3 GB/day of Data, 100 SMS/ day, 28 days validity Unlimited plans with 84 days ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=CIKNNeMYDpA:tZ0s4K8Sdoc:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=CIKNNeMYDpA:tZ0s4K8Sdoc:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=CIKNNeMYDpA:tZ0s4K8Sdoc:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=CIKNNeMYDpA:tZ0s4K8Sdoc:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=CIKNNeMYDpA:tZ0s4K8Sdoc:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=CIKNNeMYDpA:tZ0s4K8Sdoc:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/CIKNNeMYDpA)  
+[Read Here»](https://www.fonearena.com/blog/299895/vodafone-idea-truly-unlimited-calling-other-networks.html)

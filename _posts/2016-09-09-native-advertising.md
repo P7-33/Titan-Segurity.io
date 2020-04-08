@@ -1,0 +1,9 @@
+---
+title: 'Native advertising'
+date: 2019-11-17T23:59:00+01:00
+draft: false
+---
+
+Native advertising is controversial. Critics contend that the purpose of native ads is  to deceive or fool the consumer into thinking the ad has the same validity as the editorial  content in media. In December 2015, the Federal Trade Commission issued an enforcement policy statement on deceptively formatted advertisements and guidelines, setting  forth explicit rules for native ads. The FTC said it would examine the entire ad, including  factors such as its overall appearance, its similarity of its style to editorial content on the  site on which it appears, and the degree to which it is distinguishable from such content.  It further advised that labels indicting the commercial nature of the content need to be  prominently displayed upon the viewer’s first contact with the contact (Federal Trade  Commission, 2015a, 2015b). In 2016, in the first action under the new guidelines, the FTC  charged that a native advertising campaign run by national retailer Lord & Taylor’s on  Instagram deceived consumers. Lord & Taylor agreed to settle the complaint in March  2016 (Feil, 2016).  Content Marketing Native advertising is usually focused on partnering with a specific  publisher. Content marketing creates a content campaign for a brand and then tries to  secure placement on a variety of websites. Examples of content include articles, infographics, case studies, interactive graphics, white papers, and even traditional press releases.  The aim of content marketing is to increase visitors to a company’s website, organic search  rankings, and brand engagement via social media (Libert, 2015).  
+  
+Laudon, Kenneth C.. E-Commerce 2018 (p. 370). Pearson Education. Kindle Edition.

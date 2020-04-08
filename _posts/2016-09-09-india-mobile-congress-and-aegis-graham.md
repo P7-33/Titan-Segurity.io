@@ -1,0 +1,12 @@
+---
+title: 'India Mobile Congress and Aegis Graham Bell Awards announce winners of first phase of 10th edition AGB awards'
+date: 2019-10-17T10:54:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/AGBA-IMC-award-10th-Edition-1024x483.jpg) 10th Aegis Graham Bell Awards in association with India Mobile Congress felicitated the winners of this year's award at the India Mobile Congress 2019 in New Delhi. Ramboll India, Bharti Infratel and C-DOT were announced as winners for the 1st phase of Jury round of the AGB awards.  The award is a joint initiative of Aegis School of Business, Data Science, Cyber security and Telecommunication and India Mobile Congress to recognize innovators and their innovations. IMC-Aegis Graham Bell Awards aims to promote innovators in the Information and Communication Technology (ICT) and to recognize their outstanding innovations with a vision to make India an innovative hub for rising brilliance and virtuosity. Ramboll India secured the award ‘Telecom Infrastructure’ category for their innovation ‘Hybrid Telecom Tower’, Bharti Infratel bagged the award in ‘Smart city solution’ category for their innovation ‘Bhopal Smart City’ and C-DOT won an award in ‘Innovative telecom product’ category for their innovation ‘C-SAT-FI’. Ramboll India has suitably developed a tubular profile tower, where the use of tower structural steel and foundations is 20 -30% less than legacy towers. Bharti Infratel’s Bhopal smart city innovation’s vision is to transform Bhopal, a city of lakes, tradition and heritage into a leading destination for ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=KBRmpymfH88:L7NJe6FMkDU:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=KBRmpymfH88:L7NJe6FMkDU:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=KBRmpymfH88:L7NJe6FMkDU:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=KBRmpymfH88:L7NJe6FMkDU:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=KBRmpymfH88:L7NJe6FMkDU:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=KBRmpymfH88:L7NJe6FMkDU:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/KBRmpymfH88)  
+[Read Here»](https://www.fonearena.com/blog/295493/india-mobile-congress-and-aegis-graham-bell-awards-announce-winners-of-first-phase-of-10th-edition-agb-awards.html)

@@ -1,0 +1,12 @@
+---
+title: 'Devialet Phantom Reactor 600 watt and 900 watt wireless speakers launched in India'
+date: 2019-12-04T09:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Devialet-Phantom-Reactor-600-and-900_fonearena-2-1024x587.jpg) If you are in the market for a compact speaker with mind-blowing audio fidelity and you do not really care about the budget, then Devialet, a French luxury audio manufacturer has just released the perfect product in India for you. The Phantom Reactor, a smaller brother to the more expensive  Devialet Phantom is an ultra-compact speaker that promises to deliver unbelievable sound quality at any volume level. The Phantom Reactor will have two variants, a 600W and a 900W model and two colours, Iconic White and Matte Black. With a volume of just 3 Litres, Devialet has created a product that is nothing short of amazing. The speakers feature two side facing base drivers and one full range front driver that enables a frequency range of 18Hz to 21KHz. The drivers produce sound in a circular motion that will easily fill up a room with rich sound and bass that will hit the listener physically before they actually hear it. With over 160+ patents poured into the Phantom reactor, Devialet promises 0 distortion, 0 saturation and 0 background noise to give a perfect audiophile-grade playback to the listener. Some of the technologies include Analog Digital Hybrid (ADH), Speaker Active Matching, Heart Bass ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=2LykN8yVwmw:v0vQMu_afD8:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=2LykN8yVwmw:v0vQMu_afD8:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=2LykN8yVwmw:v0vQMu_afD8:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=2LykN8yVwmw:v0vQMu_afD8:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=2LykN8yVwmw:v0vQMu_afD8:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=2LykN8yVwmw:v0vQMu_afD8:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/2LykN8yVwmw)  
+[Read Here»](https://www.fonearena.com/blog/299567/devialet-phantom-reactor-600-900-price-india.html)

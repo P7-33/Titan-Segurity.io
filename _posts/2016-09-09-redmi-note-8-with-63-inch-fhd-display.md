@@ -1,0 +1,12 @@
+---
+title: 'Redmi Note 8 with 6.3-inch FHD+ display, Snapdragon 665, quad rear cameras, up to 6GB RAM launched in India starting at Rs. 9999'
+date: 2019-10-16T09:29:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/08/Redmi-Note-8-3.jpg) Xiaomi’s Redmi brand just launched the Redmi Note 8, the company’s latest mid-range smartphone in the Note series in India, as it had promised. It has a 6.39-inch Full HD+ LCD screen with 90% screen-to-body ratio, is powered by Snapdragon 665 11nm Mobile Platform with up to 6GB RAM, features a 48-megapixel main camera with 4-in-1 pixel binning for low-light shots, 8-megapixel 120° ultra-wide angle lens, 2-megapixel depth sensor and a 2-megapixel sensor for 2cm macro shots. There is a 13-megapixel camera on the front. The phone features an improved speaker with 40% better output compared to the predecessor, smart PA, 1217 super linear speakers with 0.93cc audio cavity that has a nano mesh with nanoscale filament for patented automatic cleaning of dust. The Indian version has dedicated dual SIM and microSD card slots, same as the Redmi Note 8. It has a rear-mounted fingerprint scanner, which is 30% smaller than the Note 7, but it unlocks faster and comes with 2.5D Corning Gorilla Glass 5 protection on the front and back with Aura fluid design, S Shaped holographic design in Neptune Blue and Cosmic Purple colors, and nano structure optical diffraction pattern in the Moonlight White color. It also has splash-resistant ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=eNTKsNQ9nMM:sA09FrGH47U:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=eNTKsNQ9nMM:sA09FrGH47U:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=eNTKsNQ9nMM:sA09FrGH47U:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=eNTKsNQ9nMM:sA09FrGH47U:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=eNTKsNQ9nMM:sA09FrGH47U:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=eNTKsNQ9nMM:sA09FrGH47U:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/eNTKsNQ9nMM)  
+[Read Here»](https://www.fonearena.com/blog/295303/redmi-note-8-price-india-specifications.html)

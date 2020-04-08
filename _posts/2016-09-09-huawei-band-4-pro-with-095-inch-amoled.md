@@ -1,0 +1,12 @@
+---
+title: 'HUAWEI Band 4 Pro with 0.95-inch AMOLED color display, GPS, NFC, 50-meter water resistance announced'
+date: 2019-12-07T14:14:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Huawei-Band-4-Pro-1.jpg) HUAWEI  at its China event earlier also introduced the Band 4 Pro, the company’s latest fitness tracker and the successor of last year's Band 3 Pro. This has the same 0.95-inch AMOLED color 2.5D curved glass touch screen display as well as a home button, comes with continuous heart rate tracking and is also water resistant up to 50 meters with Swim stroke recognition, but this comes with GPS support so that you can record movement during fitness activities in real time without a mobile phone. It also has NFC for payments, features SpO2 sensor for estimating blood oxygen levels, in addition to continuous heart rate tracking, features 11 sports mode, TruSeen 3.5 accurate real-time heart rate monitoring and AI algorithm analysis. Other features include TruSleep 2.0 sleep monitoring technology, sedentary reminder, music playback control and more. HUAWEI Band 4 Pro specifications 0.95 inch (240×120 pixels) AMOLED touch color display Bluetooth 4.2 LE, Compatible with Android 4.4 (or later) or iOS 9.0 (or later) Pedometer, Sleep tracker, Exercise tracker, Sedentary reminder 6-axis sensors (accelerometer sensor, gyro sensor); infrared wearing detection sensor, SpO2 sensor PPG heart rate sensor for continuous Heart rate tracking Call and Message notification, Incoming call mute function Water and dust ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=JgzDZCTXDkk:Ri_bW_j8yw0:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=JgzDZCTXDkk:Ri_bW_j8yw0:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=JgzDZCTXDkk:Ri_bW_j8yw0:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=JgzDZCTXDkk:Ri_bW_j8yw0:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=JgzDZCTXDkk:Ri_bW_j8yw0:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=JgzDZCTXDkk:Ri_bW_j8yw0:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/JgzDZCTXDkk)  
+[Read Here»](https://www.fonearena.com/blog/299855/huawei-band-4-pro-price-specifications.html)

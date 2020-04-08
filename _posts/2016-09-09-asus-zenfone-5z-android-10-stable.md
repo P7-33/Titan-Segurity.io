@@ -1,0 +1,12 @@
+---
+title: 'ASUS ZenFone 5Z Android 10 stable update starts rolling out in India'
+date: 2019-11-28T03:21:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2018/02/Asus-Zenfone-5_fonearena-02-1024x701.jpg) After the 6Z, ASUS has started rolling out Android 10 update for the 5Z smartphone globally, including India. The phone was launched back in July last year running Android 8.0 (Oreo) with ZenUI 5.0, and got the Android Pie update earlier this year. The new Android 10 update with ZenUI 6.0 brings system-wide dark theme, smart app support on messages, gesture-based UI navigation, enhanced security and privacy, and this update also upgrades the Google Play services. The Zenfone 5Z’s new FOTA update brings you the latest Android 10 to enhance your flagship experience and offers a ton of new improvements. Download it now! pic.twitter.com/GUQTOZovey — ASUS India (@ASUSIndia) November 27, 2019 The update carries firmware number 100.04.44.98 and is being rolled out in a phased manner. Users who wish to downgrade the software back to Android 9 (Pie), can download the downgrade firmware files from ASUS support webpage. Changelog 1. Upgraded system to Android 10 2. Support Google Play system update 3. Removed Page Marker, ZeniMoji, Selfie Master, Beauty Live, Kids Mode, Easy Mode, weather animation setting, AI charging, WebStorage, Go2Pay, Report Location in Safeguard, and Yandex cloud option in File Manager 4. Removed the support of Twin app for "Arena of Valor, PUBG, Vainglory, and Injustice 2" 5. ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=y0p80uXqG0E:ZNY5ONbyrzY:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=y0p80uXqG0E:ZNY5ONbyrzY:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=y0p80uXqG0E:ZNY5ONbyrzY:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=y0p80uXqG0E:ZNY5ONbyrzY:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=y0p80uXqG0E:ZNY5ONbyrzY:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=y0p80uXqG0E:ZNY5ONbyrzY:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/y0p80uXqG0E)  
+[Read Here»](https://www.fonearena.com/blog/299238/asus-zenfone-5z-android-10-update-india.html)

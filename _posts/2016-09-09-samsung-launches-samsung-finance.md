@@ -1,0 +1,12 @@
+---
+title: 'Samsung launches ‘Samsung Finance+’ digital lending platform in India'
+date: 2019-09-26T14:02:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Samsung-Finance.jpg) Samsung India has today launched 'Samsung Finance+' which is the world's first digital lending platform, according to the company. It is a fully digital, universally accessible lending platform and is Samsung’s ‘Make for India’ initiative towards financial inclusion & Digital India. Samsung Finance+ provides customers with financing opportunity for the purchase of Galaxy smartphones in India. It is a fully digital process and consumers go through a paperless journey with the in-store Samsung promoter assisting the customer through the process. Consumers have to log into the in-store Samsung Finance+ application on a Galaxy Tab and after filling their personal details for a simple KYC verification and credit scoring, they will get an offer screen on various Galaxy smartphones. Samsung has partnered with DMI Finance to launch Samsung Finance+ in India. Samsung Finance+ is available over 5,000 stores in 30 cities across the country and the company plans to reach to 10,000 outlets in 100 cities by the end of 2019. Commenting on the launch, Mohandeep Singh, Senior Vice President, Mobile Business, Samsung India said: At Samsung, consumers are at the heart of everything we do. Samsung Finance+ is a testimony of our consumer-centric innovation. It is also a ‘Make for India’ initiative towards financial inclusion ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=QwTsGPlbNus:paouxO_pCzk:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=QwTsGPlbNus:paouxO_pCzk:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=QwTsGPlbNus:paouxO_pCzk:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=QwTsGPlbNus:paouxO_pCzk:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=QwTsGPlbNus:paouxO_pCzk:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=QwTsGPlbNus:paouxO_pCzk:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/QwTsGPlbNus)  
+[Read Here»](https://www.fonearena.com/blog/293145/samsung-finance-plus-digital-lending-platform-in-india.html)

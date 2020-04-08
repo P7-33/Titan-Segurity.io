@@ -1,0 +1,12 @@
+---
+title: 'HUAWEI Watch GT2 with circular AMOLED display, Kirin A1 chip, 14 days battery life launched in India starting at Rs. 14990'
+date: 2019-12-05T10:25:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/huawei-watch-gt-2-46mm.jpg) HUAWEI just launched the HUAWEI Watch GT 2, the company's latest smartwatch in India, as it had promised. It promises 2 weeks of battery life on a single charge, supports Bluetooth calling, thanks to microphone and speakers, in-device music and capacity to store and play 500 songs. It comes in 42mm and 46mm models in 1.2-inch / 1.39-inch sizes with Super AMOLED display with 3D glass screen. The watch is equipped with HUAWEI’s proprietary Kirin A1 Chipset that integrates an advanced Bluetooth processing unit, a powerful audio processing unit, an ultra-low power consumption application processor and a separate power management unit. It is compatible with 15 sports including eight outdoor sports (running, walking, climbing, hiking trail running, cycling, open water, triathlon) and seven indoor sports (walking, running, cycling, swimming pool, free training, elliptical machine, rowing machine). In terms of heart rate monitoring, the user will be notified if heart rate is above 100bpm or below 50bpm for more than 10 minutes. The watch is also powered with sleep monitoring function. HUAWEI Watch GT 2 specifications 1.2-inch / 1.39-inch ( 390 x 390 pixels) / ( 454 x 454 pixels) AMOLED touch display HUAWEI Kirin A1 chip Bluetooth 5.1 that connects to Android 4.4 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=G2OOf0wuwCI:mnjh9jOfXy8:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=G2OOf0wuwCI:mnjh9jOfXy8:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=G2OOf0wuwCI:mnjh9jOfXy8:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=G2OOf0wuwCI:mnjh9jOfXy8:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=G2OOf0wuwCI:mnjh9jOfXy8:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=G2OOf0wuwCI:mnjh9jOfXy8:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/G2OOf0wuwCI)  
+[Read Here»](https://www.fonearena.com/blog/299694/huawei-watch-gt2-price-india-specifications.html)

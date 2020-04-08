@@ -1,0 +1,12 @@
+---
+title: 'India smartphone shipments reach 49 million units in Q3 2019 with 10% YoY, Xiaomi and Samsung continue to lead: Report'
+date: 2019-10-25T13:13:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Redmi-Note-8-Pro_fonearena-12.jpg) Recently, Counterpoint Research published a report on smartphone shipments in India during Q2 2019 and during Q2 2019, Xiaomi and Samsung continued to lead. Similarly, Counterpoint Research has published a report on smartphone shipments in India during Q3 2019 that reveals record-high smartphone shipments in India. The report mentions that the India smartphone shipments reached 49 million units with 10% YoY in Q3 2019 despite the economic slowdown trends in other sectors and the growth was driven by new launches, discounts and various pre-Diwali sale online and offline by brands. The India Smartphone Market Share Q3 2019 shows that Xiaomi has 26% shipment market share and is followed by Samsung with 20%, Vivo with 17%, Realme with 16%, OPPO with 8% and other brands with 13% shipment market share. Xiaomi shipments grew 7% YoY, Samsung shipments declined by 4% YoY, Vivo reached its highest ever share in the India smartphone market, OPPO grew 12% YoY, itel grew 40% YoY, and Realme registered a 6X growth as compared to last year. Transsion group which includes itel, Infinix & Tecno together was ranked the number six OEM in the India smartphone market and OnePlus shipments are getting almost doubled as compared to last year. Also, Apple made an entry ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=7xt-ynNLn10:GeyTHRgBjZ8:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=7xt-ynNLn10:GeyTHRgBjZ8:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=7xt-ynNLn10:GeyTHRgBjZ8:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=7xt-ynNLn10:GeyTHRgBjZ8:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=7xt-ynNLn10:GeyTHRgBjZ8:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=7xt-ynNLn10:GeyTHRgBjZ8:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/7xt-ynNLn10)  
+[Read Here»](https://www.fonearena.com/blog/296528/india-smartphone-shipments-q3-2019.html)

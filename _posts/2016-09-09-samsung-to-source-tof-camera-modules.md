@@ -1,0 +1,12 @@
+---
+title: 'Samsung to source ToF camera modules for Galaxy S11 from 3 different suppliers : Report'
+date: 2019-10-25T12:13:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/08/Samsung-Galaxy-Note-10-Plus_fonearena-01.jpg) Samsung launched its latest Galaxy Note 10 and Note 10 Plus smartphones back in August this year and it is that time of the year when leaks and rumours start to surface regarding the upcoming Galaxy S11 smartphone. Similarly, a new report reveals key details regarding the Galaxy S11's rear camera system. According to a new report from The Elec from South Korea, Samsung will source ToF camera (which is responsible for 3D scanning, judge depth and distance for photography, Live focus video, Quick Measure, etc) modules from 3 different suppliers. Out of the 3 suppliers, one of them will be Sunny Optical from China who supplied ToF camera modules for the Galaxy S10 5G this year. The other two suppliers will be Namuga and Patron from South Korea and these two companies have also supplied previously for the Galaxy Note 10+. The report also mentions that recently, Sunny Opticals supplier has been growing exponentially together with the South Korean supplier Patron. Sunny Optical also supplied camera modules to lower-end Samsung smartphones this year and it is expected to take up 20% of Samsung's camera module demand with other suppliers filling the rest. In related news, Samsung announced its latest Exynos 990 SoC ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=JW53yfuqLho:Zekcxg06JZw:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=JW53yfuqLho:Zekcxg06JZw:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=JW53yfuqLho:Zekcxg06JZw:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=JW53yfuqLho:Zekcxg06JZw:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=JW53yfuqLho:Zekcxg06JZw:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=JW53yfuqLho:Zekcxg06JZw:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/JW53yfuqLho)  
+[Read Here»](https://www.fonearena.com/blog/296511/samsung-galaxy-a11-tof-camera.html)

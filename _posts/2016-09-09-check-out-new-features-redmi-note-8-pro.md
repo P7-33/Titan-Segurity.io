@@ -1,0 +1,12 @@
+---
+title: 'Check out the new features Redmi Note 8 Pro brings to the Redmi Note series'
+date: 2019-10-18T04:39:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Redmi-Note-8-Pro_fonearena-01-1024x633.jpg) Xiaomi's Redmi Note lineup made its debut in India back in 2014 with the first generation Redmi Note (3G and 4G), and soon emerged as the most popular smartphone lineup in the country. In these 5 years, Redmi Note series has gone through 8 iterations with a total of 13 different devices, and as a result, we now have Redmi Note 8 series launched in India. \[gallery link="file" columns="2" size="medium" ids="177982,209479,243477,269142,280917,295572"\] Xiaomi has been adding new features to the Redmi Note series lineup with each iteration, Redmi Note 5 Pro brought a dual-camera setup, Redmi Note 6 Pro brought fast charging and P2i coating, Redmi Note 7 series brought 48-megapixel cameras along with glass sandwich design and USB Type-C and Redmi Note 8 series is no exception to the list. With Redmi Note 8 series, Xiaomi is introducing Quad camera on the popular lineup but there are more new features than just the Quad camera setup that make it to the Redmi Note lineup with Redmi Note 8 Pro. Redmi Note 8 Pro features an HDR-enabled FHD+ display which is first for a Redmi Note series device. Redmi Note 8 Pro features a 4-sided curved glass on the back which was never ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=PCd7sA7wRT0:mDEUwfgvuR0:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=PCd7sA7wRT0:mDEUwfgvuR0:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=PCd7sA7wRT0:mDEUwfgvuR0:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=PCd7sA7wRT0:mDEUwfgvuR0:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=PCd7sA7wRT0:mDEUwfgvuR0:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=PCd7sA7wRT0:mDEUwfgvuR0:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/PCd7sA7wRT0)  
+[Read Here»](https://www.fonearena.com/blog/295548/redmi-note-8-pro-new-features-redmi-note-series.html)

@@ -1,0 +1,12 @@
+---
+title: 'HTC Exodus 1s cheaper native Blockchain smartphone starts rolling out'
+date: 2019-10-19T15:04:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/HTC-Exodus-1s.jpg) HTC introduced the Exodus 1 as its first blockchain-powered smartphone last year. It announced Exodus 1s, a cheaper version back in May and said that it will be available in Q3, now it has started rolling out the phone at Berlin’s Lightning conference.  HTC says that running a full Bitcoin node "is still quite experimental," and it recommends that users connect to Wi-Fi and plug their devices into a power source while doing so. The full Bitcoin ledger is around 260GB right now, and increases by 60GB per year; the phone has 64GB of storage, but that ledger can be stored on a 400GB+ SD card. In terms of specifications, this has similar specifications as the Desire 12s, which was launched last year that includes 5.7-inch HD+ 18:9 aspect ratio display, Snapdragon 435 with 4GB of RAM, Android 8.1 (Oreo) with HTC Sense UI , 13-megapixel front and rear cameras, both with LED flash, rear-mounted fingerprint sensor, and a 3075mAh battery. HTC Exodus 1s specifications 5.7-inch (1440 × 720 pixels) HD+ 18:9 2.5D curved glass display Octa-Core Snapdragon 435 (4 x Cortex A53 1.4GHz + 4 x Cortex A53 1.1GHz) Mobile Platform with Adreno 505 GPU 4GB RAM, 64GB storage, expandable memory with microSD ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=HAajkYvVpV0:bFNN3jzBIio:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=HAajkYvVpV0:bFNN3jzBIio:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=HAajkYvVpV0:bFNN3jzBIio:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=HAajkYvVpV0:bFNN3jzBIio:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=HAajkYvVpV0:bFNN3jzBIio:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=HAajkYvVpV0:bFNN3jzBIio:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/HAajkYvVpV0)  
+[Read Here»](https://www.fonearena.com/blog/295695/htc-exodus-1s-cheaper-native-blockchain-smartphone-starts-rolling-out.html)

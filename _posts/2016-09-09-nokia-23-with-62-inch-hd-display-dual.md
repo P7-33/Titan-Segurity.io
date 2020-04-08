@@ -1,0 +1,12 @@
+---
+title: 'Nokia 2.3 with 6.2-inch HD+ display, dual rear cameras, metal frame launched in India for Rs. 8199'
+date: 2019-12-19T04:58:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Nokia-2.3-1-1024x845.jpg) HMD Global has launched the Nokia 2.3, the company’s latest budget Android One smartphone and the successor of Nokia 2.2 in India, after it was introduced earlier this month and teased last week. It packs a 6.2-inch HD+ screen, is powered by MediaTek Helio A22 12nm SoC with 2GB RAM, runs Android 9.0 (Pie) with 2 years of Android and 3 years of security updates, has a 13-megapixel rear camera with AI low-light feature, HDR, secondary 2-megapixel depth sensing camera for Portrait Mode, ‘Recommended Shot’ feature that automatically captures alternate images before and after the shutter button is pressed and suggests the best one. It has a 5-megapixel camera on the front with support for Face Unlock, but it doesn’t have a fingerprint sensor. The phone also comes with a dedicated Google Assistant Button, has dedicated dual SIM and microSD slots, features 3D nano-textured cover. “Advanced structural engineering made it possible to integrate the dual camera and flash into the rear of the phone without a camera bump. Inner high-precision diecast aluminium chassis makes the structure solid and rigid protecting all the components inside,” said the company. It packs a 4000mAh battery that promises 2 days of battery life. Nokia 2.3 specifications ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=RN9JMT5dXbo:dawMg0WbjPI:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=RN9JMT5dXbo:dawMg0WbjPI:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=RN9JMT5dXbo:dawMg0WbjPI:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=RN9JMT5dXbo:dawMg0WbjPI:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=RN9JMT5dXbo:dawMg0WbjPI:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=RN9JMT5dXbo:dawMg0WbjPI:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/RN9JMT5dXbo)  
+[Read Here»](https://www.fonearena.com/blog/300689/nokia-2-3-price-india-specifications.html)

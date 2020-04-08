@@ -1,0 +1,12 @@
+---
+title: 'NoiseFit Evolve Smartwatch offers 1.2-inch AMOLED display, heart rate sensor, IP68 water-resistance at Rs. 5499'
+date: 2019-11-18T08:43:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/NoiseFit-Evolve-2-1024x725.jpg) Noise, popular for its wearables has launched NoiseFit Evolve, the company's first watch with an AMOLED screen. It has a classic, round form factor  and comes with ﬁtness features, smart notiﬁcations, music and camera control, right from your wrist. The company says that the AMOLED screen lets you read easily in direct sunlight. The company says that it has connected GPS, so it looks like the watch will require phone for GPS. NoiseFit Evolve features and specifications 1.2-inch (390 x 390 pixels) AMOLED round dial Compatible with Android as well as iOS 9 sports modes like indoor running, yoga etc. along with built-in activity tracker 24-hour heart rate monitor Step counter, sleep tracker, sedentary reminder and goal completion reminder Water resistant (IP68) 180mAh battery with up to 3 days of battery life and 10 days of standby The NoiseFit Evolve comes in Slate Black, Dusk Blue and Blush Pink and the NoiseFit Evolve Sport comes in Black, and offers slightly better build and a different strap. The smartwatch is priced at Rs. 5499 and will be available from noise.com starting tomorrow, November 19th, and will also be available from other platforms soon.
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Wabv-QHJ_Uc:KSCBrpeDBXw:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Wabv-QHJ_Uc:KSCBrpeDBXw:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Wabv-QHJ_Uc:KSCBrpeDBXw:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Wabv-QHJ_Uc:KSCBrpeDBXw:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Wabv-QHJ_Uc:KSCBrpeDBXw:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Wabv-QHJ_Uc:KSCBrpeDBXw:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Wabv-QHJ_Uc)  
+[Read Here»](https://www.fonearena.com/blog/298245/noisefit-evolve-price-features.html)

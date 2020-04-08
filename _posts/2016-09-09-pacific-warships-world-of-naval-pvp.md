@@ -1,34 +1,30 @@
 ---
-title: 'Pacific Warships World of Naval PvP Wargame 0.9.147 MOD + DATA (Unlimited Money) APK For Android'
-date: 2020-01-14T22:56:00+01:00
+title: 'Pacific Warships World of Naval PvP Wargame 0.9.138 MOD + DATA (Unlimited Money) APK For Android'
+date: 2019-12-16T03:56:00+01:00
 draft: false
 ---
 
-![Pacific Warships World of Naval PvP Wargame 0.9.147 MOD + DATA (Unlimited Money) APK For Android](https://i0.wp.com/apkhome.net/wp-content/uploads/2020/01/Pacific-Warships-World-of-Naval-PvP-Wargame-0.9.147-MOD-DATA-Unlimited-Money.png "Pacific Warships World of Naval PvP Wargame 0.9.147 MOD + DATA (Unlimited Money) APK For Android")
+![Pacific Warships World of Naval PvP Wargame 0.9.138 MOD + DATA (Unlimited Money) APK For Android](https://i2.wp.com/apkhome.net/wp-content/uploads/2019/11/Pacific-Warships-World-of-Naval-PvP-Wargame.png "Pacific Warships World of Naval PvP Wargame 0.9.138 MOD + DATA (Unlimited Money) APK For Android")
 
   
 
-Pacific Warships World of Naval PvP Wargame 0.9.147 MOD + DATA (Unlimited Money) APK For Android
+Pacific Warships World of Naval PvP Wargame 0.9.138 MOD + DATA (Unlimited Money) APK For Android
 
 PACIFIC WARSHIPS  
-Become the commander of an armada in this FREE military navy game! Welcome to the naval battles of tomorrow!
+Become the commander of an armada in this FREE Military Navy game! Welcome to the naval battles of tomorrow!
 
-Take up the challenges of PACIFIC WARSHIPS where torpedoes and missiles fuse in all directions. Prepare your crew and your ship, then deploy them. Action and tactics mix and intermingle in the top of the top of naval conflicts. Use countless weapons, artillery, and ships to unleash a missile and torpedo tsunami that will hit your enemy head-on in real-time team PvP real-time games.
+Take on the challenges of PACIFIC WARSHIPS where torpedoes and missiles fuse all over the place. Prepare your crew and ship, then deploy them. Action and tactics mingle and intermingle in the top of the top naval conflicts. Use countless weapons, artillery and ships to unleash a tsunami of missiles and torpedoes that will hit your enemy hard at real-time team PvP games in REAL TIME.
 
-Gather your ships and form the best fleet to assert your supremacy, then wage a merciless struggle on the once peaceful seas. Become the coast guard during a ruthless battle!
+**Feature:**
 
-Offering more explosive action than a simple simulator, PACIFIC WARSHIPS propels you to the heart of realism and technology.
+\* Online multiplayer  
+Compete against the armadas of opponents from around the world during multiplayer naval battles.
 
-**Features:**
+\* Beautiful 3D graphics  
+The future is here! We created the most realistic graphics on mobile! Play and let yourself be captivated! The game will work even on entry level devices!
 
-\*ONLINE multiplayer  
-Compete against armadas of opponents from around the world in multiplayer naval battles.
-
-\*Superb 3D graphics  
-The future is here! We have created the most realistic graphics on mobile! Play and be captivated! The game will even work on entry level devices!
-
-\*Abilities  
-Sow chaos thanks to the capabilities of your ships. Boost your shooting power to become the best commander in the military navy!
+\* Capacities  
+Sow chaos through the capabilities of your ships. Boost your shooting power to become the best commander of the Navy!...
 
 **Supported Android**  
 {4.0 and UP}  
@@ -37,7 +33,7 @@ Jelly Bean(4.1â"4.3.1)- KitKat (4.4â"4.4.4)- Lollipop (5.0â"5.0.2) - Ma
 
 **MOD TYPE: Unlimited Money**
 
-Download Pacific Warships World of Naval PvP Wargame 0.9.147 MOD + DATA (Unlimited Money) APK For Android
+Download Pacific Warships World of Naval PvP Wargame 0.9.138 MOD + DATA (Unlimited Money) APK For Android
 =========================================================================================================
 
 **Mod**
@@ -51,13 +47,13 @@ Additional Information
 
 **Developer :** GDCompany
 
-**Version :** 0.9.147
+**Version :** 0.9.138
 
 **Google Play :** [PlayStore](https://play.google.com/store/apps/details?id=com.gdcompany.deepwaters)
 
   
 
-[Download Now](https://store4app.co/post/pacific-warships-world-of-naval-pvp-wargame-0-9-147-mod-data-unlimited-money-apk-for-android_1579025123)
+[Download Now](https://store4app.co/post/pacific-warships-world-of-naval-pvp-wargame-0-9-138-mod-data-unlimited-money-apk-for-android_1574618325)
 
   
-Source: [Go homepage.](https://store4app.co/post/pacific-warships-world-of-naval-pvp-wargame-0-9-147-mod-data-unlimited-money-apk-for-android_1579025123) .downloadtop{ text-align:center; -webkit-appearance: none; -moz-appearance: none; appearance: none; width: 100%; padding: 9px 9px 11px 13px; background-color: #0EBD3F; border: none; color:#fff; border-radius: 3px; outline: none; font-weight;bold; font: 20px 'Open Sans', sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; color: #fff; cursor: pointer; border-radius:15px;-webkit-border-radius:15px;-moz-border-radius:5px;box-shadow:0 0 5px rgba(0,0,0,.2);-moz-box-shadow:0 0 5px rgba(0,0,0,.2);-webkit-box-shadow:0 0 5px rgba(0,0,0,.2) !important; }
+Source: [Go homepage.](https://store4app.co/post/pacific-warships-world-of-naval-pvp-wargame-0-9-138-mod-data-unlimited-money-apk-for-android_1574618325) .downloadtop{ text-align:center; -webkit-appearance: none; -moz-appearance: none; appearance: none; width: 100%; padding: 9px 9px 11px 13px; background-color: #0EBD3F; border: none; color:#fff; border-radius: 3px; outline: none; font-weight;bold; font: 20px 'Open Sans', sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; color: #fff; cursor: pointer; border-radius:15px;-webkit-border-radius:15px;-moz-border-radius:5px;box-shadow:0 0 5px rgba(0,0,0,.2);-moz-box-shadow:0 0 5px rgba(0,0,0,.2);-webkit-box-shadow:0 0 5px rgba(0,0,0,.2) !important; }

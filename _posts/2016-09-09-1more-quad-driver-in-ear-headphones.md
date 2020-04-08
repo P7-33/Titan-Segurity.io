@@ -1,0 +1,12 @@
+---
+title: '1MORE Quad Driver In-ear headphones Review'
+date: 2019-11-06T13:57:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/1MORE-Quad-Driver_fonearena-1-1024x541.jpg) A few months back, 1MORE has added Quad Driver in-ear headphones into their premium segment of audio products. Post the success of previously launched Triple Driver in-ear headphones, 1MORE has introduced the Quad Driver variant featuring four separate drivers to enhance the performance. This Quad-Driver contains three balanced armature drivers and one diamond-like carbon driver, which in turn results in best-in-class audio quality across the spectrum. Is the extra driver worth it at Rs. 9,499? Do check it out! Design and build At this price point, both the build quality and packaging of the 1MORE quad-driver is impressive. With the package, you get a total of nine pairs of ear tips of different sizes, including three foam pairs. In addition to it, there is a hard-case, an airplane adapter, a clip, and a 3.5mm to 6.3mm adapter to use the earphones with hi-fi audio equipment. The earbuds have a solid aluminum finish with a splash of red accent to add it to the good looks. Also, the buds are angled at 45 degrees, to sit comfortably in your ear. Even the inline connector, 3.5mm L-connector are made out of aluminum too. The control module is greatly improved with new circular tactile buttons. The three-buttons are ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=InwvWpEpX0w:vKQrlkR7PF4:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=InwvWpEpX0w:vKQrlkR7PF4:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=InwvWpEpX0w:vKQrlkR7PF4:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=InwvWpEpX0w:vKQrlkR7PF4:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=InwvWpEpX0w:vKQrlkR7PF4:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=InwvWpEpX0w:vKQrlkR7PF4:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/InwvWpEpX0w)  
+[Read Here»](https://www.fonearena.com/blog/297365/1more-quad-driver-in-ear-headphones-review.html)

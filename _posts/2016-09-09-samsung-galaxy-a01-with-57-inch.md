@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy A01 with 5.7-inch Infinity-V display, dual rear cameras announced'
+date: 2019-12-18T11:40:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Samsung-Galaxy-A01-1024x694.jpg) Samsung has announced Galaxy A01 smartphone, the company's latest budget smartphone in the ‘A series’. It has a 5.7-inch HD+ Infinity-V display, is powered by an Octa-Core processor, which could be Snapdragon 439, runs Android 9.0 (Pie) with Samsung One UI, has a 13-megapixel rear camera along with a 2-megapixel secondary camera for portrait shots and an 5-megapixel front camera with face unlock. The phone doesn't have a fingerprint scanner, but features dedicated dual SIM and microSD slots and a 3000mAh battery. Samsung Galaxy A01 Specifications 5.7-inch (1520 × 720 pixels) HD+ Infinity-V display Octa-Core (Quad 1.95GHz + Quad 1.45GHz ) processor 2GB RAM, 16GB Storage, expandable up to 512GB via micro SD card Android 9.0 (Pie) with Samsung One UI Dual SIM (nano + nano + microSD) 13MP rear camera with LED flash, f/2.2 aperture, 2MP secondary camera with f/2.4 aperture 5MP front camera with f/2.0 aperture Dimension:146.3 x 70.86 x 8.34mm 3.5mm audio jack, FM Radio Dual 4G VoLTE, Wi-Fi 802.11 b/g/n, Bluetooth 5, GPS + GLONASS 3,000mAh battery The Samsung Galaxy A01 comes in Black, Blue and Red colors. No details about the pricing or availability yet.
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=JiYAbx8vA2E:Pi3AIVbj8tg:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=JiYAbx8vA2E:Pi3AIVbj8tg:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=JiYAbx8vA2E:Pi3AIVbj8tg:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=JiYAbx8vA2E:Pi3AIVbj8tg:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=JiYAbx8vA2E:Pi3AIVbj8tg:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=JiYAbx8vA2E:Pi3AIVbj8tg:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/JiYAbx8vA2E)  
+[Read Here»](https://www.fonearena.com/blog/300649/samsung-galaxy-a01-price-specifications.html)

@@ -1,0 +1,12 @@
+---
+title: 'HONOR MagicBook 14 and MagicBook 15 with up to 2nd Gen AMD Ryzen 7 CPU, Radeon RX Vega 10 GPU, pop-up camera announced'
+date: 2019-11-26T14:49:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/HONOR-MagicBook-14.png) Alongside the HONOR V30, V30 Pro, and MagicWatch 2, HONOR has also introduced its new MagicBook lineup of laptops with AMD Ryzen processor - HONOR MagicBook 14 and MagicBook 15. The new HONOR MagicBook 14 and MagicBook 15 sports small blue edge design, new Magic Link 2.0 function, up to 2nd Gen AMD Ryzen processor, and more. HONOR MagicBook 14 HONOR MagicBook 14 flaunts a 14-inch FULL HD IPS display with a 16:9 aspect ratio and 1920 x 1080 pixels resolution. It is powered by up to 2nd Generation AMD Ryzen 7 3700U processor with 2.1GHz base clock speed (turbo boost up to 3.7GHz) and Radeon RX Vega 10 graphics. It is paired with 8GB DDR4 RAM clocked at 2100MHz and 512GB PCIe SSD. HONOR has also upgraded the cooling system in this laptop and has adopted an s-shaped fan blade design that results in up to 38% effective cooling. It also features the new Magic Link 2.0 that enables a seamless connection between mobile phones and PCs. Apart from this, the connectivity options and ports include Dual-band WiFi (2.4GHz and 5GHz), Bluetooth 4.2, 720p HD camera (pop-up camera), fingerprint scanner, backlight keyboard, 1 x USB Type-C port, 1 x USB 3.0 Type-A, ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=pfdK_uFVQJc:SB4QlL2I2UM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=pfdK_uFVQJc:SB4QlL2I2UM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=pfdK_uFVQJc:SB4QlL2I2UM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=pfdK_uFVQJc:SB4QlL2I2UM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=pfdK_uFVQJc:SB4QlL2I2UM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=pfdK_uFVQJc:SB4QlL2I2UM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/pfdK_uFVQJc)  
+[Read Here»](https://www.fonearena.com/blog/298999/honor-magicbook-14-magicbook-15-price-features.html)

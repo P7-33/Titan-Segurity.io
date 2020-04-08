@@ -1,0 +1,12 @@
+---
+title: 'Samsung India announces festive offers for Galaxy S10 and Note 10 Series'
+date: 2019-10-24T11:43:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/04/Samsung-Galaxy-S10e_fonearena-14-1024x621.jpg) Samsung India has announced Diwali festive offers on its Galaxy Note 10 and Galaxy S10 series of smartphones valid from October 23 to October 31, 2019. Samsung’s most powerful Galaxy Note 10 series will be available for sale with benefits of up to Rs. 12,000. And Samsung’s most popular Galaxy S10 series will be available to customers with benefits worth up to Rs. 18,790. Customers purchasing the Galaxy S10 can avail an additional 10% cashback through SBI credit cards up to Rs. 6000 along with instant cashback of up to Rs. 5000 for the S10 and Rs. 4000 for the S10+. Consumers purchasing Galaxy S10e will get an instant cashback of INR 8,000. For the Galaxy Note 10, customers can get Rs. 6000 bonus over and above the exchange price of their phone or an SBI cashback of Rs. 6000. Customers buying either of these devices can get the Galaxy Buds at a discounted price of Rs. 6,990 (Discount of Rs. 3000 when compared to retail price) and  the Galaxy Watch Active at Rs. 13,990 (Discount of Rs. 6000). The cashback and upgrade offers will be available across select Samsung outlets pan India. The Galaxy Watch and Galaxy Buds bundled offers will be ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=M7apmpaaj2M:OxmYWuXerq4:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=M7apmpaaj2M:OxmYWuXerq4:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=M7apmpaaj2M:OxmYWuXerq4:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=M7apmpaaj2M:OxmYWuXerq4:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=M7apmpaaj2M:OxmYWuXerq4:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=M7apmpaaj2M:OxmYWuXerq4:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/M7apmpaaj2M)  
+[Read Here»](https://www.fonearena.com/blog/295533/samsung-india-announces-festive-offers-for-galaxy-s10-and-note-10-series.html)

@@ -1,0 +1,12 @@
+---
+title: 'TECNO CAMON 12 Air with 6.55-inch 20:9 display, triple rear cameras, in-screen front camera launched in India for Rs. 9999'
+date: 2019-10-14T16:59:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/TECNO-Camon-12-Air.jpg) TECNO has today launched its latest CAMON 12 Air smartphone in India and it comes after the launch of TECNO Phantom 9 recently, TECNO CAMON i4 earlier this year, etc. The CAMON 12 Air comes with a triple rear camera system and this time around, it comes with an in-screen front camera, Android 9 Pie and more. TECNO CAMON 12 Air flaunts a 6.55-inch 20:9 HD+ display with a resolution of 720 x 1600 pixels, a screen-to-body ratio of 90.3% and 500 nits of brightness. It is powered by an octa-core MediaTek Helio P22 processor paired with 4GB RAM with 64GB storage. It has a glass-like finish to the back with a gradient design and the smartphone runs on Android 9 Pie on top of TECNO's HiOS 5.5. Regarding the optics, TECNO CAMON 12 Air sports a triple rear camera setup and is a combination of 16MP(primary lens with f/1.8 aperture)+5MP (wide-angle lens)+2MP (macro lens) along with a quad-LED flash module. There is an 8MP in-screen camera with 81-degree wide-angle lens and f/2.0 aperture. Apart from this, the camera app has various AI modes to enhance the photos. There is a fingerprint scanner as well and there is also support for Face ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=0JzV02a6aNI:3aTZOzJOy_0:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=0JzV02a6aNI:3aTZOzJOy_0:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=0JzV02a6aNI:3aTZOzJOy_0:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=0JzV02a6aNI:3aTZOzJOy_0:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=0JzV02a6aNI:3aTZOzJOy_0:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=0JzV02a6aNI:3aTZOzJOy_0:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/0JzV02a6aNI)  
+[Read Here»](https://www.fonearena.com/blog/295072/tecno-camon-12-air-price-specifications.html)

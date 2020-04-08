@@ -1,0 +1,12 @@
+---
+title: 'Google Pixel 4 and Pixel 4 XL detailed specs, more renders, Dual Exposure Camera Controls, new Google Assistant surface'
+date: 2019-10-03T13:36:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Google-Pixel-4-XL.jpg) Google is all set to unveil the Pixel 4 Series at an event in New York on 15th October and a plethora of leaks, rumours, and renders have been surfacing including a leaked video revealing the Pixel 4 XL in full glory. Today, more details about the Pixel 4 Series have leaked including detailed specifications, new renders, new additions to the camera, and more. The leaked screenshots from 9to5Google reveal the complete spec sheet of Google Pixel 4 and Pixel 4XL and it is almost on par with the leaked specifications earlier. According to the spec sheet, Google Pixel 4 will sport a 5.7-inch FULL HD+ OLED Smooth Display with 90Hz refresh rate along with Ambient EQ feature and the Pixel 4 XL will sport a 6.3-inch Quad HD+ display OLED Smooth Display with 90Hz refresh rate along with Ambient EQ feature. Both will be powered by Qualcomm Snapdragon 855 processor and will feature 'Pixel Neural Core', suggesting that the chip will use neural network techniques for image processing. It will be paired with 6GB RAM with up to 128GB storage. Regarding the optics, both Pixel 4 and Pixel 4 XL will sport dual rear cameras with a combination of 12MP Dual-Pixel ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=P9mvi6RU8fk:6TuUrePRr0Y:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=P9mvi6RU8fk:6TuUrePRr0Y:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=P9mvi6RU8fk:6TuUrePRr0Y:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=P9mvi6RU8fk:6TuUrePRr0Y:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=P9mvi6RU8fk:6TuUrePRr0Y:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=P9mvi6RU8fk:6TuUrePRr0Y:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/P9mvi6RU8fk)  
+[Read Here»](https://www.fonearena.com/blog/293991/google-pixel-4-pixel-4-xl-specs-dual-exposure-camera-google-assistant.html)

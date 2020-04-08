@@ -1,0 +1,12 @@
+---
+title: 'Sony Xperia 8 with 6-inch FHD+ 21:9 wide display, dual rear cameras, waterproof body announced'
+date: 2019-10-07T07:53:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Sony-Xperia-8-1-1024x640.jpg) Sony Mobile has introduced Xperia 8, the company's latest mid-range smartphone in Japan. It has a 6-inch Full HD+ 21:9 Wide Full HD+ displays with Corning Gorilla Glass 6 protection, is powered by Snapdragon 630 with 4GB of RAM, runs Android 9.0 (Pie), features 13-megapixel camera and an 8-megapixel camera with 2X optical zoom for Images and an 8-megapixel front camera. The phone has a fingerprint sensor on the right, has a waterproof (IPX5 / 8) and dust proof (IP6X) body, glass back with Corning Gorilla Glass 6 protection, comes with Sony’s High-Resolution Audio with and LDAC technology and packs a 2760mAh battery. Sony Xperia 8 specifications 6-inch (2560 x 1080 pixels) Full HD+ 21:9 aspect ratio wide LCD with Corning Gorilla Glass 6 protection 2.2 GHz Octa-Core Snapdragon 630 14nm Mobile Platform with Adreno 508 GPU 4GB RAM, 64GB internal memory, expandable memory up to 512GB via microSD card Android 9.0 (Pie) Dual SIM 12MP rear camera with LED flash, f/1.8 aperture, EIS, secondary 8MP camera with f/2.4 aperture, 2x optical zoom 8MP front camera with f/2.0 aperture Fingerprint sensor Waterproof (IPX5 / IPX8), dust proof (IP6X) Dimensions: 158 x 69 x 8.1 mm; Weight: 170g 4G VoLTE, WiFi 802.11 ac ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=_SqO6BKk-bU:0zMzpofg3JI:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=_SqO6BKk-bU:0zMzpofg3JI:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=_SqO6BKk-bU:0zMzpofg3JI:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=_SqO6BKk-bU:0zMzpofg3JI:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=_SqO6BKk-bU:0zMzpofg3JI:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=_SqO6BKk-bU:0zMzpofg3JI:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/_SqO6BKk-bU)  
+[Read Here»](https://www.fonearena.com/blog/294226/sony-xperia-8-price-specifications.html)

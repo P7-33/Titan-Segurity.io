@@ -1,0 +1,12 @@
+---
+title: 'Google Pixel phones get December 2019 security update, brings Live Captions, Gesture navigation in third-party launchers and more to older Pixels'
+date: 2019-12-03T05:11:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/07/Google-Pixel-3a-XL_fonearena-11-1024x683.jpg) Google has started rolling out new over-the-air (OTA) update for Pixel devices and also posted factory images as part of monthly Android Security release for December. Pixel and Pixel XL get the final patch, as it had promised. Google is also adding Live Captions (for Pixel 3 and later), Styles & Wallpaper (Pixel 3 and Later) Pixel themes, Swipe-down gesture for notifications and Gesture navigation in third-party launchers (Pixel 2 and later), as noted by Android Police. The update also includes several functional improvements especially for the Pixel 4 devices. New builds for the Pixel devices with December 2019 Security update: Pixel & Pixel XL QP1A.191005.007.A3 Pixel 2 XL & Pixel 3 XL: QQ1A.191205.008 Pixel 3a XL: QQ1A.191205.011 Pixel 4 XL: T-Mobile, Fi, EMEA: QQ1B.191205.011, Japan & Taiwan: QQ1C.191205.016.A1, All other carriers: QQ1B.191205.012.A1 Check out the complete set of issues that are fixed in the latest update in the Android update Bulletin here, Security and download full factory images or OTA images for these Pixel devices from the Google Developers website, if you don’t have the over-the-air (OTA) update yet. Google said that Pixel 4 series will get the update next week, so the factory and OTA images for them are also missing. As usual Essential has also rolled out the ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=o24J46LRuAQ:lj3D8Ay_lWA:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=o24J46LRuAQ:lj3D8Ay_lWA:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=o24J46LRuAQ:lj3D8Ay_lWA:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=o24J46LRuAQ:lj3D8Ay_lWA:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=o24J46LRuAQ:lj3D8Ay_lWA:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=o24J46LRuAQ:lj3D8Ay_lWA:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/o24J46LRuAQ)  
+[Read Here»](https://www.fonearena.com/blog/299467/google-pixel-december-2019-android-security-update.html)

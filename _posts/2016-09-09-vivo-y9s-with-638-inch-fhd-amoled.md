@@ -1,0 +1,12 @@
+---
+title: 'Vivo Y9s with 6.38-inch FHD+ AMOLED display, 48MP quad rear cameras, in-display fingerprint scanner gets certified'
+date: 2019-11-08T17:06:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Vivo-Y9s.jpg) After the Y7s and the Y5s, upcoming Y9s smartphone has been certified by TENAA in China with model numbers V1945T and V1945A revealing complete specifications. This reveals a 6.38-inch Full HD+ AMOLED display, 2GHz processor which could be MediaTek Helio P65 12nm SoC with up to 8GB of RAM, 48MP primary sensor, 8MP ultrawide sensor, 2MP depth and a  2MP macro sensor, as well as a 32MP front-facing camera. It will likely feature an in-display fingerprint scanner and packs it shows a 4500mAh battery with support for fast charging. Vivo Y9s rumored specifications 6.38-inch (2340 × 1080 pixels) Full HD+ AMOLED display Octa Core MediaTek Helio P65 (MT6768) (4x Cortex-A75 @ 2.0 GHz 4x Cortex-A55 @ 2.0 GHz) 12nm processor  with ARM Mali-G52 GPU 6GB RAM with 128GB storage / 8GB RAM with 256GB storage Android 9.0 (Pie) with Funtouch OS 9 Dual SIM 48MP rear camera with LED flash, 8MP wide-angle camera, 2MP depth sensor, 2MP for macro 32MP front-facing camera In-display fingerprint sensor 3.5 mm audio jack, FM Radio Dimensions: 159.25×75.19×8.68mm; Weight: 186.7g Dual 4G VoLTE, WiFi 802.11 ac (2.4GHz + 5GHz), Bluetooth 5, GPS + GLONASS, USB Type-C 4500mAh (typical) / 4390mAh (minimum) battery with 18W fast charging The Vivo ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=08apyugf6LM:zmZ08fEWCnw:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=08apyugf6LM:zmZ08fEWCnw:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=08apyugf6LM:zmZ08fEWCnw:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=08apyugf6LM:zmZ08fEWCnw:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=08apyugf6LM:zmZ08fEWCnw:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=08apyugf6LM:zmZ08fEWCnw:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/08apyugf6LM)  
+[Read Here»](https://www.fonearena.com/blog/297593/vivo-y9s-specs-tenaa.html)

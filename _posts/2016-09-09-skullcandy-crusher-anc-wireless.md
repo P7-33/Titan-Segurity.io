@@ -1,0 +1,12 @@
+---
+title: 'Skullcandy Crusher ANC wireless headphones launched in India for Rs. 24999'
+date: 2019-10-01T14:36:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Crusher-ANC-Red.png) Skullcandy, the brand known for its wide range of audio products has today launched its premium Active Noise Cancellation wireless headphones in India - Skullcandy Crusher ANC. With the launch of Crusher ANC, Skullcandy is expanding its immersive audio category in India. Skullcandy Crusher ANC is a wireless over-ear headphones that packs a 40mm driver unit, 32 Ohms impedance, features Bluetooth 5.0, and 20Hz – 20KHz frequency response. It combines three premium technology like Adjustable Sensory Bass, Active Noise Cancellation, and Personal Sound to deliver a deeper audio experience. The Active Noise Cancellation feature monitors the environment, eliminates outside noise and the ambient mode on this headphone deactivates Active Noise Cancellation by just touching and holding the left earcup. Furthermore, users can also take a real-time audio test on the Skullcandy app to create a personal sound profile based on their unique hearing and that profile is then stored on the headphones to optimize audio levels. The app also enables toggling personal sound profiles on and off, easy in-app pairing, headphone firmware updates, product registration, and access to user guides. Lastly, Crusher ANC promises up to 24 hours of battery life plus charges through a USB Type-C port and provides three hours ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=7e5q4g0Ti5c:2OFYglZti7g:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=7e5q4g0Ti5c:2OFYglZti7g:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=7e5q4g0Ti5c:2OFYglZti7g:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=7e5q4g0Ti5c:2OFYglZti7g:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=7e5q4g0Ti5c:2OFYglZti7g:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=7e5q4g0Ti5c:2OFYglZti7g:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/7e5q4g0Ti5c)  
+[Read Here»](https://www.fonearena.com/blog/293788/skullcandy-crusher-anc-price-india.html)

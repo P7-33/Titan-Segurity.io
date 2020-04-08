@@ -1,0 +1,12 @@
+---
+title: 'Vivo Z5i with 6.53-inch FHD+ display, Snapdragon 675, 8GB RAM, triple rear cameras, 5000mAh battery announced'
+date: 2019-11-27T11:19:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Vivo-Z5i.jpg) Vivo is on a launch spree as the company recently announced the Vivo V17, U20, Y19, S5, U3, and more. Similarly, the company has now announced the new vivo Z5i in the Z series. Vivo Z5i takes design cues from the Z5x and the specifications are similar to the recently launched vivo U3 or vivo U20 smartphone. It flaunts a 6.53-inch Full HD+ LCD screen, is powered by Snapdragon 675 with 8GB of RAM with 128GB internal storage, runs Android 9 Pie with FuntouchOS 9.2, has a 16-megapixel rear camera, 8-megapixel 120° wide sensor, and a 2-megapixel macro camera and a 16-megapixel camera on the front. It has a rear-mounted fingerprint scanner, gradient back and packs a 5000mAh battery with support for 18W fast charging. Vivo Z5i (V1941A) specifications 6.53-inch (2340  × 1080 pixels) Full HD+ 19.5:9 LCD screen 2GHz Octa-Core Snapdragon 675 64-bit 11nm Mobile Platform with Adreno 612 GPU 8GB LPPDDR4x RAM with 128GB  storage, expandable memory up to 256GB with microSD Dual SIM Funtouch OS 9.2 based on Android 9.0 (Pie) 16MP rear camera with f/1.78 aperture, Sony IMX499 sensor, LED flash, 8-megapixel 120° wide-angle camera with f/2.2 aperture, 2-megapixel camera with f/2.4 aperture 16MP front-facing camera with f/2.0 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=MV2R9GqnFik:GCfSRF9IlJY:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=MV2R9GqnFik:GCfSRF9IlJY:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=MV2R9GqnFik:GCfSRF9IlJY:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=MV2R9GqnFik:GCfSRF9IlJY:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=MV2R9GqnFik:GCfSRF9IlJY:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=MV2R9GqnFik:GCfSRF9IlJY:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/MV2R9GqnFik)  
+[Read Here»](https://www.fonearena.com/blog/299150/vivo-z5i-price-specifications.html)

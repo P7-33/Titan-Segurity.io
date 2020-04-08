@@ -1,0 +1,12 @@
+---
+title: '1MORE portable bluetooth speaker launched in India for Rs. 10999'
+date: 2019-11-05T15:37:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/1More-Portable-Bluetooth-Speaker-India.jpg) 1MORE, the company known for its wide range of audio products has today launched its new portable Bluetooth speaker in India. This comes after the launch of different products recently like True Wireless Earbuds, Piston Fit Wireless, and more. 1More portable Bluetooth speaker features a cloth-like exterior and cylinder speaker with a unique acoustic design. It sports single 3.3 Inch Woofer along with a 0.75Inch Tweeter, producing a total output of 30W. The Digital Signal Processing (DSP) technology in this speaker controls the frequency output at different volume levels and aims to give a clear and natural sound. The connectivity options include Bluetooth 4.2, 3.5mm jack for wired playback, and it also comes with Multiple Pairing Modes enabled that allows you to pair two 1MORE speakers together for a stereo sounding experience. It packs a 2600mAh battery that claims to deliver 12 hours of music playback. There is support for voice assistant and this speaker is IPX4 rated as well. Pricing and Availability 1MORE portable Bluetooth speaker is priced at Rs. 10,999, but you can pre-order from 1More's website for Rs.6499 and shipping starts from 20th November 2019.
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=CGDMH31UvLA:571gvAqasQ8:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=CGDMH31UvLA:571gvAqasQ8:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=CGDMH31UvLA:571gvAqasQ8:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=CGDMH31UvLA:571gvAqasQ8:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=CGDMH31UvLA:571gvAqasQ8:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=CGDMH31UvLA:571gvAqasQ8:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/CGDMH31UvLA)  
+[Read Here»](https://www.fonearena.com/blog/297283/1more-portable-bluetooth-speaker-price-india.html)

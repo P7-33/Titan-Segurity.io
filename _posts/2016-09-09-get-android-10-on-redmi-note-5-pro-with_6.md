@@ -1,0 +1,12 @@
+---
+title: 'Get Android 10 on Redmi Note 5 Pro with Arrow OS'
+date: 2019-10-07T06:28:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Redmi-Note-5-Pro-Android-10-Arrow-OS_fonearena--1024x681.jpg) Xiaomi Redmi Note 5 Pro was amongst best-selling devices last year, Xiaomi launched it running on Android Nougat, and was updated to Android 8.1 (Oreo) in June 2018. The company rolled out Android 9.0 (Pie) update to the smartphone back in May this year, the device is almost 18 months old and has already received two Android updates. It is almost certain that Xiaomi will not update the Android version on the Redmi Note 5 Pro, but in case you own a Redmi Note 5 Pro and wish to keep your device updated with the latest Android version, you may try a custom ROM. This post will help you in deciding if you should flash Android 10 based Arrow OS on your Redmi Note 5 Pro. Software, UI, and Apps: \[gallery columns="2" size="large" ids="294208,294203"\] Arrow OS is close to stock Android with some nifty features, this ROM is based on latest Android 10 and comes with September security patch. There is almost no bloatware pre-installed with the ROM and only a few essential apps preinstalled which can be disabled. \[gallery size="large" ids="294201,294202,294200"\] Out of 64 GB internal storage, almost 10 GB is occupied by the system and users get around 52 GB of free storage. ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=hlA_myg1ZL8:eQNjeROQqQw:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=hlA_myg1ZL8:eQNjeROQqQw:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=hlA_myg1ZL8:eQNjeROQqQw:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=hlA_myg1ZL8:eQNjeROQqQw:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=hlA_myg1ZL8:eQNjeROQqQw:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=hlA_myg1ZL8:eQNjeROQqQw:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/hlA_myg1ZL8)  
+[Read Here»](https://www.fonearena.com/blog/294181/redmi-note-5-pro-android-10-arrow-os.html)

@@ -1,0 +1,12 @@
+---
+title: 'Vivo rolls out new manufacturing facility in India; begins annual production of 8.4 million units'
+date: 2019-11-06T14:32:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Vivo-V17-Pro_fonearena08.jpg) Vivo has just announced the roll-out of its new manufacturing facility in Uttar Pradesh, as part of its approximately Rs. 7,500 crore investment plan in India. This is phase 1 roll-out and the company will begin Phase II expansion from mid-2020. The new manufacturing facility is located at WTC Tech zone, Greater Noida, UPA and at its existing manufacturing set up, vivo is producing approximately 25 million units. With the new manufacturing facility, the company will be able to produce an additional 8.4 million units, making it a total of more than 33 million devices annually. The company also said that it has added over 2000 workforce at its new manufacturing facility and as a part of long term plan, the company plans to boost the economic growth for Indian smartphone sector. Also, as part of the Phase II expansion, the company plans to add approximately 5000+ employees, taking the total employment in vivo manufacturing facilities to approximately 15,000 employees. Commenting on the announcement, Mr Nipun Marya, Director-Brand Strategy, vivo India said: We have been wholly aligned with the ‘Make in India’ initiative since our inception in 2014. From time and time again we have shown our commitment to the region by constantly expanding our ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=jCVmi0IXKLg:fyDIoyAbVZw:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=jCVmi0IXKLg:fyDIoyAbVZw:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=jCVmi0IXKLg:fyDIoyAbVZw:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=jCVmi0IXKLg:fyDIoyAbVZw:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=jCVmi0IXKLg:fyDIoyAbVZw:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=jCVmi0IXKLg:fyDIoyAbVZw:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/jCVmi0IXKLg)  
+[Read Here»](https://www.fonearena.com/blog/297404/vivo-new-manufacturing-facility-india-annual-production-8-4-million-units.html)

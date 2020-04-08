@@ -1,0 +1,12 @@
+---
+title: 'Redmi 8A with 6.22-inch HD+ display, 5000mAh battery with 18W USB Type-C fast charging launched in India starting at Rs. 6499'
+date: 2019-09-25T07:48:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Redmi-8A-1.jpg) Xiaomi's Redmi brand just launched the Redmi 8A, the company's latest budget smartphone in India, as it had promised. It has a 6.22-inch HD+ 19:9 aspect ratio display with Dot Notch and Corning Gorilla Glass 5 protection, is powered by an Octa-Core Snapdragon 439 SoC with up to 4GB RAM and runs Android Pie with MIUI 10 on top. It has a 12-megapixel rear camera and an 8-megapixel front camera. The phone doesn't have a fingerprint sensor, but comes with face unlock. It has a plastic back with Aura wave grip design, comes with splash resistant nano coating, features dedicated dual SIM slots and packs a 5000mAh battery with 18W fast charging (10W charger in the box) via USB Type-C port, making it the first phone in the price range to sport Type-C. Redmi 8A specifications 6.2-inch (1520 × 720 pixels) HD+ 19:9 2.5D curved glass display with Corning Gorilla Glass 5 protection Octa-Core (Quad 1.95GHz Cortex A53 + Quad 1.45GHz Cortex A53) Snapdragon 439 Mobile Platform with Adreno 505 GPU 2GB / 3GB RAM with 32GB storage / 3GB RAM with 32GB storage, expandable memory up to 512GB with microSD Android 9.0 (Pie) with MIUI 10 Dual SIM (nano + nano + ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Zm5wjP7IFFs:C1bi-PsJdwA:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Zm5wjP7IFFs:C1bi-PsJdwA:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Zm5wjP7IFFs:C1bi-PsJdwA:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Zm5wjP7IFFs:C1bi-PsJdwA:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Zm5wjP7IFFs:C1bi-PsJdwA:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Zm5wjP7IFFs:C1bi-PsJdwA:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Zm5wjP7IFFs)  
+[Read Here»](https://www.fonearena.com/blog/292956/redmi-8a-price-india-specifications.html)

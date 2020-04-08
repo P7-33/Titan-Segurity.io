@@ -1,0 +1,12 @@
+---
+title: 'Vivo V17 with 6.44-inch FHD+ Super AMOLED display, 48MP quad rear cameras, 32MP in-screen front camera launched in India for Rs. 22990'
+date: 2019-12-09T08:14:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Vivo-V17.jpg) After V17 Pro launch in September, Vivo has launched the V17 smartphone in India, as it had promised. It has a 6.44-inch FHD+ Super AMOLED 20:9 Full View display with 91.38% screen-to-body ratio, is powered by Snapdragon 675 with 8GB of RAM and runs Android Pie with Funtouch OS 9 on top. On the back there is a 48-megapixel primary camera along with an 8-megapixel 120° ultrawide sensor, 2-megapixel camera for portraits and a 2-megapixel for macro. There is a 32-megapixel in-screen camera inside the 2.98mm hole with super night mode for better low-light selfies. It has a glass back, 128GB UFS 2.1 storage, features dedicated dual SIM and microSD slots. It features an in-display fingerprint scanner, and packs a 4500mAh battery with Vivo’s 18W Dual-Engine Fast Charging. Vivo V17 specifications 6.44-inch (2400 × 1080 pixels) Full HD+ 20:9 E3 Super AMOLED 2.5D curved glass display with 100% DCI-P3 color gamut, up to 800 nits brightness under sunlight, Schott Xensation UP glass protection 2GHz Octa-Core Snapdragon 675 11nm Mobile Platform with Adreno 612 GPU 8GB LPDDR4x RAM, 128GB UFS 2.1 storage, expandable memory up to 256GB with microSD Android 9.0 (Pie) with Funtouch OS 9.2 Dual SIM (nano + nano + microSD) ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=RNNnUhL7tIk:MSpw1g_0M1o:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=RNNnUhL7tIk:MSpw1g_0M1o:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=RNNnUhL7tIk:MSpw1g_0M1o:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=RNNnUhL7tIk:MSpw1g_0M1o:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=RNNnUhL7tIk:MSpw1g_0M1o:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=RNNnUhL7tIk:MSpw1g_0M1o:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/RNNnUhL7tIk)  
+[Read Here»](https://www.fonearena.com/blog/299900/vivo-v17-price-india-specifications.html)

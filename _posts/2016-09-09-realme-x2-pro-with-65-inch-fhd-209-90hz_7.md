@@ -1,0 +1,12 @@
+---
+title: 'Realme X2 Pro with 6.5-inch FHD+ 20:9 90Hz Fluid AMOLED display, Snapdragon 855 Plus, 64MP quad rear cameras to be announced on October 15'
+date: 2019-10-07T13:33:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/realme-X2-Pro-teaser-1024x1017.jpg) After several teasers, realme just confirmed that it will introduce the realme X2 Pro smartphone in Europe along with the realme X2 and realme 5 Pro smartphones. The company already confirmed Full HD+ 20:9 aspect ratio 90Hz Fluid AMOLED display, Snapdragon 855 Plus, 64MP quad rear cameras like the realme X2, but this will replace the macro lens with a telephoto lens that will offer 20x hybrid zoom. There will also be a 115° ultra-wide angle lens that will also be capable of shooting 2.5cm macro shots and there will be a portrait lens. The phone will feature 50W SuperVOOC Flash charge, compared to 65W SuperVOOC fast charging support in OPPO Reno Ace that will be introduced on October 10th in China. It will feature dual Stereo Speakers with Dolby Atmos and Hi-Res audio certification. ⚡️Attention everyone⚡️ 😎We come to Europe to turn everything upside down! 🗓️10:00 am | Madrid | 15/10/19 Soon you will know everything about our three best smartphones: ✅realme X2 Pro ✅realme X2 ✅realme 5 Pro Don't miss anything at: http://bit.ly/2Ivj6Lp pic.twitter.com/92jsKUxp7b — realme Europe (@realmeeurope) October 7, 2019 realme XT Pro rumored specifications 6.5-inch (2400 x 1080 pixels) Full HD+ 20:9 aspect ratio Fluid AMOLED display with 90Hz refresh rate Octa-Core Snapdragon 855 Plus (1 x Kryo 485 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=9ht7daBwbfY:OVEBYtHmA8M:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=9ht7daBwbfY:OVEBYtHmA8M:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=9ht7daBwbfY:OVEBYtHmA8M:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=9ht7daBwbfY:OVEBYtHmA8M:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=9ht7daBwbfY:OVEBYtHmA8M:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=9ht7daBwbfY:OVEBYtHmA8M:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/9ht7daBwbfY)  
+[Read Here»](https://www.fonearena.com/blog/294260/realme-x2-pro-launch-date.html)

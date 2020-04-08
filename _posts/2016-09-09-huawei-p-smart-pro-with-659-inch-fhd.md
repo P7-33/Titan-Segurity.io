@@ -1,0 +1,12 @@
+---
+title: 'HUAWEI P smart Pro with 6.59-inch FHD+ display, triple rear cameras, pop-up front camera announced'
+date: 2019-12-19T14:58:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/HUAWEI-P-smart-Pro.jpg) HUAWEI announced the P Smart Z smartphone with a pop-up front camera earlier this year and the P smart+ 2019 under the P-series of smartphones. Expanding the lineup, the company has announced its new HUAWEI P Smart Pro with triple rear cameras, pop-up front camera, and more. HUAWEI Smart P Pro flaunts a 6.59-inch FHD+ Ultra FullView LCD display with a resolution of 2340 x 1080 pixels and sports a curved glass back. It is powered by the Kirin 710F octa-core processor paired with 6GB RAM + 128GB of internal storage which could be expanded up to 512GB with microSD. It runs on EMUI 9.1 based on Android 9 Pie and it has a side-mounted fingerprint scanner. Regarding the optics, it sports triple rear cameras with a combination of 48MP primary camera with f/1.8 aperture + 8MP ultra-wide-angle camera with f/2.4 aperture + 2MP depth sensor with f/2.4 aperture as well. The front camera is a pop-up shooter with a 16MP resolution. The connectivity options include 2.4GHz WiFi, Bluetooth 4.2, USB Type-C port, GPS, AGPS, and GLONASS. It packs a 4000mAh battery. HUAWEI P Smart Pro specifications 6.59-inch (2340 x 1080 pixels) Full HD+ 2.5D curved glass display Octa-Core Kirin 710F 12nm (4 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=kxOP7RYPwbM:5vZ5EjmuP6A:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=kxOP7RYPwbM:5vZ5EjmuP6A:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=kxOP7RYPwbM:5vZ5EjmuP6A:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=kxOP7RYPwbM:5vZ5EjmuP6A:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=kxOP7RYPwbM:5vZ5EjmuP6A:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=kxOP7RYPwbM:5vZ5EjmuP6A:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/kxOP7RYPwbM)  
+[Read Here»](https://www.fonearena.com/blog/300745/huawei-p-smart-pro-price-specifications.html)

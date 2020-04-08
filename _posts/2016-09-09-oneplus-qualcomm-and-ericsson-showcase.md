@@ -1,0 +1,12 @@
+---
+title: 'OnePlus, Qualcomm and Ericsson showcase 5G Cloud Gaming at IMC 2019'
+date: 2019-10-15T09:59:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/OnePlus-5G-Cloud-Gaming-IMC.jpg) OnePlus, in partnership with Qualcomm Technologies Inc. and Ericsson is set to showcase the power of the upcoming 5G technology at India Mobile Congress (IMC), 2019. It will offer users real time experiences at the event, through its latest OnePlus 7 Pro 5G smartphones displayed at Qualcomm Technologies’ booth till Wednesday, 16 October 2019. The OnePlus 7 Pro 5G, powered by the flagship Qualcomm Snapdragon 855 Plus Mobile Platform, contains many technologies such as Qualcomm Snapdragon X50 5G Modem-RF System, Qualcomm Snapdragon Elite Gaming and the on-device Qualcomm AI Engine. The phone will leverage Ericsson’s 5G infrastructure network to present the capabilities of real-time 5G technology  through cloud gaming features. OnePlus has also partnered with Hatch, a cloud gaming service provider to showcase the power of 5G technology using Hatch's smartphone-based games streaming platform. Through a live demo at the booth, users can stream graphic intensive games over Ericsson's 5G network  onto their Snapdragon-powered OnePlus 7 Pro 5G smartphones through Hathc's cloud gaming app. Since these games are streamed directly over the network from a server, there is no local download of the game files required. Commenting on Oneplus entering the 5G tech space, Vikas Agarwal, General Manager, OnePlus India said: Being a global ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=0V6ZYMg5d3w:frnaNft7kxc:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=0V6ZYMg5d3w:frnaNft7kxc:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=0V6ZYMg5d3w:frnaNft7kxc:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=0V6ZYMg5d3w:frnaNft7kxc:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=0V6ZYMg5d3w:frnaNft7kxc:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=0V6ZYMg5d3w:frnaNft7kxc:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/0V6ZYMg5d3w)  
+[Read Here»](https://www.fonearena.com/blog/295147/oneplus-5g-cloud-gaming-imc-2019.html)

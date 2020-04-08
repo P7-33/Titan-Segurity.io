@@ -1,0 +1,12 @@
+---
+title: 'PUBG MOBILE 0.15.0 update with Helicopters, Survive Till Dawn Halloween Mode, Ledge Grab and more released'
+date: 2019-10-16T12:14:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/PUBG-MOBILE-0.15.0-Payload-Mode-1024x576.jpg) Tencent games has released new PUBG Mobile update which brings the version number to 0.15.0. This brings several enhancements that lets characters  leap in mid-air to reach previously inaccessible places, new vehicles such as the amphibious BRDM-2 and helicopters, exploding fuel drums for laying traps, Weapons such as M16A4, Vector, UMP45 and MK47Mutant have all been tuned, Desert Eagle has also been added. Performance improvements for smoother experience and less power consumption, weapon and outfit display have been enhanced, the touch controls have been tuned to reduce errors in movement after opening scope, room and inventory systems have also been improved. Graffiti is now available! Payload Mode will be coming soon and the Walking Dead collaboration and Survive Till Dawn Halloween mode are here. The PUBG Mobile 0.15.0 update is already available for iOS  and Android from today. If you update before 22nd October, you get: Fairy Set (3 days) x1, Silver Fragment x50 and 2,888 BP. https://youtu.be/x96PNQ2rw0w PUBG Mobile 0.15.0 Royale Pass Season 9 content update include: 1. Updates Payload Mode (coming soon) Comes with new heavy weapons, recall system, a helicopter, Vehicle Repair Pack and Super Weapon Crates! Air Strikes are available, too! \[Teammate Recall\] Pick up dead teammates' ID Cards and revive them at the Communication Tower! \[Payload ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=QnYSsrrJ9So:D5PrEDMAb6o:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=QnYSsrrJ9So:D5PrEDMAb6o:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=QnYSsrrJ9So:D5PrEDMAb6o:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=QnYSsrrJ9So:D5PrEDMAb6o:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=QnYSsrrJ9So:D5PrEDMAb6o:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=QnYSsrrJ9So:D5PrEDMAb6o:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/QnYSsrrJ9So)  
+[Read Here»](https://www.fonearena.com/blog/295355/pubg-mobile-0-15-0-halloween-mode-helicopters.html)

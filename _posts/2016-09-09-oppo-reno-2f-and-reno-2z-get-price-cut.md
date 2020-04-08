@@ -1,0 +1,12 @@
+---
+title: 'OPPO Reno 2F and Reno 2Z get a price cut in India, now available starting at Rs. 23990'
+date: 2019-11-08T14:06:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/08/OPPO-Reno-2Z.jpg) OPPO launched the Reno 2F and Reno 2Z smartphones in India back in August this year alongside the Reno 2. After 2 months of the launch now, both the Reno 2F and Reno 2Z have got a price cut here. After the price cut, they are now available starting at Rs. 23,990. OPPO Reno 2F 8GB RAM with 128GB storage variant is now available at Rs. 23,990, against its original price of Rs. 25,990. OPPO Reno 2Z 8GB RAM with 256GB storage variant, on the other hand, is now available at Rs. 27,990, against its original price of Rs. 29,990. The revised prices are reflecting on Amazon.in, Flipkart, and OPPO e-Store. Smartphone Old Price New Price Price cut OPPO Reno 2F (8+128GB) Rs. 25,990 Rs. 23,990 Rs. 2000 OPPO Reno 2Z (8+256GB) Rs. 29,990 Rs. 27,990 Rs. 2000 To recall, OPPO Reno 2Z and Reno 2F smartphones sport a 6.4-inch Full HD+ AMOLED display without a notch, but compared to the shark fin, this has a 16-megapixel rising camera. The Reno 2Z is powered by MediaTek’s latest Helio P90 12nm SoC and the Reno 2F is powered by Helio P70. Both the phones have 8GB RAM, 256GB storage, run Android Pie with ColorOS 6.1 on top. These retain the 48-megapixel primary rear camera (Sony ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=RQAQpy6lhk0:0L-8yfT7z-E:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=RQAQpy6lhk0:0L-8yfT7z-E:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=RQAQpy6lhk0:0L-8yfT7z-E:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=RQAQpy6lhk0:0L-8yfT7z-E:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=RQAQpy6lhk0:0L-8yfT7z-E:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=RQAQpy6lhk0:0L-8yfT7z-E:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/RQAQpy6lhk0)  
+[Read Here»](https://www.fonearena.com/blog/297586/oppo-reno-2f-reno-2z-price-cut-india.html)

@@ -1,0 +1,12 @@
+---
+title: 'Facebook Q3 2019 earnings report released, Mark Zuckerberg confirms political ads will continue'
+date: 2019-10-31T13:22:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2018/05/Facebook-Smart-Speaker-1024x576.jpeg) Facebook has released their quarterly earnings report for Q3 2019. The company has posted a 29% year-on-year growth in total revenue, split between 28% from advertising and 42% from Payments and other fees. Mark Zuckerberg, Facebook's CEO, also explained in a post how they will not ban political advertising on the platform while the company believes in defending free expression.                   In the earnings report, Facebook reports that its Daily Active Users (DAU) has seen an increase of 9% year on year with an average of 1.62 billion users. Its Monthly active users (MAUs) on the other hand, averaged 2.45 billion as of September 30, 2019, an increase of 8% compared to Q3 2018. Mobile advertising revenue contributed to 94% of its revenue, which is up from the 92% contribution for Q3 2018 revenue. In Mark's post, he explained that Facebook, Instagram and Whatsapp have a total combined user count of about 2.8 billion people, with 2.2 billion people using at least one of our services daily. Facebook also estimates that more than 140 million businesses, mostly small businesses, are using our services each month to grow, create jobs and become social hubs in their ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=O0dbGOOzX1M:q9I-VqMAm4I:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=O0dbGOOzX1M:q9I-VqMAm4I:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=O0dbGOOzX1M:q9I-VqMAm4I:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=O0dbGOOzX1M:q9I-VqMAm4I:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=O0dbGOOzX1M:q9I-VqMAm4I:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=O0dbGOOzX1M:q9I-VqMAm4I:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/O0dbGOOzX1M)  
+[Read Here»](https://www.fonearena.com/blog/296880/facebook-q3-2019-earnings-political-ads.html)

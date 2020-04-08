@@ -1,0 +1,12 @@
+---
+title: 'macOS Catalina 10.15.2 update brings new features to Apple News, Stocks, bug fixes and more'
+date: 2019-12-13T10:40:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/macOS-Catalina-logo.jpg) Apple has released a new update to macOS Catalina, bringing the version to 10.15.2. The updates adds a few features to Apple News and Stocks along with bug fixes for Apple Music, iTunes Remote, Photos, Mail, Etc. along with general stability, reliability and performance improvements. The update size comes out to 3.02GB and is available for download for eligible devices. Users can also install the update for free from the Mac App Store. Check out the complete change log below. Changelog: Apple News New layout for Apple News+ stories from The Wall Street Journal and other leading newspapers Stocks Get links to related stories or more stories from the same publication at the end of an article “Breaking” and “Developing” labels for Top Stories  Stories from Apple News are now available in Canada in English and French This update includes the following bug fixes: Music Restores the column browser view for managing the music library Resolves an issue that may prevent album artwork from appearing Fixes an issue that may reset music equalizer settings during playback iTunes Remote Adds support for using an iPhone or iPad to remotely control the Music and TV apps on a Mac Photos Resolves an issue that may cause some AVI and MP4 files ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=bAhb7wVXn8g:JMqOdnj8Yzc:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=bAhb7wVXn8g:JMqOdnj8Yzc:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=bAhb7wVXn8g:JMqOdnj8Yzc:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=bAhb7wVXn8g:JMqOdnj8Yzc:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=bAhb7wVXn8g:JMqOdnj8Yzc:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=bAhb7wVXn8g:JMqOdnj8Yzc:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/bAhb7wVXn8g)  
+[Read Here»](https://www.fonearena.com/blog/300297/macos-catalina-10-15-2-update-features.html)

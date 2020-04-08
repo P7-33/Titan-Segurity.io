@@ -1,0 +1,12 @@
+---
+title: 'OnePlus 6 and 6T OxygenOS 10.3.0 update brings option to hide the notch area, fingerprint unlocking and camera improvements and more'
+date: 2019-12-19T10:28:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/OnePlus-6T-OxygenOS-10.3.0-update-1024x776.jpg) OnePlus has started rolling out new OxygenOS 10.3.0 update for the OnePlus 6 and OnePlus 6T smartphones that brings several new features including an option to hide the notch area along with several fixes in screen lock, navigation bar, Digital Wellbeing and issues in WiFi 5GHz networks. Fingerprint unlock is now faster with slight improvement in fingerprint animation. The OnePlus 6 and 6T OxygenOS 10.3.0 OxygenOS 10.3.0 update is about 300MB in size and also includes Android security patch for November 2019. Check out the complete changelog below. System Updated system to Android 10 Brand new UI for Android 10 Fixed the automatic reboot issue Added the notch area display option in the Settings (Settings - Display - Notch display - Hide the notch area) Fixed the issue with lock screen appearing even after unlocking the device with the password Fixed the issue with Navigation bar after upgrade Fixed the Digital wellbeing option missing in the settings Updated Android security patch to 2019.11 Fingerprint Fingerprint unlock functionality improvement Enhanced the fingerprint animation Camera Camera performance improvement Wifi Connectivity Fixed the issue of Wifi connection to 5Ghz networks Source 1, 2
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=rOr3Gn7Y3Xs:nsOstLhWKCo:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=rOr3Gn7Y3Xs:nsOstLhWKCo:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=rOr3Gn7Y3Xs:nsOstLhWKCo:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=rOr3Gn7Y3Xs:nsOstLhWKCo:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=rOr3Gn7Y3Xs:nsOstLhWKCo:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=rOr3Gn7Y3Xs:nsOstLhWKCo:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/rOr3Gn7Y3Xs)  
+[Read Here»](https://www.fonearena.com/blog/300712/oneplus-6-and-6t-oxygenos-10-3-0-update-brings-option-to-hide-the-notch-area-fingerprint-unlocking-and-camera-improvements-and-more.html)

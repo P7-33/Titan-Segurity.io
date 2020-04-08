@@ -1,0 +1,12 @@
+---
+title: 'China smartphone shipments reach 98.9 million units, down 3.6% YoY in Q3 2019: IDC'
+date: 2019-11-13T09:08:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2018/08/Huawei-Nova-3i_fonearena-10-1024x687.jpg) Smartphone shipments in China appear to be improving with a 3.9% decline YoY, up from the 6% decline YoY in Q2 2019, thanks due to HUAWEI's strong domestic sales. The top 5 manufacturers in China for Q3 2019 were HUAWEI, Vivo, OPPO, Xiaomi and Apple with the total smartphone shipments counting to 98.9 million units. HUAWEI claimed the top spot with a record 42% market share in the Chinese market. With Google play services banned for HUAWEI in the global market, HUAWEI focussed heavily on its domestic market. While the Changxiang and Nova series were the volume drivers, the high-margin Mate and P series provided attractive channel margins. Vivo sold about 18.1 million units, having strong sales in the US$150-200 and US$200-400 segments with its Y and Z series. The iQOO series proved to be popular with the tech enthusiasts and Vivo also garnered some interest with its cheaper 5G models. OPPO smartphone shipments declined by 21.7% in Q3 2019 with the Reno series and A series being its main volume sales. Xiaomi on the other hand, saw a massive decline in its smartphone sales owing to challenges around internal organizational changes, offline channel management, and brand differentiation between Mi and Redmi. Apple saw ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=oudjOG9c_TM:FVOQMmHi3C0:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=oudjOG9c_TM:FVOQMmHi3C0:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=oudjOG9c_TM:FVOQMmHi3C0:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=oudjOG9c_TM:FVOQMmHi3C0:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=oudjOG9c_TM:FVOQMmHi3C0:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=oudjOG9c_TM:FVOQMmHi3C0:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/oudjOG9c_TM)  
+[Read Here»](https://www.fonearena.com/blog/297931/china-smartphone-shipments-q3-2019-idc.html)

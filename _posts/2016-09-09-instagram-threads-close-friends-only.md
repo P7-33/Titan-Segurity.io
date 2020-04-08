@@ -1,0 +1,12 @@
+---
+title: 'Instagram Threads close friends-only messaging app with auto-status based on location launched for Android and iOS'
+date: 2019-10-04T09:41:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Instagram-Threads-1024x680.jpg) After rumors, Instagram has officially launched Threads, the company's latest camera-first messaging app to  communicate what you’re doing and how you’re feeling through photos and videos with close friends. "It opens directly to the camera and allows you to add shortcuts, so you can share what you’re doing in just two taps,"says the company. Messages from your close friends list will appear in both Threads and Direct, so you have full control over how and with whom you want to interact. In addition to suggested status (📚 Studying), you can create your own (😅 Procrastinating), or turn on Auto Status  (🚗 On the move), which automatically shares little bits of context on where you are without giving away your coordinates. Only your close friends will see your status, and it’s completely opt-in. Download Instagram Threads (Free) — Android | iOS Close Friends Only Threads works with the people on your Close Friends list, so you’re in control of who can reach you on the app. You can create and edit your list anytime on Instagram or Threads. Share Instantly You can share photos and videos in ⚡️speed. Use camera shortcuts to send them to your close friends in just two taps. Share What You’re Up To with Status You can ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=yqfUTwlC0BM:5qYq7T4khAQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=yqfUTwlC0BM:5qYq7T4khAQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=yqfUTwlC0BM:5qYq7T4khAQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=yqfUTwlC0BM:5qYq7T4khAQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=yqfUTwlC0BM:5qYq7T4khAQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=yqfUTwlC0BM:5qYq7T4khAQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/yqfUTwlC0BM)  
+[Read Here»](https://www.fonearena.com/blog/294071/instagram-threads-android-ios-download.html)

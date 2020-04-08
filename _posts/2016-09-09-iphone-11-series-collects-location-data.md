@@ -1,0 +1,12 @@
+---
+title: 'iPhone 11 series collects location data even when location services are switched off; Here’s why'
+date: 2019-12-06T08:50:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Apple-iPhone-11_fonearena-1-1024x627.jpg) Earlier this week, a report from security reporter Brain Krebs from krebsonsecurity.com showed how iPhone 11 devices running the latest iOS 13 would still be collecting data even when location services were turned off. Yesterday Apple responded to the information, explaining how it was by design for their new ultra wide band technology. Brian Krebs report shows a video of even when location services were individually turned off for each app, there seemed to some system service that was collecting data, evident by the tiny diagonal arrow that shows on the top bar of the phone. Apple initially responded to Krebs saying this was expected behaviour and failed to give further explanation giving rise to speculation that iOS had some location leaking bug that Apple refused to acknowledge. However, yesterday Apple gave a more detailed explanation, citing the spatial awareness feature that the iPhone 11 series comes with using its U1 chip. This chip uses ultra wide band technology that communicates with a variety of other wide band devices to achieve "spatial awareness" in space. At the moment only use case Apple advertises is the ability to more easily Air Drop. Apple claims that the data collection is only on device and is not ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=fqMAZARmxfk:jfOY3YuEgd8:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=fqMAZARmxfk:jfOY3YuEgd8:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=fqMAZARmxfk:jfOY3YuEgd8:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=fqMAZARmxfk:jfOY3YuEgd8:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=fqMAZARmxfk:jfOY3YuEgd8:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=fqMAZARmxfk:jfOY3YuEgd8:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/fqMAZARmxfk)  
+[Read Here»](https://www.fonearena.com/blog/299768/iphone-11-collects-location-data-location-off.html)

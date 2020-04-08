@@ -1,0 +1,12 @@
+---
+title: 'Qualcomm Snapdragon 865, Snapdragon 765, and Snapdragon 765G 7nm 5G Mobile Platforms — All you need to know'
+date: 2019-12-05T03:20:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Qualcomm-Snapdragon-865-and-765-5G-Mobile-Platform-1024x592.jpg) In recent times, the hype for 5G technology has been high thanks to the growing adoption of the next-gen high-speed network and the cray high speeds combined with a plethora of use cases. Smartphone manufacturers also incorporated the same in some of their smartphones launched this year and in 2020, almost all smartphones will come with support for 5G. Thanks to the stiff competition in the SoC market, there has been rapid development in the development of 5G chipsets. On similar lines, Qualcomm has now launched its next-generation flagship Snapdragon 865 chipset along with a new 7 Series Snapdragon 765/765 5G chipset. In this article, let us find more details about the newly launched chipsets from Qualcomm. Qualcomm Snapdragon 865 SoC Qualcomm Snapdragon 865 is the successor to the 855 and 855 Plus SoC that was introduced last year and earlier this year respectively. The new chipset's Kryo 585 CPU delivers up to 25% performance improvement, and the new Qualcomm Adreno 650 GPU offers up to 25% overall performance boost compared to the previous generations. It is capable of operating at whopping speeds of up to 2 gigapixels per second, is capable of shooting 8K 60fps video, and capturing up to massive ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=XdlF6XmlPZY:PbuxgKnf5nM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=XdlF6XmlPZY:PbuxgKnf5nM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=XdlF6XmlPZY:PbuxgKnf5nM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=XdlF6XmlPZY:PbuxgKnf5nM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=XdlF6XmlPZY:PbuxgKnf5nM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=XdlF6XmlPZY:PbuxgKnf5nM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/XdlF6XmlPZY)  
+[Read Here»](https://www.fonearena.com/blog/299633/qualcomm-snapdragon-865-snapdragon-765-snapdragon-765g-specs-features.html)

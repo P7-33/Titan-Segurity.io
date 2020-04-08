@@ -1,0 +1,12 @@
+---
+title: 'Airtel Rs. 599 pre-paid plan with unlimited calling, Rs. 4 lakh Life Insurance cover now available for Delhi-NCR users'
+date: 2019-11-04T12:57:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2013/06/Airtel-logo.jpg) Airtel has been revising its prepaid and postpaid plans recently and back in May this year, the company launched Rs. 249 pre-paid recharge plan with Life Insurance cover and Rs. 129 pre-paid recharge plan. Similarly, Airtel has today launched its new Rs. 599 pre-paid bundle for its customers in Delhi NCR. The new Rs. 599 pre-paid recharge plan offers Rs. 4 lakh Life Insurance cover from Bharti AXA Life Insurance and this recharge plan offers 2GB data/day, Unlimited Local/STD Calls, 100 SMS/day with a validity of 84 days. The insurance cover continues automatically for three months with every recharge. The additional benefits include Free 4 week course on Shaw Academy for 28 days, access to Wynk Music, Norton Mobile Security for 1 year and access to Airtel XStream App Premium.  Airtel users need to enrol for the insurance after the first recharge through SMS, Airtel Thanks App or the Airtel Retailer and the life insurance cover is available to all customers aged 18-54 years.  Commenting on this, Vani Venkatesh, CEO – Delhi NCR, Bharti Airtel, said: Our large base of mobile phone users offers us a robust platform to bring many convenient products and services to our customers. Insurance is a valuable offering given ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=PXCHNfjhj_c:uIiY-Y32tFA:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=PXCHNfjhj_c:uIiY-Y32tFA:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=PXCHNfjhj_c:uIiY-Y32tFA:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=PXCHNfjhj_c:uIiY-Y32tFA:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=PXCHNfjhj_c:uIiY-Y32tFA:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=PXCHNfjhj_c:uIiY-Y32tFA:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/PXCHNfjhj_c)  
+[Read Here»](https://www.fonearena.com/blog/297147/airtel-599-pre-paid-plan-unlimited-calling-4-lakh-life-insurance.html)

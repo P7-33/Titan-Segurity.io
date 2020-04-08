@@ -1,0 +1,12 @@
+---
+title: 'HUAWEI P30 Pro EMUI 10 Open Beta update starts rolling out in India'
+date: 2019-09-25T14:13:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/04/Huawei-P30-Pro_fonearena-4.jpg) HUAWEI released EMUI 10 based on Android 10 last month and also revealed the list of devices that are confirmed to get the update. The list included P30 Pro too and today, HUAWEI has started rolling out EMUI 10 Open Beta update to P30 Pro users in India. Huawei India has opened the Beta testing for Huawei P30 Pro users as part of its Diwali #spreadthejoy campaign. According to HUAWEI, EMUI 10 Beta rollout has already begun and users can expect to receive the update within a week’s time. The P30 Series are the first to get the EMUI 10 Beta update and it will be followed by HUAWEI Mate 20 series and other Huawei smartphones in line. In case you missed, EMUI 10 brings three updates: UX design, an all-scenario ultimate experience, and a new standard of smooth operation. It comes with a major UI refresh, brings over 60% improvements in GPU Turbo, over 70% improvements in Turbo Link, and over 20% in EROFS (Extendable Read-Only File System) ROM. It offers multi-device interoperability, allowing users to experience convenient conversations throughout the OS and also enables real-time interaction between computers and mobile phones across systems. Other new features include an updated camera design, ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=IbxBZnav5fc:DzuVTkKD0Ks:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=IbxBZnav5fc:DzuVTkKD0Ks:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=IbxBZnav5fc:DzuVTkKD0Ks:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=IbxBZnav5fc:DzuVTkKD0Ks:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=IbxBZnav5fc:DzuVTkKD0Ks:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=IbxBZnav5fc:DzuVTkKD0Ks:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/IbxBZnav5fc)  
+[Read Here»](https://www.fonearena.com/blog/293025/huawei-p30-pro-emui-10-open-beta-update-india.html)

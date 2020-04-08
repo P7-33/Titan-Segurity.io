@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy A51 with 6.51-inch Super AMOLED display, quad-rear cameras, in-screen front camera surfaces'
+date: 2019-11-12T11:57:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Samsung-Galaxy-A51-render-leak.jpg) Samsung launched the Galaxy A50 earlier this year and later launched the upgraded version, Galaxy A50s last month in India. Now, the renders of the successor i.e., Galaxy A51 has surfaced revealing key details of the smartphone including a punch-hole display, quad-rear cameras, and more. According to the renders, Samsung Galaxy A51 is said to sport a 6.51-inch Super AMOLED display, but the resolution is not known yet. We can expect Samsung to include a FULL HD+ panel. The renders also reveal a quad-rear camera setup that is housed in a rectangular module and these are placed in an L-shaped array. The quad-camera setup is expected to be a combination of 48MP (primary) + 12MP (wide-angle) + 12MP (telephoto) + 5MP(depth sensor) and the A51 is also said to sport a centered in-screen front camera, similar to Galaxy Note 10/Note10+. Furthermore, it is said to be powered by Exynos 9611 processor paired with 4GB RAM with 64GB/128GB internal storage. Apart from this, it is said to pack a 4000mAh battery and run One UI 2.0 based on Android 10. The dimensions of the smartphone are said to be 158.4 x 73.7 x 7.9mm and a thickness of 8.5mm around the camera bump. ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=yTAgEgS0bxU:h84Y99Vf-RQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=yTAgEgS0bxU:h84Y99Vf-RQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=yTAgEgS0bxU:h84Y99Vf-RQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=yTAgEgS0bxU:h84Y99Vf-RQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=yTAgEgS0bxU:h84Y99Vf-RQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=yTAgEgS0bxU:h84Y99Vf-RQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/yTAgEgS0bxU)  
+[Read Here»](https://www.fonearena.com/blog/297825/samsung-galaxy-a51-specs-image-leak.html)

@@ -1,0 +1,12 @@
+---
+title: 'Get Android 10 on POCO F1 with OxygenOS port'
+date: 2019-11-27T09:04:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/POCO-F1-OxygenOS_fonearena-1-1024x711.jpg) Xiaomi’s sub-brand POCO launched the POCO F1 smartphone in India back in August 2018 running MIUI 9.6 Global Stable on top of Android 8.1 (Oreo) and later updated it to Android 9.0 in December 2018. The device runs MIUI 11 based on Android 9.0 as of now. POCO F1 is confirmed to get Android 1o update but the company has not shared any timeline for Android 10 rollout but POCO F1 has one of the most active developer community. Oxygen OS is amongst popular Android skin that offers lots of customizations without adding bloat, developers have ported Android 10 based Oxygen OS (Open Beta 30 from OnePlus 6) to POCO F1. We tried it on our unit and here is our post that may help you in installing it on your POCO F1. Performance and Benchmarks: \[gallery size="large" link="file" ids="299055,299053,299054"\] POCO F1 packs Qualcomm Snapdragon 845 which is a beast when it comes to performance, it obtained a score of 317087 on AnTuTu 8. It scored 2259 points in single-core test and 7466 points in multi-core test in Geekbench 4. In Geekbench 5 test, it managed to get a 485 points in single-core test and 1866 points in multi-core test. Software, UI, and Apps: \[gallery size="large" link="file" ids="299022,299023,299025"\] Oxygen OS ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=9c-JNx7CL8Y:qtCnxgrb_50:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=9c-JNx7CL8Y:qtCnxgrb_50:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=9c-JNx7CL8Y:qtCnxgrb_50:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=9c-JNx7CL8Y:qtCnxgrb_50:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=9c-JNx7CL8Y:qtCnxgrb_50:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=9c-JNx7CL8Y:qtCnxgrb_50:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/9c-JNx7CL8Y)  
+[Read Here»](https://www.fonearena.com/blog/299003/poco-f1-android-10-oxygenos.html)

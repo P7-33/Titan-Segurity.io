@@ -1,0 +1,12 @@
+---
+title: 'HONOR Vision and HONOR Vision Pro 55-inch 4K HDR Smart TVs launching in India on October 14'
+date: 2019-10-11T05:41:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/08/HONOR-Vision-TV.jpg) Huawei's HONOR brand announced its Vision TV and Vision TV Pro back in August this year and it is the company's first Smart TV. Today, HONOR India has sent out media invites for the launch of the Vision and Vision Pro Smart TVs at India Mobile Congress on October 14th 2019. HONOR Vision TV and Vision TV Pro sport a 55-inch 4K screen with HDR support and 94% screen-to-body ratio with a three-sided borderless full-screen design. It is powered HONGHU 818 quad-core SoC and runs the company’s latest HarmonyOS that offers multi-device interaction. The Vision TV Pro has a built-in pop-up AI camera which can intelligently track your face when it is needed, seamlessly track your position and posture for 1080p video calls, no matter how far you go, thanks to dedicated HiSilicon Hi3516DV300 NPU chipset. It has 6 far-field microphones for voice assistant that can pick up audio even when you are far away. The Vision TV Pro also has 60W (6 x 10W) speakers with HUAWEI Histen audio effects for an immersive audio experience and comes with auto audio adjustment depending on the channel. HONOR Vision TV/Vision TV Pro specifications 55-inch (3840 x 2160 pixels) 4K display with 87% NTSC Color ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=GxgISPb-cP4:UyHwtTblDOc:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=GxgISPb-cP4:UyHwtTblDOc:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=GxgISPb-cP4:UyHwtTblDOc:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=GxgISPb-cP4:UyHwtTblDOc:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=GxgISPb-cP4:UyHwtTblDOc:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=GxgISPb-cP4:UyHwtTblDOc:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/GxgISPb-cP4)  
+[Read Here»](https://www.fonearena.com/blog/294773/honor-vision-honor-vision-pro-india-launch-date.html)

@@ -1,0 +1,12 @@
+---
+title: 'Vivo U20 Review'
+date: 2019-11-28T05:11:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Vivo-U20_fonearena-10-1024x728.jpg) Vivo launched the U20, the company’s second smartphone in the U series in India recently. The successor of the U10 packs a powerful Snapdragon 675 SoC and packs a 5000mAh battery, and starts at Rs. 10990. Specifications look good on paper, is the phone good for the price? Let us find out. Unboxing We recently unboxed the smartphone. Check out the videos below. https://www.youtube.com/watch?v=\_WLvgP4NZZQ https://www.youtube.com/watch?v=WqUKy2YpiGs Box Contents Vivo U20 smartphone 6GB + 64GB version in Blaze Blue color 18W (9V-2A / 5V-2A) 2-pin charger Micro USB Cable Clear Protective Case SIM Ejector tool User manual and warranty information Display, Hardware and Design The phone packs a large 6.53-inch 19.5:9 In-cell LCD 2.5D curved glass screen. It is a Full HD+ screen with a pixel resolution of 2340 × 1080 pixels and a pixel density of about 394 PPI. It has slim side bezels, so it is easy to hold. The display is bright and the colors are vibrant, and sunlight legibility is good as well. Overall the display good with minimal bezels on the sides and the bottom. The company doesn’t say if this uses any hardened glass protection. \[gallery link="file" size="large" ids="299136,299135,299134"\] You can adjust the display color temperature from the display settings, and there is also eye protection option ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=QqFlwC-AQx0:WewgB50JLBU:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=QqFlwC-AQx0:WewgB50JLBU:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=QqFlwC-AQx0:WewgB50JLBU:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=QqFlwC-AQx0:WewgB50JLBU:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=QqFlwC-AQx0:WewgB50JLBU:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=QqFlwC-AQx0:WewgB50JLBU:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/QqFlwC-AQx0)  
+[Read Here»](https://www.fonearena.com/blog/299094/vivo-u20-review.html)

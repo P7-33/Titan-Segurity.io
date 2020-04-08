@@ -1,0 +1,12 @@
+---
+title: 'OnePlus 7T Pro Benchmarks and Gaming Review'
+date: 2019-10-16T05:24:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/OnePlus-7T-Pro_fonearena-2-1024x628.jpg) OnePlus launched its  OnePlus 7T Pro smartphone last week. We already brought you the unboxing of the phone, here we have the benchmarks of the smartphone. The OnePlus 7T Pro is powered by an Octa-Core Snapdragon 855 7nm Mobile Platform with that has a tri-cluster architecture with 1 x Kryo 485 Prime CPU (A76-based) at up to 2.96GHz, 3 x Kryo 485 Performance CPUs (A76-based) at up to 2.42GHz and 4x Kryo 485 Efficiency CPUs (A55-based) at up to 1.80GHz and has Adreno 640 GPU offering 15% increase compared to Snapdragon 855,  8GB LPDDR4x RAM and 256GB UFS 3.0 storage. It has a 6.67-inch Quad HD+ Fluid AMOLED 90Hz display and runs on Android 10 with Oxygen OS 10.0. Check out the synthetic benchmark scores. Also, check out the Gaming review below. https://www.youtube.com/watch?v=2nLXJMxH0Tg AnTuTu Benchmark 7 It scored 398276  points in the AnTuTu Benchmark 7 and grabs the second spot, behind the OnePlus 7T. Geekbench 4 Single-Core It scored 3682 points in the Geekbench 4 Single-Core benchmark and grabbed the fourth spot behind the OnePlus 7T. Geekbench 4 Multi-Core It scored 11401 points in the Geekbench 4 Multi-Core benchmark and grabbed the third spot. 3D Mark Ice Storm Unlimited It scored 75160 points and topped the charts in the 3D Mark Ice Storm Unlimited ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=nc4RoS19AVo:bcOnhAGDjIo:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=nc4RoS19AVo:bcOnhAGDjIo:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=nc4RoS19AVo:bcOnhAGDjIo:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=nc4RoS19AVo:bcOnhAGDjIo:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=nc4RoS19AVo:bcOnhAGDjIo:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=nc4RoS19AVo:bcOnhAGDjIo:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/nc4RoS19AVo)  
+[Read Here»](https://www.fonearena.com/blog/295279/oneplus-7t-pro-benchmarks-and-gaming-review.html)

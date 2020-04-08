@@ -1,0 +1,12 @@
+---
+title: 'Motorola One Macro with macro lens teased ahead of India launch'
+date: 2019-10-03T09:26:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Motorola-One-Macro.jpg) Motorola India has started teasing its new smartphone with a macro lens ahead of launch this month. It says 'it’s time to magnify them' and this should be the One Macro that surfaced last week. After Blue color, Purple color version have also surfaced, thanks to @evleaks. More often than not, we forget to stop and enjoy the little joys of life. But no more, it’s time to magnify them with @motorolaindia. Stay tuned to know more. #KhushiyanMagnified! pic.twitter.com/9sTXdkHBn6 — Motorola India (@motorolaindia) October 3, 2019 The image shows water-drop notch, triple rear cameras with something similar to laser auto focus and a rear-mounted fingerprint scanner. Motorola One Macro rumored specifications 6.2-inch OLED display Octa Core MediaTek Helio P60 (MT6771) 12nm processor (Quad 2GHz Cortex A73 + Quad 2GHz Cortex A53 CPUs) with 800MHz ARM Mali-G72 MP3 GPU 4GB RAM, 64GB storage, expandable memory up to 256GB with microSD Dual SIM Android 9.0 (Pie) 13MP rear camera with LED flash, Laser AF, 2MP camera for macro, 2MP for portraits 8MP front-facing camera Fingerprint sensor 3.5mm audio jack, FM Radio Dual 4G VoLTE, WiFi 802.11 b/g/n, Bluetooth 4.2, GPS + GLONASS 4000mAh battery We should know the exact launch date in the coming days.
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=5xWekNYQogI:o2LopTthFgc:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=5xWekNYQogI:o2LopTthFgc:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=5xWekNYQogI:o2LopTthFgc:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=5xWekNYQogI:o2LopTthFgc:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=5xWekNYQogI:o2LopTthFgc:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=5xWekNYQogI:o2LopTthFgc:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/5xWekNYQogI)  
+[Read Here»](https://www.fonearena.com/blog/293992/motorola-one-macro-india-launch-teaser.html)

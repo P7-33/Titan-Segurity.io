@@ -1,0 +1,12 @@
+---
+title: 'Apple AirPods Pro with in-ear design, Active Noise Cancellation, Transparency mode announced, priced in India at Rs. 24900'
+date: 2019-10-28T18:13:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Apple-Airpods-Pro.jpg) Apple just introduced AirPods Pro, the company's latest AirPods, and the first one with a new in-ear design and Active Noise Cancellation. This comes after several rumors and after the new AirPods with a wireless charging case that was launched earlier this year. Apple AirPods Pro highlights and specifications Bluetooth 5.0 with H1 chip with 10 audio cores Each earbud come with three different sizes of soft, flexible silicone ear tips that conform to the contours of each individual ear, providing both a comfortable fit and a superior seal Uses innovative vent system to equalize pressure, minimizing the discomfort common in other in-ear designs and advanced software that leaves just the right amount of noise cancellation active, Transparency mode ensures that a user’s own voice sounds natural while audio continues to play perfectly. Active Noise Cancellation on AirPods Pro uses two microphones combined with advanced software to continuously adapt to each individual ear and headphone fit. Removes background noise to provide a uniquely customized, superior noise-canceling experience that allows a user to focus on what they’re listening to The first microphone is outward-facing and detects external sound to analyze environmental noise. AirPods Pro then create an equivalent anti-noise that cancels out ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=ee5KUZKmGgE:xG3xJ7F0N38:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ee5KUZKmGgE:xG3xJ7F0N38:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=ee5KUZKmGgE:xG3xJ7F0N38:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ee5KUZKmGgE:xG3xJ7F0N38:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=ee5KUZKmGgE:xG3xJ7F0N38:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=ee5KUZKmGgE:xG3xJ7F0N38:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/ee5KUZKmGgE)  
+[Read Here»](https://www.fonearena.com/blog/296639/apple-airpods-pro-price-india.html)

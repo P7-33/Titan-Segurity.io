@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy M30 3GB + 32GB version launched for Rs. 9999, 4GB + 64GB version available at Rs. 11999 during Amazon sale'
+date: 2019-09-25T09:43:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/02/Samsung-Galaxy-M30-1.jpg) Samsung launched the Galaxy M30s smartphone in India last week as the successor of the M30 with improved cameras, faster processor and a bigger battery starting at a competitive price of Rs. 13,999 for the 4GB RAM with 64GB storage version. Now it has announced a new 3GB RAM with 32GB storage version for the predecessor, Galaxy M30 which was launched back in February this year. The phone got Android Pie update with One UI back in May. Samsung has also announced that the Galaxy M30 4GB RAM with 64GB storage version which now retails for Rs. 13990 after a recent price cut will get another Rs. 2000 discount and will be available for Rs. 11,999. Both these will be available during Amazon Great Indian Sale from September 29th. Samsung Galaxy M30 specifications 6.4-inch (2340 x 1080 pixels) Full HD+ 19.5:9 Super AMOLED Infinity-U display Octa-Core (1.8GHz dual + 1.6GHz Hexa) Exynos 7904 14nm processor with Mali-G71 GPU 3GB LPDDR4x RAM with 32GB storage / 4GB LPDDR4x RAM with 64GB storage / 6GB LPDDR4x RAM with 128GB Storage, expandable up to 512GB via micro SD card Android 9.0 (Pie) with One UI Dual SIM 13MP rear camera with LED flash, f/1.9 aperture, ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=1ZB81HPYgao:jwogx6B_PEk:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=1ZB81HPYgao:jwogx6B_PEk:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=1ZB81HPYgao:jwogx6B_PEk:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=1ZB81HPYgao:jwogx6B_PEk:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=1ZB81HPYgao:jwogx6B_PEk:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=1ZB81HPYgao:jwogx6B_PEk:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/1ZB81HPYgao)  
+[Read Here»](https://www.fonearena.com/blog/292973/samsung-galaxy-m30-3gb-32gb-price-4gb-64gb-price-cut.html)

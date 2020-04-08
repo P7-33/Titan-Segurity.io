@@ -1,0 +1,12 @@
+---
+title: 'Xiaomi Mi CC9 Pro with 108MP rear camera, 5x optical zoom, Mi Watch and Mi TV 5 series to be announced on November 5'
+date: 2019-10-28T06:38:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Xiaomi-Mi-CC9-Pro-launch-invite-768x1024.jpg) After rumors, Xiaomi has officially announced that it will introduce the Mi CC9 Pro smartphone in China on November 5th. This will be the world's first smartphone with 108MP 1/1.33-inch Samsung ISOCELL Bright HMX  sensor to go on sale, since the Mi MIX Alpha concept phone that was introduced last month will be avialable only at the end of December. The sensor uses Tetracell technology allowing the sensor to imitate big-pixel sensors, producing brighter 27MP images and supports four-in-one Super Pixel to produce large 1.6μm pixels under low-light conditions. Xiaomi CEO posted a photo taken using the CC9 Pro, and said that it is only 0.8% of the photo, and it has been zoomed in partially. This shows the window in the eyes, sky and clouds outside the window, and there was a person by the window, as if looking out the window, and before him, there is the silhouette of the photographer. The text next to the camera module reads 5X optical zoom, and the phone could support 10x hybrid zoom. You can also see two more sensors on the strip, which should be wide-angle and telephoto sensors.  The smallest one could be a ToF sensor, while the other one could be a ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=T8sVBAOJOsw:QAY3T2b61ak:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=T8sVBAOJOsw:QAY3T2b61ak:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=T8sVBAOJOsw:QAY3T2b61ak:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=T8sVBAOJOsw:QAY3T2b61ak:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=T8sVBAOJOsw:QAY3T2b61ak:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=T8sVBAOJOsw:QAY3T2b61ak:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/T8sVBAOJOsw)  
+[Read Here»](https://www.fonearena.com/blog/296595/xiaomi-mi-cc9-pro-launch-date.html)

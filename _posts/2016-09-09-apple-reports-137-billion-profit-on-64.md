@@ -1,0 +1,12 @@
+---
+title: 'Apple reports $13.7 billion profit on $64 billion revenue in FY Q4 2019, iPhone revenue down 9% YoY'
+date: 2019-10-31T04:47:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Apple-iPhone-11_fonearena-2-1024x602.jpg) Apple has reported quarterly revenue of $64 billion, up 1.74% over last year with a net profit of $13.7 billion, down 2.83% YoY and earnings per diluted share of $3.03, up 4.1% for the financial year Q4 2019 that ended September 28, 2019. During earnings call Tim Cook said that it was Apple's highest revenue in a September quarter ever, and the company set new Q4 revenue records in the Americas and rest of Asia-Pacific and saw further improvement in revenue trends in Greater China. Apple CFO Luca Maestri said that Apple set new fourth quarter revenue records in Americas and rest of Asia-Pacific segments. It also saw continuous improvement in Greater China where year-over-year revenue comparisons became more favorable each quarter of fiscal 2019 from a 27% decline in the first quarter to a 2% decline in the fourth quarter. At a country level, Apple established new Q4 records in many major developed and emerging markets including the U.S., Canada, Germany, France, Korea, Singapore, Brazil, India, Thailand, Malaysia and Vietnam. Products revenue was $51.5 billion, down 1% from last year, mainly due to iPhone, but largely offset by very strong performance from Wearables and iPad. iPhone revenue in the ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=LymekC16p7M:5xAzLC20qUg:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=LymekC16p7M:5xAzLC20qUg:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=LymekC16p7M:5xAzLC20qUg:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=LymekC16p7M:5xAzLC20qUg:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=LymekC16p7M:5xAzLC20qUg:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=LymekC16p7M:5xAzLC20qUg:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/LymekC16p7M)  
+[Read Here»](https://www.fonearena.com/blog/296835/apple-fy-q4-2019-revenue-profit.html)

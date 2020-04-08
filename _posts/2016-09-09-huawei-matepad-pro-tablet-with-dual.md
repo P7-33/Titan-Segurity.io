@@ -1,0 +1,12 @@
+---
+title: 'HUAWEI MatePad Pro tablet with dual rear cameras, in-screen front camera, stylus support and HUAWEI Nova 6 surface'
+date: 2019-11-04T17:28:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/HUAWEI-MatePad-Pro-leak.jpg) In recent weeks, quite a few unannounced HUAWEI devices surfaced in renders and now, three new HUAWEI devices have surfaced which also includes a tablet too. Latest renders of HUAWEI MatePad Pro tablet with dual rear cameras, in-screen front camera, stylus have surfaced alongside the renders of HUAWEI P Smart 2020 and HUAWEI Nova 6 smartphones. According to the render images, HUAWEI's upcoming tablet is said to be called MatePad Pro and is said to sport hole-punch/in-screen front camera to the top left corner, dual rear cameras and the bezels are also said to be minimal. The fingerprint scanner is not visible on the rear of the tablet, so we can expect it to sport an in-display fingerprint scanner and the tablet is said to feature a USB Type-C port flanked by speaker grille on either side. The render images also reveal a magnetic keyboard and a stylus. Other specifications of the tablet are not known yet. Furthermore, renders of the upcoming HUAWEI P Smart 2020 and HUAWEI Nova 6 smartphones. The images of P Smart 2020 reveal a 6.3-inch OLED notch-display with a resolution of 2400 x 1080 pixels, triple rear cameras, and two colour options. It is said to be ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=JksMtqy9V64:lkIdU5RP1z0:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=JksMtqy9V64:lkIdU5RP1z0:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=JksMtqy9V64:lkIdU5RP1z0:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=JksMtqy9V64:lkIdU5RP1z0:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=JksMtqy9V64:lkIdU5RP1z0:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=JksMtqy9V64:lkIdU5RP1z0:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/JksMtqy9V64)  
+[Read Here»](https://www.fonearena.com/blog/297155/huawei-matepad-pro-huawei-nova-6-image-leak.html)

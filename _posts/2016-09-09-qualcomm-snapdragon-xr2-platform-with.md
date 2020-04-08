@@ -1,0 +1,12 @@
+---
+title: 'Qualcomm Snapdragon XR2 platform with AI and 5G for Augmented, Virtual and Mixed Reality devices announced'
+date: 2019-12-06T12:35:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Qualcomm-Snapdragon-XR2-1024x559.jpg) Qualcomm announced the worlds first 5G-supported extended reality (XR) platform called the Qualcomm Snapdragon XR2 Platform. It boasts multiple new technologies that Qualcomm claims to give the newer platform 2x the CPU and GPU performance, 4x more video bandwidth, 6x higher resolution and 11x AI improvement over the precious XR platform. The platform can support up to 7 concurrent cameras and dedicated computer vision processor. It also enables low latency camera pass-through, crucial for mixed reality (MR) experience. The platform integrates Qualcomm 5G tech and AI innovations with their industry leading XR technology to create customized visuals, interactivity and great audio experiences. Some of the key areas of improvement include: Visuals: The updated platform boasts 1.5x the pixel rate and 3x the texel rate for efficient, high graphics rendering. The panel support up to 3K by 3K resolution per eye at 90 frames per second (fps) and is the first XR platform to support 8K 360o videos at 60 fps. Other improvements include foveated rendering with eye tracking, enhanced variable rate shading and more. Interactivity: With support for 7 current cameras and a custom computer vision processor, the Snapdragon XR2 can calculate real-time and highly accurate tracking of the head, lips and eyes together ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=k60u1JQCq6E:H2q3t2fPxfM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=k60u1JQCq6E:H2q3t2fPxfM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=k60u1JQCq6E:H2q3t2fPxfM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=k60u1JQCq6E:H2q3t2fPxfM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=k60u1JQCq6E:H2q3t2fPxfM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=k60u1JQCq6E:H2q3t2fPxfM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/k60u1JQCq6E)  
+[Read Here»](https://www.fonearena.com/blog/299793/qualcomm-snapdragon-xr2-ai-5g.html)

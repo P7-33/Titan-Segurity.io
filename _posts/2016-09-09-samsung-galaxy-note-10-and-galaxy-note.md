@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy Note 10 and Galaxy Note 10+ get Android 10 One UI 2.0 beta starts rolling out'
+date: 2019-11-09T07:11:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Samsung-Galaxy-Note-10-Android-10-OneUI-2.0-beta-1024x716.jpg) After Galaxy S10 series, Samsung has started rolling out beta version of One UI 2.0, the next major One UI update based on Android 10 for its flagship Galaxy Note 10 series. This brings Clean and easy-to-use interface with minimized pop-ups,  New, smarter layout for a visually comfortable experience, enhanced Dark Mode, Focus Mode, Intuitive Device Care menu and more. How to join the  beta program? Download the Samsung Members application from Galaxy Store or the Google Play Store. After logging in, go to Notices and select “One UI Beta Program Registration” to submit an application. Once signed up, go to Settings and then Software update to select the Download and install option. This will allow the software to update and load the beta version. The Samsung Galaxy Note 10 One UI 2.0 update build N975FXXU1ZSK3 about 1.84GB in size. Samsung did not say when it plans to roll out the stable update, but it should be available in the next few weeks. Check out the complete changelog below. What’s new One UI 2 upgrade brings you Android 10 with exciting new features from Samsung and Google based on feedback from users like you. We recommend that you back up your important data to keep ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=I3kftisPJO4:BKibEpPk2qs:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=I3kftisPJO4:BKibEpPk2qs:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=I3kftisPJO4:BKibEpPk2qs:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=I3kftisPJO4:BKibEpPk2qs:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=I3kftisPJO4:BKibEpPk2qs:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=I3kftisPJO4:BKibEpPk2qs:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/I3kftisPJO4)  
+[Read Here»](https://www.fonearena.com/blog/297616/samsung-galaxy-note-10-android-10-one-ui-2-0-beta.html)

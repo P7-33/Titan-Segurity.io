@@ -1,350 +1,376 @@
 ---
-title: 'ICYMI CircuitPython Newsletter: CircuitPython snakes its way to Teensy
-4.0, i.MX Feathers take flight and
-more! #Python #Adafruit #CircuitPython #ICYMI @circuitpython @micropython @ThePSF @Adafruit'
-date: 2020-01-15T15:52:00+01:00
+title: 'ICYMI CircuitPython Newsletter: CircuitPython is out of this world! Doc
+Holliday stops by and
+more! #Python #Adafruit #CircuitPython #PythonHardware #ICYMI @circuitpython @micropython @ThePSF @Adafruit'
+date: 2019-09-25T14:35:00+01:00
 draft: false
 ---
 
-ICYMI (In case you missed it) – Yesterday’s Python on Microcontrollers Newsletter from [AdafruitDaily.com](https://www.adafruitdaily.com/) went out.
+ICYMI (In case you missed it) – Tuesday’s Python on Microcontrollers Newsletter from [AdafruitDaily.com](https://www.adafruitdaily.com/) went out – if you missed it, [subscribe now!](https://www.adafruitdaily.com/)
 
-**If you missed it, [subscribe now](https://www.adafruitdaily.com/)!** – You’ll get one fab newsletter each Tuesday (before this post Wednesday).
+The next newsletter goes out in a week and being subscribed the best way to keep up with all things Python for hardware.
 
-The next newsletter goes out in a week and being subscribed the best way to keep up with all things Python for hardware. _No spam, no selling lists, leave any time._
+Over 6k+ subscribers worldwide!
 
-Over 7,100 subscribers worldwide!
+Max Holliday – CircuitPython in space, SmallSats and more!
+==========================================================
 
-Hi everyone! It’s the latest Python for Microcontrollers newsletter, brought to you by the community! Find us on [Discord](https://discord.gg/HYqvREz), [Twitter](https://twitter.com/search?q=circuitpython&src=typed_query&f=live), and for past newsletters – [view them all here](https://www.adafruitdaily.com/category/circuitpython/). Let’s get started!
+[![Max in space](https://cdn-blog.adafruit.com/uploads/2019/09/92419space.jpg)](https://youtu.be/Mb9c4e7ID9E)
 
-CircuitPython snakes its way to the Teensy 4.0
-==============================================
+[Max Holliday](https://github.com/maholli) has been integrating CircuitPython into many aspects of his PhD research at Stanford University. We had a great time together chatting ([video](https://youtu.be/Mb9c4e7ID9E)). Thank you [Max](https://twitter.com/maholli404)! Topics included:
 
-[![IoTeensy](https://cdn-blog.adafruit.com/uploads/2020/01/11420teensy.png)](https://blog.adafruit.com/2020/01/10/testing-circuitpython-on-teensy-4-0-iot-made-easy-ioteensy-adafruit-circuitpython-arturo182-tannewt-nxp-paulstoffregen/)
+[![PyCubed](https://cdn-blog.adafruit.com/uploads/2019/09/92419pycubed.jpg)](http://pycubed.org/)
 
-CircuitPython is now available for [Paul Stoffregen’s](https://twitter.com/PaulStoffregen/status/1216482624799068161) [Teensy 4.0.](https://www.pjrc.com/store/teensy40.html) This port of CircuitPython is super-early, not optimized, cutting-edge… there is a ready-to-use HEX file to experiment with. Open it with Teensy Loader and program onto your Teensy 4.0, for CircuitPython at 600 MHz.
+[KickSat-2](https://www.nasa.gov/ames/kicksat/) development yielded the [PyCubed project](http://pycubed.org/) and after Max’s talk at SmallSat 2019, over 60 universities have reached out wanting to use and/or incorporate PyCubed into their Cubesat development efforts.
 
-[![Teensy](https://cdn-blog.adafruit.com/uploads/2020/01/11420paultweet.jpg)](https://blog.adafruit.com/2020/01/10/testing-circuitpython-on-teensy-4-0-iot-made-easy-ioteensy-adafruit-circuitpython-arturo182-tannewt-nxp-paulstoffregen/)
+[![KickSat](https://cdn-blog.adafruit.com/uploads/2019/03/python_in_space.gif)](https://www.nasa.gov/ames/kicksat/)
 
-[Join the discussion](https://forum.pjrc.com/threads/59040-CircuitPython-on-Teensy-4!) on the Teensy forums, on our [Discord](https://discord.gg/HYqvREz), and please file any and all issues here! – [GitHub](https://github.com/adafruit/circuitpython/issues/new).
+All of the radiation testing, data collection, etc. … for the research is collected using CircuitPython.
 
-[![](https://cdn-blog.adafruit.com/uploads/2020/01/11420ioteensy.jpg)](https://youtu.be/ICg_3I4jvKo)
+[![SX1280](https://cdn-blog.adafruit.com/uploads/2019/09/92419sx1280.jpg)](https://github.com/maholli/sx1280-breakout)
 
-In 20 minutes, actually less than that, we were able to make an IoTeensy project. Scott and Artur have done an amazing job bringing CircuitPython to the NXP iMX RT1062. This chip holds a lot of promise! We threw together a quick IoT project to test I2C and SPI – the OLED is an I2C device, and the AirLift FeatherWing provides WiFi over SPI. This demo connects to our AP, then queries the Adafruit quote service to get an inspirational quote every 3 seconds. The JSON is parsed, split, and displayed on the OLED by scrolling. This was really fast to put together, only about 20 minutes and 100 lines of code – [YouTube](https://youtu.be/ICg_3I4jvKo).
+[![SX1280](https://cdn-blog.adafruit.com/uploads/2019/09/92419sx1280_on_adafruit.jpg)](https://github.com/maholli/sx1280-breakout)
 
-CircuitPython i.MX Feather progress
------------------------------------
+Max is really excited lately with the time-of-flight ranging capability of the Semtech SX1280 radios. So Max [built a breakout](https://github.com/maholli/sx1280-breakout) that fits existing HopeRF footprints and published a working (albeit rough around the edges) [CircuitPython library](https://github.com/maholli/CircuitPython_SX1280)!
 
-[![](https://cdn-blog.adafruit.com/uploads/2020/01/11420feather00imx.png)](https://circuitpython.org/downloads)
+[![Keysight](https://cdn-blog.adafruit.com/uploads/2019/09/92419keysight.jpg)](https://www.iotchallengekeysight.com/)
 
-[![](https://cdn-blog.adafruit.com/uploads/2020/01/11420feather03imx.png)](https://circuitpython.org/downloads)
+Max was in NYC for this [Keysight IoT competition](https://www.iotchallengekeysight.com/). Using the KickSat-2 CircuitPython platform (the small form-factor sprites), Max’s team worked with a chemical engineering group at Stanford to develop a [completely new means of measuring ammonia concentrations in water](https://www.iotchallengekeysight.com/2019/entries/smart-water/257-0515-132058-immersible-internet-of-things-iot-sensors-for-cloud-based-water-quality-monitoring). The mesh network, gateways, sensing nodes, etc. are all using CircuitPython.
 
-[![](https://cdn-blog.adafruit.com/uploads/2020/01/11420feather02imx.png)](https://circuitpython.org/downloads)
+Max’s contributions to the Maker community and Stanford curriculum include:
 
-[![](https://cdn-blog.adafruit.com/uploads/2020/01/11420featherimx.png)](https://circuitpython.org/downloads)
+[![SAM32](https://cdn-blog.adafruit.com/uploads/2019/09/92419sam32.jpg)](https://www.notion.so/SAM32-Guides-6b7e8ca318ff49418eec16e975d98f5d)
 
-[![](https://cdn-blog.adafruit.com/uploads/2020/01/11420feather_redimx.png)](https://circuitpython.org/downloads)
+Max developed the [SAM32 board](https://www.notion.so/SAM32-Guides-6b7e8ca318ff49418eec16e975d98f5d) as a “catch-all” or swiss-army knife for student projects. It’s is now part the curriculum in 5+ courses in the fall.
 
-[![](https://cdn-blog.adafruit.com/uploads/2020/01/11420feather_blackimx.png)](https://circuitpython.org/downloads)
+[![MEMs](https://cdn-blog.adafruit.com/uploads/2019/09/92419e240.jpg)](https://www.notion.so/SAM32-Guides-6b7e8ca318ff49418eec16e975d98f5d)
 
-Some updated renderings – [Twitter](https://twitter.com/arturo182/status/1216033357940895744). The board also was also taken out for a nice photoshoot! – [Twitter](https://twitter.com/arturo182/status/1215036958956806144?s=12).
+One example, Eng240, is a MEMS course that’s historically been purely theory-based. However, Prof. Roger Howe and Max have overhauled the class to include labs in the fall. The first of which has students assembling their own SAM32, the second has students designing their own “marco” accelerometer using PCBs. Everything is driven with CircuitPython.
 
-And hackster.io has some coverage on [“Arturo182’s NXP i.MX RT10xx Port Into CircuitPython Codebase”](https://www.hackster.io/news/adafruit-accepts-arturo182-s-nxp-i-mx-rt10xx-port-into-circuitpython-codebase-0592ee356cd4).
+[![Soldering](https://cdn-blog.adafruit.com/uploads/2019/09/92419solder01.jpg)](https://sites.google.com/stanford.edu/soldering-internal/learning)
 
-Python slithers its way to Arduino
-----------------------------------
+[![Soldering](https://cdn-blog.adafruit.com/uploads/2019/09/92419solder02.jpg)](https://sites.google.com/stanford.edu/soldering-internal/learning)
 
-[![Arduino](https://cdn-blog.adafruit.com/uploads/2020/01/11420mpardu.jpg)](https://blog.adafruit.com/2020/01/07/python-snakes-its-way-to-the-arduino-portenta-h7-arduino-micropython/)
+Max is a self described soldering nerd, and he was completely dissatisfied with resources online for folks learning to solder. [Max made a very polished tutorial](https://sites.google.com/stanford.edu/soldering-internal/learning) with a self-assessment quiz. Then he coupled it with a soldering practice + exam board for Stanford students to use.
 
-Looks like Arduino will be supporting Python in some way very soon, maybe, on their new Portenta H7 board?! In the [promo video](https://twitter.com/arduino/status/1214564465967955968) it lists “MicroPython” and on the [overview page](https://www.arduino.cc/pro/hardware/product/portenta-h7) “MicroPython / JavaScript via an interpreter”. The board is available for [pre-order for $99](https://store.arduino.cc/usa/portenta-h7).
+Program CircuitPython devices with iPhone & iOS 13
+--------------------------------------------------
 
-[![Arduino](https://cdn-blog.adafruit.com/uploads/2020/01/11420board_iso-withlogo.jpg)](https://blog.adafruit.com/2020/01/07/python-snakes-its-way-to-the-arduino-portenta-h7-arduino-micropython/)
+[![CPiOS](https://cdn-blog.adafruit.com/uploads/2019/09/92419cirpy-plus-iphone-1.jpg)](https://blog.adafruit.com/2019/09/19/program-circuitpython-devices-with-iphone-ios-13/)
 
-The Portenta H7 is a powerful STM32H747XI dual Cortex®-M7+M4 32bit chip that runs pretty fast – SDRAM was added, and flash storage. If you’re going to want to get [TinyUSB](https://github.com/hathach/tinyusb) running on this thing, we have support for the STM32 H7 series. The board is Feather-like, and has a STEMMA/QWIIC-like connector, that’s good to see that direction as that is where the market went.
+With the launch of iOS 13, iPhone users now have the ability to edit code on CircuitPython USB devices! Once you’re device is updated, you can connect a board such as Circuit Playground Express and edit & run code on the go – [Adafruit](https://blog.adafruit.com/2019/09/19/program-circuitpython-devices-with-iphone-ios-13/).
 
-[![Arduino](https://cdn-blog.adafruit.com/uploads/2020/01/11420PYBD_SF6_W4F2.jpg)](https://blog.adafruit.com/2020/01/07/python-snakes-its-way-to-the-arduino-portenta-h7-arduino-micropython/)
+CircuitPython snakes its way to the FT232H
+------------------------------------------
 
-The Portenta kinda reminds us of the [Pyboard D-series with STM32F767 and WiFi/BT from MicroPython](https://store.micropython.org/product/PYBD-SF6-W4F2). It has similar connectors on the bottom, a fast chip, WiFi/BT, etc.
+[![FT232H](https://cdn-blog.adafruit.com/uploads/2019/09/92419ft23h.jpg)](https://youtu.be/rriKd9jkdJQ)
 
-Alasdair Allan, over on [hackster.io](http://hackster.io/), has the best coverage so far – [go check out the full article](https://www.hackster.io/news/the-new-arduino-portenta-5ae687010500).
+The FT232H is a handy USB to GPIO/I2C/SPI breakout board we’ve stocked for a long time. It is used by lots of folks as a hardware interfacing bridge. For a long time, we’ve had Python support for it, but that support has gotten kind of old and neglected as we’ve spent a lot of our efforts on CircuitPython. Well, now we have CircuitPython Blinka support, so you can control sensors, OLEDs, buttons, LEDs and more all via FT232H! All thanks to Carter who fearlessly took on this code support – we’ll start writing up a guide in the next week or two – [YouTube](https://youtu.be/rriKd9jkdJQ).
 
-CircuitPython 2020, where do we want to go together?
-----------------------------------------------------
+CircuitPython slithers its way to Halloween! HackSpace issue 23!
+----------------------------------------------------------------
 
-[![CircuitPython2020](https://cdn-blog.adafruit.com/uploads/2020/01/11420cp2020.jpg)](https://blog.adafruit.com/?s=%23circuitpython2020)
+[![Halloween HackSpace](https://cdn-blog.adafruit.com/uploads/2019/09/92419HackSpaceMagazine23.jpg)](https://hackspace.raspberrypi.org/issues/23)
 
-#circuitpython2020 is our annual reflection on the state of CircuitPython. For the last couple weeks folks have sent in some wonderful stories, ideas, suggestions and more. [See the kick-off post](https://blog.adafruit.com/2020/01/01/what-do-you-want-from-circuitpython-in-2020-circuitpython2020-circuitpython/) for all of the details.
+[Issue 23 – HackSpace magazine: Halloween builds!](https://hackspace.raspberrypi.org/issues/23)
 
-Here are all the posts that came in, thank you!
+Turn to the fun (and dark) side of making with a look at the best crazy, creative Halloween builds around – then have a go at making your own! There are a lot of CircuitPython and Python projects in this issue, check it out and help support a great magazine!
 
-*   [David Glaude’s #circuitpython2020](https://blog.adafruit.com/2020/01/13/david-glaudes-circuitpython2020/)
-*   [@hierophect and Don’s #CircuitPython2020](https://blog.adafruit.com/2020/01/13/hierophect-and-dons-circuitpython2020/)
-*   [@jerryn’s Thoughts about CircuitPython in 2020 #CircuitPython2020](https://blog.adafruit.com/2020/01/12/jerryns-thoughts-about-circuitpython-in-2020-circuitpython2020/)
-*   [@foamyguy’s #circuitpython2020](https://blog.adafruit.com/2020/01/12/foamyguys-circuitpython2020/)
-*   [Bryan’s Plans for CircuitPython in 2020 #CircuitPython2020 @siddacious](https://blog.adafruit.com/2020/01/10/bryans-plans-for-circuitpython-in-2020-circuitpython2020-siddacious/)
-*   [@tannewt’s focus for #CircuitPython2020](https://blog.adafruit.com/2020/01/10/tannewts-focus-for-circuitpython2020/)
-*   [Two #circuitpython2020 email summaries](https://blog.adafruit.com/2020/01/10/two-circuitpython2020-email-summaries/)
-*   [Dan Halbert: thoughts for #CircuitPython2020](https://blog.adafruit.com/2020/01/10/dan-halbert-thoughts-for-circuitpython2020/)
-*   [#CircuitPython2020 updates from the Twitterverse](https://blog.adafruit.com/2020/01/08/circuitpython2020-updates-from-the-twitterverse/)
-*   [Wayne W’s #CircuitPython2020](https://blog.adafruit.com/2020/01/08/wayne-ws-circuitpython2020/)
-*   [Adaveach’s #CircuitPython2020](https://blog.adafruit.com/2020/01/08/adaveachs-circuitpython2020/)
-*   [@tammymakesthings’ Thoughts on #CircuitPython2020](https://blog.adafruit.com/2020/01/07/tammymakesthings-thoughts-on-circuitpython2020/)
-*   [@ntoll’s #CircuitPython2020](https://blog.adafruit.com/2020/01/07/ntolls-circuitpython2020/)
-*   [#CircuitPython2020 email from Stew](https://blog.adafruit.com/2020/01/07/circuitpython2020-email-from-stew/)
-*   [A story of this past year from Melissa and some thoughts on the future on CircuitPython in 2020 #circuitpython2020 @makermelissa](https://blog.adafruit.com/2020/01/07/a-story-this-past-year-from-melissa-and-some-thoughts-on-the-future-on-circuitpython-in-2020-circuitpython2020-makermelissa/)
-*   [@sommersoft’s 2020: Year Of The Blinka (v3)](https://blog.adafruit.com/2020/01/06/sommersofts-2020-year-of-the-blinka-v3/)
-*   [Mini #CircuitPython2020 posts so far](https://blog.adafruit.com/2020/01/06/mini-circuitpython2020-posts-so-far/)
-*   [Brent’s Thoughts about Python on Hardware 2020 #CircuitPython2020 #IoT](https://blog.adafruit.com/2020/01/06/brents-thoughts-about-python-on-hardware-2020-circuitpython2020-iot/)
-*   [@deshipu’s #CircuitPython2020](https://blog.adafruit.com/2020/01/03/deshipus-circuitpython2020/)
-*   [@theavalkyrie’s thoughts on #CircuitPython2020](https://blog.adafruit.com/2020/01/03/theavalkyries-thoughts-on-circuitpython2020/)
-*   [HomeKit in #CircuitPython2020 from @mikeholczer](https://blog.adafruit.com/2020/01/02/homekit-in-circuitpython2020-from-mikeholczer/)
-*   [#CircuitPython2020 Thoughts from @hukuzatuna](https://blog.adafruit.com/2020/01/02/circuitpython2020-thoughts-from-hukuzatuna/)
-*   [Jeff’s Ideas for Python on Hardware in 2020 – Time & Timekeeping](https://blog.adafruit.com/2020/01/02/jeffs-ideas-for-python-on-hardware-in-2020-time-timekeeping/)
-*   [#circuitpython2019 wrap-up post](https://blog.adafruit.com/2019/01/28/circuitpython-in-2019/)
+[Read more](https://hackspace.raspberrypi.org/issues/23), [download PDF](https://magazines-static.raspberrypi.org/issues/full_pdfs/000/000/134/original/HackSpaceMagazine23.pdf?1568741893), [buy now](https://the-magpi-store.myshopify.com/admin/products/4022753362019), [subscribe](https://hackspace.raspberrypi.org/subscribe).
+
+[![Subscribe](https://cdn-blog.adafruit.com/uploads/2019/09/92419HS_23_Subs.jpg)](https://hackspace.raspberrypi.org/subscribe)
+
+[Subscribers](https://hackspace.raspberrypi.org/subscribe) save a bunch and they get a free Circuit Playground Express!
+
+Send data with If This Then That – Control almost anything with CircuitPython
+-----------------------------------------------------------------------------
+
+[![IFTTT CircuitPython](https://cdn-blog.adafruit.com/uploads/2019/09/92419ifttcphs01.jpg)](https://hackspace.raspberrypi.org/issues/23)
+
+[![IFTTT CircuitPython](https://cdn-blog.adafruit.com/uploads/2019/09/92419ifttcphs02.jpg)](https://hackspace.raspberrypi.org/issues/23)
+
+[Issue 23 – HackSpace magazine: Send data with If This Then That – Control almost anything with CircuitPython by Ben Everard](https://hackspace.raspberrypi.org/issues/23) –
+
+> _“If This Then That (IFTTT) is a really simple bit of glue that lets you link a condition with an action, both of which are taken from web services. All IFTTT applets are in the format If ‘condition’ then ‘action’. This simple form is surprisingly powerful because it’s linked to a huge number of internet services and web-connected devices. The sheer range of services that can link together, and the fact that everything can be configured by clicking on things in a website, make it a great platform for basic Internet of Things devices and experiments.”_
+
+[Read more](https://hackspace.raspberrypi.org/issues/23) pages 78 to 81, [download PDF](https://magazines-static.raspberrypi.org/issues/full_pdfs/000/000/134/original/HackSpaceMagazine23.pdf?1568741893).
+
+Motorized wing, making your cosplay move
+----------------------------------------
+
+[![Motorized wing](https://cdn-blog.adafruit.com/uploads/2019/09/92419motwingcphs01.jpg)](https://hackspace.raspberrypi.org/issues/23)
+
+[![Motorized wing](https://cdn-blog.adafruit.com/uploads/2019/09/92419motwingcphs02.jpg)](https://hackspace.raspberrypi.org/issues/23)
+
+[Issue 23 – HackSpace magazine: Motorized wing, making your cosplay move, add a servo for breathtaking effects](https://hackspace.raspberrypi.org/issues/23) by Sophy Wong –
+
+> _“Add movement to your cosplay with a servo motor! In this intermediate build, we’ll make an articulating wing that opens and closes at the touch of a finger. This project is a perfect add-on to a sci-fi robot costume, a steampunk aviator, or any costume with a shoulder pauldron. We’ll bring our wing to life with some crafting, soldering, and a little bit of code! We’ve kept this build simple with everyday materials like cardboard and string. Clean, used shipping boxes are a great source of 4mm corrugated cardboard. A laser cutter makes quick work of cutting out the wings, but if you don’t have access to one, use scissors or a craft knife to cut the cardboard by hand. Our cyberpunk-style wing template includes design lines that can be engraved or traced on the surface of the wing for more texture. Download our template at [hsmag.cc/issue23](http://hsmag.cc/issue23), or create your own custom wing shape from scratch. Just make sure the pivoting side of the wing is a nice, round circle, for smooth movement. Once cut, paint the wings to match your costume – a coat of silver spray paint made our cardboard shine bright.”_
+
+[Read more](https://hackspace.raspberrypi.org/issues/23) pages 78 to 81, [download PDF](https://magazines-static.raspberrypi.org/issues/full_pdfs/000/000/134/original/HackSpaceMagazine23.pdf?1568741893).
+
+Adafruit Feather takes flight with the SparkFun Thing Plus Artemis
+------------------------------------------------------------------
+
+[![Adafruit Feather takes flight with the SparkFun Thing Plus](https://cdn-blog.adafruit.com/uploads/2019/09/92419artemis.jpg)](https://blog.adafruit.com/2019/09/19/adafruit-feather-takes-flight-with-the-sparkfun-thing-plus-artemis-sparkfun-adafruit/)
+
+Adafruit Feather takes flight with the [SparkFun Thing Plus – Artemis](https://www.sparkfun.com/products/15574). AND: it appears CircuitPython support is _“a topic of discussion for sure”_! – [Twitter](https://twitter.com/sparkfun/status/1175099450072666113).
+
+The latest SparkFun board is Feather-compatible! [This is the fifth](https://www.sparkfun.com/categories/tags/feather) SparkFun Adafruit Feather-compatible board (not including the Particle boards which are Feather format as well).
+
+> _“To make the Thing Plus even easier to use, we’ve moved a few pins around to make the board Feather compatible…“_
+
+[![Awesome Feather](https://cdn-blog.adafruit.com/uploads/2019/09/92419feathers.jpg)](https://github.com/adafruit/awesome-feather/)
+
+Feather is a complete line of development boards that are both standalone and stackable. They’re able to be powered by LiPo batteries for on-the-go use or by their micro-USB plugs for stationary projects. Feathers are flexible, portable, and as light as their namesake. FeatherWings are stacking boards and add functionality and room for prototyping. At its core, Feather is a complete ecosystem of products – and the best way to get your project flying.
+
+The Feathers at Adafruit are open source. Adafruit encourages other companies to utilize this form factor to maximize compatibility with dozens of pre-existing boards.
+
+Check out awesome-feather for a complete list! – [github.com/adafruit/awesome-feather](https://github.com/adafruit/awesome-feather/).
+
+Meet GIZMO!
+-----------
+
+[![Gizmo](https://cdn-blog.adafruit.com/uploads/2019/09/92419gizmo.jpg)](https://www.adafruit.com/product/4367)
+
+Meet the new Circuit Playground TFT Gizmo, a Bolt-on Display + Audio Amplifier – [Adafruit](https://www.adafruit.com/product/4367).
+
+Extend and expand your Circuit Playground projects with a bolt on TFT Gizmo that lets you add a lovely color display in a sturdy and reliable fashion. This PCB looks just like a round TFT breakout but has permanently affixed M3 standoffs that act as mechanical and electrical connections.
+
+Once attached you’ll get a 1.54” 240×240 IPS display with backlight control, two 3-pin STEMMA connectors for attaching NeoPixel strips or servos, and a Class D audio amplifier with a Molex PicoBlade connector that can plug on one of our li’l speakers.
+
+This is a great companion for our Circuit Playground Express or Bluefruit boards thanks to their fast SPI hardware speeds, and it works in CircuitPython. It comes with a PCB that has pre-soldered standoffs attached and 12x M3 screws for attachment.
+
+CircuitPython and Mu book!
+--------------------------
+
+[![CircuitPython and Mu book](https://cdn-blog.adafruit.com/uploads/2019/09/92419bpbook01.jpg)](https://techbookfest.org/event/tbf07/circle/5645284751179776)
+
+[![CircuitPython and Mu book](https://cdn-blog.adafruit.com/uploads/2019/09/92419bpbook02.jpg)](https://techbookfest.org/event/tbf07/circle/5645284751179776)
+
+[![CircuitPython and Mu book](https://cdn-blog.adafruit.com/uploads/2019/09/92419bpbook03.jpg)](https://techbookfest.org/event/tbf07/circle/5645284751179776)
+
+[![CircuitPython and Mu book](https://cdn-blog.adafruit.com/uploads/2019/09/92419booth.jpg)](https://techbookfest.org/event/tbf07/circle/5645284751179776)
+
+Lots of activity and more for the CircuitPython & Mu book that is coming soon from Japan, including shirts! – [STEAM TOKYO](https://techbookfest.org/event/tbf07/circle/5645284751179776).
+
+Introduction to CircuitPython class in Canton, CT
+-------------------------------------------------
+
+[![Introduction to CircuitPython class](https://cdn-blog.adafruit.com/uploads/2019/09/92419ctclass.jpg)](https://www.nextgensmartypants.com/product/circuit-python-shop/)
+
+For individuals (Ages 10 – Adult) who love circuits or coding, check out this Introduction to CircuitPython class at NextGen SmartyPants in Canton, Connecticut USA – [nextgensmartypants.com](https://www.nextgensmartypants.com/product/circuit-python-shop/).
 
 News from around the web!
 -------------------------
 
-[![OpenBook](https://cdn-blog.adafruit.com/uploads/2020/01/11420openbook.jpg)](https://twitter.com/josecastillo/status/1215388022692372480)
+[![badges](https://cdn-blog.adafruit.com/uploads/2019/09/92419badgeholder.jpg)](https://twitter.com/MacInspires/status/1174456811065356289)
 
-Joey is working on the CircuitPython version of the OpenBook – [Twitter](https://twitter.com/josecastillo/status/1215388022692372480) and [GitHub](https://github.com/joeycastillo/circuitpython/tree/openbook/ports/atmel-samd/boards/openbook).
+A nice laser cut holder for all of the PyBadges at MacInspires – [Twitter](https://twitter.com/MacInspires/status/1174456811065356289).
 
-[![Baby Yoda](https://cdn-blog.adafruit.com/uploads/2020/01/11420-babyyoda.png)](https://twitter.com/kwigbo/status/1216136280192569345)
+[![Mike](https://cdn-blog.adafruit.com/uploads/2019/09/92419mike.jpg)](https://twitter.com/driscollis/status/1174333145736462337)
 
-Baby Yoda glows with Circuit Playground Express – [Twitter](https://twitter.com/kwigbo/status/1216136280192569345).
+Mike, from Mouse vs Python, has his PyBadge up and running – [Twitter](https://twitter.com/driscollis/status/1174333145736462337).
 
-[From YouTube](https://www.youtube.com/watch?v=35W-NWu8i5g&lc=UgwGeT5wTi84BIZq2G14AaABAg) – _“If it wasn’t for CircuitPython I would of never got in to coding and would still be lost in this great and fun world of electronics with coding elements. Keep making this and everything you do great thanks again.”_
+[![Mask 13](https://cdn-blog.adafruit.com/uploads/2019/09/92419mask13.jpg)](https://youtu.be/8wqGA6usSbc)
 
-[![BYOP](https://cdn-blog.adafruit.com/uploads/2020/01/11420-byop.png)](https://twitter.com/UndercroftHQ/status/1215677216903876609)
+Silver Mask with moving eyes with ADABOX 013 – YouTube via [Twitter](https://twitter.com/scottturneruon/status/1175806089331429377).
 
-The Undercroft is having a “Python & Pyportal” event on 1/29/20 at 6:30pm, BYOP, bring your own portal! – [Twitter](https://twitter.com/UndercroftHQ/status/1215677216903876609).
+[![Spectral Foxes ](https://cdn-blog.adafruit.com/uploads/2019/09/92419fox.gif)](https://www.instagram.com/p/B2q9jH4HeEY/?igshid=1nylrsqrc50k4)
 
-[![THFeather](https://cdn-blog.adafruit.com/uploads/2020/01/11420jfeather.jpg)](https://twitter.com/josecastillo/status/1214714021900955652)
+Presenting a pair of Spectral Foxes – [Instagram](https://www.instagram.com/p/B2q9jH4HeEY/?igshid=1nylrsqrc50k4).
 
-[![THFeather](https://cdn-blog.adafruit.com/uploads/2020/01/11420jfeather2.jpg)](https://twitter.com/josecastillo/status/1214714021900955652)
+[![Jeff board](https://cdn-blog.adafruit.com/uploads/2019/09/92419jeffboard.jpg)](https://twitter.com/jeffwurz/status/1175141831635423232)
 
-Through-hole Feathers from the past that Joey made – [Twitter](https://twitter.com/josecastillo/status/1214714021900955652) and [GitHub](https://github.com/joeycastillo/Feather-Projects/tree/master/Through-Hole%20SAMD11%20Feather).
+More progress on Jeff’s CircuitPython board – [Twitter](https://twitter.com/jeffwurz/status/1175141831635423232).
 
-[![Hippo](https://cdn-blog.adafruit.com/uploads/2020/01/11420hippo.png)](https://twitter.com/ndgarage/status/1214721396607049728)
+[![CP badge life](https://cdn-blog.adafruit.com/uploads/2019/09/92419kevinbl.jpg)](https://twitter.com/kevinneubauer/status/1175122642598289409)
 
-Hippo is a FeatherWing, [Twitter](https://twitter.com/ndgarage/status/1214721396607049728) and [Tindie](https://www.tindie.com/products/ndgarage/hippo/).
+Kevin’s CircuitPython based custom conference badge is looking great! – [Twitter](https://twitter.com/kevinneubauer/status/1175122642598289409).
 
-[![Doctor Feather](https://cdn-blog.adafruit.com/uploads/2020/01/11420drfeather.jpg)](https://twitter.com/NowOverAndOut/status/1214721327548043265)
+[![PyPortal IoT Plant Monitor](https://cdn-blog.adafruit.com/uploads/2019/09/92419pyportal_ms.jpg)](https://learn.adafruit.com/using-microsoft-azure-iot-with-circuitpython)
 
-Doctor Who “psychic paper” powered by a Feather – [Twitter](https://twitter.com/NowOverAndOut/status/1214721327548043265).
+PyPortal IoT Plant Monitor with Microsoft Azure IoT and CircuitPython. Monitor your plant’s vitals by combining CircuitPython with Microsoft Azure IoT – [learn.adafruit.com](https://learn.adafruit.com/using-microsoft-azure-iot-with-circuitpython)
 
-[![Ada Who](https://cdn-blog.adafruit.com/uploads/2020/01/11420adawho.jpg)](https://twitter.com/KeNTKB/status/1216594115661463552)
+[![Eyes](https://cdn-blog.adafruit.com/uploads/2019/09/92419dragoneyes.gif)](https://twitter.com/KegawaCreation/status/1174776692952444929)
 
-Expect some Ada overlap with Doctor Who all this year! – [Twitter](https://twitter.com/KeNTKB/status/1216594115661463552).
+Anrhok work in progress, eyes made by Lucky and Hige – [Twitter](https://twitter.com/KegawaCreation/status/1174776692952444929).
 
-[![HDWing](https://cdn-blog.adafruit.com/uploads/2020/01/11420hdwing.jpg)](https://hackaday.io/project/168448-neopixelhd-feather-wing)
+What can you fit into an 8×8 pixel display? Find out: [Christian](https://twitter.com/isziaui/status/1175706349998661633) is bringing some PewPews to the Creative Coding ZH meetup and will show how to program simple games or demos in CircuitPython – [Meetup](https://www.meetup.com/creative-coding/events/264988094/).
 
-NeoPixel\_HD FeatherWing: Add-On Wing for Adafruit’s Feather boards – With a maximized number of NeoPixels: A 22×9 RGB LED Matrix – [Twitter](https://twitter.com/tinyledmatrix/status/1214675343090565122) and [hackaday.io](https://hackaday.io/project/168448-neopixelhd-feather-wing)
+[![Daniel](https://cdn-blog.adafruit.com/uploads/2019/09/92419danielpb.jpg)](https://twitter.com/chendaniely/status/1174058510285512705)
 
-[![iPad](https://cdn-blog.adafruit.com/uploads/2020/01/11420ipad.jpg)](https://twitter.com/photomattmills/status/1215793587838844928)
+Daniel’s excellent PyBadge – [Twitter](https://twitter.com/chendaniely/status/1174058510285512705).
 
-Hacked / modded iPad keyboard with a Feather – [Twitter](https://twitter.com/photomattmills/status/1215793587838844928).
+Building Custom Deep Learning Based OCR models by Anuj Sable – [nanonets.com](https://nanonets.com/blog/attention-ocr-for-text-recogntion/)
 
-[![No Step](https://cdn-blog.adafruit.com/uploads/2020/01/11420snek.png)](https://hackaday.io/project/168815-no-step-on-snek)
+[![Lamp](https://cdn-blog.adafruit.com/uploads/2019/09/92419lamp.gif)](https://manoj.ninja/articles/2019/09/19/2019-building-a-gesture-controlled-lamp)
 
-CircuitPython Game – No Step on Snek. Help Blinka escape a variety of feet in this Frogger clone developed on the Adafruit Edge Badge – [YouTube](https://youtu.be/8WjB1zcvVRU) and [hackaday.io](https://hackaday.io/project/168815-no-step-on-snek)
+Building a micro:bit gesture controlled lamp – [manjo.ninja](https://manoj.ninja/articles/2019/09/19/2019-building-a-gesture-controlled-lamp).
 
-[![Save the world](https://cdn-blog.adafruit.com/uploads/2020/01/11420savetheworld.jpg)](https://www.amazon.com/Save-World-Code-Raspberry-Playground/dp/1260457591)
+[![Learn Python](https://cdn-blog.adafruit.com/uploads/2019/09/92419introtopython.jpg)](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
 
-Save the World with Code: 20 Fun Projects for All Ages Using Raspberry Pi, micro:bit, and Circuit Playground Express by Lorraine Underwood – [Amazon](https://www.amazon.com/Save-World-Code-Raspberry-Playground/dp/1260457591).
+Microsoft has a 44 part series on [YouTube, all about Python](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) –
 
-[![CPX Scratch](https://cdn-blog.adafruit.com/uploads/2020/01/11420cpxscratch.png)](https://mryslab.github.io/s3-extend/#cpx_blocks/)
+> _“Probably the largest hurdle when learning any new programming language is simply knowing where to get started. This is why we, Chris and Susan, decided to create this series about Python for Beginners! Even though we won’t cover everything there is to know about Python in the course, we want to make sure we give you the foundation on programming in Python, starting from common everyday code and scenarios. At the end of the course, you’ll be able to go and learn on your own, for example with docs, tutorials, or books.”_
 
-Scratch 3 extension for the Circuit Playground Express. You can view the available extension blocks here – [Scratch 3 OneGPIO Extensions](https://mryslab.github.io/s3-extend/#cpx_blocks/).
+[![Amp Hour](https://cdn-blog.adafruit.com/uploads/2019/09/92419amphour.jpg)](https://theamphour.com/458-an-interview-with-ken-burns/)
 
-[![Ring](https://cdn-blog.adafruit.com/uploads/2020/01/11420gemma.gif)](https://twitter.com/chardane/status/1214081593532280832)
+[The latest Amp Hour electronics podcast](https://theamphour.com/458-an-interview-with-ken-burns/) had Ken Burns of TinyCircuits – towards the end of the interview there are some CircuitPython mentions around the 1 hour 22 min mark.
 
-GEMMA based 3D printed ring prototype – [Twitter](https://twitter.com/chardane/status/1214081593532280832).
+[![Laser Crown](https://cdn-blog.adafruit.com/uploads/2019/09/92419laser_crown.png)](https://www.instructables.com/id/Laser-Crown/)
 
-[![MagicLight BLE Bulb](https://cdn-blog.adafruit.com/uploads/2020/01/11420-bulb.gif)](https://youtu.be/qEhtbHLAYho)
+Laser crown! – [Instructables](https://www.instructables.com/id/Laser-Crown/).
 
-MagicLight BLE Bulb Circuit Playground Bluefruit Control – [YouTube](https://youtu.be/qEhtbHLAYho).
+[![Comodore 64](https://cdn-blog.adafruit.com/uploads/2019/09/92419comodore.jpg)](https://www.adafruit.com)
 
-[![Programmable USB Hub](https://cdn-blog.adafruit.com/uploads/2020/01/11420usbhub.jpg)](https://www.crowdsupply.com/capable-robot-components/programmable-usb-hub/updates/production-update-part-ii)
+Jepler was working on a cool Commodore 64 + CircuitPython project!
 
-Programmable USB Hub by Capable Robot Components is a USB hub with per-port power and data disconnects + dev board + I2C, GPIO, and SPI bridges, and it works with CircuitPython! Here is the latest update – [Crowd Supply](https://www.crowdsupply.com/capable-robot-components/programmable-usb-hub/updates/production-update-part-ii).
+[![Robo HAT](https://cdn-blog.adafruit.com/uploads/2019/09/92419robo-hat-update-4_jpg_project-body.jpg)](https://www.crowdsupply.com/robotics-masters/robo-hat-mm1/updates/testing-jig-arrived)
 
-[![CPB](https://cdn-blog.adafruit.com/uploads/2020/01/11420-cpb.gif)](https://robotsandphysicalcomputing.blogspot.com/2019/12/playing-with-adafruit-circuit.html)
+Robo HAT MM1 by Robotics Masters – their testing jig arrived – [Crowdy Supply](https://www.crowdsupply.com/robotics-masters/robo-hat-mm1/updates/testing-jig-arrived).
 
-Playing with Adafruit Circuit Playground Bluefruit – [robotsandphysicalcomputing](https://robotsandphysicalcomputing.blogspot.com/2019/12/playing-with-adafruit-circuit.html) and [YouTube](https://youtu.be/uZqjUjbqMgU).
+KiPro is Professional support for KiCad. Offers private bug reports, customized hardware and feature release schedules [kipro-pcb.com](https://www.kipro-pcb.com/).
 
-[![Weather](https://cdn-blog.adafruit.com/uploads/2020/01/11420weatherjson.png)](https://robotsandphysicalcomputing.blogspot.com/2019/12/adafruit-pyportal-from-twitter-to.html)
+[![100k pi](https://cdn-blog.adafruit.com/uploads/2019/09/92419moon.png)](https://moon.hoyd.net/matematikk/2913)
 
-Adafruit PyPortal from Twitter to weather – [robotsandphysicalcomputing](https://robotsandphysicalcomputing.blogspot.com/2019/12/adafruit-pyportal-from-twitter-to.html).
+Visualizing 100k decimals of Pi, Tau and e with Python – [moon.hoyd.net](https://moon.hoyd.net/matematikk/2913).
 
-[![OrcaCon](https://cdn-blog.adafruit.com/uploads/2020/01/11420-orca.gif)](https://twitter.com/Kaltazar/status/1214641206551969793)
+Token scanning – [GitHub](https://developer.github.com/partnerships/token-scanning/).
 
-Just in time for [#OrcaCon](https://twitter.com/hashtag/OrcaCon?src=hashtag_click)! Kaltazar’s electronic communication badge, made with Circuit Playground Bluefruit, TFT Gizmo, and a 3D printed lanyard clip – [Twitter](https://twitter.com/Kaltazar/status/1214641206551969793).
+Lectures in Quantitative Economics with Python – [PDF](https://lectures.quantecon.org/_downloads/pdf/py/Quantitative%20Economics%20with%20Python.pdf).
 
-![](https://cdn-blog.adafruit.com/uploads/2020/01/11420nina.gif)
+A Python alternative to Docker – [Matt Layman](https://www.mattlayman.com/blog/2019/python-alternative-docker/).
 
-Did you know that PyCascades 2020 in Portland is just a month away? Nina made a PyPortal countdown! – [Twitter](https://twitter.com/nnja/status/1215414459964878848) and [GitHub](https://github.com/nnja/pyportal_pycascades_countdown).
+[![Colab](https://cdn-blog.adafruit.com/uploads/2019/09/92419colab.jpg)](https://learn.adafruit.com/basic-tensorflow-object-recognition-in-the-cloud-google-colab?view=all)
 
-Here’s a CircuitPython Driver for the SDS011 Pollution Sensor – [GitHub](https://github.com/wallarug/CircuitPython_SDS011).
+Basic TensorFlow Object Recognition on any Computer or iOS device with Google Colab – [Adafruit](https://learn.adafruit.com/basic-tensorflow-object-recognition-in-the-cloud-google-colab?view=all).
 
-[![PyBadge Serial](https://cdn-blog.adafruit.com/uploads/2020/01/11420pybadge.gif)](https://twitter.com/josecastillo/status/1215329066578071552)
+[An absolute beginners guide to nRF52840](https://medium.com/@teja.chintalapati/an-abosulte-beginners-guide-to-nrf52840-b579cfe1fc1c) by Teja Chintalapati.
 
-pybadge-as-serial-plotter – [Twitter](https://twitter.com/josecastillo/status/1215329066578071552) and [GitHub](https://gist.github.com/joeycastillo/c7b246add2b406aa96b1a2e0ec3f0553).
+[Brian Ringley](https://twitter.com/brianringley/status/1170351203861094400) list of construction robotics – [Google Doc](https://docs.google.com/spreadsheets/d/1tJFsyj3bAW_d-02T8BZXBXuVK-2kOjPQvh5STzWgymo/edit#gid=0).
 
-[![Sister Night](https://cdn-blog.adafruit.com/uploads/2020/01/11420sister.jpg)](https://blog.adafruit.com/2020/01/09/adafrruits-top-10-thingiverse-downloads-of-2019-adafruittopten/)
+[![Python bundle](https://cdn-blog.adafruit.com/uploads/2019/09/92419pythonbundle.jpg)](https://www.humblebundle.com/level-up-your-python)
 
-We’ve been posting a bunch of “top 10” lists of 2019, and the decade on Adafruit for the new year. The number one download from Thingiverse, one of the places we host our 3D files, was the Watchmen NeoPixel Goggles! Powered by CircuitPython, NOTHING EVER ENDS – [Adafruit](https://blog.adafruit.com/2020/01/09/adafrruits-top-10-thingiverse-downloads-of-2019-adafruittopten/).
+A few days left for the Humble Level Up Your Python Bundle, pay what you want and help charity – [humblebundle.com/level-up-your-python](https://www.humblebundle.com/level-up-your-python).
 
-[![PyGamer](https://cdn-blog.adafruit.com/uploads/2020/01/11420pygamer.jpg)](https://blog.adafruit.com/2020/01/07/adafruits-top-ten-youtube-videos-of-2019-adafruittopten/)
+[![PyGame](https://cdn-blog.adafruit.com/uploads/2019/09/92419pygamerp.png)](https://realpython.com/pygame-a-primer/)
 
-Also in the top 10 for 2019 in video, the Adafruit PyGamer! – [Adafruit](https://blog.adafruit.com/2020/01/07/adafruits-top-ten-youtube-videos-of-2019-adafruittopten/).
+PyGame: A Primer on Game Programming in Python by Jon Fincher – [Real Python](https://realpython.com/pygame-a-primer/).
 
-[![CPB](https://cdn-blog.adafruit.com/uploads/2020/01/11420cpbtop.jpg)](https://blog.adafruit.com/2020/01/08/adafruits-top-ten-new-products-of-2019-adafruittopten/)
+14,000 word Technical Deep Dive about RS-232, WiFi modems and networking in C64 OS, with some intro talk about Chess and turn-based network games – [C64OS](http://www.c64os.com/post/chess_c64os_networking) via [Twitter](https://twitter.com/gregnacu/status/1175094880894365697).
 
-For the Top Ten New Products of 2019, as expected, the CircuitPython based products topped the list with Circuit Playground Bluefruit – Bluetooth Low Energy coming in number one – [Adafruit](https://blog.adafruit.com/2020/01/08/adafruits-top-ten-new-products-of-2019-adafruittopten/).
+Inside Tesla’s Neural Processor In The FSD Chip – [wikichip.org](https://fuse.wikichip.org/news/2707/inside-teslas-neural-processor-in-the-fsd-chip/)
 
-[![Tooling Tuesday](https://cdn-blog.adafruit.com/uploads/2020/01/11420-bigles.png)](https://bigl.es/tooling-tuesday-tio/)
+100,000 AI-Generated Faces – Free to use! – [generated.photos](https://generated.photos/) & [Google drive photos](https://drive.google.com/drive/folders/1wSy4TVjSvtXeRQ6Zr8W98YbSuZXrZrgY).
 
-Tooling Tuesday: Tio – [bigl.es](https://bigl.es/tooling-tuesday-tio/). Works with CircuitPython too!
+[Artbreeder](https://artbreeder.com/) – Create beautiful, wild and weird images.
 
-[![Discord](https://cdn-blog.adafruit.com/uploads/2020/01/11420madiscord.jpg)](https://discord.gg/HYqvREz)
+ImageNet Roulette is a provocation designed to help us see into the ways that humans are classified in machine learning systems. It uses a neural network trained on the “Person” categories from the ImageNet dataset which has over 2,500 labels used to classify images of people – [imagenet-roulette.paglen.com](https://imagenet-roulette.paglen.com/)
 
-From [Discord](https://discord.gg/HYqvREz) –
+Halloween custom prints – [Print all over me](https://paom.com/search?type=product&q=*halloween*+tag:public).
 
-> _“Ease of getting up and running with CircuitPython left everyone awestruck.”_
+Balancing Makers and Takers to scale and sustain Open Source – [DRIES BUYTAERT](https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source).
 
-[pymata-cpx and FirmataCPx](https://mryslab.github.io/pymata-cpx/): Remotely Monitor And Control. An Adafruit Circuit Playground Express using Python.
+Software Engineering at Google – [PDF](https://arxiv.org/pdf/1702.01715.pdf).
 
-[![ESP32](https://cdn-blog.adafruit.com/uploads/2020/01/11420esp32.jpg)](https://www.espressif.com/en/support/download/documents?keys=%22ESP32+Datasheet%22)
+[![Moore's Law](https://cdn-blog.adafruit.com/uploads/2019/09/92419law.jpg)](https://twitter.com/page_eco/status/1168832625269563393)
 
-The latest ESP 32 datasheet has been posted – [ESPRESSIF](https://www.espressif.com/en/support/download/documents?keys=%22ESP32+Datasheet%22).
+Moore’s law visualization, predictions vs actual growth in transistor count – [Twitter](https://twitter.com/SalimChemlal/status/1169443543842095104).
 
-[![FileSysMP](https://cdn-blog.adafruit.com/uploads/2020/01/11420filesysmp.png)](http://forum.m5stack.com/topic/1590/esp32-and-the-spiffs-file-system)
+[![Serpente](https://cdn-blog.adafruit.com/uploads/2019/09/92419serp.jpg)](https://www.adafruitdaily.com/2019/09/17/python-snakes-its-way-to-the-stm32-serpente-and-more/)
 
-The first ESP32 non-MicroPython File manager A-Explorer – [M5Stack Community](http://forum.m5stack.com/).
+[![Easy](https://cdn-blog.adafruit.com/uploads/2019/09/92719easyuf2.jpg)](https://twitter.com/arturo182/status/1174075172242022401)
 
-[![Wemos](https://cdn-blog.adafruit.com/uploads/2020/01/11420wemos.jpg)](https://www.cnx-software.com/2020/01/11/2-wemos-w600-pico-wifi-iot-board-ships-with-micropython-firmware/)
+And on that note, this is great to hear – [Twitter](https://twitter.com/arturo182/status/1174075172242022401).
 
-$2 Wemos W600-PICO WiFi IoT board ships with MicroPython firmware – [CNX](https://www.cnx-software.com/2020/01/11/2-wemos-w600-pico-wifi-iot-board-ships-with-micropython-firmware/).
+> _“Thanks to Adafruit’s UF2 bootloader, the update process is super easy.”_
 
-[![Rafael](https://cdn-blog.adafruit.com/uploads/2020/01/11420raph.jpg)](https://www.thingiverse.com/thing:4085831)
+Bugfix and DMCA Lawsuit Progress NeTV2 – [Crowd Supply](https://www.crowdsupply.com/alphamax/netv2/updates/bugfix-and-dmca-lawsuit-progress).
 
-Rafael made a small 3D print model for the Huzzah ESP8266 to keep the jumper wires in a row – [thingiverse.com](https://www.thingiverse.com/thing:4085831)
+How did we miss this? Mouser acquired Crowd Supply LAST YEAR – [Crowd Supply](https://blog.crowdsupply.com/2018/10/03/crowd-supply-has-been-acquired/).
 
-[![OpenCTD](https://cdn-blog.adafruit.com/uploads/2020/01/11420openctd.jpg)](https://www.hackster.io/news/openctd-project-switches-to-adafruit-feathers-for-revision-two-of-its-oceanographic-data-loggers-c07fc8f0a303)
+#ICYDNCI What was the most popular, most clicked link, in [last week’s newsletter](https://www.adafruitdaily.com/2019/09/17/python-snakes-its-way-to-the-stm32-serpente-and-more/)? [Serpente – A Tiny CircuitPython Prototyping Board](https://www.tindie.com/products/arturo182/serpente-a-tiny-circuitpython-prototyping-board/).
 
-[OpenCTD Project](https://github.com/OceanographyforEveryone/OpenCTD) switches to Feather for its oceanographic data loggers – [hackster.io](https://www.hackster.io/news/openctd-project-switches-to-adafruit-feathers-for-revision-two-of-its-oceanographic-data-loggers-c07fc8f0a303)
+PyDev of the Week: Peter Farrell – [Mouse vs Python](https://www.blog.pythonlibrary.org/2019/09/23/pydev-of-the-week-peter-farrell/).
 
-[![USB Host](https://cdn-blog.adafruit.com/uploads/2020/01/11420usbhost.jpg)](https://youtu.be/po3FBdY0GS4)
-
-Add USB Support to any project using Bitluni’s cheap USB host microcontroller – [YouTube](https://youtu.be/po3FBdY0GS4).
-
-[![NeoSuit](https://cdn-blog.adafruit.com/uploads/2020/01/11420-neosuit.gif)](https://twitter.com/mizuguchitter/status/1216255624402522115?s=12)
-
-Rocking out the NeoPixel suit at the Media Art Festival in Otaru, Japan – [Twitter](https://twitter.com/mizuguchitter/status/1216255624402522115?s=12).
-
-[![Madonna](https://cdn-blog.adafruit.com/uploads/2020/01/11420-bra.gif)](https://twitter.com/MsSandyCrack/status/1215827120053579776)
-
-NeoPixel-based “Madonna” inspired bra – [Twitter](https://twitter.com/MsSandyCrack/status/1215827120053579776).
-
-CES2020: Primordial Soup of Innovation – [Learning by Shipping](https://medium.learningbyshipping.com/ces2020-primordial-soup-of-innovation-208571f15c94).
-
-[![Printing on PCBs](https://cdn-blog.adafruit.com/uploads/2020/01/11420pcbprint.jpg)](https://twitter.com/EMSL/status/1215398392165044224)
-
-Full-color printing on flexible circuit boards – [Twitter](https://twitter.com/EMSL/status/1215398392165044224).
-
-11 top open-source API testing tools: What your team needs to know – [TechBeacon](https://techbeacon.com/app-dev-testing/11-top-open-source-api-testing-tools-what-your-team-needs-know).
-
-[![Feather](https://cdn-blog.adafruit.com/uploads/2020/01/11420-feather.png)](https://blog.adafruit.com/2020/01/07/ferus-festival-sister-sylvester-the-eagle-and-the-tortoise-nationalsawdust/)
-
-Ferus Festival: Sister Sylvester “The Eagle and the Tortoise” – [Adafruit](https://blog.adafruit.com/2020/01/07/ferus-festival-sister-sylvester-the-eagle-and-the-tortoise-nationalsawdust/).
-
-Qt for MCUs 1.0, runs on the NXP i.MX RT1050 and STM32F769i – [Qt Blog](https://www.qt.io/blog/qt-for-mcus-1.0).
-
-[![Swift](https://cdn-blog.adafruit.com/uploads/2020/01/11420swift.jpg)](https://github.com/swift-embedded/swift-embedded)
-
-This project aims to bring Swift to the world of embedded systems and IoT. It enables using Swift on microcontrollers with no operating system and with minimal resources available – [GitHub](https://github.com/swift-embedded/swift-embedded).
-
-[![playdate](https://cdn-blog.adafruit.com/uploads/2020/01/11420playdate.jpg)](https://play.date/update-dec/)
-
-Here’s a Playdate December 2019 update – [play.date](https://play.date/update-dec/)
-
-Zephyr Tutorial: Bluetooth Low Energy Development – [novelbits.io](https://www.novelbits.io/zephyr-getting-started-bluetooth-low-energy-development/)
-
-[![Real Python](https://cdn-blog.adafruit.com/uploads/2020/01/11420realp.jpg)](https://realpython.com/courses/python-kwargs-and-args/)
-
-Python args and kwargs: Demystified – [Real Python](https://realpython.com/courses/python-kwargs-and-args/).
-
-30 Python Best Practices, Tips, And Tricks – [Towards Data Science](https://towardsdatascience.com/30-python-best-practices-tips-and-tricks-caefb9f8c5f5).
-
-[![Slither Into Python](https://cdn-blog.adafruit.com/uploads/2020/01/1420slither.png)](https://www.slitherintopython.com/)
-
-Slither Into Python: An Introduction to Python for Beginners – [free to read online](https://www.slitherintopython.com/).
-
-Considering Python’s Target Audience – [2017](http://www.curiousefficiency.org/posts/2017/10/considering-pythons-target-audience.html).
-
-20 best Python questions at stackoverflow in 2019 – [Python Weekly reports](https://python-weekly.blogspot.com/2020/01/20-best-python-questions-at.html).
-
-[![primify](https://cdn-blog.adafruit.com/uploads/2020/01/11420pime.png)](https://github.com/LeviBorodenko/primify)
-
-Embed any image into a prime number – [primify](https://github.com/LeviBorodenko/primify).
-
-[![Guido](https://cdn-blog.adafruit.com/uploads/2020/01/11420guido.jpg)](https://youtu.be/7kn7NtlV6g0)
-
-Creator of Python Programming Language, Guido van Rossum, Oxford Union – [YouTube](https://youtu.be/7kn7NtlV6g0).
-
-[![Top 5 GUI](https://cdn-blog.adafruit.com/uploads/2020/01/11420top5gui.jpg)](https://morioh.com/p/6c19bfda96f7)
-
-5 Python GUI Frameworks for Developers in 2020 – [morioh](https://morioh.com/p/6c19bfda96f7).
-
-Build Third Party Applications APIs with NoCode – [NoCodeAPI](https://nocodeapi.com/).
-
-[![LE Audio](https://cdn-blog.adafruit.com/uploads/2020/01/11420bl4.png)](https://www.bluetooth.com/learn-about-bluetooth/bluetooth-technology/le-audio/)
-
-LE Audio: The next generation of Bluetooth audio – [bluetooth.com](https://www.bluetooth.com/learn-about-bluetooth/bluetooth-technology/le-audio/) and [4 features](https://www.bluetooth.com/blog/4-capabilities-developers-can-expect-from-le-audio/) developers can expect from LE Audio.
-
-Bluetooth LE Audio could be the biggest news out of CES 2020 – [Techradar](https://www.techradar.com/news/bluetooth-le-could-be-the-biggest-news-out-of-ces-2020).
-
-Nordic announces its entry into the Bluetooth audio market with a platform supporting the forthcoming LE Audio specification for high-quality wireless audio – [Nordic](https://www.nordicsemi.com/News/2020/01/Nordic-launches-a-Bluetooth-LE-Audio-Evaluation-Platform).
-
-Roadmap for Makerspaces – [makerbit.com](https://makerbit.com/makerbit-roadmap.html)
-
-How to get kids to love to write – [WaPo](https://www.washingtonpost.com/education/2020/01/07/how-get-kids-love-write/).
-
-#ICYDNCI What was the most popular, most clicked link, in [last week’s newsletter](https://www.adafruitdaily.com/2020/01/07/what-do-you-want-to-see-with-circuitpython-in-2020-python-adafruit-circuitpython-circuitpython-micropython-thepsf-adafruit/)? [What do you want from CircuitPython in 2020?](https://blog.adafruit.com/2020/01/01/what-do-you-want-from-circuitpython-in-2020-circuitpython2020-circuitpython/).
-
-CircuitPython Weekly for January 13th, 2020 on [YouTube](https://youtu.be/JqYEa4IP1pw).
-
-PyDev of the Week: Tyler Reddy on [Mouse vs Python](https://www.blog.pythonlibrary.org/2020/01/13/pydev-of-the-week-tyler-reddy/)
+CircuitPython Weekly Meeting for September 23rd, 2019 [on YouTube](https://youtu.be/DWySqjttJng) and [on diode.zone](https://diode.zone/videos/watch/8fe5fe02-f1a7-4d51-a268-01d814612736).
 
 Coming soon
 -----------
 
-[![AR](https://cdn-blog.adafruit.com/uploads/2020/01/11420-ar.gif)](https://blog.adafruit.com/2020/01/12/digital-puppets-using-ar-augmented-reality-some-apps-companies-and-14-ish-years-of-trying-things-2020cv_inc-thinkoco-creativecloud-characteranimator-adafruit-circuitplayground/)
+[![BeagleBone AI](https://cdn-blog.adafruit.com/uploads/2019/09/92419boneai.jpg)](https://beagleboard.org/ai)
 
-AR (Augmented reality puppet with Circuit Playground Bluefruit – [Adafruit](https://blog.adafruit.com/2020/01/12/digital-puppets-using-ar-augmented-reality-some-apps-companies-and-14-ish-years-of-trying-things-2020cv_inc-thinkoco-creativecloud-characteranimator-adafruit-circuitplayground/).
+The new [BeagleBone AI](https://beagleboard.org/ai) was released! We have one – we’re going to get [BLINKA going on it first](https://circuitpython.org/blinka)!
 
-[![](https://cdn-blog.adafruit.com/uploads/2020/01/11420YESml.jpg)](https://blog.adafruit.com/2020/01/06/testing-out-the-tensorflow-micro-speech-demo-on-adafruit-clue-tensorflow-nordictweets-arduino-microbit_edu-tensorflow-tensorflowlite-tinyml-nrf52840-nordicsemi-microbit/)
+[![Updates coming soon to Bluefruit](https://cdn-blog.adafruit.com/uploads/2019/09/92419bluefruitupt.jpg)](https://youtu.be/XsFt8I0q0R0)
 
-Testing out the TensorFlow micro speech demo on Adafruit CLUE – [Adafruit](https://blog.adafruit.com/2020/01/06/testing-out-the-tensorflow-micro-speech-demo-on-adafruit-clue-tensorflow-nordictweets-arduino-microbit_edu-tensorflow-tensorflowlite-tinyml-nrf52840-nordicsemi-microbit/).
+Updates coming soon to Bluefruit! – [YouTube](https://youtu.be/XsFt8I0q0R0).
 
-[![](https://cdn-blog.adafruit.com/uploads/2020/01/11420featherCLUE.jpg)](https://blog.adafruit.com/2020/01/06/microbit-feather-match-made-in-heaven-microbit_edu-nordictweets-adafruit-microbit-adafruit-feather/)
+[![STEMMA Relay Breakout](https://cdn-blog.adafruit.com/uploads/2019/09/92419stemma.png)](https://www.adafruit.com/new)
 
-micro:bit + Feather = match made in heaven – [Adafruit](https://blog.adafruit.com/2020/01/06/microbit-feather-match-made-in-heaven-microbit_edu-nordictweets-adafruit-microbit-adafruit-feather/).
+STEMMA Relay Breakout. This all-SMT breakout lets you control a 60W relay with a plug-n-play 3-pin JST PH cable connection. Clicky clacky!
 
-[![](https://cdn-blog.adafruit.com/uploads/2020/01/11420sensorsun.jpg)](https://blog.adafruit.com/2020/01/11/sensor-saturday-on-device-magnetometer-calibration-adafruit-clue/)
+[![PyBadge cases](https://cdn-blog.adafruit.com/uploads/2019/09/92419pybadgec01.jpg)](https://www.adafruit.com/?q=pybadge)
 
-On-device Magnetometer Calibration with CLUE – [Adafruit](https://blog.adafruit.com/2020/01/11/sensor-saturday-on-device-magnetometer-calibration-adafruit-clue/).
+[![PyBadge cases](https://cdn-blog.adafruit.com/uploads/2019/09/92419pybadgec02.jpg)](https://www.adafruit.com/?q=pybadge)
+
+[![PyBadge cases](https://cdn-blog.adafruit.com/uploads/2019/09/92419pybadgec03.jpg)](https://www.adafruit.com/?q=pybadge)
+
+Working on some new cases for the [PyBadge](https://www.adafruit.com/?q=pybadge)!
+
+[![WiFi backpack](https://cdn-blog.adafruit.com/uploads/2019/09/92419sam01.jpg)](https://twitter.com/bwshockley/status/1175510380732387328?s=11)
+
+[![WiFi backpack](https://cdn-blog.adafruit.com/uploads/2019/09/92419sam02.jpg)](https://twitter.com/bwshockley/status/1175510380732387328?s=11)
+
+Mini SAM + WiFi backpack, maybe? – [Twitter](https://twitter.com/bwshockley/status/1175510380732387328?s=11).
+
+**Introducing Glider**
+
+[![Glider](https://cdn-blog.adafruit.com/uploads/2019/09/92419scottglide.jpg)](https://github.com/adafruit/glider)
+
+Glider is a portable mobile app aimed at making wireless editing of Python code really easy and fun. We’ll have more soon, this is the start! – [GitHub](https://github.com/adafruit/glider) & [Twitter](https://twitter.com/tannewt/status/1175436660902772736).
 
 New Learn Guides!
 -----------------
 
-[![](https://cdn-blog.adafruit.com/uploads/2020/01/11420quaddac.jpg)](https://learn.adafruit.com/adafruit-mcp4728-i2c-quad-dac)
+[![CircUp](https://cdn-blog.adafruit.com/uploads/2019/09/92419circup.jpg)](https://learn.adafruit.com/keep-your-circuitpython-libraries-on-devices-up-to-date-with-circup)
 
-[Adafruit MCP4728 I2C Quad DAC](https://learn.adafruit.com/adafruit-mcp4728-i2c-quad-dac) from [Bryan Siepert](https://learn.adafruit.com/users/siddacious)
+[Keep your CircuitPython libraries on devices easily updated with CircUp](https://learn.adafruit.com/keep-your-circuitpython-libraries-on-devices-up-to-date-with-circup) from [Melissa LeBlanc-Williams](https://learn.adafruit.com/users/MakerMelissa)
 
-[PiTFT Python + Pillow Animated Gif Player](https://learn.adafruit.com/pitft-linux-python-animated-gif-player) from [Melissa LeBlanc-Williams](https://learn.adafruit.com/users/MakerMelissa)
+[![Bluefruit](https://cdn-blog.adafruit.com/uploads/2019/09/92419bfguide.jpg)](https://learn.adafruit.com/adafruit-circuit-playground-bluefruit)
 
-[PyPortal MQTT Sensor Node/Control Pad for Home Assistant](https://learn.adafruit.com/pyportal-mqtt-sensor-node-control-pad-home-assistant) from [Richard Albritton](https://learn.adafruit.com/users/richa1)
+[Adafruit Circuit Playground Bluefruit](https://learn.adafruit.com/adafruit-circuit-playground-bluefruit) from [Kattni](https://learn.adafruit.com/users/kattni)
+
+[Adafruit Hallowing M4](https://learn.adafruit.com/adafruit-hallowing-m4) from [Kattni](https://learn.adafruit.com/users/kattni)
+
+Team updates!
+-------------
+
+**Bryan**
+
+[![Bryan](https://cdn-blog.adafruit.com/uploads/2019/09/92419bryan01.jpg)](https://circuitpython.org/)
+
+![Bryan](https://cdn-blog.adafruit.com/uploads/2019/09/92419mpu.png)
+
+> _“This week I finished up and released the SSD1305 framebuf driver to be used with the upcoming Large OLED Bonnet. If I may say so myself, it looks great! I also assembled and started working on the driver for the upcoming MPU-6050 STEMMA QT compatible 6-axis Accelerometer and Gyroscope.”_
+
+**Jepler**
+
+[![Jepler](https://cdn-blog.adafruit.com/uploads/2019/09/92419jepler.jpg)](https://circuitpython.org/)
+
+> _“This week, my main work was more research about DAC issues on the boards with samd51 microcontrollers, like the Metro M4 Express. A pull request improved various problems when the DACs were used for simple analog out or audio out, but some strange behavior remains where high amplitude square waves are concerned. I personally suspect there might be gremlins in the silicon at this point. Along the way, I learned how to use my scope’s pass/fail mode to record how often an anomaly occurred when looping a short sample via CircuitPython’s AudioOut. Answer: Less than 0.5% of the time in this test, after employing a workaround.”_
+
+**Kattni**
+
+> _“The Circuit Playground Bluefruit guide has been published! I found a number of bugs during testing, and we’ve since fixed them all. This week, I’m working on the Hallowing M4 guide. If you’re looking for how to get going with your Hallowing M4, keep an eye out for that to be published soon! After that, I’ll be adding three Bluetooth examples to the Circuit Playground Bluefruit guide. They’ll provide a starting point for using CircuitPython with the Bluetooth features of your CPB!”_
+
+**Lucian**
+
+> _“We just wrapped up AnalogIO for the STM32 today after getting held up by some tricky bugs. Now that that’s completed, I’ll be moving on to expanding the implementation of I2C and the rest of BusIO using a new implementation of peripherals specific to the STM32. This will enable a bunch of new modules and breakout boards to be used with CircuitPython! I’ll also be working on support for new F4 dev boards.”_
+
+**Melissa**
+
+> _“Just finished up writing a learn guide for a new utility called CircUp that allows easy maintenance of CircuitPython libraries across your devices. You can check out the learn guide [here](https://learn.adafruit.com/keep-your-circuitpython-libraries-on-devices-up-to-date-with-circup). I’ve gone through the displayio examples making some minor updates and updated the corresponding CircuitPython displayio learn guide pages. I’ve also been adding several new boards to the circuitpython.org website under the Downloads page. I took the Arduino ST7735 Library and split up the graphicstest example into 4 different examples so it would be easier to follow along with newer boards such as the HalloWing M4. I also fixed a bug in the CircuitPython Seesaw library that wasn’t allowing the NeoTrellis and MiniTFT boards to work correctly on the latest versions of CircuitPython. Now I’m working on going through updating the monochrome OLED learn guide pages to reflect some of the recently added displayio drivers.”_
 
 Updated Guides – Now With More Python!
 --------------------------------------
@@ -356,37 +382,67 @@ Keep checking back for more updated guides!
 CircuitPython Libraries!
 ------------------------
 
-[![CircuitPython Libraries](https://cdn-blog.adafruit.com/uploads/2020/01/11420blinka.png)](https://circuitpython.org/libraries)
+[![CircuitPython Libraries](https://cdn-blog.adafruit.com/uploads/2019/09/92419blinka.png)](https://circuitpython.org/libraries)
 
 CircuitPython support for hardware continues to grow. We are adding support for new sensors and breakouts all the time, as well as improving on the drivers we already have. As we add more libraries and update current ones, you can keep up with all the changes right here!
 
 For the latest drivers, download the [Adafruit CircuitPython Library Bundle](https://circuitpython.org/libraries).
 
-If you’d like to contribute, CircuitPython libraries are a great place to start. Have an idea for a new driver? File an issue on [CircuitPython](https://github.com/adafruit/circuitpython/issues)! Interested in helping with current libraries? Check out the [CircuitPython.org Contributing page](https://circuitpython.org/contributing). We’ve included open pull requests and issues from the libraries, and details about repo-level issues that need to be addressed. We have a guide on [contributing to CircuitPython with Git and Github](https://learn.adafruit.com/contribute-to-circuitpython-with-git-and-github) if you need help getting started. You can also find us in the #circuitpython channel on the [Adafruit Discord](https://adafru.it/discord). Feel free to contact Kattni (@kattni) with any questions.
+If you’d like to contribute, CircuitPython libraries are a great place to start. Have an idea for a new driver? File an issue on [CircuitPython](https://github.com/adafruit/circuitpython/issues)! Interested in helping with current libraries? Check out [this GitHub issue on CircuitPython](https://github.com/adafruit/circuitpython/issues/1246) for an overview of the State of the CircuitPython Libraries, updated each week. We’ve included open issues from the library issue lists, and details about repo-level issues that need to be addressed. We have a guide on [contributing to CircuitPython with Git and Github](https://learn.adafruit.com/contribute-to-circuitpython-with-git-and-github) if you need help getting started. You can also find us in the #circuitpython channel on the [Adafruit Discord](https://adafru.it/discord). Feel free to contact Kattni (@kattni) with any questions.
 
 You can check out this [list of all the CircuitPython libraries and drivers available](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md).
 
-The current number of CircuitPython libraries is **205**!
+The current number of CircuitPython libraries is **187**!
 
 **New Libraries!**
 
 Here’s this week’s new CircuitPython libraries:
 
-*   [Adafruit\_CircuitPython\_Pypixelbuf](https://github.com/adafruit/Adafruit_CircuitPython_Pypixelbuf)
-*   [Adafruit\_CircuitPython\_ProgressBar](https://github.com/adafruit/Adafruit_CircuitPython_ProgressBar)
+*   [Adafruit\_CircuitPython\_SSD1305](https://github.com/adafruit/Adafruit_CircuitPython_SSD1305)
+*   [Adafruit\_CircuitPython\_ATECC](https://github.com/adafruit/Adafruit_CircuitPython_ATECC)
 
 **Updated Libraries!**
 
 Here’s this week’s updated CircuitPython libraries:
 
+*   [Adafruit\_CircuitPython\_TLC59711](https://github.com/adafruit/Adafruit_CircuitPython_TLC59711)
+*   [Adafruit\_CircuitPython\_DS2413](https://github.com/adafruit/Adafruit_CircuitPython_DS2413)
+*   [Adafruit\_CircuitPython\_HTU21D](https://github.com/adafruit/Adafruit_CircuitPython_HTU21D)
+*   [Adafruit\_CircuitPython\_FancyLED](https://github.com/adafruit/Adafruit_CircuitPython_FancyLED)
+*   [Adafruit\_CircuitPython\_miniesptool](https://github.com/adafruit/Adafruit_CircuitPython_miniesptool)
+*   [Adafruit\_CircuitPython\_MCP3xxx](https://github.com/adafruit/Adafruit_CircuitPython_MCP3xxx)
+*   [Adafruit\_CircuitPython\_IRRemote](https://github.com/adafruit/Adafruit_CircuitPython_IRRemote)
+*   [Adafruit\_CircuitPython\_MPRLS](https://github.com/adafruit/Adafruit_CircuitPython_MPRLS)
+*   [Adafruit\_CircuitPython\_BME280](https://github.com/adafruit/Adafruit_CircuitPython_BME280)
+*   [Adafruit\_CircuitPython\_RTTTL](https://github.com/adafruit/Adafruit_CircuitPython_RTTTL)
+*   [Adafruit\_CircuitPython\_DS18X20](https://github.com/adafruit/Adafruit_CircuitPython_DS18X20)
+*   [Adafruit\_CircuitPython\_SHT31D](https://github.com/adafruit/Adafruit_CircuitPython_SHT31D)
 *   [Adafruit\_CircuitPython\_MotorKit](https://github.com/adafruit/Adafruit_CircuitPython_MotorKit)
-*   [Adafruit\_CircuitPython\_MiniMQTT](https://github.com/adafruit/Adafruit_CircuitPython_MiniMQTT)
-*   [Adafruit\_CircuitPython\_HID](https://github.com/adafruit/Adafruit_CircuitPython_HID)
-*   [Adafruit\_CircuitPython\_Bitmap\_Font](https://github.com/adafruit/Adafruit_CircuitPython_Bitmap_Font)
-*   [Adafruit\_CircuitPython\_RGB\_Display](https://github.com/adafruit/Adafruit_CircuitPython_RGB_Display)
-*   [Adafruit\_CircuitPython\_FocalTouch](https://github.com/adafruit/Adafruit_CircuitPython_FocalTouch)
-*   [Adafruit\_CircuitPython\_ICM20649](https://github.com/adafruit/Adafruit_CircuitPython_ICM20649)
-*   [Adafruit\_Blinka](https://github.com/adafruit/Adafruit_Blinka)
+*   [Adafruit\_CircuitPython\_SD](https://github.com/adafruit/Adafruit_CircuitPython_SD)
+*   [Adafruit\_CircuitPython\_Thermal\_Printer](https://github.com/adafruit/Adafruit_CircuitPython_Thermal_Printer)
+*   [Adafruit\_CircuitPython\_AVRprog](https://github.com/adafruit/Adafruit_CircuitPython_AVRprog)
+*   [Adafruit\_CircuitPython\_ImageLoad](https://github.com/adafruit/Adafruit_CircuitPython_ImageLoad)
+*   [Adafruit\_CircuitPython\_MSA301](https://github.com/adafruit/Adafruit_CircuitPython_MSA301)
+*   [Adafruit\_CircuitPython\_Nunchuk](https://github.com/adafruit/Adafruit_CircuitPython_Nunchuk)
+*   [Adafruit\_CircuitPython\_MPR121](https://github.com/adafruit/Adafruit_CircuitPython_MPR121)
+*   [Adafruit\_CircuitPython\_ADXL34x](https://github.com/adafruit/Adafruit_CircuitPython_ADXL34x)
+*   [Adafruit\_CircuitPython\_PCT2075](https://github.com/adafruit/Adafruit_CircuitPython_PCT2075)
+*   [Adafruit\_CircuitPython\_Requests](https://github.com/adafruit/Adafruit_CircuitPython_Requests)
+*   [Adafruit\_CircuitPython\_ESP32SPI](https://github.com/adafruit/Adafruit_CircuitPython_ESP32SPI)
+*   [Adafruit\_CircuitPython\_CircuitPlayground](https://github.com/adafruit/Adafruit_CircuitPython_CircuitPlayground)
+*   [Adafruit\_CircuitPython\_SSD1306](https://github.com/adafruit/Adafruit_CircuitPython_SSD1306)
+*   [Adafruit\_CircuitPython\_HX8357](https://github.com/adafruit/Adafruit_CircuitPython_HX8357)
+*   [Adafruit\_CircuitPython\_ST7789](https://github.com/adafruit/Adafruit_CircuitPython_ST7789)
+*   [Adafruit\_CircuitPython\_ST7735](https://github.com/adafruit/Adafruit_CircuitPython_ST7735)
+*   [Adafruit\_CircuitPython\_ST7735R](https://github.com/adafruit/Adafruit_CircuitPython_ST7735R)
+*   [Adafruit\_CircuitPython\_SSD1331](https://github.com/adafruit/Adafruit_CircuitPython_SSD1331)
+*   [Adafruit\_CircuitPython\_ILI9341](https://github.com/adafruit/Adafruit_CircuitPython_ILI9341)
+*   [Adafruit\_CircuitPython\_SSD1351](https://github.com/adafruit/Adafruit_CircuitPython_SSD1351)
+*   [Adafruit\_CircuitPython\_seesaw](https://github.com/adafruit/Adafruit_CircuitPython_seesaw)
+*   [Adafruit\_CircuitPython\_FeatherWing](https://github.com/adafruit/Adafruit_CircuitPython_FeatherWing)
+*   [Adafruit\_CircuitPython\_MAX31855](https://github.com/adafruit/Adafruit_CircuitPython_MAX31855)
+*   [Adafruit\_CircuitPython\_SimpleIO](https://github.com/adafruit/Adafruit_CircuitPython_SimpleIO)
+*   [Adafruit\_CircuitPython\_GPS](https://github.com/adafruit/Adafruit_CircuitPython_GPS)
 
 **PyPI Download Stats!**
 
@@ -400,160 +456,139 @@ Total
 
 Adafruit-Blinka
 
-2214
+1472
 
-39657
+46065
 
 Adafruit\_CircuitPython\_BusDevice
 
-1113
+822
 
-23357
-
-Adafruit\_CircuitPython\_NeoPixel
-
-408
-
-5188
+21636
 
 Adafruit\_CircuitPython\_MCP230xx
 
-271
+342
 
-9098
+6761
 
 Adafruit\_CircuitPython\_Register
 
-255
+171
 
-4947
+7074
 
-Adafruit\_CircuitPython\_RGB\_Display
+Adafruit\_CircuitPython\_Thermal\_Printer
 
-234
+164
 
-1673
+1067
 
-Adafruit\_CircuitPython\_PCA9685
+Adafruit\_CircuitPython\_ESP32SPI
 
-156
+143
 
-3064
+1870
+
+Adafruit\_CircuitPython\_NeoPixel
+
+128
+
+6296
 
 Adafruit\_CircuitPython\_Motor
 
-141
+128
 
-3223
+5228
 
-Adafruit\_CircuitPython\_ServoKit
+Adafruit\_CircuitPython\_PCA9685
 
-110
+123
 
-2950
+4869
 
 Adafruit\_CircuitPython\_MotorKit
 
-91
+118
 
-1786
-
-What’s the team up to?
-----------------------
-
-What is the team doing? Let’s find out!
-
-**Dan**
-
-![](https://cdn-blog.adafruit.com/uploads/2020/01/11420dan01.png)
-
-![](https://cdn-blog.adafruit.com/uploads/2020/01/11420dan02.png)
-
-I’m testing the BLE bonding code. Some lower-level code needs to change because the bonding event handlers need to live past the lifetime of the CircuitPython virtual machine; Scott had to do something similar already and was helpful on this. I got tired of adjusting the volume on my computer’s speakers by mouse-clicking, and built a mash-up of the [Media Dial](https://learn.adafruit.com/media-dial) and [Rotary Encoder](https://learn.adafruit.com/rotary-encoder) Learn Guide projects to send Consumer Control HID codes to my computer (volume up, down, and mute). I 3-D printed a [simplification of the Medial Dial from Thingiverse](https://www.thingiverse.com/thing:2910656), did a little code hacking, and it’s working just fine. One issue is that, since it’s CircuitPython, it shows up as CIRCUITPY and as a serial device whenever it’s plugged in. Since I want to leave it plugged in, and I’m constantly debugging other CircuitPython boards, I built a special version of CircuitPython with the mass storage and serial USB devices turned off. I can’t edit on the board anymore, but I added a reset button so I can always go back to the bootloader, reload regular CircuitPython, and work on the program again.
-
-**Bryan**
-
-![](https://cdn-blog.adafruit.com/uploads/2020/01/11429bryan.jpg)
-
-This week I’ve been continuing the work to migrate our 200+ CircuitPython libraries to GitHub Actions. It’s a big project! The end is in sight, but there’s still a notable amount of work to go. It’s not a flashy set of features or new release but it is an important step in making such a large number of projects manageable. Along a similar vein, I also did some work to update some existing libraries to support additional similar libraries, as well as assisting on moving some Arduino libraries to Actions. True, I haven’t worked on any new boards so far this week but there are plenty in the pipeline!
-
-**Jeff**
-
-Over the past week I have been picking up a lot of miscellaneous items, such as missing features in DigitalIO for seesaw I/O expander boards, a lockup that can occur when using bitmaps or audio files from SD cards together with SD accesses from other CircuitPython code, and crashes when requesting lots of bytes (or -1 byte!) from os.urandom. Yes, I literally worked on random bugs.
-
-**Kattni**
-
-This week I finished up the [CircuitPython Made Easy on Circuit Playground Express and Bluefruit](https://learn.adafruit.com/circuitpython-made-easy-on-circuit-playground-express) and it is finally ready to go. If you’re looking for the simplest way to use CircuitPython with either the Circuit Playground Express or Bluefruit, check out this guide. It includes the new Bluefruit-only features as well! I spent the day going through all the open PRs on all the CircuitPython libraries. We have some very old PRs that needed attention. If you submitted a PR to any of the libraries over the last year that we missed, please check your email or GitHub for updates or possible change requests. If you have an open PR that we still need to address, please don’t hesitate to let us know via GitHub or Discord. Thank you for all your contributions! Other than that, I’m planning to finish up my CircuitPython 2020 post, and a few miscellaneous things that came out of the Circuit Playground library update; there’s an example that needs to be updated, some cleaner error handling added, as well as the README needing both an update and an explanation of how the library works. Once that’s done, it’ll be on to something new!
-
-**Melissa**
-
-![](https://cdn-blog.adafruit.com/uploads/2020/01/11420melissa.gif)
-
-This past week I finished up the Animated Gif Player and its associated learn guide. You can check it out in the [learn guide](https://learn.adafruit.com/pitft-linux-python-animated-gif-player). Since I thought it would be fun, I created an animated Gif of the player playing an animated Gif. I also wrote up an epic blog post for my thoughts on CircuitPython 2020 as well as my story about how I started at Adafruit. You can check out the [Blog post](https://blog.adafruit.com/2020/01/07/a-story-this-past-year-from-melissa-and-some-thoughts-on-the-future-on-circuitpython-in-2020-circuitpython2020-makermelissa/). I have been also picking up working on the Blinka project, the CircuitPython compatibility layer for Raspberry Pi and other Single Board Computers. There has been some extra activity from community member contributions and that has been excellent to see.
-
-**Scott**
-
-On the first week of 2020, we kicked off the #circuitpython2020 planning. I’ve been posting all of the awesome responses on the Adafruit Blog. Our end date was January 13th’s CircuitPython Community meeting. I’ve also been wrapping up BLE work on packet aware protocols like the Apple Media Service and BLE MIDI. We swapped the CircuitPython HID library to take in a list of devices as well so that BLE HID devices can be used in place of USB HID devices. I’ve been meaning to write my own #circuitpython2020 post and talk about the need for focus, buuuuuuuttt I got distracted by @arturo182’s PR for iMX RT support in CircuitPython. It is very exciting, the chips are faster and some have more RAM (1MB!). In my distraction, I’ve added support for more dev boards including the Teensy 4!
+2603
 
 Upcoming events!
 ----------------
 
-[![PyCascades](https://cdn-blog.adafruit.com/uploads/2020/01/11420pyc.jpg)](https://2020.pycascades.com/)
+[![Open source hardware month](https://cdn-blog.adafruit.com/uploads/2019/09/92419oshwmonth.jpg)](https://www.oshwa.org/2019/07/26/october-is-open-hardware-month-2/)
 
-Scott is speaking at [PyCascades](https://2020.pycascades.com/) about Python’s Next Decade and Us. It is on February 8th and 9th, 2020.
+[October is Open Hardware Month @ Open Source Hardware Association](https://www.oshwa.org/2019/07/26/october-is-open-hardware-month-2/).
 
-> _“PyCascades is a two-day, single-track Python conference. We previously hosted PyCascades in Vancouver and Seattle. For our third iteration in 2020 we’ll be in Portland, Oregon USA. PyCascades is organized by members of the Python communities in Vancouver, Seattle, and Portland. We aim to bring together Python users and developers from both the Pacific Northwest and around the world.”_
+> _“October is Open Hardware Month! Check out the [Open Hardware Month website](http://ohm.oshwa.org/). Host an event, find a local event, or [certify](https://certification.oshwa.org/) your hardware to support Open Source Hardware. We are providing resources and asking you, the community, to host small, local events in the name of open source hardware. Tell us about your October event by [filling out the form](https://docs.google.com/forms/d/e/1FAIpQLSfjvJmcRXbpgjRACgY_BbaDzQZRa6wxEcP-xwaBpC0X6mvsPw/viewform). Your event will be featured on [OSHWA’s Open Hardware Month page](http://ohm.oshwa.org/) (provided you have followed OSHWA’s rules listed on the [“Do’s and Don’ts”](http://ohm.oshwa.org/dos-and-donts/) page).”_
 
-[![Meetup](https://cdn-blog.adafruit.com/uploads/2020/01/11420meetup.jpg)](https://www.meetup.com/PyLadies-Melbourne/events/rvhjlpybccbbc/)
+[Read more](https://www.oshwa.org/2019/07/26/october-is-open-hardware-month-2/), [Tweet for speakers in 2020](https://twitter.com/ohsummit/status/1154881782677831680), and Open Hardware Month @ [http://ohm.oshwa.org/](http://ohm.oshwa.org/)
 
-PyLadies Melbourne Monthly Meetup – MicroPython beginner workshop January 19, Melbourne, Australia. Matt, Oliver and Rose return for the second MicroPython beginner workshop and the first PyLadies Melbourne event for 2020. No experience necessary – Get started with hardware hacking thanks to MicroPython! – [Meetup](https://www.meetup.com/PyLadies-Melbourne/events/rvhjlpybccbbc/).
+[![Ada Lovelace Day](https://cdn-blog.adafruit.com/uploads/2019/09/92419ald.jpg)](https://findingada.com/)
 
-[![Pycon 2020](https://cdn-blog.adafruit.com/uploads/2020/01/11420pycon.png)](https://us.pycon.org/2020/)
+Ada Lovelace Day (ALD) is an international celebration of the achievements of women in science, technology, engineering and maths (STEM). It aims to increase the profile of women in STEM and, in doing so, create new role models who will encourage more girls into STEM careers and support women already working in STEM – [findingada.com](https://findingada.com/).
 
-April 15-23, 2020, Pittsburgh, Pennsylvania, USA – The PyCon 2020 conference, which will take place in Pittsburgh, is the largest annual gathering for the community using and developing the open-source Python programming language. It is produced and underwritten by the Python Software Foundation, the 501(c)(3) nonprofit organization dedicated to advancing and promoting Python. Through PyCon, the PSF advances its mission of growing the international community of Python programmers – [PyCon 2020](https://us.pycon.org/2020/).
+[![PyCon DE](https://cdn-blog.adafruit.com/uploads/2019/09/92419pyconde.jpg)](https://de.pycon.org/)
+
+PyCon DE & PyData Berlin, Germany // October 9 – 13 2019. Main conference, 3 days of talks and workshops. More than 100 sessions dedicated to PyData (artificial intelligence, machine learning, ethics…) and Python topics (programming, DevOps, Web, Django…) – [de.pycon.org](https://de.pycon.org/).
+
+[![micro:bit Live 2019](https://cdn-blog.adafruit.com/uploads/2019/09/92419mblive.png)](https://microbit.org/en/2019-04-12-microbit-live/)
+
+micro:bit Live 2019 is coming to BBC MediaCityUK, Greater Manchester, England on October 4-5. This will be the very first annual gathering of the global micro:bit community of educators and partners – [micro:bit](https://microbit.org/en/2019-04-12-microbit-live/).
+
+[![Hackaday Superconference](https://cdn-blog.adafruit.com/uploads/2019/09/92419supercon.jpg)](https://hackaday.io/superconference/)
+
+Hackaday Superconference is November 15th, 16th, and 17th in Pasadena, California, USA. The Hackaday Superconference is returning for another 3 full days of technical talks, badge hacking, and hands-on workshops: [Eventbrite](https://www.eventbrite.com/e/hackaday-superconference-2019-tickets-60129236164?aff=0626com) & [hackaday.io](https://hackaday.io/superconference/)
 
 Latest releases
 ---------------
 
-CircuitPython’s stable release is [4.1.2](https://github.com/adafruit/circuitpython/releases/latest) and its unstable release is [5.0.0 beta.3](https://github.com/adafruit/circuitpython/releases). New to CircuitPython? Start with our [Welcome to CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython).
+CircuitPython’s stable release is [4.1.0](https://github.com/adafruit/circuitpython/releases/latest) and its unstable release is [5.0.0-alpha.4](https://github.com/adafruit/circuitpython/releases). New to CircuitPython? Start with our [Welcome to CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython).
 
-[20200111](https://circuitpython.org/libraries) is the latest CircuitPython library bundle.
+[20190922](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest CircuitPython library bundle.
 
-[1.12](https://micropython.org/download) is the latest MicroPython release. Documentation for it is [here](http://docs.micropython.org/en/latest/pyboard/).
+[v1.11](https://micropython.org/download) is the latest MicroPython release. Documentation for it is [here](http://docs.micropython.org/en/latest/pyboard/).
 
-[3.8.1](https://www.python.org/downloads/) is the latest Python release. The latest pre-release version is [3.9.0a2](https://www.python.org/download/pre-releases/).
+[3.7.4](https://www.python.org/downloads/) is the latest Python release. The latest pre-release version is [3.8.0b4](https://www.python.org/download/pre-releases/).
 
-[1,560 Stars](https://github.com/adafruit/circuitpython/stargazers) Like CircuitPython? [Star it on GitHub!](https://github.com/adafruit/circuitpython)
+[1399 Stars](https://github.com/adafruit/circuitpython/stargazers) Like CircuitPython? [Star it on GitHub!](https://github.com/adafruit/circuitpython)
 
 Call for help – CircuitPython messaging to other languages!
 -----------------------------------------------------------
 
-[![Hello world](https://cdn-blog.adafruit.com/uploads/2020/01/11420helloworld.jpg)](https://github.com/adafruit/circuitpython/issues/1098)
+[![Hello world](https://cdn-blog.adafruit.com/uploads/2019/09/92419helloworld.jpg)](https://github.com/adafruit/circuitpython/issues/1098)
 
-We [recently posted on the Adafruit blog](https://blog.adafruit.com/2018/08/15/help-bring-circuitpython-messaging-to-other-languages-circuitpython/) about bringing CircuitPython messaging to other languages, one of the exciting features of CircuitPython 4.x is translated control and error messages. Native language messages will help non-native English speakers understand what is happening in CircuitPython even though the Python keywords and APIs will still be in English. If you would like to help, [please post](https://github.com/adafruit/circuitpython/issues/1098) to the main issue on GitHub and join us on [Discord](https://adafru.it/discord).
+We [posted on the Adafruit blog](https://blog.adafruit.com/2018/08/15/help-bring-circuitpython-messaging-to-other-languages-circuitpython/) about bringing CircuitPython messaging to other languages, one of the exciting features of CircuitPython 4.x is translated control and error messages. Native language messages will help non-native English speakers understand what is happening in CircuitPython even though the Python keywords and APIs will still be in English. If you would like to help, [please post](https://github.com/adafruit/circuitpython/issues/1098) to the main issue on GitHub and join us on [Discord](https://adafru.it/discord).
 
 We made this graphic with translated text, we could use your help with that to make sure we got the text right, please check out the text in the image – if there is anything we did not get correct, please let us know. Dan sent me this [handy site too](http://helloworldcollection.de/#Human).
 
 jobs.adafruit.com – Find a dream job, find great candidates!
 ------------------------------------------------------------
 
-[![jobs.adafruit.com](https://cdn-blog.adafruit.com/uploads/2020/01/11420jobs.jpg)](https://jobs.adafruit.com/)
+[![jobs.adafruit.com](https://cdn-blog.adafruit.com/uploads/2019/09/92419jobs.jpg)](https://jobs.adafruit.com/)
 
 [jobs.adafruit.com](https://jobs.adafruit.com/) has returned and folks are posting their skills (including CircuitPython) and companies are looking for talented makers to join their companies – from Digi-Key, to Hackaday, Microcenter, Raspberry Pi and more.
 
-15,839 thanks!
+14,151 thanks!
 --------------
 
-[![NUMBER THANKS](https://cdn-blog.adafruit.com/uploads/2020/01/1142015kdiscord.jpg)](https://adafru.it/discord)
+[![14,151](https://cdn-blog.adafruit.com/uploads/2019/09/9241914kdiscord.jpg)](https://adafru.it/discord)
 
 [![Adafruit Discord](https://discordapp.com/api/guilds/327254708534116352/embed.png?style=banner3)](https://discord.gg/adafruit)
 
-The Adafruit Discord community, where we do all our CircuitPython development in the open, reached over 15,839 humans, thank you! Join today! [https://adafru.it/discord](https://adafru.it/discord)
+The Adafruit Discord community, where we do all our CircuitPython development in the open, reached over 14,151 humans, thank you! Join today! [https://adafru.it/discord](https://adafru.it/discord)
+
+[![Chart](https://cdn-blog.adafruit.com/uploads/2019/09/92419discordchart.jpg)](https://adafru.it/discord)
+
+We just reached 14,000 humans, here’s what that looks like over time!
+
+Discord now offers “server boosts”. We have 13 on our server (level 2) and if we get to 50 boosts we get to level 3 and some other good features for the community: +100 emojis for a total of 250, 384 Kbps audio, vanity URL, 100 mb uploads for all members (and all the things we have now, like the server banner). Stop by and boost! [https://adafru.it/discord](https://adafru.it/discord).
 
 ICYMI – In case you missed it
 -----------------------------
 
-[![ICYMI](https://cdn-blog.adafruit.com/uploads/2020/01/11420icymi.jpg)](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev)
+[![ICYMI](https://cdn-blog.adafruit.com/uploads/2019/09/92419icymi.jpg)](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev)
 
 The wonderful world of Python on hardware! This is our first video-newsletter-podcast that we’ve started! The news comes from the Python community, Discord, Adafruit communities and more. It’s part of the weekly newsletter, then we have a segment on ASK an ENGINEER and this is the video slice from that! The complete Python on Hardware weekly videocast [playlist is here](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev).
 
@@ -566,7 +601,7 @@ And lastly, we are working up a one-spot destination for all things podcast-able
 Codecademy “Learn Hardware Programming with CircuitPython”
 ----------------------------------------------------------
 
-[![Codecademy CircuitPython](https://cdn-blog.adafruit.com/uploads/2020/01/11420codecademy_python.png)](https://www.codecademy.com/learn/learn-circuitpython?utm_source=adafruit&utm_medium=partners&utm_campaign=circuitplayground&utm_content=pythononhardwarenewsletter)
+[![Codecademy CircuitPython](https://cdn-blog.adafruit.com/uploads/2019/09/92419codecademy_python.png)](https://www.codecademy.com/learn/learn-circuitpython?utm_source=adafruit&utm_medium=partners&utm_campaign=circuitplayground&utm_content=pythononhardwarenewsletter)
 
 Codecademy, an online interactive learning platform used by more than 45 million people, has teamed up with the leading manufacturer in STEAM electronics, Adafruit Industries, to create a coding course, “Learn Hardware Programming with CircuitPython”. The course is now available in the [Codecademy catalog](https://www.codecademy.com/learn/learn-circuitpython?utm_source=adafruit&utm_medium=partners&utm_campaign=circuitplayground&utm_content=pythononhardwarenewsletter).
 
@@ -587,5 +622,5 @@ The CircuitPython Weekly Newsletter is a CircuitPython community-run newsletter 
 
   
   
-from Adafruit Industries – Makers, hackers, artists, designers and engineers! https://ift.tt/2QT7iqZ  
+from Adafruit Industries – Makers, hackers, artists, designers and engineers! https://ift.tt/2lEb1Mc  
 via [IFTTT](https://ifttt.com/?ref=da&site=blogger)

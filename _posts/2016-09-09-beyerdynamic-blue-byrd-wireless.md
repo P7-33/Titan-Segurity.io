@@ -1,0 +1,12 @@
+---
+title: 'beyerdynamic Blue BYRD wireless earphones launched in India for Rs.10499'
+date: 2019-11-01T12:02:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/beyerdynamic-Blue-BYRD-712x1024.jpg) beyerdynamic, the German premium audio manufacturer, has announced their in-ear wireless earphones called the Blue BYRD. They are a pair of lightweight, stylish and durable earphones with beyerdynamic's balanced sounds signature. The earphones also feature beyerdynamic's MOSAYC sound personalization technology. The Blue BYRD follow the same design language from its wired sibling, the Soul BYRD, with importance given to freedom and perfect comfort. The earphones connect through Bluetooth 4.2 and can use codecs like Qualcomm's aptX, aptX Low Latency and AAC. It will charge through USB-C and claim a battery life of 6 hours and come with a hard carry case. A standout feature for the earphones is the presence of MOSAYC sound personalization. This technology popularized with beyerdynamic headphones Aventho wireless, Amiron wireless and Xelento wireless, works via the MIY app. The app, using a technology called Mimi Defined, will create a personalized hearing profile for the user and store that profile on the earphones locally. This will ensure that the user can enjoy that sound profile on any device later. The beyerdynamic Blue BYRD is currently available on online stores, including Headphonezone.in, Flipkart.in and Amazon.in (Available soon) for Rs. 10499. The MIY app is available for download through the Play Store and ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=i3TZTZxhT2I:2nClCRcDWbA:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=i3TZTZxhT2I:2nClCRcDWbA:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=i3TZTZxhT2I:2nClCRcDWbA:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=i3TZTZxhT2I:2nClCRcDWbA:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=i3TZTZxhT2I:2nClCRcDWbA:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=i3TZTZxhT2I:2nClCRcDWbA:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/i3TZTZxhT2I)  
+[Read Here»](https://www.fonearena.com/blog/296974/beyerdynamic-blue-byrd-price-india.html)

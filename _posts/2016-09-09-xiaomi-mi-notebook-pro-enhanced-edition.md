@@ -1,0 +1,12 @@
+---
+title: 'Xiaomi Mi Notebook Pro Enhanced Edition 15.6-inch laptop with up to 10th Gen Intel Core i7 processor announced'
+date: 2019-10-22T13:29:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Xiaomi-Mi-Notebook-Pro-Enhanced-Edition-laptop.jpg) Xiaomi announced the Mi Notebook Pro with 8th Gen Intel Core processor, metal body back in 2017 and the company announced the Mi Gaming laptop with 9th Gen Intel Core processor. Expanding its lineup, Xiaomi has now announced Mi Notebook Pro Enhanced Edition with 10th Gen Intel Core processor, up to 1TB SSD, upgraded cooling system, and more. Xiaomi Mi Notebook Pro Enhanced Edition flaunts a 15.6-inch FULL HD display with a resolution of 1920 x 1080 pixels, 178° wide viewing angle, 300nit brightness, 800: 1 contrast ratio, 81.5% screen-to-body ratio, and is protected by Corning Gorilla Glass 3. It is powered by 10th Gen Intel Core i7-10510U processor on the top-end variant and i5-10210U processor on the base variant and features NVIDIA GeForce  MX250 GPU. It is paired with up to 16GB DDR4 dual-channel RAM with up to 1TB PCle SSD storage. It now features an upgraded cooling system with double heat pipe and fans with larger heat conduction area, high efficiency and rapid cooling. Regarding the audio, there are 2 x 2.5W speakers with Harman Audio and support for Dolby AudioTM Premium. There is also a fingerprint scanner with static push-type fingerprint unlock mechanism and has a full-size backlit keyboard. Xiaomi Mi Notebook ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=0GQNnMRjbK0:fh8JmF1Jyzw:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=0GQNnMRjbK0:fh8JmF1Jyzw:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=0GQNnMRjbK0:fh8JmF1Jyzw:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=0GQNnMRjbK0:fh8JmF1Jyzw:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=0GQNnMRjbK0:fh8JmF1Jyzw:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=0GQNnMRjbK0:fh8JmF1Jyzw:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/0GQNnMRjbK0)  
+[Read Here»](https://www.fonearena.com/blog/296068/xiaomi-mi-notebook-pro-enhanced-edition-price.html)

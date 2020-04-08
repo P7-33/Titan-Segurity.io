@@ -1,0 +1,12 @@
+---
+title: 'Intel India opens new design and engineering centre in Hyderabad to explore next-gen computing and communication tech'
+date: 2019-12-02T12:26:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Intel-Hyderabad-centre-1024x682.jpg) Hyderabad is seeing yet another boost in its technology prowess as Intel India has decided to set up its new design and engineering centre in the city. The centre is part of Intel's expansion plan that will further strengthen collaborations with governments, industry, academia. The large 3 lakh sq. feet facility is built over six LEED Platinum certified floors with modern amenities and 40,000 sq. ft of labs. The centre houses an incubation center for hardware and systems startups in the IT corridor of the city as part of the Intel India Maker Lab. It also has collaboration areas, clinic, fitness center and recreation zones. Intel India plans to use this facility to make significant contributions to global products and technologies across next generation SoCs, graphics, hardware platforms and software. With Intel performing poorly in the its latest offering in the consumer and enterprise processor market compared to its competitor, AMD, it is looking hard into getting itself back on its feet. The Hyderabad facility will hopefully fuel that growth. Commenting on the opening of the new design and engineering centre in Hyderabad, Sri K. T. Rama Rao, Hon’ble Minister for IT, Industries, MA & UD, Govt. of Telangana said: Hyderabad has emerged as a key destination ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=1NcQfttaI4s:j9OYewVu8Bs:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=1NcQfttaI4s:j9OYewVu8Bs:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=1NcQfttaI4s:j9OYewVu8Bs:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=1NcQfttaI4s:j9OYewVu8Bs:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=1NcQfttaI4s:j9OYewVu8Bs:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=1NcQfttaI4s:j9OYewVu8Bs:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/1NcQfttaI4s)  
+[Read Here»](https://www.fonearena.com/blog/299415/intel-design-engineering-centre-hyderabad.html)

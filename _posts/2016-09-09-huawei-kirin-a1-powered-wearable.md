@@ -1,0 +1,12 @@
+---
+title: 'HUAWEI Kirin A1-powered wearable devices to launch in India next month'
+date: 2019-11-14T13:38:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/HUAWEI-Kirin-A1.png) HUAWEI introduced its Kirin A1 chip at IFA 2019 and it debuted in FreeBuds 3 truly wireless earphones and HUAWEI Watch GT2. Now, HUAWEI has announced that it is launching Kirin A1 chipset next month in India and will be bringing Kirin A1-powered wearable devices soon. Kirin A1 chip is the world’s first certified BT/BLE dual-mode Bluetooth 5.1 SoC with a patented BT-UHD transmission protocol for 6.5Mbps transmission speed. It uses HUAWEI Isochronous Dual Channel transmission technology for low latency and low power consumption and 356 MHz audio processor for stable, fast Bluetooth connection, as well as an accurate audio and video synchronization. The chip can also eliminate the background noise during calls and enhance the voice simultaneously. The company aims to expand its wearable ecosystem with the launch of the Kirin A1 chip. HUAWEI also said that the Kirin A1 chip's ultra-energy efficient Cortex-M7 processor has achieved a maximum energy consumption rate of 10uA/MHz, far below the industry's 30uA/MHZ power consumption level. Kirin A1 chip will be launched in India early next month, and we can expect HUAWEI to launch FreeBuds 3, Watch GT2, and more products in India soon. Commenting on this, Tornado Pan, Country Manager, Huawei Consumer Business Group, Huawei India, ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=4kDh-ce-nrg:bfrWnT4y6tw:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=4kDh-ce-nrg:bfrWnT4y6tw:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=4kDh-ce-nrg:bfrWnT4y6tw:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=4kDh-ce-nrg:bfrWnT4y6tw:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=4kDh-ce-nrg:bfrWnT4y6tw:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=4kDh-ce-nrg:bfrWnT4y6tw:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/4kDh-ce-nrg)  
+[Read Here»](https://www.fonearena.com/blog/298050/huawei-kirin-a1-powered-wearable-devices-india-launch-teaser.html)

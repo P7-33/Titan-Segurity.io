@@ -1,0 +1,12 @@
+---
+title: 'OnePlus 7T with 6.55-inch FHD+ Fluid AMOLED 90Hz display, Snapdragon 855 Plus, 48MP quad rear cameras launched in India starting at Rs. 37999'
+date: 2019-09-26T16:26:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/OnePlus-7T-1.jpg) OnePlus just announced the OnePlus 7T, the company's latest flagship smartphone and the successor of last year's OnePlus 7 at an event in India, as it had promised. It has a 6.55-inch FHD+  Fluid AMOLED display with a notch, 90 Hz refresh rate, HDR10+, and a 20:9 aspect ratio. It has 3D Corning Gorilla Glass protection, is powered by Octa-Core Snapdragon 855 Plus SoC with 8GB of RAM, graphite heat sink, runs Android 10.0 with OxygenOS 10, has a 48-megapixel rear camera with Sony IMX586 sensor and OIS, same as the predecessor, but this comes with a 16M 117° ultra-wide angle camera that can also shoot 2.5macro and a 12MP telephoto camera for 2x optical zoom. There is Nightscape Mode for both normal and ultra-wide cameras. https://www.youtube.com/watch?v=nnmR33xO8bY The phone has the same 16-megapixel camera on the front with Sony IMX471 sensor as the OnePlus 7. The company says that it has upgraded independent haptic driver that provides natural, responsive tactile feedback. It retains the alert slider, has a matte-frosted glass back with 3D Corning Gorilla Glass protection, stereo speakers with Dolby Atmos and an in-display fingerprint sensor, but this comes with 3800mAh battery with Warp Charge 30T fast charging that can charge ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=NgszOU7W5yc:JhX-LKv-WUA:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=NgszOU7W5yc:JhX-LKv-WUA:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=NgszOU7W5yc:JhX-LKv-WUA:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=NgszOU7W5yc:JhX-LKv-WUA:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=NgszOU7W5yc:JhX-LKv-WUA:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=NgszOU7W5yc:JhX-LKv-WUA:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/NgszOU7W5yc)  
+[Read Here»](https://www.fonearena.com/blog/293133/oneplus-7t-price-india-specifications.html)

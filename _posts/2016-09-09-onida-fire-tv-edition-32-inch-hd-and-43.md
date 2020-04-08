@@ -1,0 +1,12 @@
+---
+title: 'Onida Fire TV Edition 32-inch HD and 43-inch FHD Smart LED TVs with Alexa voice remote launched in India starting at Rs. 12999'
+date: 2019-12-13T09:40:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Onida-Fire-TV.jpg) Amazon just launched Onida Fire TV Edition 32-inch HD and 43-inch Full HD smart TVs in India. These TVs run Fire OS compared to Android, yet it supports Prime Video, Hotstar, Netflix, YouTube, Sony Liv, Zee5, Sun Nxt and more, similar to a Fire TV stick says Amazon. With the voice remote, you can just ask Alexa to search for and watch from a vast catalog of streaming TV shows and movies. You can also Pair Fire TV Edition TV with any Echo device for a truly hands-free voice experience. Onida Fire TV Edition (32" and 43") specifications 32-inch (1366×768 pixels) HD LED display with 178-degree viewing angle 43-inch (1920×1080 pixels) display with 178-degree viewing angle, 1200:1 contrast ratio, 300 nits brightness Lucent Picture Engine Technology offers Rich High Definition Picture clarity Quad-Core Cortex A53 processor with Mali-450 GPU 1GB RAM, 8GB storage Fire OS Alexa support WiFi 802.11 b/g/n, MiraCast, Bluetooth 4.2, 3 x HDMI, 1 x USB, AUX Port 2 x 8W Stereo speakers, Dolby-DTS The Onida Fire TV Edition 32-inch is priced at Rs 12,999 and the 43-inch Full HD model costs Rs. 21,999. It will go on sale on Amazon starting from December 20th. The company says this ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=UlwA-dxqJPk:TD7nAIf5UYA:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=UlwA-dxqJPk:TD7nAIf5UYA:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=UlwA-dxqJPk:TD7nAIf5UYA:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=UlwA-dxqJPk:TD7nAIf5UYA:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=UlwA-dxqJPk:TD7nAIf5UYA:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=UlwA-dxqJPk:TD7nAIf5UYA:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/UlwA-dxqJPk)  
+[Read Here»](https://www.fonearena.com/blog/300288/onida-fire-tv-edition-price-india-features.html)

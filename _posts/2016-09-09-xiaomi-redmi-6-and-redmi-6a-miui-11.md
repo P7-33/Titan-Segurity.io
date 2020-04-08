@@ -1,0 +1,12 @@
+---
+title: 'Xiaomi Redmi 6 and Redmi 6A MIUI 11 Global Stable update starts rolling out'
+date: 2019-11-08T03:36:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2018/06/Xiaomi-Redmi-6A-1024x832.jpg) Xiaomi announced the latest iteration of its own proprietary Android skin MIUI, dubbed MIUI 11 along with the Redmi Note 8 series at an event in India. MIUI 11 aims to bring a brand new optimized modern UI design focused on content viewing and has also introduced nifty additions specifically for India. The company has already completed MIUI 11 rollout for the first phase of devices and has already started testing MIUI Stable Beta for the second batch of devices. \[gallery size="large" link="file" ids="297480,297479,297478"\] As per posts on Mi Community, Xiaomi has started rolling out MIUI 11 to Redmi 6 and Redmi 6A users in India. Redmi 6 gets MIUI 11.0.1.0.PCGMIXM update that weighs about 508MBs in size while Redmi 6A gets MIUI 11.0.4.0.PCBMIXM which weighs about 517MBs in size. Xiaomi has updated the security patch on both the devices as with MIUI 11 update both the devices now run on October security patch. \[gallery size="large" link="file" ids="297483,297482,297481"\] MIUI 11 brings new features such as New Minimalistic Design, Quick Replies, New Dynamic Sound Effects, Mi Share, Floating Calculator, Updated Mi File Manager, Steps Trackers and more to both the devices. MIUI 11 is being rolled out to all eligible devices as per the schedule, you ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=rwNZ6hyLdsk:mHV689662bo:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=rwNZ6hyLdsk:mHV689662bo:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=rwNZ6hyLdsk:mHV689662bo:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=rwNZ6hyLdsk:mHV689662bo:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=rwNZ6hyLdsk:mHV689662bo:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=rwNZ6hyLdsk:mHV689662bo:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/rwNZ6hyLdsk)  
+[Read Here»](https://www.fonearena.com/blog/297477/xiaomi-redmi-6-redmi-6a-miui-11-update.html)

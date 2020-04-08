@@ -1,0 +1,12 @@
+---
+title: 'Hello Summer v1.0.4 – A Children’s Camp WordPress Theme'
+date: 2019-11-08T08:51:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Samsung-Galaxy-Fold_fonearena-21-1024x664.jpg) Samsung launched the Galaxy Fold, the company's first foldable smartphone in India last month. This has two displays, one on the outside and an Infinity Flex Display on the inside. The phone also has six cameras, three on the back, two inside and one on the outside. We got to check out the phone, here we have the unboxing and the first impressions. https://www.youtube.com/watch?v=kdrZktdPdE0 https://www.youtube.com/watch?v=98Lyc96L7kw Box Contents Samsung Galaxy Note 10+ in Cosmos Black color Samsung Galaxy Buds tuned by AKG with ear tips Slim Cover with Aramid Fiber 2-pin 15W charger with Adaptive Fast Charging (5V-2A/9V-1.67A) USB Type-C cable USB Type-C OTG adapter Quick start guide and warranty information The Galaxy Fold has a 7.3-inch QXGA+ Dynamic AMOLED 4.2:3 aspect ratio main display with a resolution of 2152 x 1536 pixels and a pixel density of 362 PPI. Since it is a 4:3 aspect ratio display, you get black bars when watching videos, and you can't pinch to zoom to fill the screen since most videos are in 16:9 aspect ratio. The phone also supports HDR on YouTube and other apps like Netflix. The top protective layer of the Infinity Flex Display has been extended beyond the bezel, making it apparent that it ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=1ZdnhliGVC0:Y_lJqll9cV4:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=1ZdnhliGVC0:Y_lJqll9cV4:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=1ZdnhliGVC0:Y_lJqll9cV4:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=1ZdnhliGVC0:Y_lJqll9cV4:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=1ZdnhliGVC0:Y_lJqll9cV4:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=1ZdnhliGVC0:Y_lJqll9cV4:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/1ZdnhliGVC0)  
+[Read Here»](https://www.fonearena.com/blog/297492/samsung-galaxy-fold-unboxing-first-impressions.html)

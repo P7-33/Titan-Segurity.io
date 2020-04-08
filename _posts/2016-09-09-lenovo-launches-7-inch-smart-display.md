@@ -1,0 +1,12 @@
+---
+title: 'Lenovo launches 7-inch Smart Display, Smart Bulb and Smart Camera in India'
+date: 2019-12-04T15:50:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Lenovo-Smart-Display-Smart-Bulb-Smart-Camera-India.png) Lenovo has been expanding its lineup of Smart Home products in India with the launch of Smart Clock and 10-inch Smart Display earlier this year. Following that, now Lenovo has launched a new 7-inch Smart Display, Smart Bulb, and Smart Camera in India. Lenovo Smart Display comes with a 7-inch display with always-on functionality. It has support for Google Assistant and users can control over 5,000 smart home devices from major brands, answer video calls from family, monitor the kids’ room, or check who’s at the door through any smart camera connected with the display. It also has dual-array microphones and a full-range speaker letting users interact with the Smart Display seamlessly. The next product in today's announcement, Lenovo Smart Camera comes with a wide field of view, can record in FULL HD 1920 x 1080p resolution at 30 frames per second and supports H.264/MJPEG format compression. It connects through 2.4GHz WiFi, has an IR distance of 10-20 meters, and has a built-in microphone and speaker, allowing two-way audio capability. It also works well with the Google Assistant as well as Amazon Alexa platforms. Lastly, Lenovo also launched the new 'Lenovo Smart Bulb' which is a 9W smart bulb with 800 lumens and ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=DiWR1e_Uw2w:ubbRLqztE6k:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=DiWR1e_Uw2w:ubbRLqztE6k:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=DiWR1e_Uw2w:ubbRLqztE6k:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=DiWR1e_Uw2w:ubbRLqztE6k:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=DiWR1e_Uw2w:ubbRLqztE6k:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=DiWR1e_Uw2w:ubbRLqztE6k:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/DiWR1e_Uw2w)  
+[Read Here»](https://www.fonearena.com/blog/299604/lenovo-7-inch-smart-display-smart-bulb-smart-camera.html)

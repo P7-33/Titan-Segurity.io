@@ -1,0 +1,12 @@
+---
+title: 'Nubia Red Magic 3S with 6.65-inch FHD+ HDR AMOLED 90Hz display, Snapdragon 855 Plus, 12GB RAM global roll out begins October 16'
+date: 2019-09-25T11:08:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Nubia-Red-Magic-3S.jpg) After Nubia Z20 roll out on October 14, ZTE's nubia brand has announced that the Red Magic 3S gaming smartphone will roll out in USA, Canada, Europe, UK, Australia, Hong Kong, Israel, Japan, Singapore, Indonesia, Taiwan and  Macao through redmagic.gg on October 16th.  It has also announced '3S Challenges' campaign that would let users in these countries compete online for their chance to win a Red Magic 3S, Google Play gift cards, and more. Also, as the first visitors of redmagic.gg, a limited number of people will enjoy exclusive accessory giveaways and discount coupons with 'Early Bird Rewards' from October 9th to 16th. To remind you, it has the same 6.65-inch FHD+ HDR AMOLED display with 90hz refresh rate, HDR support, but this is powered by Snapdragon 855 Plus with up to 12GB of RAM and features UFS 3.0 storage. It also retains active cooling system that uses liquid cooling technology along with an internal turbo fan with upgraded air inlet, making active cooling more efficient to dramatically improving thermal performance. Game Space 2.1 lets you organize and quick-launch games, fine-tune performance settings and fan speeds, monitor temperature and usage stats in real time, and block notifications for uninterrupted gaming, activated with ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=BLqScw7tFwo:dMwyuNIGHgc:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=BLqScw7tFwo:dMwyuNIGHgc:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=BLqScw7tFwo:dMwyuNIGHgc:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=BLqScw7tFwo:dMwyuNIGHgc:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=BLqScw7tFwo:dMwyuNIGHgc:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=BLqScw7tFwo:dMwyuNIGHgc:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/BLqScw7tFwo)  
+[Read Here»](https://www.fonearena.com/blog/292938/nubia-red-magic-3s-global-roll-out.html)

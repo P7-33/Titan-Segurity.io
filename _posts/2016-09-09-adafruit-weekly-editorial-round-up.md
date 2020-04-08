@@ -1,12 +1,11 @@
 ---
-title: 'Adafruit Weekly Editorial Round-Up: Adafruit is part of the GitHub
-Student Developer Pack, NeoPixel Infinity Cube, YoPuppet updates and
-more!'
-date: 2020-01-19T21:25:00+01:00
+title: 'Adafruit Weekly Editorial Round-Up: Interview with Tim Clarke,
+CircuitPython Tests, EZ Make Oven and More!'
+date: 2019-10-27T20:10:00+01:00
 draft: false
 ---
 
-![NewImage 51](https://cdn-blog.adafruit.com/uploads/2020/01/INewImage-51.png "NewImage-51.png")
+![](https://cdn-blog.adafruit.com/uploads/2019/10/NewImage-53-1-2-483x480.png)
 
 * * *
 
@@ -22,51 +21,44 @@ We’ve got so much happening here at Adafruit that it’s not always easy to ke
 BLOG
 ----
 
-[![Adafruit 2019 3346](https://cdn-blog.adafruit.com/uploads/2020/01/Iadafruit_2019_3346.jpg "adafruit_2019_3346.jpg")](https://blog.adafruit.com/2020/01/16/great-news-for-students-adafruit-is-part-of-the-github-student-developer-pack-githubeducation-githubpack-github-adafruit/)
+[All this month](https://blog.adafruit.com/?s=%23OHM2019) we’ve been posting about open-source hardware, some of the folks who make and share it, and some open-source hardware history. Today’s post is an example of wanting to build something, but not wanting to sell or manufacture it. However! What if you still wanted to share it? Open-source hardware and software, allows you to scratch that itch and avoid being on the hook for actually mass manufacturing something.
 
-Great news for students! Adafruit is part of the [GitHub Student Developer Pack](https://www.adafruit.com/github-students)! What is the [GitHub Student Developer Pack?](https://education.github.com/pack)
+Some artists want to make the art and have others distribute it as an efficient and interesting form of expression which in itself is the art. Others want to make art that must and only be viewed in a gallery. And others just want to cause some problems and make you think.
 
-> GitHub is committed to students having access to the best real-world tools and training required to get started as developers. As students prepare to return to school for the spring semester, we’re doubling the value of the GitHub Student Developer Pack (the Pack).
-> 
-> This January, we’re welcoming 22 new partners, increasing the total value of tools and training included to more than $200k per student. And each offer is available to every student developer, anywhere that GitHub is available.
-> 
-> Whether you’re building your first website, localizing your app for the global market, or even hardware hacking—the Pack provides you with the tools you need to be successful.
-
-[Learn more!](https://blog.adafruit.com/2020/01/16/great-news-for-students-adafruit-is-part-of-the-github-student-developer-pack-githubeducation-githubpack-github-adafruit/)
+10 years ago we tried to make an open source flash light to make us puke [See more!](https://blog.adafruit.com/2019/10/24/10-years-ago-we-tried-to-make-an-open-source-flash-light-to-make-us-puke-ohm2019-oshwa-ohsummit-opensource-opensourcehardware-opensourceorg-adafruit-dhsgov-bedazzler/)
 
 **More BLOG**:
 
-*   [YoPuppet update! Digital puppets using AR (augmented reality)](https://blog.adafruit.com/2020/01/14/yopuppet-update-digital-puppets-using-ar-augmented-reality-2020cv_inc-yopuppet/)
-*   [A tiny purple dragon companion robot with Adafruit Feather](https://blog.adafruit.com/2020/01/15/a-tiny-purple-dragon-companion-robot-with-adafruit-feather-feather-neopixels-robots-the_gella/)
-*   [Building a Portable Soldering Workstation](https://blog.adafruit.com/2020/01/17/building-a-portable-soldering-workstation-soldering-tools-donttrythis/)
-*   [Sensor Saturday – On-device Magnetometer Calibration @adafruit #clue](https://blog.adafruit.com/2020/01/11/sensor-saturday-on-device-magnetometer-calibration-adafruit-clue/)
+*   The memories that shaped Tim Clarke: [The legacy and long jeopardy of a master toy designer](https://blog.adafruit.com/2019/10/21/the-memories-that-shaped-tim-clarke-the-legacy-and-long-jeopardy-of-a-master-toy-designer/)
+*   [Evil Mad Scientist Laboratories](https://blog.adafruit.com/2019/10/24/evil-mad-scientist-laboratories-ohm2019-oshwa-ohsummit-opensource-opensourcehardware-opensourceorg-emsl/) #OHM2019 #oshwa
+*   [CircuitPython snakes its way to the SparkFun Qwiic Micro – SAMD21 Development Board @sparkfun](https://blog.adafruit.com/2019/10/24/circuitpython-snakes-its-way-to-the-sparkfun-qwiic-micro-samd21-development-board-sparkfun-circuitpython-adafruit/)
+*   [CircuitPlayground Bluefruit low power tests](https://blog.adafruit.com/2019/10/25/circuitplayground-bluefruit-low-power-tests-adafruit-bluefruit-arduino-circuitpython/)
 
 * * *
 
 LEARN
 -----
 
-[![Led strips hero close loop](https://cdn-blog.adafruit.com/uploads/2020/01/Iled_strips_hero-close-loop.gif "led_strips_hero-close-loop.gif")](https://learn.adafruit.com/neopixel-infinity-cube)
+![](https://cdn-blog.adafruit.com/uploads/2019/10/temperature___humidity_reflow_animation-1-600x338.gif)
 
-[NeoPixel Infinity Cube](https://learn.adafruit.com/neopixel-infinity-cube): Mirrored Acrylic and NeoPixel Magic!
+[EZ Make Oven](https://learn.adafruit.com/ez-make-oven)  
+Make your own reflow oven with this easy to build project! Soldering through hole components onto printed circuit boards (PCBs) is a very useful skill to have and needed for many DIY projects. However, there are some components that do not have through hole versions and are only available as surface mount versions. Or, a project may need a smaller footprint using smaller components. In these cases, you will need to put aside your solder iron and use a reflow oven.
 
-In this project we’re building an Infinity Cube with NeoPixels!
+A reflow oven is used for soldering of surface mount electronic components onto PCBs. In the past, reflow ovens were large, expensive and limited to commercial units. With the popularity of the DIY movement, reflow ovens have come down in size and price to make them affordable to hobbyists. Some of these are available in kit form. Unfortunately, these kits require modifying a toaster oven’s high voltage wiring and can take time to assemble.
 
-The frame is 3D printed and the acrylic panels are coated with see-through mirror film.
-
-With mirrored acrylic, this creates a really neat effect that’s borderline magic!
-
-LED strips inside the frame light up, making the acrylic appear transparent. There are lots of options for customization, so you can change colors and speed! [Learn more!](https://learn.adafruit.com/neopixel-infinity-cube)
+The EZ Make Oven is just that: it’s an easy to make reflow oven that requires no high voltage wiring and does not require any disassembly of the oven. The reflow oven can be put together in just a few hours with just some minimal soldering required. [See the full guide here!](https://learn.adafruit.com/ez-make-oven)
 
 **More LEARN**
 
-*   [MagicLight Bulb Color Mixer with Circuit Playground Bluefruit](https://learn.adafruit.com/magiclight-bulb-mixer)
-*   [Sideloading Apps on Oculus Quest](https://learn.adafruit.com/sideloading-on-oculus-quest)
-*   [PyPortal 2FA TOTP Authentication Friend](https://learn.adafruit.com/pyportal-2fa-totp-authentication-friend)
+*   [Wireless Image Transfer with Circuit Playground Bluefruit and TFT Gizmo](https://learn.adafruit.com/wireless-image-transfer-with-circuit-playground-bluetooth-and-tft-gizmo)
+*   Animatronic Fizzgig MonsterM4sk Puppet  
+    Bring Your Favorite Character to life: [Animatronic Fizzgig MonsterM4sk Puppet](https://learn.adafruit.com/animatronic-fizzgig-monsterm4sk-puppet/overview)!
+*   [OOZE MASTER 3000: NeoPixel Simulated Liquid Physics](https://learn.adafruit.com/ooze-master-3000-neopixel-simulated-liquid-physics)
+*   [Adafruit 1.14″ 240×135 Color TFT Breakout LCD Display](https://learn.adafruit.com/adafruit-1-14-240x135-color-tft-breakout)
 
 Browse all that’s new in the Adafruit Learning System [here](https://learn.adafruit.com/guides/latest)!
 
   
   
-from Adafruit Industries – Makers, hackers, artists, designers and engineers! https://ift.tt/2TDNM3G  
+from Adafruit Industries – Makers, hackers, artists, designers and engineers! https://ift.tt/347hBvg  
 via [IFTTT](https://ifttt.com/?ref=da&site=blogger)

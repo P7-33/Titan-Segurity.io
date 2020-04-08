@@ -1,0 +1,12 @@
+---
+title: 'Canon EOS M200 24.1 MP mirrorless camera launched in India for Rs. 39999'
+date: 2019-12-03T13:51:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Canon-EOS-M200-1024x606.jpg) Canon has launched yet another offering in its compact mirrorless segment that's targeted at vloggers, the EOS M200 which is an update to the popular Canon M100 camera that was released back in 2017. It features a 24.1 megapixel APS-C sensor that is powered by its updated DIGIC 8 image processor and Dual Pixel AF with Eye tracking support. The EOS M200 is capable of taking high quality 24.1 megapixel still along with 4K video recording capabilities. The DIGIC 8 image processor ensures high image quality even in low light with minimum noise and grain, while performing multiple enhancements on both still and video so you always get the best possible output. The camera is capable at recording upto 4k at 24fps or 1080p upto 60fps. The Dual Pixel CMOS autofocus with advanced Eye Detection AF gives the M200 fast and accurate autofocus that can continually track moving subjects. The camera comes with a 180 degree swivelling LCD screen, Canon M-series lens support with the ability to use Canon's EF/EF-S lenses with the optional EF Mount adapter. Canon EOS M200 Specifications: Image Processor: DIGIC 8 Image sensor: APS-C size CMOS (Approx. 24.1 MP) Focal plane AF: Dual Pixel CMOS AF Still image normal max ISO ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=fMjXjtM-PO8:4mKWi5FxfL0:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=fMjXjtM-PO8:4mKWi5FxfL0:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=fMjXjtM-PO8:4mKWi5FxfL0:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=fMjXjtM-PO8:4mKWi5FxfL0:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=fMjXjtM-PO8:4mKWi5FxfL0:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=fMjXjtM-PO8:4mKWi5FxfL0:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/fMjXjtM-PO8)  
+[Read Here»](https://www.fonearena.com/blog/299514/canon-eos-m200-price-india.html)

@@ -1,0 +1,12 @@
+---
+title: 'ASUS ROG Phone Android Pie update finally starts rolling out'
+date: 2019-11-29T07:21:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/03/Asus-ROG-Phone_fonearena-1-1024x680.jpg) ASUS announced the ROG Phone back in June last year, and it was launched in India in November. The phone was launched running Android 8.1 (Oreo), now after a year the company has released Android Pie update for the phone, even though its 5z phone has got the Android 10 update. The update brings new design to Game Center, adds Adaptive brightness, Adaptive Battery, New notifications, Status bar icon manager, Screen recorder, and Local backup in Settings, brings new features and design to Game Genie panel, Swipe up on Home button gesture and lots more. The update carries firmware number 16.0410.1910.91 and is being rolled out in a phased manner. Check out the complete changelog below. Release Notes Upgraded system to Android P Removed Page Marker, ZeniMoji, Report Location in Safeguard, weather animation setting, AI charging Removed the Yandex cloud opetion of File Manager Application Upgraded Game Center to Armoury Crate with whole new design Added "Adaptive brightness", "Adaptive Battery", "New notifications", "Status bar icon manager", "Screen recorder", and "Local backup" in Settings Upgraded Game Genie panel with new design and features Added Android P "Swipe up on Home button" gesture Support 24-hour forecast in Weather application Revamped Mobile Manager, Contacts, File Manager, ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=N19BnLF-_7k:HFdEtFOdAmI:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=N19BnLF-_7k:HFdEtFOdAmI:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=N19BnLF-_7k:HFdEtFOdAmI:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=N19BnLF-_7k:HFdEtFOdAmI:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=N19BnLF-_7k:HFdEtFOdAmI:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=N19BnLF-_7k:HFdEtFOdAmI:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/N19BnLF-_7k)  
+[Read Here»](https://www.fonearena.com/blog/299304/asus-rog-phone-android-pie-update.html)

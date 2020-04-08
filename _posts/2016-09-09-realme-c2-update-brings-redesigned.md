@@ -1,0 +1,12 @@
+---
+title: 'Realme C2 update brings Redesigned Notification Center Interface, Digital Wellbeing and September Security Patch'
+date: 2019-09-30T03:31:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/04/Realme-C2-2-1024x1008.jpg) realme launched the realme C2 along with realme 3 Pro in the country back in April running ColorOS 6.0 based on Android 9.0 (Pie). To recall, It has a 6.1-inch HD+ Dewdrop display and, is powered by MediaTek Helio P22 SoC with up to 3GB of RAM. It has a 13-megapixel rear camera along with a secondary 2-megapixel camera for portrait shots and a 5-megapixel front camera. The company has already announced Android 10 update roadmap for its smartphones, but realme C2 wasn't included in the list. As per an official post on realme Community, realme has started rolling out a new Android Pie based ColorOS update to realme C2 users in India. The new update comes as RMX1941EX\_11\_A.17 and brings September 2019 security patch along with digital wellbeing, and redesigned notification center interface to realme C2. realme says it is a staged rollout and will be randomly pushed to a limited number of users and will have a broader rollout in coming days after the company makes sure there are no critical bugs. If no critical bugs are found, the build will be rolled out to all the users in upcoming days, so it may take some time before it appears on your device. You ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=915wLwUiTZE:txqNdVcHwLI:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=915wLwUiTZE:txqNdVcHwLI:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=915wLwUiTZE:txqNdVcHwLI:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=915wLwUiTZE:txqNdVcHwLI:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=915wLwUiTZE:txqNdVcHwLI:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=915wLwUiTZE:txqNdVcHwLI:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/915wLwUiTZE)  
+[Read Here»](https://www.fonearena.com/blog/293550/realme-c2-september-security-patch-redesigned-notification-center-digital-wellbeing.html)

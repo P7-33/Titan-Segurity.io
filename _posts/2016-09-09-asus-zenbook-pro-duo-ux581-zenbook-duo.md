@@ -1,0 +1,12 @@
+---
+title: 'ASUS ZenBook Pro Duo (UX581), ZenBook Duo (UX481), VivoBook S14 (S431) and more launched in India'
+date: 2019-10-17T14:39:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/05/ASUS-ZenBook-Pro-Duo.jpg) ASUS announced the ZenBook Pro Duo, ZenBook Duo, ZenBook Edition 30 laptops at Computex 2019 event in Taipei earlier this year and it was also showcased at IFA 2019 recently. Today, ASUS has launched these models in India along with VivoBook S14 (S431) without a ScreenPad and VivoBook S15(S532) with ScreenPad 2.0. ASUS ZenBook Pro Duo (UX581) specifications 15.6-inch 16:9 4K OLED touchscreen display with a resolution of 3840 x 2160 pixels, 5mm-thin bezel, 89% screen-to-body ratio, and 178° wide-view technology 9th Generation Intel Core i9-9980HK processor with 2.4GHz base clock speed and Turbo Boost up to 5.0GHz; 16MB cache NVIDIA GeForce RTX 2060 GPU 32GB DDR4 2666MHz RAM 1TB PCIe Gen 3 x4 SSD Full size backlit keyboard, 14-inch 4K ScreenPad Plus touch display with 178˚ wide-view technology, NumberPad -Integrated LED-backlit numeric keypad on the touchpad Connectivity and ports: Up to Intel Wi-Fi 6 (802.11ax), Bluetooth 5.0, 1 x Thunderbolt 3 USB Type-C with Display Port, 2 x USB 3.1 Gen 2 Type-A , 1 x HDMI 2.0, 1 x Audio combo jack, 1 x DC-in IR HD camera ASUSSonicMaster stereo audio system, Cortana and Alexa voice-recognition support Dimensions: 2.4 x 35.9 x 24.6 cm(Height x Width x Depth) ; ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=qtSraefaetw:AGhV7r_xLF4:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=qtSraefaetw:AGhV7r_xLF4:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=qtSraefaetw:AGhV7r_xLF4:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=qtSraefaetw:AGhV7r_xLF4:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=qtSraefaetw:AGhV7r_xLF4:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=qtSraefaetw:AGhV7r_xLF4:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/qtSraefaetw)  
+[Read Here»](https://www.fonearena.com/blog/295530/asus-zenbook-pro-duo-ux581-zenbook-duo-ux481-vivobook-s14-s431-price-india.html)

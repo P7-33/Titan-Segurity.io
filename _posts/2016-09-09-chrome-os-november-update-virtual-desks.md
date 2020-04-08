@@ -1,0 +1,12 @@
+---
+title: 'Chrome OS November update: Virtual Desks, phone call, quicker printing and more'
+date: 2019-11-06T08:57:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Google-Pixelbook-Go-1-1024x588.jpg) Chrome OS has been updated with a bunch of new features aimed at improving functionality for the user. These include Virtual Desks to help organize your workspace, easier phone call making capabilities, quicker printing and feedback sharing. The best feature in this update has to be Virtual Desks. This feature has been present in Windows 10 and macOS for a long time and it is great to finally see it in Chrome OS. It allows the user to create multiple workspaces within their Chromebook.  The user can then organize their apps by simply putting them in different workspaces. For example, a student can have different workspaces for different classes. Or maybe the user would like to keep separate workspaces for leisure and work. It is definitely a welcome feature. With this update, Google has also made it much easier to make calls for Android users. If the user encounters a phone number in their Chromebook, they can right click the number and send it to their phone. Users must have turned on syncing to use this feature. Printing has been also made easier with this update. Pressing Ctrl+P will automatically bring up a list of compatible printers, with no setup needed. The number ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=jYaY010u9js:_xyDXGibgmk:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=jYaY010u9js:_xyDXGibgmk:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=jYaY010u9js:_xyDXGibgmk:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=jYaY010u9js:_xyDXGibgmk:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=jYaY010u9js:_xyDXGibgmk:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=jYaY010u9js:_xyDXGibgmk:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/jYaY010u9js)  
+[Read Here»](https://www.fonearena.com/blog/297317/chrome-os-november-update-virtual-desks-phone-call-quicker-printing.html)

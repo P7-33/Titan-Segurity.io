@@ -1,0 +1,12 @@
+---
+title: 'OnePlus announces Bug Bounty program, offers rewards up to $7000'
+date: 2019-12-19T14:28:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/OnePlus-7T_fonearena-04-1024x697.jpg) Last year, a security breach in OnePlus systems exposed the credit card details of some customers and recently in another security breach, OnePlus customers’ names, emails, and shipping addresses have been exposed. Following the incidents, OnePlus has now announced its partnership with the security platform HackerOne and has also announced a new bug bounty program. OnePlus has set up a new Security Response Center which will offer bug bounty to security experts who discover threats and report to the company. The rewards for the bug bounty program will range from US$ 50 (Rs. 3555 approx.) to US$ 7000 (Rs. 4,97,592 approx.) and this depends on the potential impact of the threat. The potential threats can be reported to the OnePlus official website, OnePlus Community forums and OnePlus Applications. Also, OnePlus' partnership with the security platform HackerOne will let the company gain insight to better uncover potential threats. This will initially begin as a pilot program and it will include selected researches who will submit their reports through HackerOne. A public version will go live later in 2020. Commenting on this, Pete Lau, CEO, and Founder of OnePlus said: OnePlus truly values the privacy of all information our customers entrust to us. The two projects ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=-OcqWyjcX_Y:qPQ7Xser7bQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=-OcqWyjcX_Y:qPQ7Xser7bQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=-OcqWyjcX_Y:qPQ7Xser7bQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=-OcqWyjcX_Y:qPQ7Xser7bQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=-OcqWyjcX_Y:qPQ7Xser7bQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=-OcqWyjcX_Y:qPQ7Xser7bQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/-OcqWyjcX_Y)  
+[Read Here»](https://www.fonearena.com/blog/300741/oneplus-bug-bounty-program-reward.html)

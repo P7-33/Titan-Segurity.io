@@ -1,0 +1,12 @@
+---
+title: 'HONOR V30 and V30 Pro with 6.57-inch FHD+ display, Kirin 990 5G, 40MP triple rear cameras, dual in-screen front cameras announced'
+date: 2019-11-26T11:29:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Vivo-V30-Pro.jpg) HUAWEI's HONOR brand today announced HONOR V30 and V30 Pro smartphones with 5G support in China, as it had promised. These pack a 6.57-inch Full HD+ LCD screen with dual punch-hole design for a 32-megapixel camera along with an 8-megapixel ultra-wide sensor. It is powered Kirin 990 5G chip with support for NSA & SA 5G dual-mode support. These pack triple rear cameras with matrix arrangement and Sony IMX600 40MP sensor and an 8-megapixel telephoto lens for 3x optical zoom and four-axis OIS, but the V30 gets an 8-megapixel ultra-wide camera, while the V30 Pro features a 12-megapixel dedicated video camera. These feature glass back, side-mounted fingerprint scanner and pack 4200mAh and 4100mAh battery, respectively with support for HUAWEI's super Fast charging and 27W wireless charging as well as 7.5W reverse charging. HONOR V30 and V30 Pro specifications 6.57-inch (2400 × 1080 pixels) Full HD+ LCD 2.5D curved glass display with 96% NTSC color gamut HUAWEI Kirin 990 5G (2 x Cortex-A76 Based 2.86 GHz + 2 x Cortex-A76 Based 2.36 GHz + 4 x Cortex-A55 1.95 GHz) processor with ARM Mali-G76MP16 GPU, Dual Big Core + Tiny Core NPUs(Neural-network Processing Unit) 6GB / 8GB RAM with 128GB storage (V30) / 8GB ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=FiWmXLwqLCo:XZ3GbrkYMRk:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=FiWmXLwqLCo:XZ3GbrkYMRk:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=FiWmXLwqLCo:XZ3GbrkYMRk:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=FiWmXLwqLCo:XZ3GbrkYMRk:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=FiWmXLwqLCo:XZ3GbrkYMRk:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=FiWmXLwqLCo:XZ3GbrkYMRk:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/FiWmXLwqLCo)  
+[Read Here»](https://www.fonearena.com/blog/298951/honor-v30-v30-pro-price-specifications.html)

@@ -1,0 +1,19 @@
+---
+title: 'The Supreme Court will hear Google and Oracle’s nearly decade-long copyright fight'
+date: 2019-11-15T21:01:00+01:00
+draft: false
+---
+
+![](https://cdn.vox-cdn.com/thumbor/zttUG_CXOH6BUKdBFl-Ta1lmxAQ=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/65709721/acastro_181130_1777_google_bias_0001.0.0.jpg) Illustration by Alex Castro
+
+The US Supreme Court will take up a long-running copyright lawsuit between Oracle and Google, [it confirmed today](https://www.supremecourt.gov/orders/courtorders/111519zr_8n59.pdf). This lets Google contest a controversial ruling that could deal a major blow to software development by establishing that companies can deny access to basic code elements through copyright law. No date has been set for a trial.
+
+Oracle has claimed for years that Google's Android operating system is built on stolen code from the Java software platform. Google argues that it fairly developed its own alternative to Java code. Lower courts have sided with Google, but the Federal Circuit Court of Appeals has [overturned their decisions multiple times](https://www.theverge.com/2018/3/27/17169064/federal-circuit-oracle-v-google-third-trial-java-android). It's concluded that companies can copyright application programming interface (API) packages, which are vital to making different software programs work together, and prevent other companies from using them commercially without a license.
+
+Google has won multiple victories but had them reversed
+
+The most recent ruling came in 2018, when the court declared that Google made [non-fair use](https://arstechnica.com/tech-policy/2018/03/googles-use-of-the-java-api-packages-was-not-fair-appeals-court-rules/) of Java's API. Google [petitioned the Supreme Court](https://arstechnica.com/tech-policy/2019/01/google-asks-supreme-court-to-overrule-disastrous-ruling-on-api-copyrights/) in [January of 2019](https://www.theverge.com/2019/1/24/18196419/google-supreme-court-code-copyright), asking it to overturn "a devastating one-two punch at the software industry." Microsoft, Mozilla, and several other companies supported Google's petition, arguing that the Federal Circuit ruling would destroy developers' ability to freely build new programs that work with existing software platforms. The internet advocacy groups Public Knowledge and the Electronic Frontier Foundation also came out in support of Google.
+
+Oracle and Google's dispute has lasted nearly a decade. Oracle sued Google after it acquired Java owner Sun Microsystems in 2010, alleging that Google had infringed on copyrights and patents for Java. Google [definitively won](https://www.theverge.com/2012/5/23/3023627/oracle-google-trial-patent-verdict/in/2731667) the patent suit in 2012, and it was [handed a copyright victory](https://www.theverge.com/2012/5/31/3055620/oracle-java-api-not-covered-copyright-law) soon after. However, Oracle appealed that decision, leading to [years of legal war](https://www.theverge.com/2018/3/27/17169064/federal-circuit-oracle-v-google-third-trial-java-android) between the companies. [Google unsuccessfully asked](https://www.theverge.com/2015/6/29/8856729/oracle-v-google-supreme-court-declines) the Supreme Court to examine an earlier Federal Circuit ruling in 2014.
+
+Google's senior vice president of global affairs, Kent Walker, praised the decision. "We welcome the Supreme Court's decision to review the case and we hope that the Court reaffirms the importance of software interoperability in American competitiveness," said Walker in a statement to _The Verge_. "Developers should be able to create applications across platforms and not be locked into one company's software." We've reached out to Oracle and are awaiting comment.

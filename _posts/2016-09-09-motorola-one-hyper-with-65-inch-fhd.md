@@ -1,0 +1,12 @@
+---
+title: 'Motorola One Hyper with 6.5-inch FHD+ Total Vision display, Android 10, 64MP rear camera, 32MP pop-up front camera announced'
+date: 2019-12-04T16:40:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Motorola-one-Hyper-1-1024x889.jpg) Motorola just announced One Hyper, the company's latest One series smartphones with a pop-up camera design, as it had promised. It has a 6.5-inch Full HD+ 19:9 aspect ratio LCD screen without a notch, which it calls Total Vision, is powered by Snapdragon 675 with 4GB of RAM and runs Android 10 out of the box. It packs a 64-megapixel main camera with Night Vision and Quad Pixel technologies, laser auto focus technology to focus instantly, even in the dark and an 8-megapixel 118° ultra-wide angle lens. With Google CameraX API, third party apps like Instagram can take advantage of Motorola’s camera AI technology, like HDR, Night Vision and Portrait Mode, said the company. There is a 32-megapixel pop-up selfie camera with the same Night Vision mode and Quad Pixel technology that brings in 4x more light sensitivity. The pop up camera has a drop protection mechanism that triggers it to automatically retract during a sudden drop or when the phone is flipped upside down. It has a rear-mounted fingerprint scanner with a helpful notification light around it that subtly illuminates in different ways to keep you updated without disturbing you. The phone packs a 4000mAh battery with support for 45W Hyper ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Gw1BD-HAoaE:gaNZA1RQjzM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Gw1BD-HAoaE:gaNZA1RQjzM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Gw1BD-HAoaE:gaNZA1RQjzM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Gw1BD-HAoaE:gaNZA1RQjzM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Gw1BD-HAoaE:gaNZA1RQjzM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Gw1BD-HAoaE:gaNZA1RQjzM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Gw1BD-HAoaE)  
+[Read Here»](https://www.fonearena.com/blog/299628/motorola-one-hyper-price-specifications.html)

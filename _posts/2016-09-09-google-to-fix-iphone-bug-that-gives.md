@@ -1,0 +1,12 @@
+---
+title: 'Google to fix iPhone bug that gives users free original quality ‘HEIC’ photo backups'
+date: 2019-10-21T09:04:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2018/10/Google-Photos-Live-Album-e1539103888672.jpg) Right After the Pixel 4 launch, we found out the Pixel 4 users will no longer get free original quality backup for their photos like the earlier Pixel phones. Soon after this news, a user on the r/Apple subreddit explained with a post about how Apple iPhone users have been getting free original quality unlimited backup of their photos as iPhones store their photos in HEIC format. In the post, Redditor u/stephenvsawyerr explains how all recent iPhones have been clicking their photos in HEIC format which is a new compressed and more efficient format. This makes the file size even smaller than Googles own compressed JPEG which leads to Google photos simply backing up iPhone photos in full original quality. Therefore, iPhone users essentially have had a Pixel exclusive feature for quite a while and might continue to have while Pixel 4 user will not. However, Google is apparently aware of this "bug" and has said that they are working on a fix, according to Android Police. What remains unclear is how they will fix it. They could possibly start charging iPhone users for HEIC images stored in Photos, even if they're small and don't take up much space. Google could also ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=GUFL3mWnVnw:91CfOmcKo_g:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=GUFL3mWnVnw:91CfOmcKo_g:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=GUFL3mWnVnw:91CfOmcKo_g:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=GUFL3mWnVnw:91CfOmcKo_g:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=GUFL3mWnVnw:91CfOmcKo_g:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=GUFL3mWnVnw:91CfOmcKo_g:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/GUFL3mWnVnw)  
+[Read Here»](https://www.fonearena.com/blog/295838/google-iphone-heic-photo-backups.html)

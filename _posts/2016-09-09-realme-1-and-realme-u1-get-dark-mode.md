@@ -1,0 +1,12 @@
+---
+title: 'Realme 1 and Realme U1 get Dark Mode, October Android security patch with latest ColorOS 6.0 update [Download Link]'
+date: 2019-10-22T13:59:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/07/realme-Dark-Mode-1.jpg) Realme launched the realme 1 smartphone last year and launched the realme U1 smartphone late last year. After announcing Dark Mode to all ColorOS 6 phones last month, Realme has now started rolling out a new update to realme 1 and realme U1 with the addition of Dark Mode. The latest ColorOS 6.0 update version RMX1831EX\_11\_C.15 for realme U1 started rolling out today and the changelog includes the addition of Dark Mode amongst others. For the realme 1 smartphone, ColorOS 6.0 update CPH1861EX\_11\_C.45 brings support for Dark Mode. Realme said that the update has reached 5% of devices and all Realme 1 & U1 users shall receive the update within a week's time. Alternatively, you can download the update file from Realme's website and update the software through Simple mode or Recovery mode. You can download the latest ColorOS 6.0 update for realme 1 from this link and for realme U1 from this link. Realme 1 update changelog Security ● Android security patch: October, 2019 System ● Added Dark Mode ● Added realme laboratory ● Added data switch in notification pannel ● App cloner support more third-party applications ● Added manual lock function by long press the power button ● Added Google Digital Wellbeing User Interface ● Optimized some of system interface ● Redesigned the ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=VPI3dnhYVSY:GOGTBkGTT5Y:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=VPI3dnhYVSY:GOGTBkGTT5Y:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=VPI3dnhYVSY:GOGTBkGTT5Y:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=VPI3dnhYVSY:GOGTBkGTT5Y:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=VPI3dnhYVSY:GOGTBkGTT5Y:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=VPI3dnhYVSY:GOGTBkGTT5Y:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/VPI3dnhYVSY)  
+[Read Here»](https://www.fonearena.com/blog/296083/realme-1-realme-u1-dark-mode.html)

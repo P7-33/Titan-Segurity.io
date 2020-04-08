@@ -1,0 +1,12 @@
+---
+title: 'Sandisk Ultra Dual Drive Go USB Type-C pen drive launched in India starting from Rs. 1050'
+date: 2019-12-18T15:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/SanDisk-Ultra-Dual-Drive-1024x640.jpg) Sandisk has launched its new Ultra Dual Drive Go USB Type-C Pendrive in India for mobile user on the go. The USB drive will come in 32GB, 64GB, 128GB and 256GB variants, features a USB Gen 3.1 connector for up to 150MB/s read speeds and user friendly swivel design. The Ultra Dual Drive Go Type-C pen drive will come preloaded with SanDisk Memory Zone app, which is a powerful content management tool. The pen drive is highly useful in situations where users need to quickly transfer files between their Type-C capable smartphone or tablet and their USB Type-A port  on a laptop, PC or Mac. The swivel design makes it simple to quickly access the Type-A and Type C port. The pen drive will have a price ranging between Rs. 1050 for the 32GB goes up to Rs. 5300 for the 256GB model and will be available for purchase at select retailers and e-commerce websites across India soon. Commenting on the launch, Khalid Wani, Director Sales, Western Digital, said: At Western Digital, innovation is in our DNA, and consumer experience is an imperative. Therefore, we are continually creating products that are faster, more efficient, and easy to use, thereby delivering an unmatched end-consumer experience. We utilize the ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=qHQ8Yt2Enfo:0UTNa0wLLXk:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=qHQ8Yt2Enfo:0UTNa0wLLXk:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=qHQ8Yt2Enfo:0UTNa0wLLXk:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=qHQ8Yt2Enfo:0UTNa0wLLXk:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=qHQ8Yt2Enfo:0UTNa0wLLXk:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=qHQ8Yt2Enfo:0UTNa0wLLXk:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/qHQ8Yt2Enfo)  
+[Read Here»](https://www.fonearena.com/blog/300673/sandisk-ultra-dual-drive-go-price-india.html)

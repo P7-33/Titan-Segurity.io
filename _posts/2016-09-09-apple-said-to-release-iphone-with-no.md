@@ -1,0 +1,12 @@
+---
+title: 'Apple said to release iPhone with no ports in 2021, 4 OLED iPhones in 2020'
+date: 2019-12-06T11:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/2020-iPhone-prediction-1024x563.png) A new report from Apple analyst Ming-Chi Kuo says that there will be 4 OLED iPhones in 2020 and that the 2021 iPhone will most likely come with zero ports. This news comes right after a report that was released earlier this week showing that Apple will hold two iPhone launch events from 2020. When Apple announced the iPhone 11 series, many reviewers hoped that they would ditch the ageing Lighting port in favour of USB-C. Everyone then predicted that 2020 iPhone will most definitely come with USB-C. Now it seems like Apple will go one step further and completely remove all ports for its 2021 iPhone, according to the report by Ming-Chi Kuo. The report also predicts that the Apple will introduce 4 models of the iPhone in 2020, likely a 5.4-inch, two 6.1-inch, and a 6.7-inch OLED model. The main difference in these models would be the screen size along with changes in the camera systems. The 5.4 inch iPhone will share similar dual-camera setup on the back along with the cheaper 6.1 iPhone model. The higher end 6.1-inch model and the 6.7-inch model on the hand will feature triple-lens camera setups along with time-of-flight 3D sensing technology. For 2021, Kuo predicts a follow ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=2WlCzQXR1VU:9OhHf02RIds:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=2WlCzQXR1VU:9OhHf02RIds:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=2WlCzQXR1VU:9OhHf02RIds:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=2WlCzQXR1VU:9OhHf02RIds:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=2WlCzQXR1VU:9OhHf02RIds:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=2WlCzQXR1VU:9OhHf02RIds:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/2WlCzQXR1VU)  
+[Read Here»](https://www.fonearena.com/blog/299787/apple-iphone-no-ports-2021-4-oled-iphones-2020.html)

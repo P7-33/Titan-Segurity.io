@@ -1,6 +1,6 @@
 ---
 title: 'The best cheap Apple Watch deals right now'
-date: 2020-02-19T12:18:00+01:00
+date: 2019-09-27T09:19:00+01:00
 draft: false
 ---
 

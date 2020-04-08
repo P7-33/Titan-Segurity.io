@@ -1,0 +1,12 @@
+---
+title: 'Vivo iQOO Neo Snapdragon 855 Edition with 6.38-inch FHD+ AMOLED display, up to 8GB RAM, UFS 3.0 to be announced on October 24'
+date: 2019-10-21T11:34:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Vivo-iQOO-Neo-Snapdragon-855-Edition.jpg) Vivo introduced iQOO Neo, a mid-range smartphone with Snapdragon 845 in China back in July, now it has started teasing the iQOO Neo Snapdragon 855 Edition, which will also come with 256GB UFS3.0. TENAA certification reveals a 16-megapixel front camera instead of 12-megapixel in the 845 edition. Other specifications including a 6.39-inch Full HD+ water drop notch with 90.0% screen-to-body ratio, up to 8GB of RAM, Android Pie, 12-megapixel primary rear camera with Sony IMX363 sensor, 8-megapixel ultra-wide lens, 2-megapixel sensor for portrait shots, in-display fingerprint scanner, gradient back, and a 4500mAh battery with 22.5W fast charging with 0 to 50% in 30 minutes. Vivo iQOO Neo Snapdragon 855 rumored specifications 6.39-inch ( 1080 × 2340 pixels) Full HD+ Super AMOLED 19.5:9 aspect ratio display, 105% NTSC color gamut Octa-Core Snapdragon 855 7nm Mobile Platform (1 x 2.84GHz Kryo 485 + 3 x 2.42GHz Kryo 485 + 4x 1.80GHz Kryo 485) with Adreno 640 GPU 6GB LPDDR4x / 8GB RAM with 64GB / 128GB / 256GB (UFS 3.0) internal memory Dual SIM Android 9.0 (Pie) with Funtouch OS 9  12MP Dual Pixel rear camera with LED flash, Sony IMX363 sensor, f/1.79 aperture, 8MP 108-degree ultra-wide lens with f/2.2 aperture, 2MP depth sensing camera with f/2.4 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=RulyFAL6oEk:HajE7HPFX7M:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=RulyFAL6oEk:HajE7HPFX7M:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=RulyFAL6oEk:HajE7HPFX7M:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=RulyFAL6oEk:HajE7HPFX7M:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=RulyFAL6oEk:HajE7HPFX7M:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=RulyFAL6oEk:HajE7HPFX7M:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/RulyFAL6oEk)  
+[Read Here»](https://www.fonearena.com/blog/295895/vivo-iqoo-neo-snapdragon-855-launch-date.html)

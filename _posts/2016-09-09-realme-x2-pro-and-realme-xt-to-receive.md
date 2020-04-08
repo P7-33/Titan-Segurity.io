@@ -1,0 +1,12 @@
+---
+title: 'realme X2 Pro and realme XT to receive ColorOS 7 Beta update in India soon [Update: X2 Pro ColorOS 7 teaser]'
+date: 2019-11-28T10:56:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/realme-X2-Pro-ColorOS-7-949x1024.jpg) Update: Realme has started registrations for realme X2 Pro ColorOS 7 Beta update yesterday. realme India CEO Madhav Seth has posted teaser images of how the ColorOS 7 will look like. The company already said that beta roll out will begin 18th December 2019 and will continue till February 2020 before stable roll out in Match 2020. realme XT will get the update in January 2020. Good news for all #realmeX2Pro users! You guys can be the first ones to test the ColorOS 7. Join the Beta testing Program. Registrations now open! Only Limited seats available so hurry.http://bit.ly/2KYvuVp pic.twitter.com/y1cslsYpF5 — Madhav 'Super50w' (@MadhavSheth1) November 28, 2019 realme announced its most premium and flagship offering realme X2 Pro at an event in India earlier this week. Last month, realme announced ColorOS Beta testing for realme XT and also shared that it is working on an exclusive version of ColorOS 7 for realme devices that will offer near-stock Android experience. Yesterday, realme CEO, Madhav Sheth took it to twitter to announce that the company has some exciting progress on their customized UI, i.e., ColorOS realme edition, and he will be announcing the update timeline on Monday, Nov 25th. Checking last few details, we have some exciting progress on our ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=g-A1NcTnN9c:uEGZwd9arqo:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=g-A1NcTnN9c:uEGZwd9arqo:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=g-A1NcTnN9c:uEGZwd9arqo:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=g-A1NcTnN9c:uEGZwd9arqo:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=g-A1NcTnN9c:uEGZwd9arqo:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=g-A1NcTnN9c:uEGZwd9arqo:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/g-A1NcTnN9c)  
+[Read Here»](https://www.fonearena.com/blog/298664/realme-x2-pro-realme-xt-coloros-7-beta-india-soon.html)

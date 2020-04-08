@@ -1,0 +1,12 @@
+---
+title: 'Microsoft Windows 10 latest preview brings new Quick Searches feature and updated design for web preview'
+date: 2019-11-06T11:52:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Windows-10-Quick-Searches-feature.png) Microsoft rolled out Windows 10 Preview Build 18999 (20H1) last month and following that, now Microsoft has started rolling out Windows 10 Insider Preview Build 19018 (20H1) to Fast ring testers. The latest preview includes general improvements, bug fixes, and also brings new Quick Searches feature. The new Quick Searches feature in Search Home includes 4 new options like Weather, Top news, Today in history, and New movies. Weather gives users information on current conditions and the upcoming forecast, Top news enables users to read the latest headlines from popular news sites, Today in history allows users to explore four events that happened on this day, and lastly, New movies allows users to find out what’s playing in theatres near them. Users have to select the search box to open Search Home, then choose one of the quick search buttons in order to preview these web answers and results. This preview build also brings an updated design for web preview in search results. The new Quick Searches feature is currently rolling out and will appear for users across builds from version 1809 to 20H1 and it is only available in the US for now, but will be available soon globally. Source
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=KUDyZyASsZs:Pv0FvfEZMro:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=KUDyZyASsZs:Pv0FvfEZMro:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=KUDyZyASsZs:Pv0FvfEZMro:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=KUDyZyASsZs:Pv0FvfEZMro:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=KUDyZyASsZs:Pv0FvfEZMro:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=KUDyZyASsZs:Pv0FvfEZMro:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/KUDyZyASsZs)  
+[Read Here»](https://www.fonearena.com/blog/297352/microsoft-windows-10-preview-quick-searches-web-preview-design.html)

@@ -1,0 +1,12 @@
+---
+title: 'Reliance Jio to introduce new All-in-one plans with up to 40% higher tariff, will offer up to 300% more benefits'
+date: 2019-12-01T15:26:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2016/10/Jio-Digital-Life.jpg) Earlier today, Vodafone Idea and Airtel increased prepaid tariff and introduced new prepaid plans. Similarly, Jio has now announced that they will be introducing new All-in-one plans from December 6th, 2019. Jio new All-in-one plans with unlimited voice and data will have a fair usage policy for calls to other mobile networks, similar to what Vodafone Idea and Airtel introduced in their new plans. Jio said that the new plans will be priced up to 40% higher but come with up to 300% more benefits. There is no information on the new plans yet, but Jio is expected to release them in the next few days. The company has just announced that the new plans will be effective from December 6th, 2019, and we should know more information in the coming days. To recall, Jio recently started charging 6 paise per minute for voice calls made to non-Jio mobile networks and introduced new all-in-one plans that come with benefits like 2 GB/day along with unlimited voice, SMS, Apps as well as free additional 1000 minutes of offnet IUC calling to additional operators worth Rs. 80. Reliance Jio in a statement said: As a technology disruptor and force multiplier, Jio acutely understands the transformative role telecommunications ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=lLaDIqyf83Y:ZTS7KqoJB_Y:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=lLaDIqyf83Y:ZTS7KqoJB_Y:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=lLaDIqyf83Y:ZTS7KqoJB_Y:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=lLaDIqyf83Y:ZTS7KqoJB_Y:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=lLaDIqyf83Y:ZTS7KqoJB_Y:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=lLaDIqyf83Y:ZTS7KqoJB_Y:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/lLaDIqyf83Y)  
+[Read Here»](https://www.fonearena.com/blog/299367/reliance-jio-hike-all-in-one-plans-december-2019.html)

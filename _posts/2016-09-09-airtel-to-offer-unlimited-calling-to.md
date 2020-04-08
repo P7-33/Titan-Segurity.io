@@ -1,0 +1,12 @@
+---
+title: 'Airtel to offer unlimited calling to other networks with all unlimited plans starting December 7'
+date: 2019-12-06T17:19:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2013/06/Airtel-logo.jpg) Airtel, Vodafone Idea, and Jio revised their prepaid plans earlier this week and introduced FUP in off-net minutes. While the tariff has been hiked by up to 40%, Airtel has now announced another change to calls in unlimited plans. Airtel has today announced that they are making changes to calling and starting tomorrow (December 7th, 2019), Airtel users can make unlimited calling to other networks and this is only applicable on unlimited plans available in Airtel. The company also said that there are "no conditions" applicable and users can enjoy unlimited calling to any network on all unlimited plans. We heard you! And we are making the change. From tomorrow, enjoy unlimited calling to any network in India with all our unlimited plans. No conditions apply. pic.twitter.com/k0CueSx0LV — airtel India (@airtelindia) December 6, 2019 Unlimited calling to other networks with no conditions applicable means there won't be any FUP in off-net minutes and it should be truly unlimited. We have to wait for more details regarding this tomorrow. Based on users' feedback, Airtel is making changes, and we can expect other operators to make changes in unlimited calling soon.
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Pom8sSRZI-c:Kvw6dIqMz4Y:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Pom8sSRZI-c:Kvw6dIqMz4Y:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Pom8sSRZI-c:Kvw6dIqMz4Y:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Pom8sSRZI-c:Kvw6dIqMz4Y:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Pom8sSRZI-c:Kvw6dIqMz4Y:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Pom8sSRZI-c:Kvw6dIqMz4Y:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Pom8sSRZI-c)  
+[Read Here»](https://www.fonearena.com/blog/299814/airtel-unlimited-calling-other-networks-unlimited-plans.html)

@@ -1,0 +1,12 @@
+---
+title: 'Tenda AC8 AC1200 Dual-band Gigabit Wireless Router launched, available for Rs. 2399'
+date: 2019-12-16T12:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Tenda-AC8-Wi-Fi-Router-1024x665.jpg) Tenda, a manufacturer of networking devices and equipment has launched their new router AC8 AC1200 Dual-band Gigabit Wireless Router. With combined WiFi speeds up to 1167 Mbps, the Gigabit router is at powering new fibre connection that are becoming popular for stable online gaming and 4K video streaming. The router has 4\*6dBi External Dual Band External Omni-Directional Antennas that can cover up to 90 square meters with 2 walls penetration capability. With MU-MIMO and Beamforming+ Technology, the Tenda AC8 AC1200 router ensure excellent coverage and stable performance. The router comes with IPV6 support and a unique feature called Smart Traffic Prioritisation that combines both 2.4GHz and 5GHz under one Wi-Fi name, automatically providing devices with the best possible signal and speed. The router also comes equipped with Smart Tenda Wi-Fi App which helps in real-time management of the network. The Tenda AC8 1200 Mbps Wireless Smart Dual-Band Gigabit WiFi Router retails for a price of Rs. 4900, but you can get it on Amazon for as low as Rs. 2399. Commenting on the launch of the router, John Dong, Director, Tenda India said: We at Tenda work towards achieving high standards of innovations and technology through our relentless efforts. With the launch of AC8 AC1200 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Ap27DwgVr74:5ZSxZW8Zw_k:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Ap27DwgVr74:5ZSxZW8Zw_k:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Ap27DwgVr74:5ZSxZW8Zw_k:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Ap27DwgVr74:5ZSxZW8Zw_k:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Ap27DwgVr74:5ZSxZW8Zw_k:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Ap27DwgVr74:5ZSxZW8Zw_k:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Ap27DwgVr74)  
+[Read Here»](https://www.fonearena.com/blog/300458/tenda-ac8-ac1200-price-india.html)

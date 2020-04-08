@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy M30s Camera Samples'
+date: 2019-09-25T11:08:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Samsung-Galaxy-M30s_fonearena-11-1024x709.jpg) Samsung launched the Galaxy M30s smartphone in India last week starting at Rs. 13999. We already brought you the first impressions of the smartphone, here we have the camera samples. It has a 48-megapixel rear camera with Samsung GM2 ISOCELL Bright sensor, 0.8μm pixel size and f/2.0 aperture, PDAF along with an 8-megapixel 123-degree ultra-wide lens lens with f/2.2 aperture and a 5-megapixel depth sensor with f/2.2 aperture. It has a 16-megapixel camera on the front with Samsung SK3P8SP sensor with f/2.0 aperture. Since this comes with an 123° Ultra Wide Lens, you can switch between the normal 78-degree Field Of View main camera and 123-degree Field Of View wide-angle camera easily. There is Live Focus that makes use of the depth sensor. You can also adjust the bokeh effect before or after the shot. There is selfie portrait option for the front camera that uses software to blur the background. There is also a wide-angle option for the front camera. \[gallery link="file" size="large" ids="293011,293010,293009"\] It has Auto mode, Food, Might, Panorama, Pro, Live Focus, Super Slow-mo, Slow motion and Hyperlapse as well as Pro mode to adjust ISO, white balance and exposure manually, but you can't adjust the shutter speed or focus. You can choose ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=CHBXUR5vZAY:ysu15W5FeHU:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=CHBXUR5vZAY:ysu15W5FeHU:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=CHBXUR5vZAY:ysu15W5FeHU:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=CHBXUR5vZAY:ysu15W5FeHU:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=CHBXUR5vZAY:ysu15W5FeHU:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=CHBXUR5vZAY:ysu15W5FeHU:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/CHBXUR5vZAY)  
+[Read Here»](https://www.fonearena.com/blog/292957/samsung-galaxy-m30s-camera-samples.html)

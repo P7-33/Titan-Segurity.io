@@ -1,0 +1,12 @@
+---
+title: 'Realme releases kernel source for realme 5, 5 Pro and XT'
+date: 2019-10-19T04:34:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Realme-5_fonearena-16-1024x683.jpg) Realme launched the realme 5 and realme 5 pro smartphones in India back in August, and last month launched the much-awaited realme XT in country. In the August episode of #AskMadhav, the company CEO, Madhav Sheth had confirmed that realme 5 and 5 Pro users will soon be able to unlock the bootloader of their devices. During the realme XT launch, the company also announced Android 10 update roadmap for its devices. Now, the company has released kernel sources for realme 5, 5 Pro and XT, so there are good chances that we see Android 10 based custom ROMs for the smartphone in the coming months. The company has also updated its Bootloader unlock tool, and realme 5, 5 Pro and XT users can now unlock the bootloader of their devices but unlocking bootloader will downgrade the Widevine certification level to L3 from L1 and users will no longer be able to enjoy HD content on apps like Hotstar, Amazon Prime Videos, and Netflix. Unlocking the bootloader will erase all the data on the device and might affect OTA updates, users will also not get official OTA updates as bootloader unlocking makes the secure data partition inaccessible. The company also says that bootloader unlocking and flashing a ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=mmd1zDXSGJk:gslgkmFTCMQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=mmd1zDXSGJk:gslgkmFTCMQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=mmd1zDXSGJk:gslgkmFTCMQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=mmd1zDXSGJk:gslgkmFTCMQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=mmd1zDXSGJk:gslgkmFTCMQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=mmd1zDXSGJk:gslgkmFTCMQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/mmd1zDXSGJk)  
+[Read Here»](https://www.fonearena.com/blog/295647/realme-5-5-pro-x-kernel-source.html)

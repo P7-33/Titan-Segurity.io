@@ -1,0 +1,12 @@
+---
+title: 'Android Messages gets Verified SMS in India, real time Spam Protection rolling out in the US'
+date: 2019-12-13T09:40:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Google-Messages-Verified-SMS-1024x670.jpg) Google is rolling out a new feature called Verified SMS that ensures users can confirm the true identity of the business that’s texting them. This feature will better protect users from possible phishing scams received via SMS. Along with this Google is also rolling out better Spam protection for Messages. Messages will verify on a per-message basis that the SMS you have received is content sent by a specific business. Once verified the business name and logo as well as a verification badge will be visible in the message thread. Google promises that this verification is done on device without sending any information to its servers. In India, Google Pay and verification messages from Google are enrolled in this program with more businesses joining every day. 1-800-Flowers, Banco Bradesco, Kayak, Payback, and SoFi are among the first brands in the US to send messages with Verified SMS. In addition to this, Google is also updating its spam protection to work in real time. Users will be notified of suspected spam messages and will be given the option to report it as spam and block the conversation. Reporting spam messages by the user will better help Google train its Spam detection models. Google is rolling out Verified ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=O05n5U6hUEA:M8VSTmPSh-I:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=O05n5U6hUEA:M8VSTmPSh-I:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=O05n5U6hUEA:M8VSTmPSh-I:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=O05n5U6hUEA:M8VSTmPSh-I:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=O05n5U6hUEA:M8VSTmPSh-I:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=O05n5U6hUEA:M8VSTmPSh-I:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/O05n5U6hUEA)  
+[Read Here»](https://www.fonearena.com/blog/300289/android-messages-verified-sms-india-spam-protection.html)

@@ -1,0 +1,12 @@
+---
+title: 'Samsung will fix Galaxy S10’s fingerprint sensor security flaw with update'
+date: 2019-10-18T08:49:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/04/Samsung-Galaxy-S10_fonearena-15-1024x653.jpg) Earlier this week, a woman in Britain discovered that her Samsung Galaxy S10's ultrasonic fingerprint sensor had a security flaw and could basically be opened by anyone once she fit £2.70 (Approx Rs. 250) screen protector she got on eBay onto the phone. Samsung, on Thursday, acknowledged the security flaw and announced it will soon roll out a software patch to fix problems with fingerprint recognition. The woman had purchased the phone cover on Ebay and found out she could use her left thumb to unlock her phone when only her right thumb was registered. Furthermore, even her husband could unlock the phone with his thumb and this flaw could be replicated on her sisters galaxy S10 too. After contacting Samsung customer services, it was discovered that this was a security flaw in the phone and that if misused, anyone would be able to access users sensitive information like those stored on financial apps. A Samsung spokeswoman said they are investigating internally and reiterated it is recommended that users only purchase and use Samsung authorized accessories, specifically designed for Samsung products. On Thursday Sumsung said it will roll out a software patch to fix the security and that users, for the time, refrain from ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=HeJc1Ysckd8:caEgeL6CXc0:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=HeJc1Ysckd8:caEgeL6CXc0:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=HeJc1Ysckd8:caEgeL6CXc0:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=HeJc1Ysckd8:caEgeL6CXc0:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=HeJc1Ysckd8:caEgeL6CXc0:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=HeJc1Ysckd8:caEgeL6CXc0:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/HeJc1Ysckd8)  
+[Read Here»](https://www.fonearena.com/blog/295584/samsung-will-fix-galaxy-s10s-fingerprint-sensor-security-flaw-with-update.html)

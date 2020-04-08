@@ -1,6 +1,6 @@
 ---
 title: 'From the mail bag…'
-date: 2020-01-30T07:07:00+01:00
+date: 2019-09-26T06:05:00+01:00
 draft: false
 ---
 
@@ -8,22 +8,15 @@ draft: false
 
 [From the mail bag!](https://www.adafruit.com/blog/?s=mail+bag)
 
-> Just received my first order from the Adafruit website.  
-> Shipping was extremely fast to the other side of the United States. I picked  
-> up some heat-shrink tubing a couple of Adafruit designed breakouts and some  
-> stickers to put on the back of my laptop. I was amazed at the size of the  
-> breakouts (as small as a dime) and the extremely high quality of the items.  
-> This is going to work great for my projects. The icing on the cake is the  
-> great documentation and examples that I can find on the adafruit website. I  
-> will definitely be ordering some more things for my future projects. Because  
-> of the tutorials and shared libraries, I’ve been able to get my projects up  
-> and running with in minutes. The examples just help spawn more ideas for  
-> more projects ![🙂](https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png)
-> 
-> Thanks,  
-> Chris
+> Hello Adafruit Industries and Mrs Ladyada Mr Ladyada,  
+> You are the best of all the companies selling Arduino and Raspberry stuff! I  
+> love you guys a lot! I really like feathers they are just so cool……and  
+> lite. You know guys, you inspire me a lot. And I like the thing that you are  
+> so socially active and you all are so inovative that every weekend you have  
+> always got something to show us every weekend!  
+> Regards Sagnik from India.
 
   
   
-from Adafruit Industries – Makers, hackers, artists, designers and engineers! https://ift.tt/2RBbg87  
+from Adafruit Industries – Makers, hackers, artists, designers and engineers! https://ift.tt/2mSOJXh  
 via [IFTTT](https://ifttt.com/?ref=da&site=blogger)

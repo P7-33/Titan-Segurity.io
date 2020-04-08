@@ -1,0 +1,12 @@
+---
+title: 'Airtel begins building partnerships for 5G use cases; in talks with other companies for private LTE networks'
+date: 2019-11-13T14:13:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2013/06/Airtel-logo.jpg) At India Mobile Congress (IMC) last year and this year, Airtel showcased 5G use cases, futuristic digital technologies, and more. While some countries have started deploying commercial 5G networks, Indian telecom operators are yet to get the spectrum allocated. But in the meantime, Airtel has now said that they have started building partnerships and alliances for right 5G use cases and is also in talks for private LTE networks. The use cases of 5G are mostly focused on enterprises and currently, Airtel is making sure they start building partnerships and alliances for right 5G use cases. Airtel is also in talks with some companies for private LTE networks and is exploring the use cases as a telecom operator. Airtel said that its private LTE offering aims to enable smart factory and industry 4.0 use cases. It is starting its focus on use cases in smart factories, in the field of mining, automation, and more. The company has now created a verticalization of its business and has deeper knowledge, and with that deeper knowledge along with partnerships, it is doing trials to solve some of the problems. The rollout of 5G in India is still some time away, but it will be interesting to ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=HHIvFRz0kco:kWV5M4iP0J0:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=HHIvFRz0kco:kWV5M4iP0J0:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=HHIvFRz0kco:kWV5M4iP0J0:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=HHIvFRz0kco:kWV5M4iP0J0:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=HHIvFRz0kco:kWV5M4iP0J0:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=HHIvFRz0kco:kWV5M4iP0J0:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/HHIvFRz0kco)  
+[Read Here»](https://www.fonearena.com/blog/297958/airtel-5g-use-cases-private-lte-networks.html)

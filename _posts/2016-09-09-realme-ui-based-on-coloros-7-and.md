@@ -1,0 +1,12 @@
+---
+title: 'realme UI based on ColorOS 7 and Android 10 to roll out in India from January 2020 [Update: realme X2 to get it in March 2020]'
+date: 2019-12-17T09:40:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/realme-Android-10-update-list-1024x551.jpg) Update: realme India CEO Madhav Seth at the realme X2 launch event has confirmed that ColorOS 7 Android 10 update for realme X2 will roll out in March 2020, before China version gets it in Q2 2020. Earlier: realme already confirmed that Android 10 roll out for realme phones starting from Q1 2020. Today the company has confirmed that realme’s own customised UI based on ColorOS 7 and Android 10 for realme devices will roll out from January. 2020 on wards. The new UI from realme will feature interesting customizations adding on to the experience which will be closer to stock-Android features, as it had promised earlier. realme’s own customised UI will sport all the new features from the much enhanced ColorOS 7 including system upgradation. In the forum post, the company said: Users will experience smoother gaming graphics, better RAM management and seamless video and vlogging experience along with more customization options. ColorOS 7 customization options will include options like app icons, shape & size and font change. The ColorOS 7 will also feature system-wide dark mode. With all new and interesting features in realme customized UI Based on Android 10 and ColorOS 7, users will be able to get a seamless experience ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=bWAytwuQb_A:w7k5vHVVopQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=bWAytwuQb_A:w7k5vHVVopQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=bWAytwuQb_A:w7k5vHVVopQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=bWAytwuQb_A:w7k5vHVVopQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=bWAytwuQb_A:w7k5vHVVopQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=bWAytwuQb_A:w7k5vHVVopQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/bWAytwuQb_A)  
+[Read Here»](https://www.fonearena.com/blog/298856/realme-android-10-update-list-india-coloros-7.html)

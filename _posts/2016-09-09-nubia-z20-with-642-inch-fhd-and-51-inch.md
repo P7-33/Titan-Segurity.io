@@ -1,0 +1,12 @@
+---
+title: 'Nubia Z20 with 6.42-inch FHD+ and 5.1-inch dual AMOLED screens, Snapdragon 855 Plus global roll out begins [Update: Price]'
+date: 2019-10-15T05:04:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/nubia-Z20-947x1024.jpg) Update: nubia has started rolling out the phone globally priced at $549 (Rs. 39,125 approx.) / €549 / £499 for the 8GB RAM with 128GB storage version on nubia.com in Twilight Blue and Diamond Black versions. It is available in USA, Canada, Europe, Australia, Hong Kong, Israel, Japan, Singapore, Indonesia, Taiwan and Macao. ZTE's nubia brand introduced the Nubia Z20, the company’s flagship smartphone in China back in August. Now it has announced that it will roll out outside China in USA, Canada,EU and UK from October 14th at nubia.com. Pricing will be announced on the same date. It has also announced ;Unbox the Future' campaign at nubia.com that would let users in these countries win the Z20. In addition to the nubia Z20 smartphone, participants have the chance to win gift cards from Amazon and Google Play, and other exciting prizes. It has a 6.42-inch FHD+ AMOLED display with minimal bezels and no notch since it doesn’t have a front camera, and a secondary 5.1-inch HD+ AMOLED screen that blends into the glass body. There is DC dimming, and the new AOD 2.0, supports information display with customizable text, graphics, GIF, video and more on both the screens. It has a 48-megapixel rear camera ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=hcVEYA85NxM:S-64QP9d0d4:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=hcVEYA85NxM:S-64QP9d0d4:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=hcVEYA85NxM:S-64QP9d0d4:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=hcVEYA85NxM:S-64QP9d0d4:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=hcVEYA85NxM:S-64QP9d0d4:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=hcVEYA85NxM:S-64QP9d0d4:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/hcVEYA85NxM)  
+[Read Here»](https://www.fonearena.com/blog/292836/nubia-z20-global-roll-out.html)

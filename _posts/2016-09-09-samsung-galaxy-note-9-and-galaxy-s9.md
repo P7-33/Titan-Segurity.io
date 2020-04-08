@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy Note 9 and Galaxy S9 Android 10 One UI 2.0 beta starts rolling out in India'
+date: 2019-11-28T03:31:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Samsung-Galaxy-S9-Note-9-Android-10-beta-1024x701.jpg) After Galaxy S10 series and the Note 10 series, Samsung has started rolling out beta version of One UI 2.0, the next major One UI update based on Android 10 for its last year's flagship Galaxy Note 9 and S9 series in India. This brings Clean and easy-to-use interface with minimized pop-ups, New, smarter layout for a visually comfortable experience, enhanced Dark Mode, Focus Mode, Intuitive Device Care menu and more. How to join the  beta program? Download the Samsung Members application from Galaxy Store or the Google Play Store. After logging in, go to Notices and select “One UI Beta Program Registration” to submit an application. Once signed up, go to Settings and then Software update to select the Download and install option. This will allow the software to update and load the beta version. The Samsung Galaxy Note 9 One UI 2.0 update build N960FXXU4ZXK5 is about 1.93GB in size and the S9 OneUI 2.0 update build G965FXXU72SKD is 1.81GB in size. Both these include Android security patch for November 2019. Samsung did not say when it plans to roll out the stable update, but it should be available in the next few weeks. Source
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Fr48g8K3rWQ:W-N_foUrM3s:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Fr48g8K3rWQ:W-N_foUrM3s:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Fr48g8K3rWQ:W-N_foUrM3s:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Fr48g8K3rWQ:W-N_foUrM3s:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Fr48g8K3rWQ:W-N_foUrM3s:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Fr48g8K3rWQ:W-N_foUrM3s:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Fr48g8K3rWQ)  
+[Read Here»](https://www.fonearena.com/blog/299241/samsung-galaxy-note-9-s9-android-10-one-ui-2-0-beta-india.html)

@@ -1,0 +1,12 @@
+---
+title: 'LG Q3 2019 profits down 30.45% YoY due to weak smartphone sales'
+date: 2019-10-30T09:27:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/02/LG-G8-ThinQ_fonearena-1-1024x706.jpg) LG Electronics has reported revenues of 15.7 trillion won (US$ 13.15 billion) for the third quarter that ended September 30, 2019, which is up 1.8% compared to the same quarter last year. It posted profits of 781.4 billion won (US$ 654.4 million), up 19.79% YoY, while net profit was down 30.45% YoY to 345.7 billion won. Decrease in profits is primarily due to losses from mobile communications in the quarter, even home appliance, home entertainment and business solutions business units posted strong results. Mobile Communications sector reported a quarterly revenue of 1.52 trillion won (US$ 1.27 billion), down 5.59% QoQ and down 24.7 % YoY due to shrinking overall smartphone market, decrease in sales of premium and mass-tier LTE products and delays in 5G upgrades in North American market. The Mobile sector posted an operating loss of 161.2 billion won (US$ 135 million), compared to loss of 144.2 billion won a year ago. This is less compared to 313 billion won loss it posted in Q2 2019 due to production efficiencies and cost improvements. Losses narrowed QoQ as a result of continuous sales of 5G products, improved cost structure from relocation of production facility and removal of one-off relocation costs, said LG. It expects severe ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=WdMCnKQuJi8:0wbkWW8kX5U:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=WdMCnKQuJi8:0wbkWW8kX5U:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=WdMCnKQuJi8:0wbkWW8kX5U:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=WdMCnKQuJi8:0wbkWW8kX5U:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=WdMCnKQuJi8:0wbkWW8kX5U:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=WdMCnKQuJi8:0wbkWW8kX5U:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/WdMCnKQuJi8)  
+[Read Here»](https://www.fonearena.com/blog/296768/lg-q3-2019-revenue-sales.html)

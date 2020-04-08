@@ -1,0 +1,12 @@
+---
+title: 'Apple announces best iPhone, iPad, Mac apps and games of 2019'
+date: 2019-12-03T12:01:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Apple-Best-Apps-of-2019.jpg) As usual Apple has named the best iOS apps and games for 2019. It has also posted Trends of the year as well as top apps and games charts for 2019 and also shared most downloaded apps and most downloaded games of the year. This year's game trend were 'Blockbusters Reimagined' that includes Mario Kart Tour and Dr. Mario World (Nintendo), Pokémon Masters (DeNA Co), Assassin’s Creed Rebellion (Ubisoft), Call of Duty: Mobile (Activision Publishing) and more. This year's App trends were 'Storytelling Simplified' that includes Anchor (Anchor FM), Canva: Stories & Video Maker (Canva), Unfold (Unfold Creative), Steller (Expedition Travel Advisor), Spark Camera (Dayworks), Over (Over, Inc) and Wattpad (Wattpad Corp). iPhone App of the Year —  Spectre Camera (Lux Optics) iPhone Game of the Year — Sky: Children of the Light (thatgamecompany) iPad App of the Year — Flow by Moleskine (Moleskine)  iPad Game of the Year — Hyper Light Drifter (Abylight S.L.) Mac App of the Year — Affinity Publisher (Serif Labs) Mac Game of the Year — GRIS (Devolver / Nomada Studio) Apple TV App of the Year — The Explorers (The Explorers Network) Apple TV Game of the Year — Wonder Boy: The Dragon's Trap Apple ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=S6bAqAZby-k:6_on9qsmxVs:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=S6bAqAZby-k:6_on9qsmxVs:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=S6bAqAZby-k:6_on9qsmxVs:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=S6bAqAZby-k:6_on9qsmxVs:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=S6bAqAZby-k:6_on9qsmxVs:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=S6bAqAZby-k:6_on9qsmxVs:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/S6bAqAZby-k)  
+[Read Here»](https://www.fonearena.com/blog/299502/apple-announces-best-iphone-ipad-mac-apps-and-games-of-2019.html)

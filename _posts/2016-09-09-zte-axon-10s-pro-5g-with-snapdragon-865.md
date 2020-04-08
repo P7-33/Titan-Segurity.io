@@ -1,0 +1,12 @@
+---
+title: 'ZTE Axon 10s Pro 5G with Snapdragon 865, SA/NSA dual mode 5G, Android 10 to be announced in 2020'
+date: 2019-12-16T09:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/ZTE-Axon-10s-Pro-5G.jpg) During the Snapdragon Tech Summit 2019 earlier this month ZTE was one of the OEMs who confirmed that it will introduce new Axon phones with 5G support, Snapdragon 865 and X55 in the first half of 2020. Today the company has confirmed that it will be called the Axon 10s Pro 5G and also revealed the design along with some specifications. The phone will support SA / NSA dual-mode 5G network and Wi-Fi 6. The ZTE Axon 10s Pro 5G will pack 4000mAh battery, feature metal frame, flexible hyperboloid glass, 7.9mm body, 175g weight, making it one of the thinnest 5G flagship. It will feature AI engine Z-Booster 2.0, which intelligently allocates system resources through AI algorithms, and accelerates and optimizes the game and multi-tasking scenes in depth to achieve fast startup, high picture quality, smooth experience by maximizing the performance. Link-Booster intelligent network acceleration supports multiple concurrent network connections, especially for complex signal environments. ZTE Axon 10s Pro 5G runs the latest MiFavor 10 based on Android Q bringing new UI design with 1,600 system icons, better battery life, and AI improvements such as AI voice assistant, which provides intelligent search of scene-based languages ​​and full voice control of commonly used ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=w-XdXdlZhqY:Ke_0uCxILR4:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=w-XdXdlZhqY:Ke_0uCxILR4:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=w-XdXdlZhqY:Ke_0uCxILR4:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=w-XdXdlZhqY:Ke_0uCxILR4:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=w-XdXdlZhqY:Ke_0uCxILR4:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=w-XdXdlZhqY:Ke_0uCxILR4:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/w-XdXdlZhqY)  
+[Read Here»](https://www.fonearena.com/blog/300442/zte-axon-10s-pro-5g-launch-date.html)

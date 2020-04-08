@@ -1,0 +1,12 @@
+---
+title: 'Apple’s first company-owned, company-operated India outlet to open at Bandra Kurla Complex in Mumbai: Report'
+date: 2019-10-03T15:01:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2016/05/applestorepa6-1024x682.jpg) Rumours regarding Apple's first own India outlet has been surfacing for quite some time now and looks like things are in favour of The Cupertino-based tech giant now as the latest report reveals that Apple will open its first company-owned India outlet in Mumbai by next year. According to a report from Economic Times, Apple has chosen Mumbai's Maker Maximity Mall in Bandra Kurla Complex (BKC) as the venue for its first own India outlet. The report also reveals that Apple has leased around 20,000-25,000 sq ft space for its outlet and is spread over three floors in the Maker Maximity Mall. It is said to be the largest Apple Store in India and will be three times the size of Apple Flagship Premium Reseller's 8000 sq.ft outlet in Mumbai which opened in August this year. Apple is reportedly working on the design, importing the fixtures and furniture and is expected to open it for the public by September 2020. The company also has plans to open 2-3 retail offline retail stores in India soon. Apple currently sells its products through e-commerce partners like Flipkart, Amazon.in, PayTM Mall, and offline retailers. We should know more information in the coming months. Apple in a statement said: We love ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=_HjG8pBYjWM:z9UDAB7nUFY:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=_HjG8pBYjWM:z9UDAB7nUFY:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=_HjG8pBYjWM:z9UDAB7nUFY:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=_HjG8pBYjWM:z9UDAB7nUFY:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=_HjG8pBYjWM:z9UDAB7nUFY:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=_HjG8pBYjWM:z9UDAB7nUFY:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/_HjG8pBYjWM)  
+[Read Here»](https://www.fonearena.com/blog/294044/apple-first-company-owned-company-operated-india-outlet-bandra-kurla-complex-mumbai.html)

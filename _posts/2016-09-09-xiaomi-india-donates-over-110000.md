@@ -1,0 +1,12 @@
+---
+title: 'Xiaomi India donates over 1,10,000 recycled notebooks to kids, creates two Guinness World Records'
+date: 2019-11-14T08:43:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Xiaomi-Guinness-World-Record-Children%E2%80%99s-Day-2019-1024x486.jpg) Xiaomi has announced that they donated over 1.1 lakh notebooks for underprivileged kids on the occasion of Children’s Day. The notebooks, weighing over 18,000 kg cumulatively, were made from recycled paper and were first used to make the world’s largest notebook mosaic. https://www.youtube.com/watch?v=z5T5MK\_2TMA This has also led to Xiaomi creating two Guinness World Records; one for the ‘World’s Largest Notebook Mosaic’ and another for ‘Largest single donation of school supplies in 24 hours’. The world’s largest notebook mosaic was made of the recycled notebooks and measured at 1950 sq. ft. The largest single donation record has been built basis the weight of the total notebooks. Xiaomi has partnered with United Way, a community based organization, to distribute these 1.1 lakh notebooks to kids in need across the nation. Xiaomi India already holds four Guinness World Records for 'world's largest light mosaic (logo)' and 'world’s highest number of retail stores simultaneously — 2018' in addition to the latest records — 'World’s Largest Notebook Mosaic and 'Largest single donation of school supplies in 24 hours'. Commenting on the same, Anuj Sharma, Chief Marketing Officer, Xiaomi India said: As a brand, we are always looking at opportunities to give back and help our community. This activity is extremely special ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=lg3FmFzXb_o:l7lwCF3clDg:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=lg3FmFzXb_o:l7lwCF3clDg:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=lg3FmFzXb_o:l7lwCF3clDg:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=lg3FmFzXb_o:l7lwCF3clDg:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=lg3FmFzXb_o:l7lwCF3clDg:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=lg3FmFzXb_o:l7lwCF3clDg:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/lg3FmFzXb_o)  
+[Read Here»](https://www.fonearena.com/blog/298012/xiaomi-india-guinness-world-record-largest-notebook-mosaic-school-supplies-donation.html)

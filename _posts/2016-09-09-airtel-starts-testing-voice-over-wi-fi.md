@@ -1,0 +1,12 @@
+---
+title: 'Airtel starts testing Voice over Wi-Fi in Hyderabad, Chennai and Bangalore'
+date: 2019-12-20T11:28:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Airtel-VoWiFi-1024x585.jpg) Airtel rolled out Voice over Wi-Fi services officially starting from Delhi NCR and called it Wi-Fi Calling. Today the company has announced that it has started testing it in Hyderabad, Chennai & Bangalore starting today. Even though the company said that it will work only through Airtel Broadband network, it worked for use on iPhone, OnePlus devices and K20 Pro even when it was connected to other networks. It is displayed as Airtel WiFi on iPhone, VoWiFi on OnePlus and there is a WiFi symbol with a phone receiver on the top . This lets Airtel users make VoWi-Fi calls in compatible handsets offering improved indoor coverage, faster connectivity and says it will offer crystal clear conversations as if you are next to each other. Latch on to your Airtel Wi-Fi network and place a call from your Vo-Wifi enabled handset. This automatically boosts the signal quality across your home, said the company. Airtel Wi-Fi Calling Compatible Handsets: iPhone XR, iPhone 6s, iPhone 6s Plus, iPhone 7, iPhone 7 Plus, iPhone SE, iPhone 8, iPhone 8 Plus, iPhone X, iPhone Xs, iPhone Xs Max, iPhone 11, iPhone 11 Pro OnePlus 6, OnePlus 6T, OnePlus 7, OnePlus 7 Pro, OnePlus 7T, OnePlus 7T ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Fg45NOjpVvk:a41RkYNS-zU:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Fg45NOjpVvk:a41RkYNS-zU:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Fg45NOjpVvk:a41RkYNS-zU:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Fg45NOjpVvk:a41RkYNS-zU:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Fg45NOjpVvk:a41RkYNS-zU:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Fg45NOjpVvk:a41RkYNS-zU:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Fg45NOjpVvk)  
+[Read Here»](https://www.fonearena.com/blog/300767/airtel-voice-over-wi-fi-hyderabad-chennai-bangalore.html)

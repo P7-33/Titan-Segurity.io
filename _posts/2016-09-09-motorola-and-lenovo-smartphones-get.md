@@ -1,0 +1,12 @@
+---
+title: 'Motorola and Lenovo smartphones get discounts during Diwali sale'
+date: 2019-10-24T14:43:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/motorola-one-macro-review_12_1-1024x727.jpg) Flipkart Big Diwali Sale Round 2 kicked off earlier this week and ends tomorrow night. There are a lot of offers on smartphones from various brands and you can also check out our previous post on best deals on smartphones, tablets, laptops, etc. Lenovo and Motorola are also offering discounts on their smartphone lineup and in this article, we will list the best deals on Motorola and Lenovo smartphones during the Flipkart-Big Diwali Sale. Deals on Motorola Smartphones Motorola One Action — Rs. 11,999 (Rs. 5000 off on MRP) Moto e6s — Rs. 7999 (available in new Carribean Blue colour) Deals on Lenovo Smartphones Lenovo A6 Note — Rs. 6999 (Rs. 1000 off on MRP) Lenovo K10 Note (4+64GB) — Rs. 11,999 (Rs. 2000 off on MRP) Lenovo Z6 Pro — Rs. 31,499 (Rs. 2500 off on MRP) Additionally, users can avail 10% instant discount on SBI Debit and Credit Cards and an additional 10% instant discount on prepaid transactions ( applicable on all bank Debit Cards, Credit Cards, Netbanking and EMI transactions) and this means a total of extra 20% off on buying Motorola and Lenovo smartphones during Flipkart Big Diwali sale. You can also check out more deals on Flipkart Big Diwali ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=JWqSH7An_gs:F-XaD1J074Q:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=JWqSH7An_gs:F-XaD1J074Q:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=JWqSH7An_gs:F-XaD1J074Q:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=JWqSH7An_gs:F-XaD1J074Q:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=JWqSH7An_gs:F-XaD1J074Q:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=JWqSH7An_gs:F-XaD1J074Q:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/JWqSH7An_gs)  
+[Read Here»](https://www.fonearena.com/blog/296412/motorola-lenovo-discounts-diwali-sale.html)

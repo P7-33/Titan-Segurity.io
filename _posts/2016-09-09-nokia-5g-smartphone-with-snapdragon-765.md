@@ -1,0 +1,12 @@
+---
+title: 'Nokia 5G smartphone with Snapdragon 765, PureDisplay and ZEISS Imaging coming in 2020'
+date: 2019-12-04T04:05:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Nokia-Snapdragon-765-5G-phone-1024x512.jpg) In addition to Xiaomi, Nokia Mobile also announced that it will use Snapdragon 765 Mobile Platform for its next-gen 5G smartphone. The phone will have PureDisplay, similar to its latest devices and feature ZEISS optics that will also offer 4K UHD ultra-wide video support. The teaser image shows side-mounted fingerprint scanner and a triple rear camera setup. The phone will feature optimized design and an innovative thermal management and offer all-day battery life even on 5G. It is not clear if the company is planning to announce this at the Egypt event tomorrow, but we should know more details soon. Juho Sarvikas, chief product officer, HMD Global, said: Our highest priority for 2020 is making 5G more accessible – bringing an affordable yet premium grade, future proof 5G experience for the best possible performance in NSA and SA networks with the Snapdragon 765 Mobile Platform. Aside from being an excellent mobile platform for best-in-class 5G connectivity, Snapdragon 765 mobile platform allows us to offer breakthrough entertainment capabilities combined with our PureDisplay technology, and our unique ZEISS powered imaging solutions that enable fans to create and share amazing content over 5G. We also congratulate Qualcomm Technologies on the announcement of its Snapdragon Modular Platform. This ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Eic2qvSlArc:FOtd_QD2xuA:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Eic2qvSlArc:FOtd_QD2xuA:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Eic2qvSlArc:FOtd_QD2xuA:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Eic2qvSlArc:FOtd_QD2xuA:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Eic2qvSlArc:FOtd_QD2xuA:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Eic2qvSlArc:FOtd_QD2xuA:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Eic2qvSlArc)  
+[Read Here»](https://www.fonearena.com/blog/299547/nokia-5g-phone-snapdragon-765-2020.html)

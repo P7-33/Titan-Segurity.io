@@ -1,0 +1,12 @@
+---
+title: 'ASUS 5Z and 6Z get a permanent price cut in India, now available starting at Rs. 16999'
+date: 2019-11-12T08:52:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/06/ASUS-6Z_fonearena-03-1024x767.jpg) ASUS launched the Zenfone 5Z smartphone in India back in July last year. It announced a permanent price cut for the phone back in July, now it has announced second permanent price cut of up to Rs. 7000 for the phone. The ASUS 6Z which was launched in the country back in June this year has received a permanent price cut of up to Rs. 5000 for the first time. Smartphone Launch Price Before price cut After price cut ASUS  6Z (6+64GB) Rs. 31,999 — Rs. 27,999 ASUS  6Z (6+128GB) Rs. 34,999 — Rs. 30,999 ASUS 6Z (8+256GB) Rs. 39,999 — Rs. 34,999 ASUS  5Z (6+64GB) Rs. 29,999 Rs. 21,999 Rs. 16,999 ASUS  5Z (6+128GB) Rs. 32,999 Rs. 24,999 Rs. 18,999 ASUS 5Z (8+256GB) Rs. 36,999 Rs. 28,999 Rs. 21,999 To remind you, the 5Z packs a 6.2-inch Full HD+ 19:9 Super IPS display with notch design, is powered by Snapdragon 845 SoC with support for up to 8GB RAM, runs Android Pie with, has a 12-megapixel rear camera with support for OIS, Sony IMX363 sensor and 0.03s Dual-pixel PDAF, secondary 8-megapixel rear camera with 120-degree wide-angle lens, 8-megapixel front-facing camera, fingerprint sensor on the back, dual speakers and a 3300mAh battery with ASUS BoostMaster fast charging. The 6Z packs a 6.46-inch Full HD+ no-notch LCD screen with narrow bezels and 92% screen-to-body ratio and Corning Gorilla Glass 6 protection, is powered by Snapdragon ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=n0tXZkI80p8:fUkiqYUu2OA:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=n0tXZkI80p8:fUkiqYUu2OA:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=n0tXZkI80p8:fUkiqYUu2OA:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=n0tXZkI80p8:fUkiqYUu2OA:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=n0tXZkI80p8:fUkiqYUu2OA:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=n0tXZkI80p8:fUkiqYUu2OA:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/n0tXZkI80p8)  
+[Read Here»](https://www.fonearena.com/blog/297808/asus-5z-6z-price-cut-india.html)

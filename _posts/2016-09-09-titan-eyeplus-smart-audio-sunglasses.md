@@ -1,0 +1,12 @@
+---
+title: 'Titan EyePlus Smart Audio Sunglasses Musig X – Unboxing and First Impressions'
+date: 2019-10-19T11:44:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/titan-eyeplus-smart-audio-bluetooth-sun-glassesIMG_7143-1024x768.jpg)Solutions to stereo wireless audio on-the-go have taken many forms before but this is the most comfortable unobtrusive solution I've used so far. You can not only escape the harsh light of the sun but the nagging feel of something on/in your ears as well, while still enjoying music/podcasts or answering calls. This is Titan Eyeplus' first foray into the tech, with the Smart Audio Sunglasses Musig X, made by SkyFly in partnership with Mutrics and what you'll be reading further is my first impressions of a fascinating new category in the world of wearables. Let's go. "The future begins now!" says the marketing print and I completely agree. Beyond whether it is true or not in terms of the product is something we will see in the full review but in terms of the concept, yes, it is absolutely true and do note that the future "begins" now, so it is a product for early adopters. SkyFly is an Indian company which has partnered with Mutrics, a Chinese company to make these glasses. A quick look at the specs of this device - UV 400 Lens 8-hour playtime (140 mAH) Near-field Surround Sound Google Assistant/Siri support Bluetooth 5.0 Hands-free calls with ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=aUEnnWat0II:ZJ1ZQ5c7G6s:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=aUEnnWat0II:ZJ1ZQ5c7G6s:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=aUEnnWat0II:ZJ1ZQ5c7G6s:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=aUEnnWat0II:ZJ1ZQ5c7G6s:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=aUEnnWat0II:ZJ1ZQ5c7G6s:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=aUEnnWat0II:ZJ1ZQ5c7G6s:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/aUEnnWat0II)  
+[Read Here»](https://www.fonearena.com/blog/295088/titan-eyeplus-smart-audio-sunglasses-musig-x-unboxing-and-first-impressions.html)

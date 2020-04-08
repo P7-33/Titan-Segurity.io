@@ -1,0 +1,12 @@
+---
+title: 'Flipkart confirms realme 5s launch soon in India; could be launched alongside realme X2 Pro on November 20'
+date: 2019-11-12T12:47:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/realme-5s-flipkart-banner-leak.png) Realme is all set to launch its flagship smartphone, realme X2 Pro on November 20 in India and the launch event tickets went on sale earlier today. There was a report regarding the existence of Realme 5s recently, and now Flipkart has accidentally revealed the existence of Realme 5s on its website. On the landing page of Realme X2 Pro in Flipkart, there is a text to the top that reads "realme 5s Coming Soon" which clearly suggests that realme 5s indeed exists and could be unveiled alongside realme X2 Pro on November 20th, 2019. Flipkart was quick to fix it and the page now reads "Coming soon from house of realme". According to the previous report, the listing in the Bureau of Indian Standards (BIS) and National Broadcasting and Telecommunications Commission (NBTC) in Thailand confirmed that realme 5s will be carrying model number RMX1925. BIS listing revealed the model number, but the NBTC listing confirmed the name as realme 5s (RMX1925). There is no information regarding the design, specifications yet, but we should know more information in the coming days. Source | Via
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=XueA1ALvzgk:8onibYCZJyY:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=XueA1ALvzgk:8onibYCZJyY:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=XueA1ALvzgk:8onibYCZJyY:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=XueA1ALvzgk:8onibYCZJyY:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=XueA1ALvzgk:8onibYCZJyY:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=XueA1ALvzgk:8onibYCZJyY:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/XueA1ALvzgk)  
+[Read Here»](https://www.fonearena.com/blog/297832/flipkart-confirms-realme-5s-launch-soon-in-india-could-be-launched-alongside-realme-x2-pro-on-november-20.html)

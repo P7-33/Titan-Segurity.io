@@ -1,0 +1,12 @@
+---
+title: 'Amazfit GTR (42.6mm) with 1.2-inch AMOLED display, up to 12 days battery life launched in India for Rs. 9999'
+date: 2019-09-26T07:57:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Amazfit-GTR-42.6mm-1-1024x621.jpg) Huami Corporation has launched the Amazfit GTR 42.6mm model  in India, after the launch of 47.2mm model earlier this month. It has a 1.2-inch AMOLED display with 326PPI pixel density, Corning Gorilla Glass 3 protection and 5 ATM water resistance. It has support for 12 sports modes, such as walking, running or swimming, to climbing and skiing, GPS+GLONASS, BioTracker PPG for 24-hour uninterrupted accurate heart rate monitoring, sedentary reminder, all-day health monitoring, sleep analysis and more. The watch is optimized for standby, bright-screen and sport modes, optimizing the power consumption of the watch, offering up to 12 days of battery life with normal use. It comes in attractive designs and multi-color variations for women. Amazfit GTR (42.6mm) specifications 1.2-inch ( 390 x 390 pixels) AMOLED display with Corning Gorilla Glass 3 protection, AF Coating Supports Android 5.0 and above, iO S10.0 and above BioTracker PPG Bio-Tracking Optical Sensor,6-Axis Accelerometer , 3 Axial Geomagnetic Sensor, Air Pressure Sensor, Capacitive Sensor, Ambient Light Brightness Sensor Bluetooth 5.0 LE, GPS + GLONASS Dimensions (42mm): 42.6 x 42.6 x 9.2 mm; Weight: 25.5g Water-resistant and dust-resistant (5ATM / 50 meters) 195mAh LiPo battery with up to 12-days battery life with normal use, up to 34 days in ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=x0LEgimSvUo:JMjvJNyCMzY:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=x0LEgimSvUo:JMjvJNyCMzY:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=x0LEgimSvUo:JMjvJNyCMzY:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=x0LEgimSvUo:JMjvJNyCMzY:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=x0LEgimSvUo:JMjvJNyCMzY:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=x0LEgimSvUo:JMjvJNyCMzY:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/x0LEgimSvUo)  
+[Read Here»](https://www.fonearena.com/blog/293105/amazfit-gtr-price-india-specifications-42-6mm.html)

@@ -1,0 +1,12 @@
+---
+title: 'macOS Catalina 10.15.1 confirms existence of 16-inch MacBook Pro with updated Touch Bar and Touch ID layout'
+date: 2019-10-31T13:22:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/07/13-inch-MacBook-Pro-Touch-Bar.jpg) Earlier this year, there was a report that suggested Apple will launch 16-inch MacBook Pro this year and there were rumours about it for months now. Now, macOS Catalina 10.5.1 update that was released recently with support for AirPods Pro, new emoji, etc confirms the existence of 16-inch MacBook Pro with updated Touch Bar and Touch ID layout. The images found in macOS 10.15.1 update confirm that the 16-inch MacBook Pro will feature Touch ID power button that is separate from the Touch Bar and it is different from the 15-inch MacBook Pro which has Touch ID positioned along with the Touch Bar. There is also a possibility of Apple including a dedicated ESC key in the 16-inch MacBook Pro. The reference images of 16-inch MacBook Pro that were found in macOS Catalina 10.15.1 beta update is not present in the final update now. There are chances that Apple might not launch the new MacBook Pro anytime soon according to previous rumours. In related news, according to a report from Apple analyst Ming-Chi Kuo, 2020 MacBook models will come with the Scissor mechanism instead of the Butterfly mechanism. The adoption of the Scissor mechanism is said to result in increased keyboard durability as ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Kz97C9Pm4co:PP54MTC9frw:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Kz97C9Pm4co:PP54MTC9frw:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Kz97C9Pm4co:PP54MTC9frw:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Kz97C9Pm4co:PP54MTC9frw:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Kz97C9Pm4co:PP54MTC9frw:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Kz97C9Pm4co:PP54MTC9frw:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Kz97C9Pm4co)  
+[Read Here»](https://www.fonearena.com/blog/296894/16-inch-macbook-pro-updated-touch-bar-touch-id-rumor.html)

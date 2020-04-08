@@ -1,0 +1,12 @@
+---
+title: 'Motorola 75-inch 4K LED Smart Android TV with Wireless Gamepad launched in India'
+date: 2019-10-20T12:19:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Motorola-75-inch-4K-Smart-TV.jpg) Motorola launched its Smart Android TV lineup last month in India and it was available in 32-inch HD, 43-inch FHD, 43-inch, 50-inch, 55-inch, and 65-inch 4K display sizes. Expanding its lineup, Motorola has now launched its new 75-inch 4K LED Smart Android TV with Wireless Gamepad in India, as it had promised at the launch event. Motorola's latest TV (75SAUHDM) sports a 75-inch 4K IPS panel with a resolution of 3840 x 2160 pixels, Dolby Vision + HDR 10, 450 nits of brightness, 178-degree viewing angle, and 60Hz refresh rate. It is powered by a 1 GHz CA53 Quad-Core CPU, Mali450 Quad-Core GPU paired with 2.25GB RAM with 16GB internal storage. Similar to other TVs in the lineup, this too runs on Android 9 (Pie) and supports an array of apps including NetFlix, YouTube, Hotstar, Amazon Prime Video, and Google suite of apps. It has support for Play Store and other compatible apps can be downloaded from the Store. Regarding audio, this TV features Dual bottom-firing speakers with a total output of 30W, support for Dolby Audio, DTS Trusurround and has sound modes like Standard, Music, Sport, and Movie. The Smart remote control has dedicated hotkeys for NetFlix, Google Play, YouTube, Google Assistant ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=34o-BdQad6A:cQAmjMKxHgs:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=34o-BdQad6A:cQAmjMKxHgs:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=34o-BdQad6A:cQAmjMKxHgs:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=34o-BdQad6A:cQAmjMKxHgs:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=34o-BdQad6A:cQAmjMKxHgs:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=34o-BdQad6A:cQAmjMKxHgs:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/34o-BdQad6A)  
+[Read Here»](https://www.fonearena.com/blog/295679/motorola-75-inch-4k-led-smart-android-tv-price-india.html)

@@ -1,0 +1,12 @@
+---
+title: 'HUAWEI Nova 5z with 6.26-inch FHD+ display, Kirin 810, 6GB RAM, quad rear cameras, 32MP in-screen camera announced'
+date: 2019-10-21T09:49:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/HUAWEI-Nova-5z-1.jpg) HUAWEI has announced Nova 5z, the company’s latest mid-range smartphone in China, which is the cheaper version of the Nova 5i Pro which was introduced back in July. It has a 6.26-inch Full HD+ display with a 32-megapixel in-screen camera, is powered by Kirin 810 7nm SoC with 6GB RAM, runs Android Pie with EMUI 9.1, has a 48-megapixel rear camera, 8-megapixel ultra-wide sensor, 2-megapixel camera for 2cm macro and another 2-megapixel camera for depth sensing in portrait shots. It has a gradient back and packs a 4000mAh battery with support for 20W fast charging that can charge the phone up to 50% in 30 minutes. HUAWEI Nova 5z specifications 6.26-inch (2340×1080 pixels) Full HD+ IPS display, DCI-P3 wide color gamut Octa-Core Kirin 810 7nm (2x 2.27GHz Cortex-A76 +6 x 1.88GHz Cortex-A55) processor with ARM Mali-G52 MP6 GPU 6GB LPDDR4x RAM, 64GB / 128GB storage, expandable memory up to 256GB Android 9.0 (Pie) with EMUI 9.1 Hybrid Dual SIM (nano + nano / microSD) 48MP rear camera with Sony IMX586 sensor, f/1.8 aperture, 8MP Ultra Wide Angle lens, 2MP f/1.75 aperture camera for macro, 2MP f/2.4 aperture camera for depth sensing 32MP front camera with f/2.0 aperture Fingerprint sensor Dimensions: 156.1×73.9×8.3; Weight: 178g Dual ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=LMIfSAbwNtc:NJ-jED7hCp8:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=LMIfSAbwNtc:NJ-jED7hCp8:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=LMIfSAbwNtc:NJ-jED7hCp8:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=LMIfSAbwNtc:NJ-jED7hCp8:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=LMIfSAbwNtc:NJ-jED7hCp8:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=LMIfSAbwNtc:NJ-jED7hCp8:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/LMIfSAbwNtc)  
+[Read Here»](https://www.fonearena.com/blog/295861/huawei-nova-5z-price-specifications.html)

@@ -1,0 +1,12 @@
+---
+title: 'OnePlus 7T Cases Unboxing and Photo Gallery – Karbon and Sandstone Protective Case and Red Silicone Bumper Case'
+date: 2019-09-27T11:01:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/OnePlus-7T-Cases_fonearena-12-1024x666.jpg) OnePlus 7T that was launched comes with a clear silicone case in the box, As usual, OnePlus launched several cases for the phone. There are protective and bumper cases. Check out the unboxing and photo gallery of the cases. https://www.youtube.com/watch?v=-idDnCqK\_hE https://www.youtube.com/watch?v=NzNcrZhXDRc The Red Silicone Bumper Case for the phone is paired with soft microfiber lining, for enhanced scratch-protection. \[gallery link="file" columns="2" size="medium" ids="293266,293264,293263,293262"\] It has three layers of impact protection. Medical-grade silicone is precisely molded to fold around the edges of the device for superior shock absorption and drop resistance. The OnePlus 7T Karbon Protective case has subtle raised edges, the lightweight yet highly effective OnePlus7T Protective Case. Flexible, sturdy, and lightweight at just 13 grams. Special fibers, expertly woven into this case’s instantly recognizable geometric design, offer enhanced shock and corrosion resistance. The Sandstone case has similar subtle raised edges and weighs 19 grams. It has fine textured finish that offers good a good grip. Pricing OnePlus 7T Sandstone Protective Case — Rs. 990 OnePlus 7T Karbon Protective Case — Rs. 1490 OnePlus 7T Silicone Bumper Case Red — Rs. 1290 OnePlus 7T Karbon Bumper Case — Rs. 1990 OnePlus 7T 3D Tempered Glass Screen Protector — Rs. 1290 OnePlus also sells several bundles. All these accessories will be available from ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=tX2emupLXQM:eKQqHFT_cFs:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=tX2emupLXQM:eKQqHFT_cFs:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=tX2emupLXQM:eKQqHFT_cFs:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=tX2emupLXQM:eKQqHFT_cFs:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=tX2emupLXQM:eKQqHFT_cFs:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=tX2emupLXQM:eKQqHFT_cFs:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/tX2emupLXQM)  
+[Read Here»](https://www.fonearena.com/blog/293257/oneplus-7t-cases-unboxing.html)

@@ -1,0 +1,12 @@
+---
+title: 'Amazon Kindle Oasis (2019) Review'
+date: 2019-10-07T11:58:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Amazon-Kindle-Oasis-2019_fonearena-11-1024x768.jpg) Amazon launched the Kindle Oasis 3 (2019) in June this year. This is the successor of the Oasis that was launched in October 2017. The latest top-end waterproof Kindle Oasis, has a large 7-inch screen and comes with an adjustable color temperature for night reading and more storage options. Does it live up to the expectations? Let us dive into the review to find out. Box Contents Kindle Oasis (2019) USB cable Quick Start Guide Hardware and Design The latest Kindle Oasis has familiar design with hand grip as the first two generations with hardware page-turn buttons. This has a large 7-inch screen with a lot of space near the hardware buttons that lets you hold the Kindle comfortably. By default, the top page-turn button lets you turn a page forward and the bottom button for backward, which you can reverse from the reading options in the settings. Unlike the PagePress buttons on the Voyage that gives you haptic feedback when pressed, these are real buttons. There are two ambient light sensors next to the buttons for automatic brightness adjustment. \[gallery link="file" columns="2" size="medium" ids="294237,294236,294238,294232"\] It is 3.4mm at its thinnest point and 8.3 mm at its thickest, same as the predecessor. The power button is present ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=EkXRVzq7qcM:HBkK4k3AJ_o:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=EkXRVzq7qcM:HBkK4k3AJ_o:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=EkXRVzq7qcM:HBkK4k3AJ_o:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=EkXRVzq7qcM:HBkK4k3AJ_o:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=EkXRVzq7qcM:HBkK4k3AJ_o:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=EkXRVzq7qcM:HBkK4k3AJ_o:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/EkXRVzq7qcM)  
+[Read Here»](https://www.fonearena.com/blog/294230/amazon-kindle-oasis-2019-review.html)

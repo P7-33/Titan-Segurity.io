@@ -1,0 +1,12 @@
+---
+title: 'Redmi 8A Unboxing and First Impressions'
+date: 2019-09-27T09:41:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Redmi-8A_fonearena-14-1024x609.jpg) Xiaomi's Redmi brand launched the Redmi 8A smartphone in India earlier this week. It has a large 6.22-inch HD+ screen and packs a 5000mAh battery with support for 18W fast charging at a price of Rs. 6499. Here we have the first impressions of the phone. Also, check out the unboxing from our FoneArena Tamil channel. https://www.youtube.com/watch?v=MROQJUKgW4w Box Contents Redmi 8A smartphone in Ocean Blue color 2-pin 10W charger (5V-2A) USB Type-C cable SIM Ejector tool User manual and warranty information The first major change in the Redmi 8A compared to the Redmi 7A is the screen. This has a large 6.22-inch HD+ screen with a Dot Notch and 19:9 aspect ratio, compared to the 5.45-inch HD+ 18:9 aspect ratio screen. It also has Corning Gorilla Glass 5 protection that you rarely see in the price range. The phone is powered by Snapdragon 439 SoC, same as the predecessor. It runs Android Pie with MIUI 10 on top, but it should get Android Pie in the future. \[gallery link="file" columns="2" size="medium" ids="293245,293244,293242,293241"\] The notch is small, so you won't notice it. This houses an 8-megapixel camera with f/2.0 aperture and 1.12µm pixel size. This is used for AI face unlock since the phone doesn't have ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=i3y1M3t14Cg:CrAWebmHbIU:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=i3y1M3t14Cg:CrAWebmHbIU:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=i3y1M3t14Cg:CrAWebmHbIU:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=i3y1M3t14Cg:CrAWebmHbIU:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=i3y1M3t14Cg:CrAWebmHbIU:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=i3y1M3t14Cg:CrAWebmHbIU:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/i3y1M3t14Cg)  
+[Read Here»](https://www.fonearena.com/blog/293232/redmi-8a-unboxing-first-impressions.html)

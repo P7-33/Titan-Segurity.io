@@ -1,0 +1,12 @@
+---
+title: 'Realme Buds Wireless Orange and Green color variants go on sale in India for Rs. 1799'
+date: 2019-11-15T13:58:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/realme-buds-wireless-orange-green-color-variants.jpg) Realme launched the realme Buds Wireless alongside realme XT recently in India and initially, the Yellow color variant of Buds Wireless went on sale. After two months now, the other color variants of realme Buds Wireless go on sale in India. realme Buds Wireless is now available in Orange and Green color variants alongside the Yellow color variant. It is priced at Rs. 1799 and is available to buy now from Amazon.in and realme India website. It has support for Bluetooth 5.0 with Bestechnic chip, 11.2mm Bass Boost driver with professional composite DBB bass improvement solution for an immersive audio experience after professional tuning from Alan Walker. It weighs just 30 grams, features skin-friendly silicon gel which offers a comfortable and premium feel. It has a magnetic design that lets you turn it off just by attaching the headphones together. The headset has IPX4 ratings for splash resistance and promises up to 12 hours of battery life and has support for fast charging that can offer 100 minutes of playback with 10 minutes of charging. Realme Buds Wireless highlights and specifications Bestechnic BES2300 audio chip, Bluetooth 5.0 to connect to devices 11.2mm drivers, Multi-layers composite diaphragm, Japan Daikoku Voice Coil Metal/silicon gel Nickel-titanium Shape ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=ekr1nXA0DnU:FV35llAhAYU:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ekr1nXA0DnU:FV35llAhAYU:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=ekr1nXA0DnU:FV35llAhAYU:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ekr1nXA0DnU:FV35llAhAYU:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=ekr1nXA0DnU:FV35llAhAYU:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=ekr1nXA0DnU:FV35llAhAYU:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/ekr1nXA0DnU)  
+[Read Here»](https://www.fonearena.com/blog/298167/realme-buds-wireless-orange-green-india.html)

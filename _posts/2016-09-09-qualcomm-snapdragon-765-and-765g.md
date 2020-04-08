@@ -1,0 +1,12 @@
+---
+title: 'Qualcomm Snapdragon 765 and 765G integrated 5G Mobile Platform and Snapdragon 865 with 2 Gigapixel per second processing speed official'
+date: 2019-12-04T03:05:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Qualcomm-Snapdragon-865-and-765-5G-Mobile-Platform-1024x592.jpg) At the Qualcomm Snapdragon Tech Summit 2019 the company introduced its Snapdragon 765 and 765G 5G mobile platform with built-in Snapdragon X52 5G modem with support for up to 3.7 Gbps speeds with mmWave and Sub 6 support and SA, NSA, DSS support. It has 5th Gen AI Engine, 4K HDR capture with computer-vision ISP, 4K60 HDR10+ support and can support a camera up to 192 megapixels. It also supports Qualcomm Snapdragon Elite Gaming experiences. These will power smartphones launching in 2020 – regardless of whether users are in 5G or 4G coverage. The flagship Snapdragon 865 Mobile Platform includes the Snapdragon X55 Modem-RF System for the next generation of flagship devices. It has 5th gen AI engine, 2 gigapixel per second ISP processing, enables 8K30 video, or 64MP 4K video, up to 200 MP camera support, HDR10+ support and it's a global solution with mmWave, Sub 6 GHz, CA, DSS, NSA, SA. The front end is the same as the X52 solution and has 15 TOPS AI performance. It also supports Snapdragon Elite Gaming, and the company says that 865 will offer 25% performance increase in GPU over 855. It is also bringing desktop features into mobile gaming. It also introduced Snapdragon 865 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=e7kCmxjhl-w:boQusROdXWY:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=e7kCmxjhl-w:boQusROdXWY:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=e7kCmxjhl-w:boQusROdXWY:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=e7kCmxjhl-w:boQusROdXWY:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=e7kCmxjhl-w:boQusROdXWY:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=e7kCmxjhl-w:boQusROdXWY:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/e7kCmxjhl-w)  
+[Read Here»](https://www.fonearena.com/blog/299534/qualcomm-snapdragon-765-765g-5g-snapdragon-865.html)

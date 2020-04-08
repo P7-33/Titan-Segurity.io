@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy M30s Review'
+date: 2019-09-28T06:31:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Samsung-Galaxy-M30s_fonearena-9-1024x640.jpg) Samsung launched the Galaxy M30s smartphones in the ‘M Series’ in India last week. Here we have the review of the smartphone, which is the successor of the M30 with upgraded cameras and a huge 6000mAh battery with fast charging. Specifications look great on paper. Is the phone worth the price of Rs. 13,999? What do you have to compromise in this phone? Let us dive into the review to find out. https://www.youtube.com/watch?v=M1ffcyOytUI Box Contents Samsung Galaxy M30s smartphone 6GB RAM, 128GB storage version in Opal Black 2-pin 15W (9V-1.67A / 5V-2A) fast charger USB Type-C Cable Quick Start Guide and Warranty information Display, Hardware and Design The new Galaxy M30s comes with a 6.4-inch Full HD+  Infinity U display with a resolution of 1080×2340 pixels at about 402.6 PPI, aspect ratio of 19.5:9, same as the M30. The display looks bright, thanks to 420 nits brightness, offers good color reproduction and the sunlight legibility is good as well, thanks to AMOLED panel, it offers true blacks. The phone doesn’t have Corning Gorilla Glass protection, and the company doesn’t say if the phone comes with any kind of hardened glass for protection against scratches. Similar to the other Samsung phones, there is Blue light filter that ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=dAYKmUJKRf4:7hOE-ERiD8U:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=dAYKmUJKRf4:7hOE-ERiD8U:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=dAYKmUJKRf4:7hOE-ERiD8U:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=dAYKmUJKRf4:7hOE-ERiD8U:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=dAYKmUJKRf4:7hOE-ERiD8U:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=dAYKmUJKRf4:7hOE-ERiD8U:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/dAYKmUJKRf4)  
+[Read Here»](https://www.fonearena.com/blog/293281/samsung-galaxy-m30s-review.html)

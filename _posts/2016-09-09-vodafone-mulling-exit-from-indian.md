@@ -1,0 +1,12 @@
+---
+title: 'Vodafone mulling an exit from Indian market as losses mount: Report'
+date: 2019-10-31T10:17:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2014/12/vodafone-logo.jpg) Vodafone India, owned by British company Vodafone Plc and Aditya Birla Group’s telecom arm Idea Cellular merged to become Vodafone Idea Limited last year. The merger was expected to generate Rs. 140 billion annual synergy, however due to competition, Vodafone started losing lakhs of subscribers every month, and the losses keep mounting. Now a new report from IANS says that Vodafone is in talks to exit from the Indian market. The reports says, Vodafone is ready to "pack up and leave any day now." This could be due to mounting operating losses. The group has about Rs. 1.18 lakh crore of net debt, mounting losses and it has been losing subscribers as per TRAI data. In addition, a recent Supreme Court judgement on Adjusted Gross Revenue (AGR) said that Vodafone Idea will have to pay around Rs 28,308 crore (Rs. 19,823 crore for Vodafone Group and Rs. 8,485 crore from Idea Cellular) in three months. In response to the AGR verdict, the company said, "Vodafone Idea is extremely disappointed by the Hon'ble Supreme Court judgment on the Adjusted Gross Revenue (AGR) case". After reports that said Vodafone Idea has approached its lenders for debt recast, the company denied saying that it continues to ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=EaT_MpRFaDg:z2wLETow6Ts:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=EaT_MpRFaDg:z2wLETow6Ts:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=EaT_MpRFaDg:z2wLETow6Ts:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=EaT_MpRFaDg:z2wLETow6Ts:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=EaT_MpRFaDg:z2wLETow6Ts:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=EaT_MpRFaDg:z2wLETow6Ts:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/EaT_MpRFaDg)  
+[Read Here»](https://www.fonearena.com/blog/296856/vodafone-exit-india-rumor.html)

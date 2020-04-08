@@ -1,14 +1,9 @@
 ---
-title: 'Store Locator (Google Maps) For WordPress v4.6.2'
-date: 2020-02-01T14:06:00+01:00
+title: 'Store Locator (Google Maps) For WordPress v4.5.7'
+date: 2019-10-29T07:13:00+01:00
 draft: false
 ---
 
-![Store Locator (Google Maps) For WordPress v4.6.2](http://www.codelist.cc/uploads/posts/2018-04/1524380352_agile-store-locator.jpg "Store Locator (Google Maps) For WordPress v4.6.2")  
+[Southwest flight attendant fixed hidden-camera in the bathroom](https://varindia.com/news/southwest-flight-attendant-fixed-hiddencamera-in-the-bathroom#.XbfZmAU-klA.blogger): A Southwest flight attendant claims two pilots were livestreaming footage from the airplane's bathroom onto an iPad in the cockpit in a lawsuit against the company.  
   
-Agile Store Locator is a premium WordPress Google Maps Plugin designed to offer you immediate access to all the best stores in your local area. The plugin can be used for stores listing, deals listing, hotel listing, real estate listing, restaurant listing, job listing and so on.  
-  
-Demo: [https://codecanyon.net/item/agile-store-locator-google-maps-for-wordpress/16973546](http://www.lolinez.com/?https://codecanyon.net/item/agile-store-locator-google-maps-for-wordpress/16973546)  
-DOWNLOAD  
-from Premium Scripts, Plugins & Mobile  
-via [AmaCode](https://amazcode.ooo)
+VARINDIA- INDIA'S FRONTLINE IT MAGAZINE

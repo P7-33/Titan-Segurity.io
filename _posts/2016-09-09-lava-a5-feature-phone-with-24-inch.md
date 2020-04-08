@@ -1,0 +1,12 @@
+---
+title: 'Lava A5 feature phone with 2.4-inch display launched for Rs. 1399'
+date: 2019-11-18T12:43:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Lava-A5-1.jpg) Lava mobiles has launched its new feature phone in India — Lava A5 and this comes after the launch of smartphones from the company like Lava Z92, Lava Z92, Lava 62, and more. Lava A5 feature phone sports a 2.4-inch QVGA display with a resolution of 240 x 320 pixels. It has a candybar form factor and is a Dual SIM handset that operates in GSM 900/1800MHz frequency. It has a VGA rear camera that has supports zoom and video recording, and expandable memory up to 32GB. It supports USB, Bluetooth connectivity, multimedia player, and wireless FM with recording. It comes with a new 'Super Ultra Tone Technology / Sound Leakage Resistance' that enables clear sound during phone calls by separating the speaker and receiver and eliminates sound leakage. It packs a 1000mAh battery and supports 22 Indian languages including typing in 7 languages like English, Hindi, Tamil, Kannada, Telugu, Gujarati, and Punjabi. Lava A5 specifications 2.4-inch QVGA (240 x 320 pixels) display Form factor: Bar Dual SIM, GSM+GSM VGA rear camera with support for zoom and video recording Up to 32GB expandable memory USB, Bluetooth Music Player, Video Player, Wireless FM with Recording 22 Languages Read Support, 7 Languages Type & Menu ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=ulWSpGPovRU:K80i19WPFNc:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ulWSpGPovRU:K80i19WPFNc:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=ulWSpGPovRU:K80i19WPFNc:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ulWSpGPovRU:K80i19WPFNc:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=ulWSpGPovRU:K80i19WPFNc:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=ulWSpGPovRU:K80i19WPFNc:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/ulWSpGPovRU)  
+[Read Here»](https://www.fonearena.com/blog/298275/lava-a5-price-specifications.html)

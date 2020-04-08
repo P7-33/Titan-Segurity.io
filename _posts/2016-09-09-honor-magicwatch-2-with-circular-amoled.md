@@ -1,0 +1,12 @@
+---
+title: 'HONOR MagicWatch 2 with circular AMOLED display, Kirin A1, 15 sports modes, up to 14 days battery life announced'
+date: 2019-11-26T12:04:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/HONOR-MagicWatch-2.jpg) HUAWEI's HONOR brand has announced MagicWatch 2, successor of last year's model along with the HONOR V30 series. It has a circular AMOLED screen, Kirin A1 chip, support for Bluetooth 5.1, voice calling when connected to Bluetooth, thanks to speaker and microphone, multi-function NFC, support for 15 sports modes, sleep tracking, heart rate tracking and atrial fibrillation, blood oxygen saturation, pressure management and more. It comes with 5ATM rating so it is water-resistant at a depth of 50 meters. The watch packs a 455mAh battery that promises up to 14 days of battery life. HONOR MagicWatch 2 specifications 1.2-inch / 1.39-inch ( 390 x 390 pixels) / ( 454 x 454 pixels) AMOLED touch display HUAWEI Kirin A1 chip Bluetooth 5.1 that connects to Android 4.4 and above iOS 9.0 devices 2GB built-in storage for music 5ATM Water-resistant up to 50 meters Dimensions: 45.9 x 45.9 x 10.7 mm; Weight: 41 g (46mm series) / 41.8 x 41.8x 9.4 mm; Weight: 29 g (46mm) Integrated microphone and speaker, Bluetooth calling Accelerometer sensor, Gyroscope sensor, Geomagnetic sensor, Optical heart rate sensor, Ambient light sensor, Air pressure sensor, and Capacitive sensor Heart rate tracking with TruSeen 3.5, sleep monitoring, HUAWEI TruRelax, and all-day activity ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=NPStUHk8FsM:46DHcqJr_SY:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=NPStUHk8FsM:46DHcqJr_SY:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=NPStUHk8FsM:46DHcqJr_SY:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=NPStUHk8FsM:46DHcqJr_SY:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=NPStUHk8FsM:46DHcqJr_SY:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=NPStUHk8FsM:46DHcqJr_SY:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/NPStUHk8FsM)  
+[Read Here»](https://www.fonearena.com/blog/298980/honor-magicwatch-2-price-specifications.html)

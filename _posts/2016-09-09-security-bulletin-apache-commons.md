@@ -1,36 +1,13 @@
 ---
-title: 'Security Bulletin: An Apache Commons Compress vulnerability has been identified with the embedded IBM FileNet P8 Content Platform Engine component in IBM Business Process Manager and IBM Business Automation Workflow'
-date: 2020-01-28T01:33:00+01:00
+title: 'Security Bulletin: Apache Commons Collections library in WebSphere Application Server Knowledge Center is vulnerable (CVE-2015-7450)'
+date: 2019-11-15T01:10:00+01:00
 draft: false
 ---
 
-An Apache Commons Compress vulnerability has been identified with the embeded IBM FileNet P8 Content Platform Engine component, specifically with the Administration Console for Content Platform Engine application, in IBM Business Process Manager and IBM Business Automation Workflow.
+#### Nov 13, 2019 7:00 pm EST | [High Severity](https://www.ibm.com/blogs/psirt/category/severity-high/)
 
-**Affected product(s) and affected version(s):**
-
-Affected Product(s)
-
-Version(s)
-
-IBM Business Process Manager
-
-8.5.7
-
-IBM Business Automation Workflow
-
-18.0.0.0
-
-IBM Business Automation Workflow
-
-18.0.0.1
-
-Note: CVE 2019-12402, which is specifically for an IBM Administration Console for Content Platform Engine that is part of the embedded Content Platform Engine, does not affect Business Automation Workflow V18.0.0.2 or later versions.
-
-**Refer to the following reference URLs for remediation and additional vulnerability details:  **  
-Source Bulletin: [https://www.ibm.com/support/pages/node/1283920](https://www.ibm.com/support/pages/node/1283920)
-
-The post [Security Bulletin: An Apache Commons Compress vulnerability has been identified with the embedded IBM FileNet P8 Content Platform Engine component in IBM Business Process Manager and IBM Business Automation Workflow](https://www.ibm.com/blogs/psirt/security-bulletin-an-apache-commons-compress-vulnerability-has-been-identified-with-the-embedded-ibm-filenet-p8-content-platform-engine-component-in-ibm-business-process-manager-and-ibm-business-auto/) appeared first on [IBM PSIRT Blog](https://www.ibm.com/blogs/psirt).
+CVEID:   CVE-2019-4473 DESCRIPTION:   Multiple binaries in IBM SDK, Java Technology Edition 7, 7R, and 8 on the AIX platform use insecure absolute RPATHs, which may facilitate code injection and privilege elevation by local users. IBM X-Force ID: 163984.CVSS Base score: 8.4CVSS Temporal Score: See: https://ift.tt/2CGy4uO for the current score.CVSS Vector: (CVSS:3.0/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H) CVEID:   CVE-2019-11771 DESCRIPTION:   AIX builds of Eclipse OpenJ9 before 0.15.0 contain unused RPATHs which may facilitate code injection and privilege elevation by local users.CVSS Base score: 8.4CVSS Temporal Score: See: https://ift.tt/37buTJR for the current score.CVSS Vector: (CVSS:3.0/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H) [...read more](https://www.ibm.com/blogs/psirt/security-bulletin-multiple-vulnerabilities-in-ibm-java-sdk-affect-ibm-tivoli-netcool-impact/)
 
   
   
-from IBM Product Security Incident Response Team https://ift.tt/311pjXr
+from IBM Product Security Incident Response Team https://ift.tt/2CLm8YI

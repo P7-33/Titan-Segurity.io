@@ -1,0 +1,12 @@
+---
+title: 'Razer Hammerhead Truly wireless earbuds and Razer Junglecat controller announced'
+date: 2019-10-31T09:32:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Razer-Hammerhead-Junglecat-1024x319.jpg) Razer has announced two new products; the Razer Junglecat and the Razer Hammerhead True Wireless earbuds. The Razer Jungle cat is a dual-sided mobile gaming controller with dual configuration for both mobile and desktop play. The Razer Hammerhead, on the other hand, are a pair of truly wireless, Bluetooth 5.0, ultra-low latency, high audio quality earbuds. The Razer Junglecat come with twin analog thumbsticks and bumper buttons on each side, the left side sports a 4-way d-pad whilst the right completes the combo with 4 extra action buttons. It will connect over low energy Bluetooth and Razer claims it will have over 100 hours on a single charge via USB-C. The controllers will have two modes. For mobile play, users can connect the dual controllers to the included smartphone case to play on the go. For now, the included smartphone cases will consist of the Razer Phone 2, Samsung Galaxy Note 9, Samsung Galaxy S10+ in the USA and Razer Phone 2, Huawei P30 Pro, Samsung Galaxy S10+ for the rest of the world. The second mode is to attach it to the controller grip and then use as a handheld controller. This mode is also helpful for to play on desktops, ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=-cYJVL3Fg74:o6Hn5dZsXGk:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=-cYJVL3Fg74:o6Hn5dZsXGk:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=-cYJVL3Fg74:o6Hn5dZsXGk:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=-cYJVL3Fg74:o6Hn5dZsXGk:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=-cYJVL3Fg74:o6Hn5dZsXGk:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=-cYJVL3Fg74:o6Hn5dZsXGk:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/-cYJVL3Fg74)  
+[Read Here»](https://www.fonearena.com/blog/296840/razer-hammerhead-razer-junglecat-price.html)

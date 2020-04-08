@@ -1,0 +1,12 @@
+---
+title: 'Realme X2 Pro with 6.5-inch FHD+ 20:9 90Hz Fluid AMOLED display, Snapdragon 855 Plus, 64MP quad rear cameras launching in India this December'
+date: 2019-10-09T07:50:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/realme-X2-Pro-2.jpg) realme is all set to introduce its flagship realme X2 pro smartphone at an event in Spain and another event in China on October 15. Today Madhav Seth, Chief Executive Officer, Realme India confirmed that the phone will launch in India in December. The company already confirmed that it will launch the Realme XT 730G in the country in December, and it was introduced in China as realme X2 recently. It's official now! We are bringing #realmeX2Pro to India in Dec. Time to rethink flagships. Get ready for #FasterSharperBolder. 2K RT in 30mins - to win one SD 855+, 90hz display flagship 5K RT in a day & I will giveaway one more — Madhav '5'Quad (@MadhavSheth1) October 9, 2019 The company recently confirmed Full HD+ 20:9 aspect ratio 90Hz Fluid AMOLED display with 135Hz touch sampling rate for a smooth experience, Corning Gorilla Glass 5 protection, Snapdragon 855 Plus, 64MP quad rear cameras like the realme X2, but this will replace the macro lens with a telephoto lens that will offer 20x zoom. There will also be a 115° ultra-wide angle lens that will also be capable of shooting 2.5cm macro shots and there will be a portrait lens. The phone will feature 50W ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=ty_VbM0WxeU:IfPh9PSq4wE:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ty_VbM0WxeU:IfPh9PSq4wE:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=ty_VbM0WxeU:IfPh9PSq4wE:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ty_VbM0WxeU:IfPh9PSq4wE:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=ty_VbM0WxeU:IfPh9PSq4wE:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=ty_VbM0WxeU:IfPh9PSq4wE:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/ty_VbM0WxeU)  
+[Read Here»](https://www.fonearena.com/blog/294437/realme-x2-pro-india-launch-date.html)

@@ -1,49 +1,43 @@
 ---
-title: 'Unlimited Elements for Elementor Page Builder v1.4.21 nulled'
-date: 2020-01-23T16:47:00+01:00
+title: 'Unlimited Elements for Elementor Page Builder v1.4.12 nulled'
+date: 2019-10-19T06:17:00+01:00
 draft: false
 ---
 
-![Dream League Soccer 2020 7.18 MOD (Unlimited Money) APK For Android](https://i2.wp.com/apkhome.net/wp-content/uploads/2020/01/Dream-League-Soccer-2020-7.18-MOD-Unlimited-Money.png "Dream League Soccer 2020 7.18 MOD (Unlimited Money) APK For Android")
+![](https://avatars1.githubusercontent.com/u/46413578?s=400&v=4 "The V language now compiles itself in 0.09 seconds · vlang/v Wiki · GitHub")  
+
+V now compiles itself in a stunning 0.09 seconds:
+
+```
+wget https://github.com/vlang/v/releases/download/0.1.21/v\_linux.zip unzip v\_linux.zip && cd v time ./v -o ./v2 v.v 0.06s user 0.03s system 97% cpu 0.094 total ./v2 -o v3 v.v # make sure that V can still build itself
+```
+
+My desktop is pretty fast, let's try a slower machine. On a 5 year old laptop with a mobile CPU I'm getting 0.31 seconds, which is still very fast.
+
+This was achieved by several optimizations, like caching the modules and direct machine code generation via tcc.
+
+There are still a couple of things to optimize. By January 2020 it should drop to 0.06 seconds.
+
+Everything has a price though: this is only for unoptimized builds, ~2 times slower than production builds. Running `v -prod` to make a production build is going to be several orders of magnitude slower.
+
+Another cool change is an even simpler bootstrapping process. Bootstrapping V has always been simple from the start:
+
+```
+cc -o v v.c 
+```
+
+No need to install any dependencies, libraries, etc. Just building a single C file with a C compiler (by the way, soon it won't even have any includes for better portability).
+
+However, a C compiler was still needed. It's a small and easy to install dependency that's very likely to already be installed on your machine, but it's still a dependency.
+
+From now on the 2.6 MB zip archive contains everything you need to build V:
+
+```
+wget https://github.com/vlang/v/releases/download/0.1.21/v\_linux.zip du -h v\_linux.zip 2.6M v\_linux.zip
+```
+
+This has only been set up for Linux for now. It'll work on Windows by the end of the week. macOS users will have to get used to the "slow" 0.4 - 1.2 second builds until January.
 
   
-
-Dream League Soccer 2020 7.18 MOD (Unlimited Money) APK For Android
-
-Dream League Soccer 2020 immerses you in the heart of the action, with new graphics and brand new functions! Build your dream team from over 3,500 FIFPro â¢ players and compete against the best football clubs in the world. Advance through 8 divisions while enjoying 3D animations in motion capture, immersive in-game commentary, team customization and much more. This game has never been so beautiful or so good!
-
-BUILD YOUR DREAM TEAM  
-Build your dream team by hiring superstar players like Luis Suarez and Gareth Bale. Perfect your style, develop your players and face the teams that stand on your way to the top of the ranking. Upgrade your stadium with world-class facilities as you progress towards the legendary division. Will you be up to it?
-
-RENOVATED AND IMPROVED GAMEPLAY  
-The best of the best of the Dream League Soccer experience awaits you, with new entertainment and improved AI. We have revolutionized the best mobile football game experience. Dream League Soccer 2020 is the perfect soccer game, it captures the spirit and the beauty of this sport.
-
-READY FOR SUCCESS  
-Feast your eyes on the most beautiful version of Dream League Soccer to date! Personalize your manager with several options, including hairstyles and outfits. Thanks to our new and improved graphics engine, your dream team has never looked so good!
-
-**Supported Android**  
-{4.0 and UP}  
-**Supported Android Version**:-  
-Jelly Bean(4.1â"4.3.1)- KitKat (4.4â"4.4.4)- Lollipop (5.0â"5.0.2) - Marshmallow (6.0 - 6.0.1) - Nougat (7.0 â" 7.1.1) - Oreo (8.0-8.1) - Pie (9.0)
-
-**MOD TYPE: Unlimited Money**
-
-Download Dream League Soccer 2020 7.18 MOD (Unlimited Money) APK For Android
-============================================================================
-
-Additional Information
-----------------------
-
-**Developer :** First Touch Games Ltd.
-
-**Version :** 7.18
-
-**Google Play :** [PlayStore](https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7)
-
   
-
-[Download Now](https://store4app.co/post/dream-league-soccer-2020-7-18-mod-unlimited-money-apk-for-android_1579794605)
-
-  
-#ApkDownload, #APKForAndroid, #DownloadApkMod, #store4app  
-Source: [Go homepage.](https://store4app.co/post/dream-league-soccer-2020-7-18-mod-unlimited-money-apk-for-android_1579794605) .downloadtop{ text-align:center; -webkit-appearance: none; -moz-appearance: none; appearance: none; width: 100%; padding: 9px 9px 11px 13px; background-color: #0EBD3F; border: none; color:#fff; border-radius: 3px; outline: none; font-weight;bold; font: 20px 'Open Sans', sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; color: #fff; cursor: pointer; border-radius:15px;-webkit-border-radius:15px;-moz-border-radius:5px;box-shadow:0 0 5px rgba(0,0,0,.2);-moz-box-shadow:0 0 5px rgba(0,0,0,.2);-webkit-box-shadow:0 0 5px rgba(0,0,0,.2) !important; }
+from Hacker News https://ift.tt/2pwHo11

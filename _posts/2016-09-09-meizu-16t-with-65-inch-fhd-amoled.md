@@ -1,0 +1,12 @@
+---
+title: 'Meizu 16T with 6.5-inch FHD+ AMOLED display, Snapdragon 855, up to 8GB RAM, triple rear cameras announced'
+date: 2019-10-23T09:43:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Meizu-16T-1.jpg) Meizu just announced 16T, the company's latest smartphone in China, as it had promised. It has a 6.5-inch Full HD+ Super AMOLED display from Samsung, TÜV eye protection certification, is powered by Snapdragon 855 with up to 8GB of RAM, runs Flyme OS with Android Pie on top, has a 12-megapixel rear camera along with a secondary 8-megapixel 118° ultra-wide lens that is also capable of shooting 2.5cm macro and a 5-megapixel depth sensor for portrait shots. It also has a 16-megapixel camera on the front for 0.2 second face unlock. The phone has an optical in-display fingerprint scanner with 30% more unlock success rate for 0.2s rapid unlock compared to the predecessor, has dual stereo speakers, linear motor, retains the 3.5mm headphone jack, comes with game mode 4.0 and packs a 4500mAh battery life that promises whole day of battery life even with heavy use and comes with 18W mCharge fast charging. Meizu 16T specifications 6.5-inch (1080 × 2232 pixels) Full HD+ 18.6:9 Super AMOLED display with 430 nit (up to 600 nit peak) brightness, 100% DCI-P3 color gamut Octa-Core Qualcomm Snapdragon 855 Mobile Platform with Adreno 640 GPU 6GB / 8GB LPDDR4x RAM with 128GB (UFS 3.0) storage / 8GB ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=UQ8W9eZqhqk:m-aWKNIUyNY:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=UQ8W9eZqhqk:m-aWKNIUyNY:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=UQ8W9eZqhqk:m-aWKNIUyNY:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=UQ8W9eZqhqk:m-aWKNIUyNY:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=UQ8W9eZqhqk:m-aWKNIUyNY:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=UQ8W9eZqhqk:m-aWKNIUyNY:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/UQ8W9eZqhqk)  
+[Read Here»](https://www.fonearena.com/blog/296133/meizu-16t-price-specifications.html)

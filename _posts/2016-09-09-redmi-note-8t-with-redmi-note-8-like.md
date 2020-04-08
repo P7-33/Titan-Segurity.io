@@ -1,0 +1,12 @@
+---
+title: 'Redmi Note 8T with Redmi Note 8-like design, quad rear cameras, NFC surfaces in renders'
+date: 2019-10-22T15:14:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Redmi-Note-8T.jpg) Xiaomi launched the Redmi Note 8 and Redmi Note 8 Pro smartphones last week in India. While the second flash sale of Redmi Note 8 Series went live today, renders of alleged Redmi Note 8T have surfaced already revealing key details. According to new render images of alleged Redmi Note 8T, the smartphone is said to be identical in design and specifications to the recently launched Redmi Note 8, except for the addition of NFC in the Note 8T. The gradient design, quad-rear cameras, rear-mounted fingerprint scanner, etc are said to be same as Redmi Note 8. However, we advise you to take this information with a grain of salt as this is an early render and we should be knowing more information in the coming months. \[caption id="attachment\_289743" align="aligncenter" width="571"\] Image of Redmi Note 8\[/caption\] To recall, Redmi Note 8 flaunts a 6.39-inch Full HD+ LCD screen with 90% screen-to-body ratio, is powered by Snapdragon 665 11nm Mobile Platform with up to 6GB RAM, features a 48-megapixel main camera with 4-in-1 pixel binning for low-light shots, 8-megapixel 120° ultra-wide-angle lens, 2-megapixel depth sensor and a 2-megapixel sensor for 2cm macro shots. There is a 13-megapixel camera on the front. It has a rear-mounted ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=10YiCsaM27o:0VHhgr1NwEY:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=10YiCsaM27o:0VHhgr1NwEY:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=10YiCsaM27o:0VHhgr1NwEY:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=10YiCsaM27o:0VHhgr1NwEY:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=10YiCsaM27o:0VHhgr1NwEY:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=10YiCsaM27o:0VHhgr1NwEY:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/10YiCsaM27o)  
+[Read Here»](https://www.fonearena.com/blog/296092/redmi-note-8t-image-leak.html)

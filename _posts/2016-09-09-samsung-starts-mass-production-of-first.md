@@ -1,0 +1,12 @@
+---
+title: 'Samsung starts mass production of first 12GB LPDDR4X + eUFS 3.0 multichip package'
+date: 2019-10-24T04:13:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Samsung-LPDDR4X-eUFS-3.0-1024x601.jpg) Samsung at the annual Samsung Tech Day in San Jose, California announced that is has started mass production of first 12-gigabyte (GB) low-power double data rate 4X (LPDDR4X) UFS-based multichip package (uMCP). Samsung introduced 12GB LPDDRX chips with 1y-nanometer process technology back in March that combines six 16-gigabit (Gb) LPDDR4X chips (16Gb=2GB) based on the second-generation 10nm-class (1y-nm) process into a single package. By combining four of the 24-gigabit (Gb) LPDDR4X chips (24Gb=3GB) based on the second-generation 10nm-class (1y-nm) process into a single package, the new mobile memory is able to break through the current 8GB package limit and provide 10+ GB memory to the broader smartphone market, said the company. 12GB LPDDR4X uMCP: four 24Gb (3GB) chips + eUFS 3.0 10GB LPDDR4X uMCP: two 24Gb (3GB) chips + two 16Gb (2GB) chips + eUFS 3.0 With 1.5X capacity of the previous 8GB package and a data transfer rate of 4,266 megabits per second (Mbps), the 12GB uMCP can support smooth 4K video recording as well as accommodate AI and machine learning features even for mid-end smartphones. Samsung said that it plans to rapidly expand the availability of 10+ GB LPDDR DRAM to address the increasing needs of global smartphone makers for higher-capacity ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=SYdNuq05sPs:QCay_ZQAZNk:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=SYdNuq05sPs:QCay_ZQAZNk:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=SYdNuq05sPs:QCay_ZQAZNk:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=SYdNuq05sPs:QCay_ZQAZNk:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=SYdNuq05sPs:QCay_ZQAZNk:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=SYdNuq05sPs:QCay_ZQAZNk:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/SYdNuq05sPs)  
+[Read Here»](https://www.fonearena.com/blog/296251/samsung-12gb-lpddr4x-eufs-3-0-umcp.html)

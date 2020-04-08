@@ -1,0 +1,12 @@
+---
+title: 'FileBase v1.2.2 – Ultimate Media Library Folders for WordPress'
+date: 2019-11-05T11:55:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Firefox.jpg) Earlier this year, Mozilla announced that it will reduce the amount of notification permission prompts that users are seeing on a daily basis. Today the company has announced that Firefox 72 that will be released next year will restrict notification permission prompts by default and this comes as a result of a series of studies and experiments conducted by the company. Starting from Firefox 72 browser, user interaction on all notification permission prompts will be required and users will have to perform a tap, click, or press a key before a site can ask for notification permission. The permissions to display desktop notification will appear in the form of a small icon on the browser's URL bar and users have to click the icon to view the notification and grant or deny permission manually. Mozilla says that experiments conducted by them show that about 99% of notification prompts go unaccepted, with 48% being actively denied by the user and it also shows that users are likely to change their mind if the notifications are shown repeatedly. Firefox 72 is due for release in January 2020 and we will start seeing the changes next year. Meanwhile, Firefox 70 will now replace the default "Not ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=nxe3ZCvi2NQ:Q0KUUV2q0Os:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=nxe3ZCvi2NQ:Q0KUUV2q0Os:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=nxe3ZCvi2NQ:Q0KUUV2q0Os:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=nxe3ZCvi2NQ:Q0KUUV2q0Os:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=nxe3ZCvi2NQ:Q0KUUV2q0Os:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=nxe3ZCvi2NQ:Q0KUUV2q0Os:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/nxe3ZCvi2NQ)  
+[Read Here»](https://www.fonearena.com/blog/297250/mozilla-firefox-72-restrict-notification-permission-prompts.html)

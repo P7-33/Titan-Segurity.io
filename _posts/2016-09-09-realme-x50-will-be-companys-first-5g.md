@@ -1,0 +1,12 @@
+---
+title: 'Realme X50 will be the company’s first 5G phone with SA/NSA dual mode 5G support, dual punch-hole display'
+date: 2019-11-25T03:54:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/realme-X50-5G.jpg) realme already confirmed that it will launch a 5G phone this year, and recently at the realme X2 Pro launch event Madhav Seth, Chief Executive Officer, Realme India confirmed that realme will be one of the first brands to launch Qualcomm SoCs with built-in 5G in India in 2020. Today, realme China CMO Xu Qi Chase has confirmed that realme will launch the X50 5G phone in China soon. This comes after the realme X2 Pro was launched in China and Europe in October and in India last week. He has also confirmed that the phone will come with support for 5G stand alone and non-stand alone (SA/NSA) sub-6GHz networks. The teaser image also confirms dual punch-hole display for the front cameras, same as the Redmi K30 that will be introduced in China next month. Qualcomm recently announced that its 3-day annual Snapdragon Technology Summit will take place on December 3, where it will introduce Flagship Snapdragon Mobile Platforms with built-in 5G support. We can expect the flagship Snapdragon 865 SoC, successor of the Snapdragon 855 that was introduced in December last year. New Snapdragon 735 and other new mid-range SoCs with 5G are also expected. We should know more details about the realme ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=wZxh8jnQ31c:Z90FxLCAl1Q:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=wZxh8jnQ31c:Z90FxLCAl1Q:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=wZxh8jnQ31c:Z90FxLCAl1Q:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=wZxh8jnQ31c:Z90FxLCAl1Q:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=wZxh8jnQ31c:Z90FxLCAl1Q:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=wZxh8jnQ31c:Z90FxLCAl1Q:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/wZxh8jnQ31c)  
+[Read Here»](https://www.fonearena.com/blog/298808/realme-x50-5g-phone-teaser.html)

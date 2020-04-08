@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy A70s with 6.7-inch FHD+ AMOLED Infinity-U display, 64MP triple rear cameras launched in India starting at Rs. 28999'
+date: 2019-09-27T12:51:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Samsung-Galaxy-A70s.jpg) After rumors, Samsung has officially launched the Galaxy A70s, successor of the Galaxy A70, which was launched in India back in April. This has the same 6.7-inch Full HD+ Infinity-U Super AMOLED display with 20: 9 aspect ratio and  is powered by an Octa-Core Snapdragon 675 SoC and runs Android Pie with Samsung One UI, but this comes with up to 8GB of RAM, and features a 64-megapixel rear camera with f/1.8 aperture along with a secondary 5-megapixel camera for portrait shots and an 8-megapixel 123° ultra wide-angle lens. The phone also has a 32-megapixel front camera, which is same as the A70. The back has unique geometric patterns and  holographic effect on the back, and packs a 4500mAh battery with support for 25W super fast charging. Samsung Galaxy A70s specifications 6.7-inch (2400 x 1080 pixels) Full HD+ 20: 9 Infinity-U Super AMOLED display 2GHz Octa-Core Snapdragon 675 Mobile Platform with Adreno 612 GPU 6GB / 8GB RAM, 128GB Storage, expandable up to 512GB via micro SD card Android 9.0 (Pie) with Samsung One UI Dual SIM (nano + nano + microSD) 64MP rear camera with LED flash with f/1.8 aperture, 5MP depth sensor with f/2.2 aperture, 8MP 123° ultra-wide angle camera with ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=-rCw0xVTueQ:ZOCO-Ck1qUs:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=-rCw0xVTueQ:ZOCO-Ck1qUs:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=-rCw0xVTueQ:ZOCO-Ck1qUs:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=-rCw0xVTueQ:ZOCO-Ck1qUs:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=-rCw0xVTueQ:ZOCO-Ck1qUs:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=-rCw0xVTueQ:ZOCO-Ck1qUs:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/-rCw0xVTueQ)  
+[Read Here»](https://www.fonearena.com/blog/293296/samsung-galaxy-a70s-price-india-specifications.html)

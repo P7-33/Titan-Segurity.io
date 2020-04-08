@@ -1,0 +1,12 @@
+---
+title: '92 Woocommerce Extensions + Updates'
+date: 2019-11-05T07:51:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/07/Google-Pixel-3a-XL_fonearena-11-1024x683.jpg) Google has started rolling out new over-the-air (OTA) update for Pixel devices and also posted factory images as part of monthly Android Security release for November. Pixel and Pixel XL phones will not get security patches starting this month since the phone has completed 3 years. New builds for the Pixel devices with October 2019 Android Security update: Pixel 4, Pixel 4 XL (QD1A.190821.014.C2) Pixel 3, Pixel 3 XL, Pixel 3a, Pixel 3a XL (QP1A.191105.003) Pixel 2, Pixel 2 XL (QP1A.191105.004) Check out the complete set of issues that are fixed in the latest update in the Android update Bulletin here, Security and download full factory images or OTA images for these Pixel devices from the Google Developers website, if you don’t have the over-the-air (OTA) update yet. Functional patches Improvements for Google Assistant Hotword for Pixel 2, Pixel 2 XL, Pixel 3, Pixel 3 XL Additional support for Xbox BT controller mapping for Pixel 2, Pixel 2 XL, Pixel 3, Pixel 3 XL, Pixel 3a, Pixel 3a XL, Pixel 4, Pixel 4 XL Improvements for bottom speaker audio quality for Pixel 3 Additional fixes for some devices stuck during boot for Pixel 3, Pixel 3 XL, Pixel 3a, Pixel 3a XL Smooth Display improvements and Camera quality improvements for Pixel 4, Pixel 4 XL As ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=vV_x_K9fTic:_HrEnXlLJuU:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=vV_x_K9fTic:_HrEnXlLJuU:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=vV_x_K9fTic:_HrEnXlLJuU:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=vV_x_K9fTic:_HrEnXlLJuU:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=vV_x_K9fTic:_HrEnXlLJuU:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=vV_x_K9fTic:_HrEnXlLJuU:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/vV_x_K9fTic)  
+[Read Here»](https://www.fonearena.com/blog/297180/google-pixel-november-2019-android-security-update.html)

@@ -1,0 +1,12 @@
+---
+title: 'Dropbox Transfer with up to 100GB file transfer support rolling out widely'
+date: 2019-11-05T10:37:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Dropbox-Transfer.jpg) Dropbox has made delivering files to users and clients easier now with the introduction of Dropbox Transfer, which is rolling out for all, after beta testing it back in July. The feature lets users create a single link for large files (up to 100GB), share it with anyone without the hassle of giving people edit access to originals and links that let people download updates you make later. Users can select files directly from Dropbox or upload them from their local hard drive. Dropbox has also added password protection and the ability to set an expiration date for the link that gets generated. Once the link is sent, Dropbox's viewership stats will let the user see how many times the transfer's been accessed. Dropbox transfer will be available cross platform, that is, Dropbox desktop and iOS apps in addition to dropbox.com. Users will also have the ability to add a background and logo to the files in their pro plans. File size limitations depend on the users current plan Basic (free): 100MB Plus: 2GB Professional: 100GB Business Standard: 2GB Business Advanced, Enterprise, or Education: 100GB The transfer link by default will expire in 7 days. Another important note is that the recipient of the ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=YyCoSBz_Kag:qnuvwUE65nE:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=YyCoSBz_Kag:qnuvwUE65nE:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=YyCoSBz_Kag:qnuvwUE65nE:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=YyCoSBz_Kag:qnuvwUE65nE:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=YyCoSBz_Kag:qnuvwUE65nE:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=YyCoSBz_Kag:qnuvwUE65nE:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/YyCoSBz_Kag)  
+[Read Here»](https://www.fonearena.com/blog/297217/dropbox-transfer-100gb-file-transfer.html)

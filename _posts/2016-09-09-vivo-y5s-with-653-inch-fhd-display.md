@@ -1,0 +1,12 @@
+---
+title: 'Vivo Y5s with 6.53-inch FHD+ display, triple rear cameras, 5000mAh battery announced'
+date: 2019-11-07T10:56:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Vivo-Y5s.jpg) Vivo has announced Y5s, the company's latest mid-range smartphone in China. It has a 6.53-inch Full HD+ display with about 90.3% screen-to-body ratio, is powered by the latest MediaTek Helio P65 12nm SoC with 6GB of RAM, sports a 16MP primary sensor with f/1.78 aperture+ 8MP ultrawide sensor and an 2MP macro sensor, as well as a 16MP front-facing camera. In has a rear-mounted fingerprint scanner and packs a 5000mAh battery with support for Vivo’s 18W Dual Engine fast charging, but it has a micro USB port. Vivo Y5s specifications 6.53-inch (2340 × 1080 pixels) Full HD+ display Octa Core MediaTek Helio P65 (MT6768) (4x Cortex-A75 @ 2.0 GHz 4x Cortex-A55 @ 2.0 GHz) 12nm processor  with ARM Mali-G52 GPU 6GB RAM, 128GB storage, expandable up to 256GB with micoSD Android 9.0 (Pie) with Funtouch OS 9 Dual SIM 16MP primary sensor with Sony IMX499 sensor, f/1.78 aperture + 8MP 120° ultrawide sensor with f/2.2 aperture+ 2MP 4cm macro sensor with f/2.4 aperture 16MP front-facing camera with f/2.0 aperture Fingerprint sensor 3.5 mm audio jack, FM Radio Dimensions: 162.15 × 76.47 × 8.89mm; Weight: 193g Dual 4G VoLTE, WiFi 802.11 ac dual-band, Bluetooth 5, GPS/GLONASS, micro USB port 5000mAh (typical) battery with 18W ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=HSP5fSr42q0:l5sKDe_d090:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=HSP5fSr42q0:l5sKDe_d090:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=HSP5fSr42q0:l5sKDe_d090:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=HSP5fSr42q0:l5sKDe_d090:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=HSP5fSr42q0:l5sKDe_d090:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=HSP5fSr42q0:l5sKDe_d090:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/HSP5fSr42q0)  
+[Read Here»](https://www.fonearena.com/blog/297434/vivo-y5s-price-specifications.html)

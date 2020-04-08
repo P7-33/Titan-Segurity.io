@@ -1,0 +1,12 @@
+---
+title: 'ASUS ZenBook Pro Duo (UX581) Dual-Screen Laptop Review — Double the convenience?'
+date: 2019-11-18T07:18:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/ASUS-ZenBook-Pro-Duo.jpg) Laptop manufacturers have come a long way in terms of innovation and are experimenting with new technologies on their products. We saw brands coming up with almost bezel-less displays on laptops, triple-display laptop Project Valerie from Razer, MateBook X with a pop-up camera, and more. The latest to join the list is ASUS with its innovative dual-screen laptop, ZenBook Pro Duo (UX581). As the name suggests, it comes with a 14" secondary OLED 4K screen. We have been testing the top-end variant of ZenBook Pro Duo with Intel Core i9 processor, 32GB RAM, 1TB storage for some time now and here is our review of ASUS ZenBook Pro Duo (UX581). ASUS ZenBook Pro Duo (UX581) specifications 15.6-inch 16:9 4K OLED touchscreen display with a resolution of 3840 x 2160 pixels, 5mm-thin bezel, 89% screen-to-body ratio, and 178° wide-view technology 9th Generation Intel Core i9-9980HK processor with 2.4GHz base clock speed and Turbo Boost up to 5.0GHz; 16MB cache NVIDIA GeForce RTX 2060 GPU 32GB DDR4 2666MHz RAM 1TB PCIe Gen 3 x4 SSD Full size backlit keyboard, 14-inch 4K ScreenPad Plus touch display with 178˚ wide-view technology, NumberPad -Integrated LED-backlit numeric keypad on the touchpad Connectivity and ports: Up to Intel Wi-Fi 6 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=GxXfCOWR930:ewYFedlzQn4:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=GxXfCOWR930:ewYFedlzQn4:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=GxXfCOWR930:ewYFedlzQn4:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=GxXfCOWR930:ewYFedlzQn4:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=GxXfCOWR930:ewYFedlzQn4:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=GxXfCOWR930:ewYFedlzQn4:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/GxXfCOWR930)  
+[Read Here»](https://www.fonearena.com/blog/298204/asus-zenbook-pro-duo-ux581-review.html)

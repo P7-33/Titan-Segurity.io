@@ -1,0 +1,12 @@
+---
+title: 'HONOR Vision 55-inch 4K HDR Smart TV with pop-up camera announced in India, coming in Q1 2020'
+date: 2019-10-14T13:04:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/08/HONOR-Vision-TV.jpg) HONOR India has announced their entry into the smart TV market with the unveiling of the HONOR Vision Smart Screen at India Mobile Congress today. The TV will feature the  “Honghu 818” intelligent display chipset by HiSilicon along with AI Camera NPU Chipset, a flagship level WiFi Chipset and will be the first TV to run on Huawei's new Harmony OS. The HONOR Vision will come equipped with a 55-inch 4k HDR display, 6.9mm thickness, 94% screen to body ratio and a 178 degrees wide viewing angle panel. The Vision will feature 6' 10 Watt speakers to provide a immersive sound experience. The TV also supports multi-device connection and allows users to make video calls using the built-in AI pop-up camera. The "Honghu 818" Display Chipset by HiSilicon provides powerful computing, decoding, image processing and sound effects optimization capabilities. The chipset will contains many image processing technologies such as Motion Estimate and Motion Compensation (MEMC), High Dynamic Range Imaging (HDR), Super-Resolution (SR), Noise Reduction (NR), Dynamic Contrast Improvement (DCI), Auto Color Management (ACM) and Local Dimming (LD) to provide the best viewing experience for the user. The HONOR Vision is expected to launch in India in Q1 2020. Commenting on the same, Charles Peng, ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=T7wFvZGyy04:UWVZlXbOEf0:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=T7wFvZGyy04:UWVZlXbOEf0:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=T7wFvZGyy04:UWVZlXbOEf0:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=T7wFvZGyy04:UWVZlXbOEf0:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=T7wFvZGyy04:UWVZlXbOEf0:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=T7wFvZGyy04:UWVZlXbOEf0:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/T7wFvZGyy04)  
+[Read Here»](https://www.fonearena.com/blog/295060/honor-vision-tv-india-launch-date.html)

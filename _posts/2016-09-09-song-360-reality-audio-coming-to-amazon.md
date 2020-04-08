@@ -1,0 +1,12 @@
+---
+title: 'Song 360 Reality Audio coming to Amazon Music HD, Deezer, TIDAL and more in 2019'
+date: 2019-10-16T12:14:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Song-360-Reality-Audio-1024x500.png) Sony corporation has announced that 360 Reality Audio, an immersive audio experience utilizing object-based spatial audio technology will be available for the public coming this late fall 2019. Listeners in the United States, Europe and a few other locations will be able to listen to approximately 1000 songs at launch from many popular artists such as Mark Ronson and Pharrell Williams. Song introduced this technology early this year at CES 2019. It generated quite a bit of buzz among industry artists and artists who was interested in exploring this new tech. Object-based spatial audio technology makes it possible for artists and music creators to produce a music experience by mapping sound sources such as vocals, chorus and instruments with positional information and placing them within a spherical space centered around the user. Initially, 360 Reality Audio will feature approximately 1000 songs. More music is scheduled to be added from Sony Music Entertainment, Universal Music Group and Warner Music Group. The service will also feature more than 100 songs recorded from an array of concerts by performers such as CHARLI XCX and Kodaline. The technology will be streamed through a variety of music streaming services, namely Amazon Music HD, Deezer, nugs.net, TIDAL with support ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=O5Q0VkO0FwA:bVFu3hadpPg:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=O5Q0VkO0FwA:bVFu3hadpPg:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=O5Q0VkO0FwA:bVFu3hadpPg:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=O5Q0VkO0FwA:bVFu3hadpPg:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=O5Q0VkO0FwA:bVFu3hadpPg:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=O5Q0VkO0FwA:bVFu3hadpPg:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/O5Q0VkO0FwA)  
+[Read Here»](https://www.fonearena.com/blog/295350/song-360-reality-audio-amazon-music-hd-deezer-tidal.html)

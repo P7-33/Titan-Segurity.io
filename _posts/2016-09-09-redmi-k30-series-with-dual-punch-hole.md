@@ -1,0 +1,12 @@
+---
+title: 'Redmi K30 series with dual punch-hole display, SA/NSA dual mode 5G support to be announced on December 10'
+date: 2019-11-26T03:54:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Redmi-K30-launch-invite-947x1024.jpg) After teasers, Xiaomi's Redmi brand has confirmed that the Redmi K30 series of smartphones will be introduced in China on December 10th. The invite once again confirms punch-hole display for dual selfies cameras, and support for 5G stand alone and non-stand alone (SA/NSA) sub-6GHz networks. These are the successors of K20 and K20 Pro that were introduced in China back in May this year, so the company is following 6-month upgrade cycle. Qualcomm already announced expansion of 5G support for older 7 Series and 6 Series in 2020, so the K30 could use Snapdragon 6 or 7 series 5G Mobile Platform. Live image of the phone that surfaced recently revealed 6.66-inch (1080 x 2400 pixels) Full HD+ display with 120Hz high refresh rate. It also showed Adreno 618 GPU so it could Qualcomm Snapdragon 730 or Snapdragon 730G SoC, even though earlier rumors said that it could be Snapdragon 735 (Snapdragon 7250). Earlier rumors said that it could use upcoming Sony’s upcoming IMX686 image sensor, and a side-mounted fingerprint scanner. This also shows MIUI 11, which should come out of the box. Xiaomi phone with model number M2001G7AE with 30W fast charging has been certified by 3C in China, now another phone with model ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=OdDSCVUsD3M:eaRvaFjukyE:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=OdDSCVUsD3M:eaRvaFjukyE:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=OdDSCVUsD3M:eaRvaFjukyE:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=OdDSCVUsD3M:eaRvaFjukyE:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=OdDSCVUsD3M:eaRvaFjukyE:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=OdDSCVUsD3M:eaRvaFjukyE:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/OdDSCVUsD3M)  
+[Read Here»](https://www.fonearena.com/blog/298928/redmi-k30-launch-date-specs.html)

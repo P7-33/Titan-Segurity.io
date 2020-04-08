@@ -1,0 +1,12 @@
+---
+title: 'PLAYFIT 21 and PLAYFIT 53 fitness bands, PLAYGO N23 Bluetooth Neckband Earphones with 20h playback launched starting at Rs. 1299'
+date: 2019-09-30T12:46:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/PLAYFIT-21-and-PLAYFIT-53-1024x541.jpg) After the launch of PLAYFIT SW75 smartwatch, Delhi-based startup has launched new wearables and audio products that includes PLAYFIT 21 and 53 fitness bands and PLAYGO N23 Neckband Earphones on Amazon. PLAYFIT 21 Fitness Band features and specifications  0.96-inch color display Nordic nRF52832 Chipset, Bluetooth 4.2 to connect to Android (4.4 and above) and iOS (9.0 and above) devices Touch Button UI allows users to flip through several features — Heart Rate monitoring, Stopwatch, Pedometer and Sleep Monitoring Pressing the Touch Button for 2 seconds allows the consumer to get detailed statistics for the specific feature Call and Notification Alert: SMS, WeChat, QQ, Facebook, WhatsApp, Twitter, Instagram, Messenger, LinkedIn, Email, Calendar, Skype etc. Dial face is customizable Supports upto 14 sports modes like Walking, Running, Cycling, Skipping, Badminton, Basketball, Football etc. Water and Dustproof (IP68) 7-10 days battery life, retractable straps which also allows you to charge your band via USB power source PLAYFIT 53 Fitness Band features and specifications  0.96-inch 2.5D curved glass color display with full Touch UI Nordic nRF52832 Chipset, Bluetooth 4.2 to connect to Android (4.4 and above) and iOS (9.0 and above) devices Scroll through multiple features such as Notifications,Training Mode Heart Rate, Steps (Pedometer) and ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=90fJ9grwxR0:Su3LcxnontM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=90fJ9grwxR0:Su3LcxnontM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=90fJ9grwxR0:Su3LcxnontM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=90fJ9grwxR0:Su3LcxnontM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=90fJ9grwxR0:Su3LcxnontM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=90fJ9grwxR0:Su3LcxnontM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/90fJ9grwxR0)  
+[Read Here»](https://www.fonearena.com/blog/293686/playfit-21-playfit-53-playgo-n23-price-features.html)

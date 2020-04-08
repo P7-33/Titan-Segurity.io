@@ -1,0 +1,12 @@
+---
+title: 'HUAWEI nova 6 and nova 6 5G with 6.57-inch FHD+ display, Kirin 990, 40MP triple rear cameras, dual in-screen front cameras announced'
+date: 2019-12-05T11:02:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/HUAWEI-Nova-6-5G.jpg) HUAWEI just announced nova 6 and nova 6 5G smartphones at an event in China, as it had promised. These pack a 6.57-inch Full HD+ LCD screens with dual punch-hole design for a 32-megapixel camera along with an 8-megapixel 105° ultra-wide sensor. The 4G version is powered Kirin 990 chip and the 5G version includes Balong 5000 5G modem for NSA & SA 5G dual-mode support. These pack triple rear cameras with matrix arrangement and Sony IMX600 40MP sensor, 8-megapixel telephoto lens for 3x optical zoom and four-axis OIS and 8-megapixel ultra-wide camera. These feature glass back, side-mounted fingerprint scanner and pack 4100mAh and 4200mAh battery, respectively with support for HUAWEI’s 40W super Fast charging. HUAWEI nova 6 and nova 6 5G specifications 6.57-inch (2400 × 1080 pixels) Full HD+ LCD 2.5D curved glass display with 96% NTSC color gamut HUAWEI Kirin 990 (2 x Cortex-A76 Based 2.86 GHz + 2 x Cortex-A76 Based 2.09 GHz + 4 x Cortex-A55 1.86 GHz) processor with ARM Mali-G76MP16 GPU, Big Core + Tiny Core NPUs(Neural-network Processing Unit) + Balong 5000 modem (5G version) 8GB RAM, 128GB / 256GB storage Android 10 with EMUI EMUI 10.0.1 Dual SIM 40MP RYYB camera with f/1.8 aperture, 8MP ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=tWIG4Q0b7a8:T5ZMEEgo37U:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=tWIG4Q0b7a8:T5ZMEEgo37U:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=tWIG4Q0b7a8:T5ZMEEgo37U:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=tWIG4Q0b7a8:T5ZMEEgo37U:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=tWIG4Q0b7a8:T5ZMEEgo37U:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=tWIG4Q0b7a8:T5ZMEEgo37U:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/tWIG4Q0b7a8)  
+[Read Here»](https://www.fonearena.com/blog/299697/huawei-nova-6-and-nova-6-5g-with-6-57-inch-fhd-display-kirin-990-40mp-triple-rear-cameras-dual-in-screen-front-cameras-announced.html)

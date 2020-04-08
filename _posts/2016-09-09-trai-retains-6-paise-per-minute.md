@@ -1,0 +1,12 @@
+---
+title: 'TRAI retains 6 paise per minute Interconnection Usage Charges for one more year, will scrap charges from 2021'
+date: 2019-12-18T12:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2015/02/mobile-data.jpg) The Telecom Regulatory Authority of India (TRAI) back in 2017 revised interconnection usage charges (IUC) for mobile to mobile calls to 6 paise per minute. In its Fifteenth Amendment Regulations, 2019, which prescribes revision in the date of applicability of Bill and Keep (BAK)regime in respect of wireless to wireless domestic call termination charges, TRAI has announced that for wireless to wireless domestic calls, termination charge would continue to remain as Re.0.06 (paise six only) per minute up to 31st December, 2020. It added that from 1st January, 2021 on wards the termination charge for wireless to wireless domestic calls shall be zero. While most operators like Airtel and Vodafone Idea continue to offer truly unlimited plans, Reliance Jio was the first operator to introduce 6 paise per minute charges for calls to non-Jio customers.  TRAI in its official release, said: On the basis of comments received from stakeholders in writing and during the open house discussion, and its own analysis, the Authority has prescribed the revised date of applicability of Bill and Keep (BAK) regime i.e. zero termination charges in respect of wireless to wireless domestic calls w.e.f 1st January 2021 through these Regulations.
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=_c6qs8kRp2Y:a5cCJyYdD_o:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=_c6qs8kRp2Y:a5cCJyYdD_o:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=_c6qs8kRp2Y:a5cCJyYdD_o:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=_c6qs8kRp2Y:a5cCJyYdD_o:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=_c6qs8kRp2Y:a5cCJyYdD_o:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=_c6qs8kRp2Y:a5cCJyYdD_o:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/_c6qs8kRp2Y)  
+[Read Here»](https://www.fonearena.com/blog/300663/trai-interconnection-usage-charges-zero-2021.html)

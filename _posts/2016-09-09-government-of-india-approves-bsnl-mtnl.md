@@ -1,0 +1,12 @@
+---
+title: 'Government of India approves BSNL-MTNL merger; announces 4G spectrum allocation'
+date: 2019-10-24T12:33:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/BSNL-MTNL-merger.jpg)Back in September 2018, BSNL got approval from the Indian Government for 4G services, but the rollout has been gradual. In order to lift the air of uncertainty over both BSNL and MTNL, now, the Government of India has approved BSNL-MTNL merger and has announced the allocation of 4G spectrum alongside clearing relief package. The Union Cabinet approved the merger on Wednesday and has also cleared relief package. The overall relief package includes sovereign bonds of Rs. 15,000 crore, monetization of Rs. 38,000 crore assets, Rs. 29,937 crore for VRS, and Rs. 3674 crore for GST (goods and services taxes). Furthermore, the Government has also announced the 4G spectrum allocation on an administrative basis and is worth Rs. 20,140 crore. It would be given to both companies on 2016 spectrum allocation prices and the spectrum will be allocated to BSNL and MTNL within a month. It is estimated that BSNL would require Rs. 10,000 crore for the rollout of 4G services and MTNL would require Rs. 1,100 crore. At the briefing after the union cabinet meeting, Indian Telecom Minister Ravi Shankar Prasad said: The cabinet also approved an attractive VRS package for the employees which has been slightly tweaked from the original Gujarat model. ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=y4uKtjearao:mnPzgEylvLw:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=y4uKtjearao:mnPzgEylvLw:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=y4uKtjearao:mnPzgEylvLw:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=y4uKtjearao:mnPzgEylvLw:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=y4uKtjearao:mnPzgEylvLw:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=y4uKtjearao:mnPzgEylvLw:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/y4uKtjearao)  
+[Read Here»](https://www.fonearena.com/blog/296384/bsnl-mtnl-merger-4g-spectrum-allocation.html)

@@ -1,0 +1,12 @@
+---
+title: 'Mi Share Overview — Here’s how to use this file transfer feature in MIUI 11'
+date: 2019-11-11T05:47:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Mi-Share_fonearena-1-1024x614.jpg) A couple of months ago, Xiaomi, realme, OPPO, and Vivo announced their collaboration for a cross-brand file transfer technology that lets you transfer files quickly (up to 82Mbps). As per the recent Counterpoint Report, 2 out of every 3 phones sold in 2019 Q3 were from one of the above-mentioned brands, so the cross-brand file transfer technology could turn out really helpful for smartphone users in the country. Xiaomi has introduced this cross-brand technology as Mi Share on MIUI 11, while other brands in the above-mentioned list are yet to roll-out the new file-sharing technology to their users. We tried transferring large files from Redmi Note 7 Pro to POCO F1, both running MIUI 11 Stable and here is an overview of Mi Share. \[gallery size="large" link="file" ids="297662,297663,297664"\] You can find Mi Share under the Connection & sharing settings. \[gallery size="large" columns="2" link="file" ids="297665,297666"\] The user needs to grant Storage and location access to Mi Share. \[gallery size="large" link="file" ids="297669,297670,297671"\] Turn on Mi Share and Wi-Fi, go to gallery or file manager, choose a file and tap on send, nearby available devices will be shown. \[gallery columns="2" size="large" link="file" ids="297675,297672"\] Tap on the available device, post which you should see a pop-up to accept or decline the file-transfer request. \[gallery ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=OqrxdHLRWBQ:k1mAIJv4mzs:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=OqrxdHLRWBQ:k1mAIJv4mzs:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=OqrxdHLRWBQ:k1mAIJv4mzs:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=OqrxdHLRWBQ:k1mAIJv4mzs:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=OqrxdHLRWBQ:k1mAIJv4mzs:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=OqrxdHLRWBQ:k1mAIJv4mzs:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/OqrxdHLRWBQ)  
+[Read Here»](https://www.fonearena.com/blog/297654/mi-share-overview.html)

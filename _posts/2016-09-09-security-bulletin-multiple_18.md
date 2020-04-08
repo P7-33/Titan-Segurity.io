@@ -1,0 +1,30 @@
+---
+title: 'Security Bulletin: Multiple Vulnerabilities in GnuTLS affects IBM Watson Studio Local'
+date: 2019-12-19T01:40:00+01:00
+draft: false
+---
+
+Dec 18, 2019 7:00 pm EST
+
+Categorized: [Medium Severity](https://www.ibm.com/blogs/psirt/category/severity-med/)
+
+Share this post:
+
+Multiple Vulnerabilities in GnuTLS affects IBM Watson Studio Local
+
+**Affected product(s) and affected version(s):**
+
+Affected Product(s)
+
+Version(s)
+
+IBM Watson Studio – Local
+
+1.2.3
+
+**Refer to the following reference URLs for remediation and additional vulnerability details:  **  
+Source Bulletin: [https://www.ibm.com/support/pages/node/1138468](https://www.ibm.com/support/pages/node/1138468)
+
+  
+  
+from IBM Product Security Incident Response Team https://ift.tt/38OILKR

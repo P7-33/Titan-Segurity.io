@@ -1,0 +1,12 @@
+---
+title: 'Flipkart to launch Nokia branded ‘Made in India’ Smart TVs with JBL audio on December 5'
+date: 2019-11-28T09:16:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Nokia-TV-Flipkart-1024x720.jpg) Update: Flipkart has started sending invites for the launch of Nokia Smart TV in India on December 5th. It has also started teasing the TV on its website. Flipkart has announced that it has entered into a strategic relationship with Nokia for Nokia branded Smart TVs in India, a global first for the brand in the TV category. Flipkart will manufacture, distribute and manage the end-to-end go-to-market strategy of the TVs to help create thousands of new jobs in the country as a part of 'Make in India' initiative. Flipkart recently launched Motorola branded smart TVs in India. The Nokia branded Smart TVs will feature superior audio quality powered by JBL’s sound program, an initiative by HARMAN to expand the uses of its audio expertise further. JBL by HARMAN, known for high-quality audio equipment will be its first foray into the television space in India. The partnership is backed by Flipkart’s consumer insights, which found that poor sound quality and experience is a major pain point for customers purchasing televisions, said the company. We still don't have exact launch date for the Nokia Smart TVs, but we can expect it sometime before the year ends. Commenting on the partnership, Vipul Mehrotra, Vice President, Nokia ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=LI2Qe1kdJm8:rzpaWbhMZEs:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=LI2Qe1kdJm8:rzpaWbhMZEs:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=LI2Qe1kdJm8:rzpaWbhMZEs:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=LI2Qe1kdJm8:rzpaWbhMZEs:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=LI2Qe1kdJm8:rzpaWbhMZEs:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=LI2Qe1kdJm8:rzpaWbhMZEs:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/LI2Qe1kdJm8)  
+[Read Here»](https://www.fonearena.com/blog/297333/nokia-smart-tv-india-flipkart-jbl.html)

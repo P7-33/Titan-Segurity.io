@@ -1,0 +1,12 @@
+---
+title: 'Redmi Note 8 Pro with 6.53-inch FHD+ display, 64MP quad rear cameras and Redmi Note 8 launching in India on October 16'
+date: 2019-10-09T07:35:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Redmi-Note-8-Pro-1024x919.jpg) At the Redmi 8 launch Xiaomi also confirmed that it will launch the most expected Redmi Note 8 Pro smartphone in India on October 16th. It will also launch the Redmi Note 8 in the country. To remind you, the Redmi Note 8 Pro packs a 6.53-inch Full HD+ LCD screen with 2.05mm narrow top frame, 1.8mm narrow left and right borders and 4.2mm bottom border offering 91.4% screen-to-body ratio and has TÜV Rheinland eye protection certification. It the world’s first smartphone to be powered by the latest MediaTek Helio G90T SoC and is the first phone in the price range to feature liquid cooling that will reduce the temperature of the phone by 4 to 6 degrees. The phone features a 64-megapixel primary rear camera with 1/1.7″ Samsung GW1 Sensor with ISOCELL Plus technology  that delivers higher color fidelity along with up to a 15% enhancement in light sensitivity and the Smart ISO supported by Dual Conversion Gain (DCG) technology intelligently adjusts the ISO sensitivity based on ambient light intensity. It has an 8-megapixel 120° ultra-wide angle lens, 2-megapixel depth sensor and a 2-megapixel sensor for 2cm macro shots. There is a 20-megapixel camera on the front. The phone features a 3D glass back ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Tr29dceRhkQ:yJnN6sXSP5I:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Tr29dceRhkQ:yJnN6sXSP5I:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Tr29dceRhkQ:yJnN6sXSP5I:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Tr29dceRhkQ:yJnN6sXSP5I:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Tr29dceRhkQ:yJnN6sXSP5I:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Tr29dceRhkQ:yJnN6sXSP5I:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Tr29dceRhkQ)  
+[Read Here»](https://www.fonearena.com/blog/294422/redmi-note-8-pro-india-launch-date-redmi-note-8.html)

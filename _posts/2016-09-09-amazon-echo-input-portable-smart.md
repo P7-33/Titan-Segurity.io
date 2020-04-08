@@ -1,0 +1,12 @@
+---
+title: 'Amazon Echo Input Portable Smart Speaker launched in India for Rs. 4999'
+date: 2019-12-04T07:02:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Amazon-Echo-Input-Portable.jpg) Amazon just launched the new Echo Input Portable Smart Speaker in India, after launching the first Echo Input in the country earlier this year. This voice-controlled smart speaker that combines hands-free access to Alexa with a 4,800 mAh rechargeable battery promising 10 hours of playback. It is designed to be carried around your home, comes with 360-degree audio and allows lets you access Alexa from anywhere in the room using the same far-field voice recognition as other Echo devices. Amazon Echo Input Portable Smart Speaker Edition Highlights Portable Echo for your home — Smart speaker that comes with a fabric design and 360 degree sound. Unplug the device and carry it room to room while listening to music, uninterrupted. Built-in battery for non-stop music — Comes with a 4800mAh rechargeable battery that provides up to 10hrs of continuous music playback time (up to 11hrs of stand-by time). Tap the power button to see the current battery level indicated by the 4 LEDs. Voice control your music — Stream music from Amazon Prime Music, Apple Music, JioSaavn, and Gaana — just ask for a song, artist, or genre. To increase the volume, just ask "Alexa, volume 10." Get help when your ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=ainQdUF4BXM:w9NZuVJQky8:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ainQdUF4BXM:w9NZuVJQky8:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=ainQdUF4BXM:w9NZuVJQky8:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ainQdUF4BXM:w9NZuVJQky8:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=ainQdUF4BXM:w9NZuVJQky8:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=ainQdUF4BXM:w9NZuVJQky8:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/ainQdUF4BXM)  
+[Read Here»](https://www.fonearena.com/blog/299553/amazon-echo-input-portable-price-india.html)

@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy S10 Lite and Galaxy Note 10 Lite surface in more renders'
+date: 2019-12-06T16:55:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Samsung-Galaxy-S10-Lite-Galaxy-Note-10-Lite--1024x800.jpg) Samsung is working on affordable versions of Galaxy S10 Lite (SM-G770F) and Galaxy Note 10 Lite (SM-N770F) and renders of the smartphone surfaced recently. The official support page of Galaxy S10 Lite has gone live too confirming the imminent launch. Now, more renders of the Galaxy S10 Lite and Galaxy Note 10 Lite have surfaced along with key details of the phones. According to the render, Galaxy S10 Lite is said to sport a centered in-screen camera similar to Galaxy Note 10/Note10+ and the design is said to be similar to the upcoming Galaxy S11. Regarding the specifications, Galaxy S10 Lite is said to sport a 6.69-inch display (170mm display diagonal size) and the overall diagonal would be 172mm and overall length and width would be 160mm by 75mm. It is said to be powered by Qualcomm Snapdragon 855 processor paired with 8GB RAM with 128GB storage. The rear camera setup is said to be a combination of 48MP + 12MP + 5MP and a 32MP front camera. The battery capacity is said to be 4500mAh with support for 45W charging. Samsung is also said to be working on the Galaxy Note 10 Lite and the render just shows the front of ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Mv4VcOCsPGY:OaF0vOT0TwM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Mv4VcOCsPGY:OaF0vOT0TwM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Mv4VcOCsPGY:OaF0vOT0TwM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Mv4VcOCsPGY:OaF0vOT0TwM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Mv4VcOCsPGY:OaF0vOT0TwM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Mv4VcOCsPGY:OaF0vOT0TwM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Mv4VcOCsPGY)  
+[Read Here»](https://www.fonearena.com/blog/299808/samsung-galaxy-s10-lite-galaxy-note-10-lite-render-leak.html)

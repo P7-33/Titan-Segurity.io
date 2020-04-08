@@ -1,0 +1,12 @@
+---
+title: 'YouTube Premium and Music Premium non-recurring prepaid plans launched in India'
+date: 2019-11-18T11:23:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/YouTube-Premium-prepaid-plans-image.png) YouTube launched its YouTube Music Premium streaming service along with YouTube Premium service earlier this year starting at Rs. 99/month and Rs. 129/month respectively with billing recurring monthly. Today, YouTube has introduced new non-recurring prepaid plans for India where users can pay upfront for the subscription and top up anytime. YouTube Music Premium 'Prepaid Plan' is priced at Rs. 109 for 1-month and Rs. 309 for 3-months. However, under the 'Subscription Plan', it costs Rs. 99/month with 1 month free trial for new users. Similarly, YouTube Premium 'Prepaid Plan' is priced at Rs. 139 for 1-month and Rs. 399 for 3-months. Under the 'Subscription Plan', it costs Rs. 129/month with 1 month free trial for new users. Pre-paid plans are currently available on Android and Web. With prepaid plans, users can pay upfront for either the 1-month plan or a 3-month plan and top up anytime i.e., users can purchase for a fixed time period on a non-recurring basis using the pre-paid plans. Users' credit card or any other mode of payment won't be billed automatically unlike the 'Subscription Plan' where billing recurs monthly. At any point, users will also be to extend their paid benefits by an additional 1-month or ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=hLUjYeriGWI:svKaok_FVpg:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=hLUjYeriGWI:svKaok_FVpg:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=hLUjYeriGWI:svKaok_FVpg:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=hLUjYeriGWI:svKaok_FVpg:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=hLUjYeriGWI:svKaok_FVpg:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=hLUjYeriGWI:svKaok_FVpg:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/hLUjYeriGWI)  
+[Read Here»](https://www.fonearena.com/blog/298262/youtube-premium-prepaid-plans-india.html)

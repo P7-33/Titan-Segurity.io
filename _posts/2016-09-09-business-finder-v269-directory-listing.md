@@ -1,0 +1,12 @@
+---
+title: 'Business Finder v2.69 – Directory Listing WordPress Theme'
+date: 2019-11-13T08:08:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/03/Realme-3_fonearena-4-1024x660.jpg) realme launched the realme 3 smartphone in India back in March, later in July it launched the realme 3i, a cheaper version. Both these run Android 9.0 (Pie) based ColorOS 6 back in June. Now it has released new RMX1821EX\_11.A.24 update for the phone with the latest November security patch for the users. The update brings system-wide dark mode, redesigned notification center, realme laboratory and app clone support to more third-party apps. If you haven’t received the update on your device, you can download the zip file here and flash it manually simply by tapping on the downloaded file. realme has already confirmed Android 10 roadmap for its devices and as per the schedule, realme 3 and 3i are  expected to get Android 10 update in Q2, 2020. The company is already working on an exclusive version of ColorOS 7 for realme devices that will offer near-stock Android experience. RMX1821EX\_11.A.24 change log: Security ● Android security patch: November, 2019 System ● Activate Lockdown Mode by long pressing the power button ● Display the data consumed by connected devices ● Customizable data consumption reminder ● Updated charging animation Settings ● Added realme Laboratory ● Added Dark Mode ● Added Google Digital Wellbeing ● Updated battery interface display the screen on time ● Added option for notification dots for updates ● Clone Apps ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=jNsaOxCGtkQ:GtYHVTdzKQE:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=jNsaOxCGtkQ:GtYHVTdzKQE:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=jNsaOxCGtkQ:GtYHVTdzKQE:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=jNsaOxCGtkQ:GtYHVTdzKQE:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=jNsaOxCGtkQ:GtYHVTdzKQE:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=jNsaOxCGtkQ:GtYHVTdzKQE:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/jNsaOxCGtkQ)  
+[Read Here»](https://www.fonearena.com/blog/297932/realme-3-realme-3i-november-update-dark-mode.html)

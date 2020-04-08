@@ -1,0 +1,12 @@
+---
+title: 'Moto G8 Plus (XT2019) with 6.5-inch FHD+ water-drop notch display, triple rear cameras surfaces'
+date: 2019-10-16T13:04:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Motorola-Moto-G8-Plus-render-leak.jpg) Motorola announced the Moto G7 series – G7, G7 Plus, G7 Power and G7 Play smartphones earlier this year and after almost 8 months now, the renders of the upcoming Moto G8 Plus have surfaced. The render reveals triple rear camera setup, 25MP front camera, 4000mAh battery, and more. According to the leaked render from Winfuture, Moto G8 Plus is said to carry the model number XT2019 and is said to flaunt a 6.3-inch FULL HD+ IPS display with a resolution of 2280x1080 pixels. It is said to be powered by Qualcomm Snapdragon 665 processor paired with 4GB RAM, 64GB/128GB internal storage with support for microSD card expansion. The renders also reveal a notch at the top, a relatively wide chin at the bottom and a rear-mounted fingerprint scanner. It is said to weigh about 188g. Regarding the optics, Moto G8 Plus is said to sport triple rear camera setup with a combination 48MP (primary) + 16MP (wide-angle) + 5MP (depth) and the rear camera setup is also said to come with laser autofocus this time around. The front camera is said to be a 25MP sensor. This smartphone is said to pack a 4000mAh battery that can be quickly charged with Turbo adapter through the USB Type-C ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=el8pGwVNIH4:HSkBqzMXkCs:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=el8pGwVNIH4:HSkBqzMXkCs:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=el8pGwVNIH4:HSkBqzMXkCs:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=el8pGwVNIH4:HSkBqzMXkCs:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=el8pGwVNIH4:HSkBqzMXkCs:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=el8pGwVNIH4:HSkBqzMXkCs:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/el8pGwVNIH4)  
+[Read Here»](https://www.fonearena.com/blog/295371/moto-g8-plus-specs-image-leak.html)

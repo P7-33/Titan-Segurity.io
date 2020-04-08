@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy Book Flex and Galaxy Book Ion with QLED Display, 10th Gen Intel Core Processors, Fingerprint scanner, Wireless PowerShare announced'
+date: 2019-10-30T04:07:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Samsung-Galaxy-Book-Flex.jpg) Samsung has introduced Galaxy Book Flex and Galaxy Book Ion at the Samsung Developer Conference 2019 (SDC19). These come in 13.3-inch and 15.6-inch versions with a QLED Display, 600-nit brightness and are powered by 10th Gen Intel Core Processors with up to 16GB RAM and up to 1TB SSD. These feature Intel Wi-Fi 6 (Gig+) and Thunderbolt 3, while the Ion also has an HDMI port. The Galaxy Book Flex comes with built-in S Pen stylus with new gesture controls, features 360-degree hinge that lets the user experience the device both as a tablet and a PC and sports an aluminum body. The Galaxy Book Ion is built for the on-the-go professionals, features ultralight magnesium clamshell frame and ultra thin design measuring 12.9/14.9mm thick and weighing less than a kilogram. These have built-in biometric security powered by Windows Hello, pack 69.7Wh battery that promise long-lasting battery life and the Wireless PowerShare feature can also charge any of your Qi-compatible smartphones, Galaxy Buds or wearables with the laptop’s touchpad. Samsung Galaxy Book Flex 13 / 15 specifications 13.3 / 15.6-inch (1920 x 1080 pixels) FHD QLED (16:9) 10-point multi-touch display 10th Generation Intel Core Processor (Ice Lake) with Intel Iris Plus Graphics or ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=-wkDXWk1Aoc:4oxO2fFLlms:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=-wkDXWk1Aoc:4oxO2fFLlms:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=-wkDXWk1Aoc:4oxO2fFLlms:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=-wkDXWk1Aoc:4oxO2fFLlms:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=-wkDXWk1Aoc:4oxO2fFLlms:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=-wkDXWk1Aoc:4oxO2fFLlms:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/-wkDXWk1Aoc)  
+[Read Here»](https://www.fonearena.com/blog/296738/samsung-galaxy-book-flex-galaxy-book-ion-features.html)

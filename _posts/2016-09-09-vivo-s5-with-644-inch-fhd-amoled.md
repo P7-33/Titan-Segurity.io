@@ -1,0 +1,12 @@
+---
+title: 'Vivo S5 with 6.44-inch FHD+ AMOLED display, 32MP in-screen camera, in-display fingerprint scanner, 48MP quad rear cameras announced'
+date: 2019-11-14T14:23:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Vivo-S5-4.jpg) Vivo just announced S5, the company's latest smartphone in the S series as it has promised. It has a 6.44-inch Full HD+ 20:9 aspect ratio AMOLED display with 2.98mm bottom bezels and 91.38% screen-to-body ratio, features a 32-megapixel in-screen front camera, is powered by Snapdragon 712 with 8GB of RAM, runs Android Pie with Funtouch OS 9, features a 48-megapixel rear camera along with an 8-megapixel ultra-wide, 5-megapixel portrait and a 2-megapixel  macro camera. It has a 3D glass back, and packs a 4100mAh battery with 22.5W vivo Flash Charge flash charging with a conversion rate of 97% that lets you charge up to 50% in half an hour. Vivo S5 specifications 6.44-inch (2400 × 1080 pixels) Full HD+ AMOLED screen Octa Core Snapdragon 712 10nm Mobile Platform (Dual 2.3GHz Kryo 360 + Hexa 1.7GHz Kryo 360 CPUs) with Adreno 616 GPU 8GB LPPDDR4x RAM with 128GB / 256GB storage Dual SIM Funtouch OS 9 based on Android 9.0 (Pie) 48MP rear camera with f/1.79 aperture, LED flash, 8MP wide-angle camera with f/2.2 aperture, 5MP depth sensor with f/2.48 aperture, 2MP for macro with f/2.4 aperture 32MP front-facing camera with f/2.45 aperture In-display Fingerprint sensor 3.5mm audio jack Dimensions:  157.9×73.92×8.64mm; Weight: 188g Dual ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=OOOb8xmjpmk:CsA9sCWIN3s:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=OOOb8xmjpmk:CsA9sCWIN3s:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=OOOb8xmjpmk:CsA9sCWIN3s:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=OOOb8xmjpmk:CsA9sCWIN3s:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=OOOb8xmjpmk:CsA9sCWIN3s:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=OOOb8xmjpmk:CsA9sCWIN3s:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/OOOb8xmjpmk)  
+[Read Here»](https://www.fonearena.com/blog/297936/vivo-s5-price-specifications.html)

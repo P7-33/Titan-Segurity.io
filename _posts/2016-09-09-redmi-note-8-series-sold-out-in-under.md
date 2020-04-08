@@ -1,0 +1,12 @@
+---
+title: 'Redmi Note 8 series sold out in under a minute in second sale in India, next sale on Oct 25'
+date: 2019-10-22T09:14:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Redmi-Note-8-Pro_fonearena-05-1024x569.jpg) Xiaomi under its Redmi brand launched its Redmi Note 8 and Redmi Note 8 Pro smartphones in India last week starting at Rs. 9999 and Rs. 14999, respectively. These phones went on sale for the first time yesterday, October 21st, and were sold out in minutes. Xiaomi said that 1.5 million or 15 lakh people had shown interest to buy the phone, but it did not reveal the number of units sold. Sold out again, in seconds. Mi fans, thank you for an amazing response to #RedmiNote8Pro & #RedmiNote8. We are thrilled by your expectations & are working to ensure everyone can get these beasts. Next sale: 25th Oct, 12PM on http://bit.ly/2HCm4xQ, @amazonIN & Mi Home. pic.twitter.com/A9iG4cHcDf — Redmi India for #MiFans (@RedmiIndia) October 22, 2019 Today it sold the phone again on Amazon.in and mi.com, and said that it sold them out seconds. Amazon said that these phones sold out in a minute. Next sale is scheduled for Friday, October 25th across these platforms. Xiaomi also sells these phones through its own Mi Home Stores, and it might take time for the company to sell them through other offline stores. To remind you, the Redmi Note 8 packs a 6.39-inch Full HD+ LCD screen, is ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=aFtpfjfhxp4:zVm6DnsVM4o:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=aFtpfjfhxp4:zVm6DnsVM4o:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=aFtpfjfhxp4:zVm6DnsVM4o:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=aFtpfjfhxp4:zVm6DnsVM4o:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=aFtpfjfhxp4:zVm6DnsVM4o:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=aFtpfjfhxp4:zVm6DnsVM4o:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/aFtpfjfhxp4)  
+[Read Here»](https://www.fonearena.com/blog/296042/redmi-note-8-series-sold-out-india.html)

@@ -1,0 +1,12 @@
+---
+title: 'YouTube Music now comes pre-installed on new Android 10 and Android 9 devices replacing Google Play Music'
+date: 2019-09-30T14:36:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/YouTube-Music.png)  YouTube launched YouTube Music streaming service in India earlier this year along with YouTube Premium after announcing it last year. Today, Google has announced that YouTube Music app will come pre-installed on Android 10 devices instead of Google Play Music. It will come pre-installed on all new devices launching with Android 10 and Android 9. The list of devices that will ship with YouTube Music isn't specified yet, but the list includes the Pixel Series. YouTube Music replaces Google Play Music as the default player on devices launching with Android 10 and Android 9. However, Play Music will be available as a standalone app and can be installed from the Google Play Store. Google says that once you have started your new device, just look for the YouTube Music icon and start listening and if you don’t have Android 10 yet, simply visit the Play Store to get the app. To recall, YouTube Music is available for free with ads, but you can get YouTube Music Premium to play songs and videos in the background even when the phone is locked. YouTube Music Premium also offers offline downloads and a completely ad-free experience starting at Rs. 99 per month or Rs. 149.00/month for ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=ZcEzKzueErU:zoZNk8K70OY:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ZcEzKzueErU:zoZNk8K70OY:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=ZcEzKzueErU:zoZNk8K70OY:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ZcEzKzueErU:zoZNk8K70OY:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=ZcEzKzueErU:zoZNk8K70OY:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=ZcEzKzueErU:zoZNk8K70OY:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/ZcEzKzueErU)  
+[Read Here»](https://www.fonearena.com/blog/293713/youtube-music-replace-play-music-android-10.html)

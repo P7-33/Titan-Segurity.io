@@ -1,0 +1,12 @@
+---
+title: 'HUAWEI Diwali Sale 2019: Discounts on P30 Pro, Y9 Prime 2019, MediaPad T5, Watch GT Sport and more'
+date: 2019-09-26T14:21:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/04/Huawei-P30-Pro_fonearena-19-1024x687.jpg) With Diwali festival around the corner, many smartphone brands have announced their offers during Flipkart Big Billion Days Sale, Amazon Great Indian Festival, and even offers in offline stores too. The latest to announce their offers is HUAWEI and the company will be offering discounts on various products including the Y9 prime 2019, Y9 2019, P30 Pro, MATE 20 Pro and more. Offers on HUAWEI smartphones, tablets and wearables during Amazon Great Indian Festival  HUAWEI Y9 Prime 2019 — Rs. 500 instant cashback on Amazon Pay, 6 months No-Cost EMI and discount of Rs. 1500 on exchanging an old device. HUAWEI P30 Pro — Rs. 63,990 (Rs. 16,000 off on MRP) HUAWEI Mate 20 Pro — Rs. 49,990 (Rs. 30,000 off on MRP) + FREE HUAWEI GT watch worth Rs. 16,990 HUAWEI MediaPad T5(2GB + 16GB) — Rs. 11,990 (Rs. 10,000 off on MRP) HUAWEI MediaPad T5(3GB + 32GB) — Rs. 13,990 (Rs. 10,000 off on MRP) HUAWEI Watch GT Sport — Rs. 9999 (Rs. 10,991 off on MRP) HUAWEI Watch GT Classic — Rs. 11,990 (Rs. 10,000 off on MRP) Offers on HUAWEI tablets and wearables during Flipkart Big Billion Days Sale HUAWEI MediaPad M5 Lite — Rs. 21,990, exchange offer, ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=0xtv0GYpK_U:LMt3wcmTZHo:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=0xtv0GYpK_U:LMt3wcmTZHo:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=0xtv0GYpK_U:LMt3wcmTZHo:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=0xtv0GYpK_U:LMt3wcmTZHo:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=0xtv0GYpK_U:LMt3wcmTZHo:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=0xtv0GYpK_U:LMt3wcmTZHo:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/0xtv0GYpK_U)  
+[Read Here»](https://www.fonearena.com/blog/293151/huawei-diwali-sale-2019-p30-pro-y9-prime-2019-mediapad-t5-watch-gt-sport.html)

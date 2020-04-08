@@ -1,0 +1,12 @@
+---
+title: 'PLAYFIT SW75 Smartwatch with 1.3-inch color touch display, heart rate sensor, 50-meter water resistance launched for Rs. 2999'
+date: 2019-09-29T04:46:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/PLAYFIT-SW75-1.jpg) Delhi based smart wearable and audio technology startup PLAY has launched PLAYFIT SW75, the company's first smartwatch in India. It comes with the latest nRF52840 chipset from the Nordic family, promising up to 15 days of battery life with 210mAh battery. It has a 1.3-inch Full touch display, slim stainless-steel casing, Real time Heart Rate monitoring, pedometer, sleep monitoring, up to 14 different sports modes, a unique female health care feature and vibrating alerts for notifications from social apps. The smartwatch is also ATM 5 waterproof (up to a water depth of 50m). PLAYFIT SW75 specifications 1.3 inch (240 x 240 Pixels) 2.5D Full Touch Color Display with Corning Gorilla 3 protection Nordic NRF52840 processor 8GB internal memory Bluetooth 4.2 to connect to Android and iOS devices Accelerometer, Heart Rate Sensor for 24h Heart Rate Monitoring Sleep monitoring, Pedometer, Calorie Burned, Distance, Speed, 14 Sports Modes, Sedentary Reminder, Goal Completion Reminder, Mindfulness Training Brightness Adjustment, Message Alert (For SMS, Facebook, WhatsApp, Twitter, Instagram, Messenger, LinkedIn, Email, Calendar, Skype etc), Music Control, Stop Watch, Find My Phone, Low Battery Alert 12 mm Slim Stainless Steel Casing; Weight: 38g 210mAh battery offers 12 to 15 days battery based on the use, 47 days ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=8YMiiB-yKJo:RY0ojIGzyak:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=8YMiiB-yKJo:RY0ojIGzyak:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=8YMiiB-yKJo:RY0ojIGzyak:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=8YMiiB-yKJo:RY0ojIGzyak:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=8YMiiB-yKJo:RY0ojIGzyak:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=8YMiiB-yKJo:RY0ojIGzyak:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/8YMiiB-yKJo)  
+[Read Here»](https://www.fonearena.com/blog/293460/playfit-sw75-price-specifications.html)

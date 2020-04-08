@@ -1,0 +1,12 @@
+---
+title: 'Google launches new digital well-being experiment apps for Android'
+date: 2019-10-23T18:18:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Digital-Wellbeing-Experiments-1024x803.jpg) Google’s Digital Wellbeing feature debuted with Android Pie and became available in phones running Android 9 (Pie) and above. Google expanded digital well-being tools with Focus mode earlier this way and on similar lines, now Google has released 6 new digital well-being experiment apps for Android. https://www.youtube.com/watch?v=rt5LY5TeTVQ The 6 new digital well-being experiment apps are Unlock Clock, Post Box, We Flip, Paper Phone, Desert Island, and Morph. Unlock Clock is a live wallpaper that counts and displays the number of times you unlock your phone in a day. It will appear in the Google Wallpapers app once downloaded. Post Box holds your notification until a time that suits you and delivers the bundled notifications in an organised way, instead of showing all at once. It delivers up to 4 times each day. You can simply choose how often you would like your notifications to be delivered and when they arrive, they will be neatly organised. We Flip allows you to go on a digital detox and enables you to switch off from technology as a group, to spend quality time together. You can wait for everyone to join, then flip the switch together to begin your session and the session will end if someone in ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=prvcOdyhF2c:bWJSLOd2KBM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=prvcOdyhF2c:bWJSLOd2KBM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=prvcOdyhF2c:bWJSLOd2KBM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=prvcOdyhF2c:bWJSLOd2KBM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=prvcOdyhF2c:bWJSLOd2KBM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=prvcOdyhF2c:bWJSLOd2KBM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/prvcOdyhF2c)  
+[Read Here»](https://www.fonearena.com/blog/296234/google-digital-well-being-experiment-apps-android.html)

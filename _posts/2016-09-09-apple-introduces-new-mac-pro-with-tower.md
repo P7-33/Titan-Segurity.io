@@ -1,0 +1,12 @@
+---
+title: 'Apple introduces new Mac Pro with a tower design, up to 28-core Intel Xeon CPU and 32-inch Retina 6K Pro Display XDR [Update: Available in December]'
+date: 2019-11-13T15:48:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/06/Apple-Mac-Pro-2019-and-Pro-Display-XDR.jpg) After the confirmation last year, Apple at the WWDC 2019 introduced its redesigned Mac Pro that promises maximum performance, expansion and configurability. It features workstation-class Xeon processors up to 28 cores, a high-performance memory system with a massive 1.5TB capacity, eight PCIe expansion slots and world's most powerful graphics architecture that lets you add two MPX Modules. https://www.youtube.com/watch?v=wl4Hg23RQHQ It features Thunderbolt integration and over 500W of power, both firsts for any graphics card. The new Mac Pro has a state-of-the-art thermal architecture to allow the processor to run fully unconstrained all the time, says the company. The Apple Pro Display XDR features a 32-inch Retina 6K display with P3 wide and 10-bit color, up to 1,600 nits brightness, 1,000,000:1 contrast ratio and a superwide viewing angle. Apple has also introduced Apple Afterburner, new accelerator card  featuring a programmable ASIC capable of decoding up to 6.3 billion pixels per second and enables playback of three streams of 8K ProRes RAW video simultaneously and 12 streams of 4K ProRes RAW video in real time. Apple Mac Pro 2019 features and specifications Stainless-steel space frame with an aluminum housing that lifts off for 360-degree access to the entire system Housing with lattice pattern to maximize airflow and quiet operation Up to 28-Core (56 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=weUhpKQDJiw:dQnUsnNJ87s:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=weUhpKQDJiw:dQnUsnNJ87s:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=weUhpKQDJiw:dQnUsnNJ87s:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=weUhpKQDJiw:dQnUsnNJ87s:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=weUhpKQDJiw:dQnUsnNJ87s:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=weUhpKQDJiw:dQnUsnNJ87s:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/weUhpKQDJiw)  
+[Read Here»](https://www.fonearena.com/blog/283900/apple-mac-pro-2019-pro-display-xdr-price-specs.html)

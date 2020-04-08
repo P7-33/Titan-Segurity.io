@@ -1,0 +1,12 @@
+---
+title: 'LG UltraFine Display Ergo 4K, UltraGear Gaming 4K and UltraWide 144Hz QHD monitors announced ahead of CES 2020'
+date: 2019-12-19T11:58:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/LG-UltraFine-Display-2020-1024x444.jpg) LG Electronics is slated to launch their next generation Ultra series monitors during CES 2020 next year. The new Ultra series, part of its premium monitor segment, will feature three main models; the UltraFine for the professionals, UltraGear for the gamers and the UltraWide for the widescreen enthusiasts. The 2020 LG UltraFine Ergo Display, designed for professionals will be available with in a 32 inch variant at 4k resolution. The monitor will provide for a single USB-C solution for display, improved image fidelity and an ergonomic design. The LG Ergo stand can extend outward or positioned close to the wall, moved up to eye-level or lowered to the desk along with swivel options. The UltraGear Gaming 4K monitors will come in three sizes; 27, 34 and 38 inches. Featuring its ultra fast 1 millisecond Gray-to-Gray (GTG) IPS display, LG provides something unique for in the gaming monitor space. The 27 inch monitor refreshes at 144Hz and is capable of overclocking up to 160Hz. The 34 and 38 inch on the other hand refreshes at 160Hz out of the box. Lastly the UltraWide monitor is LG answer to all widescreen enthusiasts with its 38 inch 144Hz 4K G-Sync certified panel. The monitor Nano IPS ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=bYzoeEG4W_s:X2qL-BHmaxw:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=bYzoeEG4W_s:X2qL-BHmaxw:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=bYzoeEG4W_s:X2qL-BHmaxw:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=bYzoeEG4W_s:X2qL-BHmaxw:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=bYzoeEG4W_s:X2qL-BHmaxw:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=bYzoeEG4W_s:X2qL-BHmaxw:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/bYzoeEG4W_s)  
+[Read Here»](https://www.fonearena.com/blog/300709/lg-ultrafine-display-ergo-ultragear-gaming-ultrawide.html)

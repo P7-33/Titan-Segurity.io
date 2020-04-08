@@ -1,0 +1,12 @@
+---
+title: 'Mi AirDots Pro 2 Unboxing and First Impressions'
+date: 2019-12-16T05:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Mi-AirDots-Pro-2-FoneArena-2-1024x682.jpg) Xiaomi introduced Mi AirDots Pro 2, the successor to premium true wireless earphones Mi AirDots Pro in China back in September along with Mi MIX Alpha. The Mi AirDots Pro 2 offers up to 14 hours of music playback, packs a 14.2 mm dynamic driver unit and support environment noise cancellation, we recently bought a unit from ShareSave which is Xiaomi’s own cross-border e-commerce platform, and here is the unboxing and first impressions of Mi AirDots Pro 2. Box Contents Mi AirDots Pro 2 with charging capsule USB Type-C cable User guide Specifications Bluetooth 5.0 (LDHC/SBC/AAC codes) to connect to Android and iOS devices 14.2mm drivers Dual microphones for noise cancellation, voice control Touch controls for track change Infrared sensor for intelligent wear detection so it automatically pauses when you remove them Semi-in-ear design to fit your ear canal, making it comfortable to wear and doesn’t fall off easily. Each headset weigh just 4.5 grams, Case weighs 50 grams 4 hours of standalone playback, 14 hours with the case, USB Type-C charging for the case to charge in 1 hour Design The Mi AirDots Pro 2 look more like Apple Airpods than the first-gen Mi AirDots Pro. Similar to other Xiaomi eco-system products, these feature ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=JykZASr63T4:2b47jkXy6Mc:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=JykZASr63T4:2b47jkXy6Mc:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=JykZASr63T4:2b47jkXy6Mc:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=JykZASr63T4:2b47jkXy6Mc:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=JykZASr63T4:2b47jkXy6Mc:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=JykZASr63T4:2b47jkXy6Mc:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/JykZASr63T4)  
+[Read Here»](https://www.fonearena.com/blog/299876/mi-airdots-pro-2-unboxing-first-impressions.html)

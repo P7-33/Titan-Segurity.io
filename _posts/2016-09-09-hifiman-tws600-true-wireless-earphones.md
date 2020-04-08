@@ -1,0 +1,12 @@
+---
+title: 'HIFIMAN TWS600 True Wireless earphones launched in India for Rs. 12999'
+date: 2019-10-30T10:32:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/HIFIMAN-TWS600.jpg) HIFIMAN, a popular brand in the world of high fidelity personal audio, has introduced their truly wireless earphones, the TWS600 True Wireless Hi-Fi Earphones in India. The earphones are touted to have improved audio quality and Bluetooth connectivity over existing wireless earbuds in the market. HIFIMAN has integrated its HIFIMAN’s Topological Diaphragm tech, that uses Nano particle coating over the earbuds diaphragm that contributes to greater audio detail when compared to typical wireless earphones. In addition to the audio quality, HIFIMAN has vastly improved its Bluetooth 5.0 connectivity, boasting ranges of up to  150 meters or 490 feet, made possible with the tweaks made by HIFIMAN to the standard wireless chip. The earbuds also have a bunch of features designed to improve the listening experience for the user. HIFIMAN's Advanced Alloy Voice Coil, for example,  maximizes vocal clarity and full-range sonic reproduction, while the Hi-tech Magnet ensures maximum sensitivity, which is critical listening from smart phones, tablets, etc. The earbuds are also sweat and dirt resistant with a IPX4 certification that makes it great for gym and workout purposes. HIFIMAN claims a battery life of 5.5 hours of playtime, with an additional 33 hours that comes with the included portable carrying case. A ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=cgoPuOR1xpE:8hYUWG0-spg:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=cgoPuOR1xpE:8hYUWG0-spg:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=cgoPuOR1xpE:8hYUWG0-spg:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=cgoPuOR1xpE:8hYUWG0-spg:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=cgoPuOR1xpE:8hYUWG0-spg:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=cgoPuOR1xpE:8hYUWG0-spg:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/cgoPuOR1xpE)  
+[Read Here»](https://www.fonearena.com/blog/296764/hifiman-tws600-price-india-features.html)

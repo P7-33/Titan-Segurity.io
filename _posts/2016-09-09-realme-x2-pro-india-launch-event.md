@@ -1,0 +1,12 @@
+---
+title: 'realme X2 Pro India launch event tickets go on sale Nov 12 for Rs. 299 — Includes realme Power Bank, Rs. 855 discount on X2 Pro and more'
+date: 2019-11-11T11:02:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/realme-X2-Pro-Launch-Event-Ticket-1024x829.jpg) Last week realme confirmed that realme X2 Pro, the company's flagship smartphone will be launched in India on Flipkart on November 20th. Few days back the company announced that it will sell the launch event entry tickets online starting from November 12th and 12 noon for Rs. 299. realme calls this its biggest event ever, where we can expect accessories such as fitness band, as hinted by the CEO recently. The event is happening at Jawaharlal Nehru Stadium, New Delhi. The ticket includes: Entry to realme X2 Pro launch event Assured Goodies such as realme Power Bank worth Rs. 1,299, R-Pass to buy realme X2 Pro with Rs. 855 discount Complimentary snacks and refreshments. realme says that the tickets are limited for sale and the seats at the launch will be allocated on a first come first serve basis. It also adds that attendees must bear travel and accommodation expenses on their own. To remind you, the phone packs a 6.55-inch FHD+ display with 91.7% screen-to-body ratio, HDR10+ support, hardware-level DC Dimming 2.0, 90Hz refresh rate, is powered by Snapdragon 855 Plus with up to 12GB RAM, liquid cooling along with superconducting carbon fiber for improved heat dissipation, runs Android Pie with ColorOS ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=r8c3hHd-_bI:46sr4m8twH4:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=r8c3hHd-_bI:46sr4m8twH4:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=r8c3hHd-_bI:46sr4m8twH4:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=r8c3hHd-_bI:46sr4m8twH4:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=r8c3hHd-_bI:46sr4m8twH4:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=r8c3hHd-_bI:46sr4m8twH4:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/r8c3hHd-_bI)  
+[Read Here»](https://www.fonearena.com/blog/297728/realme-x2-pro-india-launch-event-tickets.html)

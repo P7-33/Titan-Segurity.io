@@ -1,0 +1,12 @@
+---
+title: 'ASUS ROG Phone II accessories AeroActive Cooler, Mobile Desktop Dock and TwinView Doc go on sale in India'
+date: 2019-10-25T10:18:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/07/ASUS-ROG-Phone-2-TwinView-Dock-II0A_fonearena-31-1024x689.jpg) ASUS launched the ROG Phone II in India last month starting at Rs. 37999. At that time it also introduced several accessories. Today it has started selling TwinView II Dock, Mobile Desktop Dock and Aero Active Cooler. AeroActive Cooler II — Rs. 3999 Mobile Desktop Dock — Rs. 12,999 Twin View Dock II — Rs. 19,999 The all-new TwinView Dock II offers a genuine dual-screen gaming experience, with a 120hz/1ms 6.59-inch FHD+ (2340 x 1080) auxiliary AMOLED screen that's great for split-screen live-streaming, extended game display or group communication. This accessory is now lighter and better balanced, featuring a new turbo-fan cooling system and a high-capacity 5000mAh extended battery pack. The ROG Kunai Gamepad can also be used along with TwinView Dock II to add full physical controls and create a complete self-contained dual-screen gaming system. The Mobile Desktop Dock offers a superb desktop android gaming experience with a keyboard and mouse or with the ROG Kunai Gamepad paired in for large screen gaming. It offers input and output ports like – up to 4K HDMI and DisplayPort, 4 USB Super Speed ports, an RJ45 Gigabit ethernet port, USB micro B connector, and an SD card reader and more. The new AeroActive Cooler II accessory ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=GlJDqPsg12A:ATY1fqMsuKo:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=GlJDqPsg12A:ATY1fqMsuKo:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=GlJDqPsg12A:ATY1fqMsuKo:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=GlJDqPsg12A:ATY1fqMsuKo:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=GlJDqPsg12A:ATY1fqMsuKo:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=GlJDqPsg12A:ATY1fqMsuKo:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/GlJDqPsg12A)  
+[Read Here»](https://www.fonearena.com/blog/296506/asus-rog-phone-ii-aeroactive-cooler-mobile-desktop-dock-twinview-doc-india-sale.html)

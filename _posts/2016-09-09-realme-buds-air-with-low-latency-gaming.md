@@ -1,0 +1,12 @@
+---
+title: 'Realme Buds Air with Low-latency gaming mode, wireless charging launched in India for Rs. 3999'
+date: 2019-12-17T09:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/realme-Buds-Wireless-1024x706.jpg) Realme just launched the realme Buds Air, the company's first true wireless earphones in India along with the realme X2, as it had promised. It has 12mm drivers that promises dynamic bass, Bluetooth 5.0 support with AAC audio codec for an enhanced audio experience. The main highlight of the earbuds is its low-latency gaming mode, which promises 50% reduction in latency when gaming, thanks to the R1 chip. It also has dual microphones for better call quality and environmental noise cancellation. The headset has wearing detection sensor that automatically pauses the audio when the headset is removed and it automatically connects with the phone when you open the case. It promises up to 17 hours of battery life with the case, which has wireless charging support with 10W Qi wireless charging pad in addition to USB Type-C charging. The company also plans to sell a 10W wireless charger separately. Realme Buds Air specifications Bluetooth 5.0 (AAC codec) to connect to Android and iOS devices 12mm driver and LCP advanced multi-layer composite diaphragm Touch controls for call control, track change, Google Assistant Dual microphones for environmental noise cancellation, voice control Infrared sensor for intelligent wear detection so it automatically pauses when you remove them ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=adNWt_Xy7YQ:Q85H1NNY0wo:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=adNWt_Xy7YQ:Q85H1NNY0wo:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=adNWt_Xy7YQ:Q85H1NNY0wo:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=adNWt_Xy7YQ:Q85H1NNY0wo:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=adNWt_Xy7YQ:Q85H1NNY0wo:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=adNWt_Xy7YQ:Q85H1NNY0wo:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/adNWt_Xy7YQ)  
+[Read Here»](https://www.fonearena.com/blog/300525/realme-buds-air-price-india-specifications.html)

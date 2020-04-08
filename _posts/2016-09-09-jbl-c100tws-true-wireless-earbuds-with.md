@@ -1,0 +1,12 @@
+---
+title: 'JBL C100TWS true wireless earbuds with Bluetooth 5.0 launched in India for Rs. 3999'
+date: 2019-12-07T17:14:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/JBL-C100TWS-1024x511.jpg) JBL has launched C100TWS, the company's latest true wireless earbuds in India. It has 5.8mm driver and JBL Pure Bass sound for an enhanced audio experience. It has touch controls, Siri and Google assistant access and an ergonomically designed ear tips with 3 sets or buds to fit your ears. It promises 5 hours of playback, and an additional 12 hours of backup with the case, and also comes with fast charging support that offers 1 hours of playback with 15 minutes of charging. JBL Endurance Peak features 5.8mm driver and JBL Pure Bass sound Driver sensitivity at 1kHz/1mW93dB, Dynamic frequency response range 20Hz – 20kHz, Microphone Sensitivity- 40 dBV/Pa, Impedance32ohm Ergonomically shaped for long-lasting comfort Equipped with intuitive and handy controls that are conveniently located on each earpiece, including one click access to Siri and Google Now. Bluetooth 5.0 to connect to devices Weight: 58g 60mAh battery, with 5 hours of continuous playback and 12 more hours of backup power from the charging case.  15-minute quick charge offers 1 hour of music playback. The JBL C100TWS comes in Black and White colors, is priced at Rs. 3999 and will be available for pre-order from Flipkart starting from tomorrow, December 8th.
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=u4I04_1XJQE:ZDFZApRNP0I:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=u4I04_1XJQE:ZDFZApRNP0I:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=u4I04_1XJQE:ZDFZApRNP0I:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=u4I04_1XJQE:ZDFZApRNP0I:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=u4I04_1XJQE:ZDFZApRNP0I:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=u4I04_1XJQE:ZDFZApRNP0I:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/u4I04_1XJQE)  
+[Read Here»](https://www.fonearena.com/blog/299859/jbl-c100tws-price-india-features.html)

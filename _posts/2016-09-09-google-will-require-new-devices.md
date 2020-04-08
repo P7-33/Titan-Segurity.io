@@ -1,0 +1,12 @@
+---
+title: 'Google will require new devices launched after January 31, 2020 to run Android 10: Report'
+date: 2019-10-09T04:35:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Android-10.jpg) Google unveiled Android Q earlier this year and later renamed it to Android 10. It was released for Pixel smartphones recently and other OEMs are gradually rolling out the update. Now, a new report reveals that Google will require all new devices to run Android 10 if approved after January 31, 2020. A document obtained by XDA Developers reveals that Google will stop approving GMS (Google Mobile Services) distribution on devices that won't ship with Android 10 or in other words, ship with an older version of Android, if approved after January 31st, 2020. Similarly, Google will stop approving devices that ship with Android 9 Pie after the launch of Android 11 which will happen next year. Google Mobile Services consist of Google apps, libraries, and services and OEMs must license in order to pre-install it on Android devices. Although the deadline for getting approval is January 31st, 2020, OEMs can still get approval for their upcoming devices to run Android 9 Pie before the approval window closes. With this move, Google aims to streamline the software update process and will ensure that all brands provide timely updates to its users so that Google will be able to provide timely security updates. Source
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=B2hhPBl-lXY:IdIgvyxn9Oc:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=B2hhPBl-lXY:IdIgvyxn9Oc:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=B2hhPBl-lXY:IdIgvyxn9Oc:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=B2hhPBl-lXY:IdIgvyxn9Oc:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=B2hhPBl-lXY:IdIgvyxn9Oc:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=B2hhPBl-lXY:IdIgvyxn9Oc:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/B2hhPBl-lXY)  
+[Read Here»](https://www.fonearena.com/blog/294399/google-require-devices-january-2020-run-android-10.html)

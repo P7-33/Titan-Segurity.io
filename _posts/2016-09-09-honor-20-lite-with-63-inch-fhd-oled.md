@@ -1,0 +1,12 @@
+---
+title: 'HONOR 20 Lite with 6.3-inch FHD+ OLED display, 48MP triple rear cameras, in-display fingerprint scanner announced'
+date: 2019-10-22T11:19:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/HONOR-20-Lite-2.jpg) HONOR 20 Lite specifications 6.3-inch (2400×1080 pixels) Full HD+ AMOLED display with 20:9 aspect ratio, 600 nit brightness Octa-Core Kirin 710F 12nm (4 x 2.2GHz Cortex-A73 +4 x 1.7GHz Cortex-A53) with ARM Mali-G51 MP4 GPU 6GB LPDDR4x RAM 64GB / 128GB, 8GB LPDDR4x RAM with 128GB storage, expandable memory up to 256GB with microSD Android 9.0 (Pie) with EMUI 9.1.1 Hybrid Dual SIM (nano + nano / microSD) 48MP rear camera with f/1.8 aperture, 8MP Ultra Wide Angle lens with f/2.4 aperture, 2MP camera with f/2.4 aperture 16MP front camera with f/2.0 aperture In-display Fingerprint sensor 3.5mm audio jack Dimensions:157.2 × 73.2 × 7.7mm; Weight: 171.5g Dual 4G VoLTE, Wi-Fi 802.11 ac (2.4GHz and 5GHz), Bluetooth 5 LE, GPS, USB Type-C 4000mAh (typical) / 3900mAh (mAh) battery with 20W fast charging The HONOR 20 Lite comes in Midnight Black, Ice Blue and Jade Green colors, is priced at 1499 yuan (US$ 211 / Rs. 15,025 approx.) for 6GB RAM with 64GB storage version, 1699 yuan (US$ 239 / Rs. 17,020 approx.) for the 6GB RAM with 128GB storage version and the 8GB RAM with 128GB storage version costs 1899 yuan (US$ 268 / Rs. 19,025 approx.). Source
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Ygb36i6CdoU:Lm6PTR42LVg:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Ygb36i6CdoU:Lm6PTR42LVg:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Ygb36i6CdoU:Lm6PTR42LVg:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Ygb36i6CdoU:Lm6PTR42LVg:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Ygb36i6CdoU:Lm6PTR42LVg:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Ygb36i6CdoU:Lm6PTR42LVg:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Ygb36i6CdoU)  
+[Read Here»](https://www.fonearena.com/blog/296060/honor-20-lite-price-specifications-features.html)

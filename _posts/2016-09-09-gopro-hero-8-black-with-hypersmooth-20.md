@@ -1,0 +1,12 @@
+---
+title: 'GoPro Hero 8 Black with HyperSmooth 2.0 video stabilization goes on sale in India for Rs. 36500'
+date: 2019-11-04T05:47:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/GoPro-Hero-8-Black.jpg) GoPro HERO8 Black Limited Launch Edition Action Camera is now available in India, after it was introduced last month. The Hero 8 Black has a 12MP sensor with frameless mounting and built-in folding mounting fingers, and a frameless design that now makes swapping battery and SD cards faster compared to the previous generation. It now features an upgraded HyperSmooth 2.0 video stabilization that works in all resolutions and frame rates and also features a new Boost mode that cranks up the stabilization when desired. The new GoPro now also supports four digital lenses -Narrow, distortion-free Linear, Wide and SuperView. The TimeWarp 2.0 automatically adjusts speed based on motion, scene detection and lighting and one can tap to slow down to real-time and again to speed back up. The HERO8 Black can capture 4K 60fps video + 1080p 240fps video with bit rate options of up to 100Mbps, and 8x slo-mo ultra-high frame rate 1080p240 video. Other features include RAW in all Photo modes, Night Lapse video, Live Streaming, and more. Highlights of GoPro HERO8 Black 12MP sensor Video: 4K at 60fps, 4K (4:3) at 30fps, 2.7K at 120fps, 2.7K (4:3) at 60fps, 1440p at 120fps, and 1080p at 240fps Framless design HyperSmooth ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=B9qVtVAC3vc:3LsTdB1Enpo:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=B9qVtVAC3vc:3LsTdB1Enpo:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=B9qVtVAC3vc:3LsTdB1Enpo:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=B9qVtVAC3vc:3LsTdB1Enpo:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=B9qVtVAC3vc:3LsTdB1Enpo:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=B9qVtVAC3vc:3LsTdB1Enpo:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/B9qVtVAC3vc)  
+[Read Here»](https://www.fonearena.com/blog/297105/gopro-hero-8-black-price-india.html)

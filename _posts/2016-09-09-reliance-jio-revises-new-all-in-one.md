@@ -1,0 +1,12 @@
+---
+title: 'Reliance Jio revises ‘New All-in-one plans’ with 1.5GB data per day and 1000 off-net IUC minutes starting at Rs. 199'
+date: 2019-12-04T16:01:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Jio-All-In-One-Plans-1.jpg) Earlier this week, Airtel and Vodafone Idea hiked prepaid tariff and released new recharge plans. Following Reliance Jio's announcement regarding tariff hike recently, the company has now officially launched the 'New All-in-one plans' with revised pricing along with JioPrime benefits. Similar to Airtel and Vodafone Idea, Fair Usage Policy applies on unlimited calling from Jio to other networks, and users will be charged 6 paise/min post FUP. Users won’t be charged 6 paise/min for Jio to Jio calls. Jio's revised plans are categorized into 1-month, 2-month, 3-month, 12-month, and "Affordable plans". Here is the list of 'new All-in-one plans' from Jio 1-month (28 days validity) plan Rs. 199 - 1.5 GB/day, 1000 off-net mins Rs. 249 - 2 GB/day, 1000 off-net mins Rs. 349 - 3 GB/day, 1000 off-net mins 2-month (56 days validity) plan Rs. 399 -  1.5 GB/day, 2000 off-net mins Rs. 444 - 2 GB/day, 2000 off-net mins 3-month (84 days validity) plan Rs. 555 - 1.5 GB/day, 3000 off-net mins Rs. 599 - 2 GB/day, 3000 off-net mins 12-month (365 days validity) plan Rs. 2199 - 1.5 GB/day, 12,000 off-net mins Affordable plans Rs. 129 - 2GB data, 1000 off-net mins, 28 days validity Rs. 329 - 6GB data, 3000 off-net mins, 84 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=46FdOn-iimo:27wiyU0XtAA:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=46FdOn-iimo:27wiyU0XtAA:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=46FdOn-iimo:27wiyU0XtAA:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=46FdOn-iimo:27wiyU0XtAA:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=46FdOn-iimo:27wiyU0XtAA:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=46FdOn-iimo:27wiyU0XtAA:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/46FdOn-iimo)  
+[Read Here»](https://www.fonearena.com/blog/299617/reliance-jio-new-all-in-one-plans-december-2019.html)

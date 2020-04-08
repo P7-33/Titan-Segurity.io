@@ -1,0 +1,12 @@
+---
+title: 'Funtouch OS 10 with minimal UI, cloud service, and more announced; Here are the list of Vivo smartphones getting the update'
+date: 2019-12-17T14:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Vivo-FuntouchOS-10.jpg) Earlier today, Vivo announced the X30 and X30 Pro flagship smartphones at an event in China and alongside, Vivo also unveiled its new Funtouch OS 10 custom skin. Funtouch OS 10 now comes with a minimal UI, animated lock screen, cloud service, etc, and Vivo has also announced the update rollout schedule which will happen in batches starting next year. Vivo's Funtouch OS 10 is based on the concept of "Original Design" and comes with minimal UI design and new desktop icons. There is a new off-screen clock and Vivo has added new live wallpapers too. Funtouch OS 10 also brings changes to Jovi virtual assistant which can now provide users with a variety of thoughtful services, help users manage their smart devices, and more. Apart from this, this new custom skin introduces shortcut functions for driving scenarios, lets users customize font, brings child mode, cloud service, global search, and new features to photo album. The cloud service offers VIP benefits, 5GB free storage space, one-click backup, and more. Vivo has also announced the update rollout details and the update will be released in 3 batches. Funtouch OS 10 will roll out from February 2020 and here is the list of Vivo smartphones ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=6FLFHTte-v4:qFgExBYHvro:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=6FLFHTte-v4:qFgExBYHvro:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=6FLFHTte-v4:qFgExBYHvro:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=6FLFHTte-v4:qFgExBYHvro:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=6FLFHTte-v4:qFgExBYHvro:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=6FLFHTte-v4:qFgExBYHvro:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/6FLFHTte-v4)  
+[Read Here»](https://www.fonearena.com/blog/300589/funtouch-os-10-device-list-features.html)

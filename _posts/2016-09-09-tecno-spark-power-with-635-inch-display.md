@@ -1,0 +1,12 @@
+---
+title: 'TECNO Spark Power with 6.35-inch display, triple rear cameras, 6000mAh battery launched in India for Rs. 8499'
+date: 2019-11-27T04:24:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Tecno-Spark-Power-1024x909.jpg) TECNO, popular for its budget phones has launched Spark Power with a 6000mAh battery and a triple rear camera system. It flaunts a 6.35-inch HD+ dot notch display, is powered by an octa-core MediaTek Helio P22 processor paired with 4GB RAM with 64GB storage and runs on Android 9 Pie on top of TECNO’s HiOS 5.5. Regarding the optics, the phone sports a triple rear camera setup and is a combination of 13MP(primary lens with f/2.0 aperture)+8MP (wide-angle lens)+2MP (macro lens) along with a quad-LED flash module. There is an 13MP camera.  There is a fingerprint scanner as well and there is also support for Face unlock. TECNO Spark Power specifications  6.35-inch (720 x 1548 pixels) HD+ 2.5D curved glass display Octa-Core MediaTek Helio P22 12nm processor (MT6762) with 650MHz IMG PowerVR GE8320 GPU 4GB RAM, 64GB internal storage, expandable memory up to 256GB with microSD Android 9.0 (Pie) with HiOS 5.5 Dual SIM (nano + nano + microSD) 13MP(primary lens with f/2.0 aperture)+8MP (wide-angle lens)+2MP (macro lens), quad-LED flash 13MP front-facing camera Fingerprint Sensor Dimensions: 75.98 x 158.5 x 9.17 mm; Weight: 198.2g 3.5mm audio jack, FM Radio Dual 4G VoLTE, Wi-Fi 802.11 b/g/n, Bluetooth 5.0, GPS/A-GPS 6000mAh battery The TECNO Spark ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=A8R8gzvN3PE:oxa3UFDj1OU:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=A8R8gzvN3PE:oxa3UFDj1OU:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=A8R8gzvN3PE:oxa3UFDj1OU:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=A8R8gzvN3PE:oxa3UFDj1OU:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=A8R8gzvN3PE:oxa3UFDj1OU:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=A8R8gzvN3PE:oxa3UFDj1OU:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/A8R8gzvN3PE)  
+[Read Here»](https://www.fonearena.com/blog/299080/tecno-spark-power-price-specifications.html)

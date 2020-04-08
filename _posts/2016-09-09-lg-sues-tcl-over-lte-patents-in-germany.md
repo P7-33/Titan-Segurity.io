@@ -1,0 +1,12 @@
+---
+title: 'LG sues TCL over LTE patents in Germany'
+date: 2019-11-11T06:37:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/LG-logo.jpg) LG has filed lawsuits against Chinese handset manufacturer TCL in Germany for infringing its LTE technology patents. Three lawsuits include, minimizing the loss of packet transmission, control timers for uplink synchronization and interference reduction in the uplink synchronizing process. The suits against TCL were filed only after numerous attempts were made by LG to remedy its concerns, to no avail, said the company. LG said that it successfully asserted its extensive LTE patent portfolio on a number of occasions in the courts by legally challenging the unlawful use of its technologies. As a result of recent legal action, BLU agreed to a licensing deal with LG and a German trial court ruled in favor of LG in three separate litigations against Wiko. "Aggressive investment in research and development has resulted in LG becoming a global technological leader in the mobile communication market, possessing one of the largest portfolios of standard essential patents," said LG. Germany-based market intelligence company IPLytics lists LG as the owner of 11 percent of all 5G standard essential patents issued to date. LG had filed a separate patent lawsuit against Hisense in the US earlier this month regarding display technology. Regarding this, Jeon Saeng-gyu, executive vice president of LG’s Intellectual ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=0MD3MgIOKV8:_5hiTHmrAPQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=0MD3MgIOKV8:_5hiTHmrAPQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=0MD3MgIOKV8:_5hiTHmrAPQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=0MD3MgIOKV8:_5hiTHmrAPQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=0MD3MgIOKV8:_5hiTHmrAPQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=0MD3MgIOKV8:_5hiTHmrAPQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/0MD3MgIOKV8)  
+[Read Here»](https://www.fonearena.com/blog/297708/lg-sues-tcl-lte-patents.html)

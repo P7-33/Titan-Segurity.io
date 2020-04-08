@@ -1,0 +1,12 @@
+---
+title: 'Google Stream Transfer lets you move music and video streams between Chromecast, Google Home and Nest devices'
+date: 2019-10-09T08:20:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/05/Google-Nest-Hub-Max--1024x605.jpg) Google first launched Chromecast in 2013 and has been steadily adding  features to it ever since. In 2016, it introduced a feature to enable streaming of music via the command — “OK Google, play music.” The feature made it effortless to stream music onto any Chromecast enabled speaker in the house. The newest feature to be announced is Stream Transfer. It allows the user to move videos, music, podcasts and more between compatible devices in your home using your voice, the Google Home app or the touchscreen on your Nest smart display. With many homes having multiple smart speakers, TVs and smart displays, this is definitely a welcome feature from Google. Stream Transfer will work with most major music applications, such as YouTube Music, Spotify, Pandora, and more. For video, users can enjoy the millions of videos available on YouTube. To use the feature, the user can try any of the following: Move your music with the Google Assistant: To move music between rooms, for example, from the kitchen to the living room, the user can simply say, “Hey Google, move the music to the living room speaker.” Control your entertainment with the Google Home app: Through the Home app the user can tap the ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=nbEtIbfBF60:T_5LbHd1_Zw:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=nbEtIbfBF60:T_5LbHd1_Zw:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=nbEtIbfBF60:T_5LbHd1_Zw:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=nbEtIbfBF60:T_5LbHd1_Zw:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=nbEtIbfBF60:T_5LbHd1_Zw:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=nbEtIbfBF60:T_5LbHd1_Zw:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/nbEtIbfBF60)  
+[Read Here»](https://www.fonearena.com/blog/294425/google-stream-transfer-move-music-video-chromecast-google-home-nest.html)

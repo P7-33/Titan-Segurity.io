@@ -1,0 +1,12 @@
+---
+title: 'Sony PlayStation 5 with 3rd Gen Ryzen CPU, new controller with haptic technology and adaptive triggers launching 2020-end'
+date: 2019-10-08T14:25:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Sony-PlayStation-5.jpg) Sony has finally confirmed that its PlayStation 5, the next-generation gaming console will launch for the Holidays 2020. To remind you, Sony introduced the PlayStation 4 back in 2013, and the PlayStation 4 Pro was introduced in 2016. Sony has also confirmed that the new console will come with a new controller with haptic feedback that will replace the “rumble” technology found in controllers since the 5th generation of consoles. "With haptics, you truly feel a broader range of feedback, so crashing into a wall in a race car feels much different than making a tackle on the football field. You can even get a sense for a variety of textures when running through fields of grass or plodding through mud," said the company. It will also have new adaptive triggers, which have been incorporated into the trigger buttons (L2/R2). Developers can program the resistance of the triggers so that you feel the tactile sensation of drawing a bow and arrow or accelerating an off-road vehicle through rocky terrain. In combination with the haptics, this can produce a powerful experience that better simulates various actions. Sony said that it has started sending Game creators the early versions of the new controller. There will also ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=uHBMKQ6fZhY:qjZsSNsc0tM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=uHBMKQ6fZhY:qjZsSNsc0tM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=uHBMKQ6fZhY:qjZsSNsc0tM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=uHBMKQ6fZhY:qjZsSNsc0tM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=uHBMKQ6fZhY:qjZsSNsc0tM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=uHBMKQ6fZhY:qjZsSNsc0tM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/uHBMKQ6fZhY)  
+[Read Here»](https://www.fonearena.com/blog/294342/sony-playstation-5-features-launch-date.html)

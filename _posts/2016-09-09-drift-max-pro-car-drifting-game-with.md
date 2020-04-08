@@ -1,18 +1,18 @@
 ---
-title: 'Drift Max Pro Car Drifting Game with Racing Cars 2.2.6 MOD + DATA (Free Shopping)Â  APK For Android'
-date: 2019-12-30T06:42:00+01:00
+title: 'Drift Max Pro Car Drifting Game with Racing Cars 2.2.5 MOD (Free Shopping) APK For Android'
+date: 2019-11-29T19:28:00+01:00
 draft: false
 ---
 
-![Drift Max Pro Car Drifting Game with Racing Cars 2.2.6 MOD + DATA (Free Shopping)Â  APK For Android](https://i1.wp.com/apkhome.net/wp-content/uploads/2019/11/Drift-Max-Pro-Car-Drifting-Game-with-Racing-Cars.png "Drift Max Pro Car Drifting Game with Racing Cars 2.2.6 MOD + DATA (Free Shopping)Â  APK For Android")
+![Drift Max Pro Car Drifting Game with Racing Cars 2.2.5 MOD (Free Shopping) APK For Android](https://i0.wp.com/apkhome.net/wp-content/uploads/2019/11/Drift-Max-Pro-Car-Drifting-Game-with-Racing-Cars-2.png "Drift Max Pro Car Drifting Game with Racing Cars 2.2.5 MOD (Free Shopping) APK For Android")
 
   
 
-Drift Max Pro Car Drifting Game with Racing Cars 2.2.6 MOD + DATA (Free Shopping)Â  APK For Android
+Drift Max Pro Car Drifting Game with Racing Cars 2.2.5 MOD (Free Shopping) APK For Android
 
 The creators of the legendary Drift Max are back with a new game of drifting competitions: Drift Max Pro!
 
-**Features:**  
+MODIFICATIONS OF YOUR CAR:  
 \* Body Biton, matte colors, flahy stickers.  
 \* Door and hood stickers.  
 \* Change the color of your rims.  
@@ -22,6 +22,16 @@ The creators of the legendary Drift Max are back with a new game of drifting com
 \* Change the height of your suspensions.  
 \* Change your spoiler.
 
+CAREER MODE with many seasons and hundreds of challenges.
+
+GAME MODES:  
+\* Daily Track Race.  
+\* Classic Drift Course.  
+Slalom skidding.  
+\* Reverse cone.  
+\* Perfect skidding.  
+\* Free driving.
+
 **Supported Android**  
 {4.0 and UP}  
 **Supported Android Version**:-  
@@ -29,14 +39,8 @@ Jelly Bean(4.1â"4.3.1)- KitKat (4.4â"4.4.4)- Lollipop (5.0â"5.0.2) - Ma
 
 **MOD TYPE: Free Shopping**
 
-Download Drift Max Pro Car Drifting Game with Racing Cars 2.2.6 MOD + DATA (Free Shopping)Â  APK For Android
-============================================================================================================
-
-**Mod**
-
-**Obb**
-
-**unpack the path: SD / Android / obb**
+Download Drift Max Pro Car Drifting Game with Racing Cars 2.2.5 MOD (Free Shopping) APK For Android
+===================================================================================================
 
 Additional Information
 ----------------------
@@ -49,7 +53,7 @@ Additional Information
 
   
 
-[Download Now](https://store4app.co/post/drift-max-pro-car-drifting-game-with-racing-cars-2-2-6-mod-data-free-shopping-apk-for-android_1574004318)
+[Download Now](https://store4app.co/post/drift-max-pro-car-drifting-game-with-racing-cars-2-2-5-mod-free-shopping-apk-for-android_1575051288)
 
   
-Source: [Go homepage.](https://store4app.co/post/drift-max-pro-car-drifting-game-with-racing-cars-2-2-6-mod-data-free-shopping-apk-for-android_1574004318) .downloadtop{ text-align:center; -webkit-appearance: none; -moz-appearance: none; appearance: none; width: 100%; padding: 9px 9px 11px 13px; background-color: #0EBD3F; border: none; color:#fff; border-radius: 3px; outline: none; font-weight;bold; font: 20px 'Open Sans', sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; color: #fff; cursor: pointer; border-radius:15px;-webkit-border-radius:15px;-moz-border-radius:5px;box-shadow:0 0 5px rgba(0,0,0,.2);-moz-box-shadow:0 0 5px rgba(0,0,0,.2);-webkit-box-shadow:0 0 5px rgba(0,0,0,.2) !important; }
+Source: [Go homepage.](https://store4app.co/post/drift-max-pro-car-drifting-game-with-racing-cars-2-2-5-mod-free-shopping-apk-for-android_1575051288) .downloadtop{ text-align:center; -webkit-appearance: none; -moz-appearance: none; appearance: none; width: 100%; padding: 9px 9px 11px 13px; background-color: #0EBD3F; border: none; color:#fff; border-radius: 3px; outline: none; font-weight;bold; font: 20px 'Open Sans', sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; color: #fff; cursor: pointer; border-radius:15px;-webkit-border-radius:15px;-moz-border-radius:5px;box-shadow:0 0 5px rgba(0,0,0,.2);-moz-box-shadow:0 0 5px rgba(0,0,0,.2);-webkit-box-shadow:0 0 5px rgba(0,0,0,.2) !important; }

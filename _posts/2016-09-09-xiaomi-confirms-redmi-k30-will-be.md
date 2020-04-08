@@ -1,0 +1,12 @@
+---
+title: 'Xiaomi confirms Redmi K30 will be powered by Snapdragon 765G 5G Mobile Platform, Mi 10 with Snapdragon 865 coming in Q1 2020'
+date: 2019-12-04T03:17:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Xiaomi-Mi-10-Snapdragon-865.jpg) At the Qualcomm Snapdragon Tech Summit, Xiaomi co-founder and VP Bin Lin announced that Mi 10, the company's next-gen flagship smartphone and the successor of Mi 9 will be powered by Snapdragon 865 Mobile platform. He also said that it will use Samsung's 108 MP sensor, same as Mi MIX Alpha, CC9 Pro / Mi Note 10. Next year the company is aiming to introduced 10 5G smartphones, and bring 5G Mi Watch 2. Xiaomi VP said that they are waiting for 5G version of Snapdragon 3100. After teasers, he confirmed that Redmi K30 will be the first 5G Xiaomi device that will be powered by Snapdragon 765G 5G Mobile Platform. There should also be the 4G version that will likely be powered by Snapdragon 765. We should know all the details about the phone when it goes official next Tuesday. Regarding this, Bin Lin, co-founder, vice chairman, Xiaomi Corporation, said: The 5G era opens up new opportunities and challenges. It brings great innovations and redefines how users interact with devices, audio, and video applications. The next generation of “Super Internet” will be an all-new model that combines 5G + AI + IoT, and Xiaomi will be at the forefront of this, developing ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=ZhF2Y5kJjmo:F0tMBMGD1Yg:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ZhF2Y5kJjmo:F0tMBMGD1Yg:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=ZhF2Y5kJjmo:F0tMBMGD1Yg:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ZhF2Y5kJjmo:F0tMBMGD1Yg:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=ZhF2Y5kJjmo:F0tMBMGD1Yg:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=ZhF2Y5kJjmo:F0tMBMGD1Yg:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/ZhF2Y5kJjmo)  
+[Read Here»](https://www.fonearena.com/blog/299542/redmi-k30-snapdragon-765g-mi-10-snapdragon-865.html)

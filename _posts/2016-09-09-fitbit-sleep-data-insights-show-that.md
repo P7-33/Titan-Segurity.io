@@ -1,0 +1,12 @@
+---
+title: 'Fitbit sleep data insights show that Indians are the least active and second most sleep deprived'
+date: 2019-10-29T15:47:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2016/07/fitbit_blaze_8-1024x439.jpg) Fitbit has released sleep data insights from across 18 countries which show that Indians are the second most sleep-deprived and are the least active. Fitbit has collected more than 10.5 billion nights of sleep data over the years and has shared this insight on Indian users. According to the data shared by Fitbit, Indians get the least amount of nightly sleep on average (after Japan) at 7 hours 1 minute which is 48 minutes lesser than the average nightly sleep of users in the UK and 32 minutes lesser than average nightly sleep of Americans. The data also shows that Indians get 77 minutes of REM (Rapid Eye Movement) sleep on average which is the lowest in the world just like Japanese who get the same amount of REM sleep on an average. Furthermore, Indians spend 57 minutes awake on an average each night they sleep, representing close to 13.5% of their nightly sleep and the age-group 75-90 get the lowest sleep (6 hours 35 minutes on average) compared to other age groups, whereas users in the age group of 18-25 go to bed more than an hour later (12:33 AM) than users in 75-90 age group (11:22 PM). Indians also log in only 6533 steps daily, the ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=_Lg8N7ZKfZY:UCpT_zytJt0:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=_Lg8N7ZKfZY:UCpT_zytJt0:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=_Lg8N7ZKfZY:UCpT_zytJt0:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=_Lg8N7ZKfZY:UCpT_zytJt0:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=_Lg8N7ZKfZY:UCpT_zytJt0:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=_Lg8N7ZKfZY:UCpT_zytJt0:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/_Lg8N7ZKfZY)  
+[Read Here»](https://www.fonearena.com/blog/296697/fitbit-sleep-data-indians-least-active-second-most-sleep-deprived.html)

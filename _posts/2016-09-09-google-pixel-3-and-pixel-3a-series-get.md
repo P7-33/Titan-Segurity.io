@@ -1,0 +1,12 @@
+---
+title: 'Google Pixel 3 and Pixel 3a series get Astrophotography with Google Camera v7.2 update'
+date: 2019-11-06T11:37:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Google-Pixel-3-and-Pixel-3a-astro-photography-1-1024x679.jpg) Google had confirmed earlier that Pixel 3 series would get Astrophotography, that was announced along with Pixel 4. The update is now coming out for Pixel devices via Google Camera v7.2 through the play store, up from the Google Camera v6.3. The features in this update is not the same for every Pixel device. Astrophotography is only available to Pixel 3 and 3a series and not the older devices. But every Pixel device gets the new UI changes with new sliders for exposure and zoom. These are not the same dual-exposure sliders that the Pixel 4 have for extra control in HDR photos. The controls at the top for timer, flash, and HDR controls has been replaced with an arrow, giving the UI a cleaner look. Clicking the arrow will open a menu with options for HDR, RAW, Motion, Timer, Flash and aspect ratio, along with a button to access more setting for the camera app. Although first gen Pixel and Pixel 2 series will not officially get Astrophotography capabilites, a user named cstark27 on XDA developers has created a mod apk file of Google Camera to unofficial enable this feature. Although results will clearly not be the same as the new Pixel ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=tg2A9UjqlCk:4ru9n6m9s9s:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=tg2A9UjqlCk:4ru9n6m9s9s:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=tg2A9UjqlCk:4ru9n6m9s9s:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=tg2A9UjqlCk:4ru9n6m9s9s:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=tg2A9UjqlCk:4ru9n6m9s9s:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=tg2A9UjqlCk:4ru9n6m9s9s:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/tg2A9UjqlCk)  
+[Read Here»](https://www.fonearena.com/blog/297347/google-pixel-3-astro-photography-google-camera-7-2.html)

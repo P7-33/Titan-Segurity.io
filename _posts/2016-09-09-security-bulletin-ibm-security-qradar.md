@@ -1,0 +1,13 @@
+---
+title: 'Security Bulletin: IBM Security QRadar Packet Capture is vulnerable to Using Components with Known Vulnerabilities'
+date: 2019-11-28T01:13:00+01:00
+draft: false
+---
+
+#### Nov 25, 2019 7:00 pm EST | [High Severity](https://www.ibm.com/blogs/psirt/category/severity-high/)
+
+CVEID:   CVE-2019-4057 DESCRIPTION:   IBM DB2 for Linux, UNIX and Windows (includes DB2 Connect Server) 9.7, 10.1, 10.5, and 11.1 could allow malicious user with access to the DB2 instance account to leverage a fenced execution process to execute arbitrary code as root. IBM X-Force ID: 156567.CVSS Base score: 6.7CVSS Temporal Score: See: https://ift.tt/2KRDLdK for the current score.CVSS Vector: (CVSS:3.0/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H) CVEID:   CVE-2019-4101 DESCRIPTION:   IBM DB2 for Linux, UNIX and Windows (includes DB2 Connect Server) 10.1, 10.5, and 11.1 is vulnerable to a denial of service. Users that have both EXECUTE on PD\_GET\_DIAG\_HIST and access to the diagnostic directory on the DB2 server can cause the instance to crash. IBM X-Force ID: 158091.CVSS Base score: 6.2CVSS Temporal Score: See: https://ift.tt/2KOw5sX for the current score.CVSS Vector: (CVSS:3.0/AV:L/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H) CVEID:   CVE-2019-4154 DESCRIPTION:   IBM DB2 for Linux, UNIX and Windows (includes DB2 Connect Server) 9.7, 10.1, 10.5, and 11.1 is vulnerable to a buffer overflow, which could allow an authenticated local attacker to execute arbitrary code on the system as root. IBM X-Force ID: 158519.CVSS Base score: 8.4CVSS Temporal Score: See: https://ift.tt/2Dd04GR for the current score.CVSS Vector: (CVSS:3.0/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H) CVEID:   CVE-2019-4386 DESCRIPTION:   IBM DB2 for Linux, UNIX and Windows (includes DB2 Connect Server) 11.1 could allow an authenticated user to execute a function that would cause the server to crash. IBM X-Force ID: 162714.CVSS Base score: 6.5CVSS Temporal Score: See: https://ift.tt/33icfwv for the current score.CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H) CVEID:   CVE-2019-4322 DESCRIPTION:   IBM DB2 for Linux, UNIX and Windows (includes DB2 Connect Server) 9.7, 10.1, 10.5, and 11.1 is vulnerable to a buffer overflow, which could allow an authenticated local attacker to execute arbitrary code on the system as root. IBM X-Force ID: 161202.CVSS Base score: 8.4CVSS Temporal Score: See: https://ift.tt/2DheeXo for the current score.CVSS Vector: (CVSS:3.0/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H) [...read more](https://www.ibm.com/blogs/psirt/security-bulletin-multiple-db2-vulnerabilities-affect-the-ibm-spectrum-protect-server-cve-2019-4057-cve-2019-4101-cve-2019-4154-cve-2019-4386-cve-2019-4322/)
+
+  
+  
+from IBM Product Security Incident Response Team https://ift.tt/2pW217l

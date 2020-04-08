@@ -1,0 +1,12 @@
+---
+title: 'HUAWEI reports strong growth in Q3 2019 despite US ban'
+date: 2019-10-17T08:34:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2018/08/Huawei-Nova-3i_fonearena-12-1024x706.jpg) HUAWEI, the Chinese technology giant has released its business report for Q3 of 2019 and it shows that, despite the US ban, the company is doing really well. The company has reported CNY 610.8 billion (USD 86.05 Billion) in revenue, which is an increase of 24.4% year-on-year.  HUAWEI also reported that its smartphone shipments in the first three quarters of 2019 exceeded 185 million units, representing increase of 26% compared to the same period last year. The company's net profit margin was 8.7% during the quarter. The company saw rapid growth in other new businesses like PCs, tablets, wearables, and smart audio products. The HUAWEI Mobile Services ecosystem has also developed rapidly, covering more than 170 countries and regions. In the carrier business, with the launch of many innovative solutions with leading carriers like 5G Super Uplink, smart & simplified transport networks, HUAWEI has signed more than 60 commercial contracts for 5G with leading global carriers, speeding up the commercial deployment of 5G networks around the world. HUAWEI continues to be a preferred partner for cities, Fortune Global 500 companies, and Fortune Global 100 companies for leading and providing solutions for their digital transformation. HUAWEI's Cloud Service development has also been growing at speed. ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=dSHvy7gaj9o:rVucWCghSIU:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=dSHvy7gaj9o:rVucWCghSIU:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=dSHvy7gaj9o:rVucWCghSIU:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=dSHvy7gaj9o:rVucWCghSIU:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=dSHvy7gaj9o:rVucWCghSIU:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=dSHvy7gaj9o:rVucWCghSIU:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/dSHvy7gaj9o)  
+[Read Here»](https://www.fonearena.com/blog/295454/huawei-strong-growth-q3-2019-despite-us-ban.html)

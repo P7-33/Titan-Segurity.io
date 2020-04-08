@@ -1,0 +1,12 @@
+---
+title: 'Smartphone shipments up 1% YoY in Q3 2019 showing signs of recovery, Samsung leads with 20% market share: Reports'
+date: 2019-11-01T10:27:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Samsung-Galaxy-A50s_fonearena-02-1024x680.jpg) Smartphone shipments for Q3 2019, after a long time, has seen growth of 1% compared to the same period last year. Reports released by Counterpoint Research and Canalys show smartphone shipments of 380 million and 352.4 million, respectively. International Data Center (IDC) is yet to publish their report on smartphone shipments. The top 5 players in the market are Samsung, HUAWEI, Apple, OPPO and Xiaomi. Samsung is reported to have sold approximately 78 million phones in Q3 with a growth of about 11% YoY, contributed by strong demand for its A series and its Note series. HUAWEI, while they face trouble with Google and USA, still held its second place with 66.8 million smartphone shipments, showing a growth of 29%. Its primary demand came from models released before it was on the USA entity list. It will be interesting to see its shipment numbers in Q4 once the sales of the post Entity-List models enter the global markets. At third place, Apple shipments fell by 7%, which is still higher than expected. Right before its September smartphone release cycle, iPhone sales always down. But with the release of the newer, cheaper iPhone 11, along with the strong positive reviews, these numbers should pick ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=FQCeQ6kf7dk:hs7nK-GT9s8:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=FQCeQ6kf7dk:hs7nK-GT9s8:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=FQCeQ6kf7dk:hs7nK-GT9s8:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=FQCeQ6kf7dk:hs7nK-GT9s8:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=FQCeQ6kf7dk:hs7nK-GT9s8:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=FQCeQ6kf7dk:hs7nK-GT9s8:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/FQCeQ6kf7dk)  
+[Read Here»](https://www.fonearena.com/blog/296956/smartphone-shipments-q3-2019.html)

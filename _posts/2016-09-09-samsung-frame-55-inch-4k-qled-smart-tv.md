@@ -1,0 +1,12 @@
+---
+title: 'Samsung ‘The Frame’ 55-inch 4K QLED Smart TV to get up to Rs. 40,000 discount during Flipkart Big Billion Days Sale'
+date: 2019-09-27T12:31:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/08/Samsung-The-Frame-55-inch-4k-TV.jpg) Samsung launched 'The Frame' 55-inch 4K QLED lifestyle TV last month in India for Rs. 1,19,999. After more than a month of unveiling the TV, Samsung has announced that it will be available at a discounted price during Flipkart Big Billion Days Sale 2019. Price cut and offers Samsung 'The Frame' 55-inch 4K QLED Smart TV (QA55LS03RAKXXL) will be available for Rs. 84,990 on Flipkart during Big Billion Days Sale that is scheduled from September 29th to October 4th 2019. Consumers doing pre-paid transactions through credit cards, debit cards and net banking will get additional instant cashback of Rs. 5,000, so the final price will be Rs. 79,990. Consumers can also avail no-cost EMI of Rs. 3,541 for 24 months and the TV will come with 10-year no screen burn-in warranty and a two-year warranty on the panel. The Frame: Lifestyle TV highlights Art Mode: The Frame gives meaning to the TV even when it’s switched off. When you are not watching TV, instead of it being a black screen, you can use it as a picture frame that displays artwork and photos just like they would be on paper, film or canvas. Art Store: Through the Art Store, you can transform ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=9DTKTSywKrc:i7B5H6tgtVI:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=9DTKTSywKrc:i7B5H6tgtVI:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=9DTKTSywKrc:i7B5H6tgtVI:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=9DTKTSywKrc:i7B5H6tgtVI:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=9DTKTSywKrc:i7B5H6tgtVI:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=9DTKTSywKrc:i7B5H6tgtVI:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/9DTKTSywKrc)  
+[Read Here»](https://www.fonearena.com/blog/293286/samsung-the-frame-55-inch-4k-qled-smart-tv-price-cut.html)

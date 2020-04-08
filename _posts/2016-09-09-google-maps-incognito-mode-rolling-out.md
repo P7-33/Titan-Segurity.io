@@ -1,0 +1,12 @@
+---
+title: 'Google Maps Incognito Mode rolling out for Android users globally'
+date: 2019-11-01T12:27:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Google-Maps-Incognito.jpg) Google offers Incognito mode in Chrome browser, YouTube, etc and the company has been testing Incognito mode in Maps as well for some time. After testing the feature with Google Maps Preview test group, Google has now announced that Incognito mode is rolling out for Android users globally. In Incognito mode, the search history won't be saved to your Google account and in Google Maps, when you turn on the Incognito Mode, your activity like the places you search or get directions to won’t be saved to your Google Account. Turning on Incognito mode in Maps does not affect how your activity is used or saved by internet providers, other apps, voice search, and other Google services. When Incognito mode is on, Google Maps will not save your browse or search history or send you notifications, update your Location History or shared location, use your personal data to personalize Maps. Some of the features that aren't available in Incognito Mode include Commute, For You, Location History, Location Sharing, Notifications and messages, Search history, Search completion suggestions, Google Maps Contributions, Google Assistant microphone in Navigation, Offline Maps, Your Places, and Media integration. Here's how to turn on Incognito mode in Google Maps Open the Google ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=lT3fLyWFiJc:Fl1_gb7f_vs:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=lT3fLyWFiJc:Fl1_gb7f_vs:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=lT3fLyWFiJc:Fl1_gb7f_vs:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=lT3fLyWFiJc:Fl1_gb7f_vs:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=lT3fLyWFiJc:Fl1_gb7f_vs:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=lT3fLyWFiJc:Fl1_gb7f_vs:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/lT3fLyWFiJc)  
+[Read Here»](https://www.fonearena.com/blog/296987/google-maps-incognito-mode.html)

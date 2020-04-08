@@ -1,0 +1,12 @@
+---
+title: 'Redmi Note 8T with 6.3-inch FHD+ display, Snapdragon 665, 48MP quad rear cameras, NFC announced'
+date: 2019-11-06T12:07:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Redmi-Note-8T.jpg) After rumors, Xiaomi has officially introduced Redmi Note 8T, a version of the Redmi Note 8 for the European market. This comes with NFC support, while other specifications are similar including a 6.39-inch Full HD+ LCD screen, Snapdragon 665 11nm Mobile Platform with up to 6GB RAM, 48-megapixel main camera with 4-in-1 pixel binning for low-light shots, 8-megapixel 120° ultra-wide angle lens, 2-megapixel depth sensor and a 2-megapixel sensor for 2cm macro shots and a 13-megapixel camera on the front. The phone has a rear-mounted fingerprint scanner, 2.5D Corning Gorilla Glass 5 protection on the front and back with splash-resistant coating. It packs a 4000mAh battery with support for 18W fast charging with fast charger in the box. Redmi Note 8T specifications 6.39-inch (2340 ×1080 pixels) Full HD+ 19:5:9 2.5D curved glass LCD screen with 500nit brightness, Corning Gorilla Glass 5 protection Octa Core Snapdragon 665 11nm Mobile Platform (Quad 2GHz Kryo 260 + Quad 1.8GHz Kryo 260 CPUs) with Adreno 610 GPU 4GB LPDDR4x RAM, 64GB storage, expandable memory up to 256GB with microSD Dual SIM Android 9.0 (Pie) with MIUI 10 48MP rear camera with LED Flash, f/1.79 aperture, Samsung ISOCELL GM1 sensor, PDAF, EIS, 8MP 120° ultra-wide angle lens with ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=k4ZiiWGBtck:Nv67jFjNFUc:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=k4ZiiWGBtck:Nv67jFjNFUc:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=k4ZiiWGBtck:Nv67jFjNFUc:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=k4ZiiWGBtck:Nv67jFjNFUc:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=k4ZiiWGBtck:Nv67jFjNFUc:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=k4ZiiWGBtck:Nv67jFjNFUc:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/k4ZiiWGBtck)  
+[Read Here»](https://www.fonearena.com/blog/297363/redmi-note-8t-price-specifications.html)

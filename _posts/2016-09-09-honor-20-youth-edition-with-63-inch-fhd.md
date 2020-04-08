@@ -1,0 +1,12 @@
+---
+title: 'HONOR 20 Youth Edition with 6.3-inch FHD+ OLED display, 48MP triple rear cameras, in-display fingerprint scanner to be announced on October 15'
+date: 2019-10-14T04:24:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/HONOR-20-Youth-Edition-815x1024.jpg) HUAWEI's HONOR brand today confirmed that it will introduce a new HONOR 20 series smartphone in China tomorrow, October 15th. The invite confirms waterdrop notch display and an in-display fingerprint scanner compared to punch-hole display and a side-mounted fingerprint scanner in the HONOR 20. This was certified by TENAA by model number LRA-AL00, and should be released as HONOR 20 Youth Edition / HONOR 20 Lite (not to be confused with HONOR 20 Lite that was introduced in Malaysia back in May). The teaser image shows gradient colors. TENAA certification reveals a 6.3-inch FHD+ OLED screen, 2.2GHz Octa-Core processor, which should be Kirin 810, up to 8GB of RAM, 48MP+8MP wide-angle + 2MP depth sensor, 16MP front camera, and a 4000mAh battery with 20W fast charging. HONOR 20 Youth Edition / Lite rumored specifications 6.3-inch (2400×1080 pixels) Full HD+ AMOLED display Octa-Core Kirin 810 7nm (2x 2.27GHz Cortex-A76 +6 x 1.88GHz Cortex-A55) processor with ARM Mali-G52 MP6 GPU 4GB / 6GB / 8GB LPDDR4x RAM, 64GB / 128GB / 256GB storage, expandable memory up to 256GB with microSD Android 9.0 (Pie) with EMUI 9.1.1 Hybrid Dual SIM (nano + nano / microSD) 48MP rear camera with Sony IMX586 sensor, f/1.8 aperture, 8MP ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=uhOAw8VJEs8:sjml40Xr7ps:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=uhOAw8VJEs8:sjml40Xr7ps:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=uhOAw8VJEs8:sjml40Xr7ps:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=uhOAw8VJEs8:sjml40Xr7ps:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=uhOAw8VJEs8:sjml40Xr7ps:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=uhOAw8VJEs8:sjml40Xr7ps:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/uhOAw8VJEs8)  
+[Read Here»](https://www.fonearena.com/blog/295008/honor-20-youth-edition-launch-date.html)

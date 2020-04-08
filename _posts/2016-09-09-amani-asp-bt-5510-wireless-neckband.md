@@ -1,0 +1,12 @@
+---
+title: 'Amani ASP BT-5510 wireless neckband earphones launched in India for Rs. 1099'
+date: 2019-12-18T08:40:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Amani-Neckband-Earphones-ASP-BT-5510-1024x724.jpg) Amani, a company who just recently launched their 18W power bank has come with another product, this time a pair of wireless earphones, named the ASP-BT-5510. The neckband wireless earphones features a lightweight design, connects via Bluetooth 4.1 and has a battery life of about 7.5 hours. The ASP BT-5510 claims to be one of the lightest wireless earbuds in its category with the entire headset weighing at just 15gms (2gms each for the earbuds themselves). Amani has also built in a noise reduction technology into the earphones, providing for clearer and high quality calls. With Bluetooth 4.1, the wireless earphones can connect to a variety of devices and users can use the buttons on the earphones for controlling all music functions and calls. Amani claims a battery life of about 7.5 hours for these earphones, and they will charge up completely in about 2 hours. The Amani ASP BT-5510 is priced at Rs. 1099 and is available for purchase at Amanimart.com and dealers across India. Commenting on its launch, Tarun Bhutani, Managing Director at AMANI said: AMANI ASP- BT-5510 is designed with immersive high definition sound quality to add music to one's daily routine in a seamless manner, enhancing user experience like none other. It's ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=5KPd8VotAp0:mbxlLJSRgac:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=5KPd8VotAp0:mbxlLJSRgac:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=5KPd8VotAp0:mbxlLJSRgac:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=5KPd8VotAp0:mbxlLJSRgac:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=5KPd8VotAp0:mbxlLJSRgac:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=5KPd8VotAp0:mbxlLJSRgac:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/5KPd8VotAp0)  
+[Read Here»](https://www.fonearena.com/blog/300631/amani-asp-bt-5510-wireless-neckband-earphones-price-india.html)

@@ -1,0 +1,12 @@
+---
+title: 'Xiaomi launches Mi Protective Glass for the Redmi Note 8 Pro for Rs. 399'
+date: 2019-12-17T13:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Mi-Protective-glass.jpg) For most consumers, one of the first few things that they will buy along with their new smartphone is a case and a tempered glass screen protector. Very few manufacturers provide these two things along with the purchase of their device making users buy third party accessories by themselves. Now Xiaomi is releasing their first party protective glass for the Note 8 Pro. The Mi Protective Glass, made in association with Corning, is currently only available for the Redmi Note 8 Pro. Comprising of multiple layers that include an oleophobic coating, Xiaomi claims a 5X protection improvement over local soda lime tempered glass. The avg. person drops their smartphones nearly 7 times a year! If you're someone who comes close to that number, the all-new #MiProtectiveGlass in association with Corning®, is a MUST for you!Available now for your #RedmiNote8Pro for just ₹399.Buy: http://bit.ly/35Bm4ry pic.twitter.com/JfZuIld7Ga— Redmi India for #MiFans (@RedmiIndia) December 17, 2019 It also features 2.5D edges, high visibility for full clarity and colour and is rated with 9H hardness. The Mi Protective Glass is available for purchase online on Xiaomi's store for a price of Rs. 399.
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=GktRNhv4aDQ:_Q56Pfg7d9Q:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=GktRNhv4aDQ:_Q56Pfg7d9Q:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=GktRNhv4aDQ:_Q56Pfg7d9Q:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=GktRNhv4aDQ:_Q56Pfg7d9Q:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=GktRNhv4aDQ:_Q56Pfg7d9Q:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=GktRNhv4aDQ:_Q56Pfg7d9Q:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/GktRNhv4aDQ)  
+[Read Here»](https://www.fonearena.com/blog/300583/xiaomi-mi-protective-glass-redmi-note-8-pro-price-india.html)

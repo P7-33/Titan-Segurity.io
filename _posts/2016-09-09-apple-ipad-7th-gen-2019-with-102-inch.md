@@ -1,0 +1,12 @@
+---
+title: 'Apple iPad 7th Gen (2019) with 10.2-inch Retina display goes on sale in India starting at Rs. 29990'
+date: 2019-10-13T05:56:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Apple-iPad-2019.jpg) Update: October 13, 2019 - Apple iPad 7th Gen is now available for purchase from Flipkart and Amazon.in starting at Rs. 29900 for 32GB WiFi version and Rs. 37,900 for the 128GB WiFi model, while the 32GB and 128GB Wi-Fi + Cellular models are priced at Rs. 40,900 and Rs. 48,900, respectively. Earlier: Apple introduced the new iPad 7th Gen (2019) model with 10.2-inch Retina display earlier this month alongside the new iPhones and Watch Series 5. It was available for order in the US and more than 25 other countries on the day of announcement itself, while it will be available in stores in those countries and more beginning September 30. Now, Apple has finally announced the India availability of the new iPad 10.2-inch. According to Apple India website, the new iPad 10.2-inch with Retina Display will be available in India starting October 14th 2019. However, there is no information on the pre-orders yet and most likely, Apple Authorized retailers might start pre-orders soon. We should know more information in the coming days. Apple iPad (2019) specifications 10.2-inch (2160 x 1620pixels) Retina display with 500 nits brightness, 264 PPI A10 Fusion chip with 64-bit architecture and M10 motion co-processor 32GB/128GB variants iOS ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Xe75wlOJWUk:rcSgSmJHUaY:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Xe75wlOJWUk:rcSgSmJHUaY:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Xe75wlOJWUk:rcSgSmJHUaY:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Xe75wlOJWUk:rcSgSmJHUaY:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Xe75wlOJWUk:rcSgSmJHUaY:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Xe75wlOJWUk:rcSgSmJHUaY:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Xe75wlOJWUk)  
+[Read Here»](https://www.fonearena.com/blog/293336/apple-ipad-7th-gen-2019-sale-india.html)

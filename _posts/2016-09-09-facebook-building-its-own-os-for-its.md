@@ -1,0 +1,12 @@
+---
+title: 'Facebook building its own OS for its future AR glasses other devices: Report'
+date: 2019-12-20T10:58:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2018/05/Facebook-Smart-Speaker-1024x576.jpeg) It seemed inevitable that Facebook would eventually decide to make its own operation system to reduce its dependancy on Google for Android, Apple, etc. In a report by theinformation.com, Facebook is currently looking into developing an OS from the ground up for its future hardware devices. According to the report, Facebook has given the role of building a social networking capable operating system from scratch to Mark Lucovsky, who was a co-author in building Microsoft's Windows NT. With its own OS, Facebook could get freedom to deeply integrate its social products into its current and future devices. To be clear, Facebook isn't ditching Android for its apps anytime soon though. These decisions from Facebook can be explained as protection from from being too dependant on Google. They do not want the risk of a potential disagreement between Facebook and Google to derail future device roadmaps. One of the main devices that is under development currently is Facebooks Augmented Reality Glasses and that is another reason why Facebook is building an OS. Some of the other devices that could benefit from Facebook's own OS is their Portal video conferencing device and its Oculus VR headset. In the report, Andrew Bosworth, Facebook’s VP of Hardware ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=XWfOJ8xBBsg:H7bleI-R0L4:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=XWfOJ8xBBsg:H7bleI-R0L4:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=XWfOJ8xBBsg:H7bleI-R0L4:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=XWfOJ8xBBsg:H7bleI-R0L4:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=XWfOJ8xBBsg:H7bleI-R0L4:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=XWfOJ8xBBsg:H7bleI-R0L4:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/XWfOJ8xBBsg)  
+[Read Here»](https://www.fonearena.com/blog/300764/facebook-own-os-ar-glasses.html)

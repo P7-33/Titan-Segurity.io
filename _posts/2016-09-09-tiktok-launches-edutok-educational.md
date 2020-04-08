@@ -1,0 +1,12 @@
+---
+title: 'TikTok launches #EduTok educational learning program in India'
+date: 2019-10-18T11:09:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/02/TikTok-e1551332039644.jpg)TikTok, a popular app for the sharing of short-form video content has announced the launch of a #Edutok Program which is designed to be a multi-phased integrated initiative aligned with the wider objective of making it easier for users access learning content through the platform. TikTok claims that since its launch, over 10 million pieces of content were created and shared using the #EduTok hashtag, which has generated over 48 billion views and has been shared over 1.8 billion times on TikTok. Through this initiative, TitTok has formed partnerships with leading social enterprises, Josh Talks and The/Nudge Foundation to launch a mentorship program. The goal being giving first time users access to high-quality educational content created by TikTok creators and educational organizations. Along with the mentorship program, TikTok has also partnered with top educational technology companies such as Toppr, Made Easy and GradeUp to provide subject focused content on the platform. This collaboration will give the users access to a variety of educational content available on the platform, in various formats, across categories and languages. As part of this mentorship program, Josh Talks will organize 25 #EduTok workshops where 5,000 creative individuals will be shortlisted and invited to attend a hands-on learning workshop delivered ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=NMO_RA3a0R4:DDbVw9jhCjY:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=NMO_RA3a0R4:DDbVw9jhCjY:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=NMO_RA3a0R4:DDbVw9jhCjY:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=NMO_RA3a0R4:DDbVw9jhCjY:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=NMO_RA3a0R4:DDbVw9jhCjY:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=NMO_RA3a0R4:DDbVw9jhCjY:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/NMO_RA3a0R4)  
+[Read Here»](https://www.fonearena.com/blog/295592/tiktok-edutok-educational-learning-program.html)

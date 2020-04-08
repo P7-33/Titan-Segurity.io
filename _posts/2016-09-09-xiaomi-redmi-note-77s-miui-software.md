@@ -1,0 +1,12 @@
+---
+title: 'Xiaomi Redmi Note 7/7S MIUI Software Update Tracker [Update: MIUI 11 Stable with October Security Patch]'
+date: 2019-10-28T12:38:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/05/Redmi-Note-7S_fonearena-13-1024x737.jpg) Xiaomi launched the Redmi Note 7 smartphone in India back in February running MIUI 10.2 Global Stable on top of Android 9.0 (Pie) and launched the updated Redmi Note 7S with 48 MP rear camera back in May running MIUI 10.2 Global Stable on top of Android 9.0 (Pie). Xiaomi doesn't follow any fixed update frequency for the MIUI Global Stable ROM but on an average, the Global Stable ROM is updated once in 30-60 days. Redmi Note 7 and Redmi Note 7S share same codename 'lavender' and receive the same MIUI updates, this post will help our readers in keeping track of MIUI updates for both the devices, also check out our Redmi Note 7 and Redmi Note 7S content, Redmi Note 7 Unboxing and First Impressions Redmi Note 7 Benchmarks Redmi Note 7 Camera Samples Redmi Note 7S Camera Samples Redmi Note 7 Stock vs Google Camera Comparison Redmi Note 7 Review: Note-worthy comeback! \[gallery size="large" link="file" ids="296609,296611,296610"\] MIUI Updates rolled out for the smartphone: \[Oct 28, 2019\]: Xiaomi has started rolling out MIUI 11 Stable update, the new update comes as MIUI 11.05.0.PFGINXM, weighs 712 MBs in size, and brings October Android security patch and MIUI 11 features such as New Minimalistic Design, Quick ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=rutsXchSfoE:XT7qBMtnWjg:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=rutsXchSfoE:XT7qBMtnWjg:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=rutsXchSfoE:XT7qBMtnWjg:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=rutsXchSfoE:XT7qBMtnWjg:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=rutsXchSfoE:XT7qBMtnWjg:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=rutsXchSfoE:XT7qBMtnWjg:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/rutsXchSfoE)  
+[Read Here»](https://www.fonearena.com/blog/279737/xiaomi-redmi-note-7-7s-miui-software-update-tracker.html)

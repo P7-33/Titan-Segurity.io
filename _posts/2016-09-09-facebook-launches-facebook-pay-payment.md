@@ -1,0 +1,12 @@
+---
+title: 'Facebook launches Facebook Pay payment service in the US'
+date: 2019-11-13T11:38:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Facebook-Pay.jpg) Facebook appears to be keen on entering into financial systems with products like Calibra wallet, Libra Network and now its latest venture is Facebook Pay. It intends on creating a uniform payment experience across its services like Facebook, Messenger, Instagram and WhatsApp and will launch in US for Facebook and Messenger this week. The service will first be available for fundraisers, in-game purchases, event tickets, person-to-person payments on Messenger and purchases from select Pages and businesses on Facebook Marketplace on Facebook and Messenger. Facebook has said that overtime they will bring this service to WhatsApp and Instagram. To begin, users can simply go to “Settings” > “Facebook Pay” on the Facebook app and Website where users will be required to first add a payment method. Facebook Pay supports most major credit and debit cards as well as PayPal. Payments are processed in partnership with companies like PayPal, Stripe and others around the world. Once their card is added users will be able to use Facebook Pay for their next payment. Facebook claims to have robust security by securely storing and encrypting card information and bank account numbers, performing anti-fraud monitoring on Facebooks own systems to detect unauthorised activity and provide notifications for account activity. ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=D1K8K2bH94M:46_rcC1x2qM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=D1K8K2bH94M:46_rcC1x2qM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=D1K8K2bH94M:46_rcC1x2qM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=D1K8K2bH94M:46_rcC1x2qM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=D1K8K2bH94M:46_rcC1x2qM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=D1K8K2bH94M:46_rcC1x2qM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/D1K8K2bH94M)  
+[Read Here»](https://www.fonearena.com/blog/297949/facebook-pay-payment-service.html)

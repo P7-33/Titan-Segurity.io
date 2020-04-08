@@ -1,0 +1,12 @@
+---
+title: 'Google’s Teachable Machine 2.0 makes AI Machine Learning easier'
+date: 2019-11-08T10:31:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Teachable-Machine-2-1024x576.jpg) Google launched Teachable Machine two year ago, a website that enabled people to experience AI by training their own machine learning models. With the launch of Teachable Machine 2.0, Google has simplified the process even further by letting users train their models with the click of a button, no coding required, and export it to websites, apps, physical machines and more. https://www.youtube.com/watch?v=T2qQGqZxkD0 With the first version, users could teach their computer to recognize images using a webcam in their machine learning models. Teachable machine allowed users to experience how a model would teach a computer to recognize patterns in data (images, in this case) and assign new data to categories. With the second version, Google has simplified the entire process, making it easier, for example, to teach middle-schoolers about AI through a hands on learning experience. Teachable machine can also recognize sounds and poses, like whether you're standing or sitting down. Another important point is that everything happens locally on the machine, with nothing sent to the cloud. To begin, users must first provide sample images to the Teachable machine. Users can upload their own images or capture them live with a mic or webcam. Users can then press a button and begin training their ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=7UWv7ljQcE0:1PC9BD90xlc:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=7UWv7ljQcE0:1PC9BD90xlc:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=7UWv7ljQcE0:1PC9BD90xlc:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=7UWv7ljQcE0:1PC9BD90xlc:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=7UWv7ljQcE0:1PC9BD90xlc:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=7UWv7ljQcE0:1PC9BD90xlc:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/7UWv7ljQcE0)  
+[Read Here»](https://www.fonearena.com/blog/297536/google-teachable-machine-2-0-ai-machine-learning.html)

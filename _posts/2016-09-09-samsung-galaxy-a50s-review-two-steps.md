@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy A50s Review: Two steps forward, One step backward'
+date: 2019-09-30T10:46:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Samsung-Galaxy-A50s_fonearena-09-1024x645.jpg) Samsung launched Galaxy A50s with few improvements in India, a few weeks back. With the launch of Galaxy A series smartphones, the South Korean has realigned its focus more towards churning out premium mid-range smartphones, and they are successful without a doubt. The latest A50s that carries few improvements both in and out fits the billperfectly offering a stylish design along with capable internals. But, there are few flaws, which we assume will be fixed with future software updates. At this price point does this A50s with in-house Exynos process managed to impress us? Find it out to read. Why you should buy A50S Best display for the price The Galaxy A50S sports a 6.4-inch (2340 x 1080 pixels) Full HD+ Infinity-U Super AMOLED display translating into a pixel density of 403 PPI. Galaxy A50S sports one of the best displays to consume content on, in this price segment offering a screen-to-body ratio of about 85.1%. The black levels are deep, and watching media, exceptionally high-resolution content from the likes of Netflix is a pleasure. It comes with two screen modes -- Natural and Vivid, where you can also adjust the white balance accordingly. The color reproduction is good with the right amount of saturation ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=HMuaOwnTaEM:q_wciLS_feg:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=HMuaOwnTaEM:q_wciLS_feg:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=HMuaOwnTaEM:q_wciLS_feg:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=HMuaOwnTaEM:q_wciLS_feg:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=HMuaOwnTaEM:q_wciLS_feg:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=HMuaOwnTaEM:q_wciLS_feg:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/HMuaOwnTaEM)  
+[Read Here»](https://www.fonearena.com/blog/293489/samsung-galaxy-a50s-review.html)

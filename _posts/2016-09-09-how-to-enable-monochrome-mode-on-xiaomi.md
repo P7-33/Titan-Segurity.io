@@ -1,0 +1,12 @@
+---
+title: 'How to enable Monochrome mode on Xiaomi smartphones'
+date: 2019-10-07T11:58:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Monochromacy_Mode_Xiaomi_devices_FoneArena-1024x683.jpg) Google announced the Digital Wellbeing feature last year aimed at being responsible with smartphone usage. Digital Wellbeing helps users understand their smartphone usage better, app usage timers help users limit the usage, visuals detailing how many times the phone was unlocked each day and how many notifications were received. The Wind Down feature limits notifications and also gradually turns the display greyscale, to make it easier on the eyes and to encourage you to unplug. Earlier, we shared a workaround to enable Digital Wellbeing, and now we are sharing a workaround to enable monochrome mode on Xiaomi smartphones Enable developer option on the device by tapping 7 times on the MIUI version under About Phone. Go to the developer option and find the 'Simulate color space' option. Select Monochromacy. \[gallery size="large" link="file" ids="293852,293851,293849"\] To avoid the hassle of going to the developer option to turn on/off the Monochromacy, you can download an app called Tiles (a paid app) that lets you add quick settings shortcuts for custom actions and apps.  After you enable Monochromacy mode under the developer option, you will see an option to add a tile for Monochromacy in the Tiles app. You will have to grant permission via adb ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=TgwGJe96Ck0:UAZq0PjjRu8:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=TgwGJe96Ck0:UAZq0PjjRu8:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=TgwGJe96Ck0:UAZq0PjjRu8:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=TgwGJe96Ck0:UAZq0PjjRu8:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=TgwGJe96Ck0:UAZq0PjjRu8:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=TgwGJe96Ck0:UAZq0PjjRu8:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/TgwGJe96Ck0)  
+[Read Here»](https://www.fonearena.com/blog/291126/how-to-enable-monochrome-mode-xiaomi-smartphones.html)

@@ -1,0 +1,12 @@
+---
+title: 'HUAWEI nova 6 SE with 6.4-inch FHD+ display, Kirin 810, 8GB RAM, 48MP quad rear cameras announced'
+date: 2019-12-05T11:50:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/HUAWEI-Nova-6-SE-1.jpg) HUAWEI has announced nova 6 SE, the company’s latest mid-range smartphone in China along with the Nova 6. It has a 6.4-inch Full HD+ display with a 16-megapixel in-screen camera, is powered by Kirin 810 7nm SoC with 8GB RAM, runs Android 10 with EMUI 10, has a 48-megapixel rear camera, 8-megapixel ultra-wide sensor, 2-megapixel camera for macro and another 2-megapixel camera for depth sensing in portrait shots. It has a gradient back and packs a 4200mAh battery with support for 40W fast charging that can charge the phone up to 70% in 30 minutes. HUAWEI nova 6 SE specifications 6.4-inch (2340×1080 pixels) Full HD+ IPS display, DCI-P3 wide color gamut Octa-Core Kirin 810 7nm (2x 2.27GHz Cortex-A76 +6 x 1.88GHz Cortex-A55) processor with ARM Mali-G52 MP6 GPU 8GB LPDDR4x RAM, 128GB storage, expandable memory up to 256GB with Huawei NM memory card Android 10 with EMUI 10.0.1 Hybrid Dual SIM (nano + nano / NM card) 48MP rear camera with Sony IMX586 sensor, f/1.8 aperture, 8MP Ultra Wide Angle lens with f/2.4 aperture, 2MP camera for macro and 2MP for depth sensing with f/2.4 aperture 16MP front camera with f/2.0 aperture Side-mounted Fingerprint sensor Dimensions: 159.2 x 76.3 x 8.7mm; Weight: ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=g4L1lS_lQV4:V91bXQKREpw:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=g4L1lS_lQV4:V91bXQKREpw:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=g4L1lS_lQV4:V91bXQKREpw:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=g4L1lS_lQV4:V91bXQKREpw:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=g4L1lS_lQV4:V91bXQKREpw:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=g4L1lS_lQV4:V91bXQKREpw:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/g4L1lS_lQV4)  
+[Read Here»](https://www.fonearena.com/blog/299705/huawei-nova-6-se-price-specifications.html)

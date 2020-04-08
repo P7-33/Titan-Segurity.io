@@ -1,0 +1,12 @@
+---
+title: 'MIUI 11 Global Roll out begins October 22 – List of Xiaomi devices getting it'
+date: 2019-10-16T08:14:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/MIUI-11-1024x517.jpg) Xiaomi introduced the MIUI 11, the next major MIUI update in China last month, and today at the Redmi Note 8 series launch it has confirmed all the features that are coming as well as the global roll out details and list of devices getting it, as expected. MIUI 11 aims to bring brand new optimized modern UI design focused on content viewing. Xiaomi has received two new Red Dot design awards for the new visual design and sound effects on MIUI 11, the company says that it is the first company to receive a first-ever design award in the smartphone software industry. At the forefront of typography innovation, MIUI 11 revamps Xiaomi’s visual design by offering a brand-new font, ‘Milan Pro’, and introduces the world’s first dynamic font scaling feature. Xiaomi also integrates new dynamic sounds effects that resemble ambient sounds from nature. MIUI 11 has redesigned AOD for phones with AMOLED displays like the Redmi K20 series, which also improves individual’s needs with ever-changing kaleidoscope on the lock screen, breathing notification can now be shown as an animation when the display is off and you can also customized slogan on the lock screen. First set of devices that will get MIUI ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=EoIgQkfYKLY:f0F82405SdQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=EoIgQkfYKLY:f0F82405SdQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=EoIgQkfYKLY:f0F82405SdQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=EoIgQkfYKLY:f0F82405SdQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=EoIgQkfYKLY:f0F82405SdQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=EoIgQkfYKLY:f0F82405SdQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/EoIgQkfYKLY)  
+[Read Here»](https://www.fonearena.com/blog/295294/miui-11-supported-devices-roll-out-date.html)

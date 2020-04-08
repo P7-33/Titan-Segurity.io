@@ -1,0 +1,12 @@
+---
+title: 'Vivo Z1 Pro gets another price cut in India, now available starting at Rs. 12990'
+date: 2019-12-13T13:40:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/07/Vivo-Z1-Pro_fonearena-16-1024x709.jpg) Vivo launched the Z1 Pro smartphone with Qualcomm Snapdragon 712 processor, 32MP in-display front camera earlier this year in India. Last month, the Z1 Pro got up to Rs. 2000 permanent price cut and now, Vivo Z1 Pro has got another price cut in India. Vivo Z1 Pro 4GB RAM with 64GB storage variant is now available at Rs. 12,990, against its previous price of Rs. 13,990. The 6GB RAM with 64GB variant is now available at Rs. 13,990, against its previous price of Rs. 14,990. The top-end model with 6GB RAM with 128GB storage has not received a price cut and is available at Rs. 15,990. It is available at new rates from Flipkart. Model Name Old Price Revised Price Price Drop Vivo Z1 Pro 4GB+64GB Rs. 13,990 Rs. 12,990 Rs. 1000 Vivo Z1 Pro 6GB+64GB Rs. 14,990 Rs. 13,990 Rs. 1000 To recall, Vivo Z1 Pro has a 6.53-inch Full HD+ display, is powered by  Snapdragon 712  SoC with up to 6GB of RAM, has a 16-megapixel rear camera, 8-megapixel 120° ultra-wide sensor, 2-megapixel depth-sensing camera, 32-megapixel in-screen camera, 4D gaming experience with real-time recognition of the game scene, gradient back in some color variants, rear-mounted fingerprint sensor, and packs a 5000mAh battery with support for 18W fast charging.
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=dB7TXUK2sQo:oxmoE-NhvOE:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=dB7TXUK2sQo:oxmoE-NhvOE:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=dB7TXUK2sQo:oxmoE-NhvOE:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=dB7TXUK2sQo:oxmoE-NhvOE:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=dB7TXUK2sQo:oxmoE-NhvOE:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=dB7TXUK2sQo:oxmoE-NhvOE:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/dB7TXUK2sQo)  
+[Read Here»](https://www.fonearena.com/blog/300318/vivo-z1-pro-price-cut-india-december-2019.html)

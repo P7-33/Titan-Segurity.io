@@ -1,0 +1,12 @@
+---
+title: 'Fossil Hybrid HR smartwatch with always-on readout display, hear rate sensor, 2-week battery announced'
+date: 2019-11-06T12:57:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Fossil-Hybrid-HR-smartwatch.jpg) Fossil, the company that is known for its watch lineup has announced its new Hybrid HR smartwatch which was spotted back in September on a new platform. It comes after the launch of Fossil Gen 5 smartwatch and this Hybrid HR comes with a full round read-out display, integrated heart rate sensor, rapid charging, and more. Fossil Hybrid HR smartwatch comes with a 42mm dial, always-on readout display that allows users to view notifications like calls, text, check commute time, social media messages and more alongside using it like a traditional watch with integrated mechanical hands. It comes with an integrated heart rate sensor for wellness tracking and also has activity tracking. The physical buttons on this hybrid smartwatch are customisable and users can control music, check the date, etc and assign the functions they use most to the buttons. Other features include customisable watch face dials,  custom goal tracking, different workout modes, auto-time, second-time zone, music control, alarm, timer, stopwatch, ring your phone, front light for low visibility, etc. It comes with 16MB storage, supports Accelerometer, Heart Rate sensors, and the company claims that it delivers 2+ weeks of battery life. It also supports rapid charging with up to 80% in ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=sb5X-Nxf6NA:leoFUANZiFE:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=sb5X-Nxf6NA:leoFUANZiFE:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=sb5X-Nxf6NA:leoFUANZiFE:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=sb5X-Nxf6NA:leoFUANZiFE:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=sb5X-Nxf6NA:leoFUANZiFE:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=sb5X-Nxf6NA:leoFUANZiFE:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/sb5X-Nxf6NA)  
+[Read Here»](https://www.fonearena.com/blog/297377/fossil-hybrid-hr-smartwatch-price-features.html)

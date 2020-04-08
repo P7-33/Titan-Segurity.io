@@ -1,0 +1,45 @@
+---
+title: 'The Puzzles of Thermopylae'
+date: 2019-10-11T06:13:00+01:00
+draft: false
+---
+
+In 480 BC a vast Persian army under king Xerxes crossed into Greece. The invasion was triggered by Athens’ defeat of a Persian army at Marathon ten years earlier, but this was a far bigger force and the aim was to conquer the whole peninsula. The army rolled south unopposed, until it met a small Greek force at the pass of Thermopylae in central Greece. Sandwiched between mountains and sea, the pass was perhaps two to five metres wide at its entry point and about 15 metres in the middle where the battle was fought. It was a perfect defensive position, since the Persians could not use their numbers to overwhelm the Greeks. And in this confined space they could not use their cavalry, nor the archers who had made Persia a world force from the Aegean to India.
+
+For two days the Persians attacked in force, only to retreat badly mauled. But the Greek position had a flaw. Informed by a local of a route through the hills, the Persians sent a crack force overnight on the second day to descend behind the Greeks with the daylight. Alerted to the flanking march the bulk of the Greek army withdrew early on the third day, while a hard core led by the Spartan king Leonidas stayed on. Surrounded, the remainers retreated to a steep hill and fought on desperately until the Persians tired of the losses and shot them down with arrows.
+
+Within a month the Greeks broke the Persian navy at the Battle of Salamis. The following summer they defeated the Persian army decisively at the battle of Plataea. Plataea and Salamis changed the course of the war – and European history. Thermopylae did not. But Thermopylae, with its tale of courage against the odds and resolution in the face of death, captured the imagination and it maintains its hold two and a half millennia later as the definitive last stand and the ultimate patriotic sacrifice.
+
+![Roman copy of a Greek bust of Herodotus, 4th century BC.](https://www.historytoday.com/sites/default/files/1_Herodotos.jpg "Roman copy of a Greek bust of Herodotus, 4th century BC.")
+
+The story is well known and easily told. But the battle throws up a number of lasting puzzles. We have no contemporary account. Our earliest source, Herodotus, began his research perhaps 30 years or more after the event. He had no written records to draw on, so he had to rely on oral sources. For the last stand in particular credible witnesses were hard to find. The Persians were meticulous record keepers; but no Persian source has survived. On at least one key detail Herodotus’ informants were sound: excavations at Thermopylae in the 1930s unearthed arrowheads of an Anatolian design in large numbers on a hill in the pass, confirming both the location and the manner of the deaths.
+
+But by the time Herodotus began work the battle had long passed into legend. There were about 7,000 Greek warriors in the pass. But the narratives already centred on the 300 Spartans at the core and especially their king Leonidas. Legends began to take hold, like that concerning the Spartan soldier Dieneces. Told that when the Persian archers fired their volleys the arrows blocked out the sun, he remarked ironically: ‘That’s good news; we’ll be fighting in the shade.’ These stories grew and took hold with time. The Greek writer Plutarch in the first century AD wrote that the Persians sent a messenger ordering the Greeks to hand over their weapons. With the legendary Spartan brevity Leonidas answers: ‘_molon labe_’, ‘come and get them’, words now engraved on the base of his statues at Thermopylae and Sparta.
+
+The accretion of legend in the narratives is matched by physical change in the landscape. Thermopylae, literally ‘Hot Gates’, was named for the hot springs which still gush from the hillside. These springs, and seismic action and silt from the nearby River Spercheios, have added 20 metres of soil, so that where once a steep mountainside fell sharply to the sea there is a flat plain, and the tall hill of the last stand has become a low knoll. Only a Herculean effort of imagination – or digital imaging – can picture the pass as it was when the Greeks stopped the Persians in their tracks.
+
+So questions abound. For a start, what were the odds? Our sources agree that there were about 7,000 Greeks. But we have no reliable source for the number of Persians, and nor did they. Herodotus gives a figure of 1,700,000 infantry and almost three million overall. This number was already (literally) set in stone before he began his research. An inscription for the contingents from southern Greece placed on the spot soon after the Greek victory in the war said:
+
+> Against three million here once fought from the Peloponnese four thousand
+
+The Persian figure is wildly unrealistic. The infantry alone would make the invasion half as big again as the D-Day landings in June 1944. But it is easier to query the numbers than to correct them. Modern guesstimates by different means arrive at around 200,000. This would still be huge by ancient standards; even half that would leave Leonidas facing odds of 15 to one. By any calculation the Greek stand at Thermopylae was an act of real courage.
+
+The numbers invite the question: what did the Greeks think they were doing? Our earliest sources assume that this was a serious attempt to stop the invasion. But one widespread view in antiquity was that this was a suicide mission. Plutarch reports a conversation between Leonidas and his wife, Gorgo. She asks him what she should do; he replies: ‘Marry good men and bear good children.’ Plutarch even has the Spartans celebrate their own funeral games before their departure, watched by their mothers and fathers.
+
+The suicide reading has a lasting appeal, but it has problems. First, it focuses only on the Spartans and ignores the rest of the army. Seven thousand troops seems a lot of men to send to their death for no strategic purpose. Certainly those who left on day three did not see themselves as part of a suicide mission; their job was done and they were going home to fight another day. Another big problem is the fleet. We tend to think of Thermopylae in isolation, but this was a joint land and sea operation. A fleet of 280 ships was sent to the narrow strait north of Euboea to hold the Persian fleet. Naval warfare is very expensive and the 13 states which provided ships presumably did not see themselves as supporting a suicide squad.  
+
+But what could the Greeks hope to achieve? Outright victory was never a possibility. But perhaps it wasn’t needed. Xerxes’ huge numbers had a flipside. The Greeks had a small force, access to fresh water and a base behind the lines for provisions. Xerxes had a huge army to feed and water (it was high summer), plus camp followers and servants, cavalry mounts, baggage animals, cattle and a large and lavish royal court. If he could be held up for long enough, supplies of food, fodder and water might become a real problem. Enough to stop him for this campaigning season. The Persian threat would not disappear, but for the Greeks that might have been enough for the time being.  
+
+![Statue of Leonidas in Sparta on the cover of History Today, August 2002.](https://www.historytoday.com/sites/default/files/3_cover.jpg "Statue of Leonidas in Sparta on the cover of History Today, August 2002.")
+
+Yet another puzzle is Leonidas’ decision to stay and die. Herodotus presents this as a combination of concern for his allies and a heroic desire for immortal glory. But Herodotus sees the battle, and Leonidas in particular, in terms of the heroes of Greek epic. His reasoning cannot be dismissed – this was a world where honour counted. But the main reason may be more practical. The Persians had archers and cavalry. If all the Greeks retreated and left the pass unguarded, they could be overtaken and cut down. A rear guard was needed to hold back the enemy while their comrades retreated.
+
+Herodotus’ account of the last stand is not the only one. Later sources, perhaps drawing on a historian from just a century after the battle, Ephorus, saw the endgame differently. Warned of the flanking march, the Greeks raid the Persian camp by night, inflict vast slaughter and come close to killing the king. They are then surrounded and killed. Exciting as this ‘what if’ is, it looks like another of the legends which have magnified the battle in the years since. With the passage of time, standing one’s ground until death was not enough; a more active heroism was needed.
+
+We cannot hope to know with certainty what happened at Thermopylae. But it is worth the effort to try to get behind the legends. And even stripped of myth this remains a tale of remarkable courage.
+
+**Chris Carey** is the author of _Great Battles: Thermopylae_ (Oxford, 2019).
+
+  
+  
+from Hacker News https://ift.tt/2pc5uxO

@@ -1,0 +1,12 @@
+---
+title: 'Ather 450 deliveries begin in Chennai, will launch in Hyderabad next'
+date: 2019-10-19T10:24:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Ather-450-Chennai-Delivery_fonearena-1-1024x710.jpg) Ather Energy unveiledthe Ather 450 in Chennai back in July, and also started pre-orders. At that time it said that the first batch of vehicles will be delivered in September, but after a slight delay in the production line the company has started deliveries for first batch in Chennai today. Ather CEO and co-founder Tarun Mehta, handed over the keys to the owners at Ather Space, Chennai. The company said that it will deliver nearly 100 scooters for Chennai consumers this week, along with the new compact home charger, Ather Dot, which is being first city to get it. Ather already promised free one year Ather One subscription and two helmets for first two batches. The company is offering option for both full face and open face helmets from Mavox, which is a new company which was launched earlier this year. Currently, Chennai has ten fast charging points and more will be added in the coming months, said the company. It recently signed an MoU with the Chai Kings to add charging points to their 30 outlets across Chennai. EV owners will find the first couple of Ather Grid Points at Chai King outlets at Porur and Ekkattuthangal.  Chennai EV owners can ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=K1bVuAHbuY0:NvoJzg6yQUk:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=K1bVuAHbuY0:NvoJzg6yQUk:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=K1bVuAHbuY0:NvoJzg6yQUk:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=K1bVuAHbuY0:NvoJzg6yQUk:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=K1bVuAHbuY0:NvoJzg6yQUk:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=K1bVuAHbuY0:NvoJzg6yQUk:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/K1bVuAHbuY0)  
+[Read Here»](https://www.fonearena.com/blog/295687/ather-450-deliveries-chennai-hyderabad-soon.html)

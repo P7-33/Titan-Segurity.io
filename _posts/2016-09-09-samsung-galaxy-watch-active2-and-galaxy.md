@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy Watch Active2 and Galaxy Watch 4G with Super AMOLED display, military-level durability launched in India starting at Rs. 26990'
+date: 2019-10-10T10:50:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/08/Samsung-Galaxy-Watch-Active-2.jpg) Samsung has announced Galaxy Watch Active2, the company’s latest smartwatch and successor of Galaxy Watch Active in India. It comes only in 44mm model in India with  1.4-inch curved Super AMOLED screen with rotating touch bezel that turns both clockwise and counter-clockwise to advance screens so you can easily select favorite apps. It can manually track more than 39 workouts with seven of them automatically activated—including running, walking, cycling, swimming, rowing machine, elliptical machine and dynamic workouts. The watch has new health sensors on the back, which take in readings faster and the watch also helps you track real-time stress levels through Samsung Health, provides access to guided meditation programs through an integration with Calm. Samsung Galaxy Watch Active2 (44mm) specifications 1.4-inch (360 x 360 pixels) Super AMOLED, full color Always On Display, Corning Gorilla Glass DX+ protection Exynos 9110 Dual-core 1.15 GHz processor 768MB RAM, 4GB Internal Memory Tizen-based Wearable OS,  compatible with Android 5.0 or above with more than 1.5GB RAM and iPhone 5 and above running iOS 9.0 or above Heart Rate Monitoring (with 8 Photodiodes), Electrocardiogram (ECG), Accelerometer (measure up to 32g of force), Gyroscope, Barometer, Ambient Light 5ATM + IP68 water resistance, MIL-STD-810G certified for durability Dimensions: 44 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=IK4DGbvAFm8:WI-HVyzfngU:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=IK4DGbvAFm8:WI-HVyzfngU:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=IK4DGbvAFm8:WI-HVyzfngU:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=IK4DGbvAFm8:WI-HVyzfngU:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=IK4DGbvAFm8:WI-HVyzfngU:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=IK4DGbvAFm8:WI-HVyzfngU:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/IK4DGbvAFm8)  
+[Read Here»](https://www.fonearena.com/blog/294675/samsung-galaxy-watch-active-2-galaxy-watch-4g-price-in-india.html)

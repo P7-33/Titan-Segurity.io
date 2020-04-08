@@ -1,0 +1,12 @@
+---
+title: 'ColorOS 7.0 with near stock Android experience coming to realme phones soon, realme Fitness Band expected next month'
+date: 2019-10-23T08:43:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/07/Realme-X_fonearena-2-1024x768.jpg) Realme's smartphone run ColorOS 6, based on Android 9 (Pie), and some of its latest phones have some tweaks so they call it ColorOS 6 realme edition. In the latest episode of #AskMadhav, the company's CEO, Madhav Sheth has answered some questions about their future OS. When asked about ColorOS 6.0.1, he said that realme phones will directly get ColorOS 7.0, which will likely be based on Android 10 that will roll out next year. When asked about the realmeOS that the company has been developing, he said that realme smartphones will continue to get ColorOS updates, and the ColorOS 7 will have an exclusive version for realme phones that will offer near stock Android experience. He also confirmed that video recording support on wide-angle camera will be available for realme 5, realme 5 Pro and realme XT will be available before the end of November.  And the realme 5 Pro has already got the update. He also said that realme XT is available offline in limited numbers and the company will expand the availability in the coming weeks. realme Fitness Band has also been hinted by the CEO, which is expected along with realme X2 Pro launch in November.  The company might ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=bWNDlrYOesg:E_-v4UTfC5M:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=bWNDlrYOesg:E_-v4UTfC5M:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=bWNDlrYOesg:E_-v4UTfC5M:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=bWNDlrYOesg:E_-v4UTfC5M:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=bWNDlrYOesg:E_-v4UTfC5M:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=bWNDlrYOesg:E_-v4UTfC5M:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/bWNDlrYOesg)  
+[Read Here»](https://www.fonearena.com/blog/296116/coloros-7-realme-smartphones-stock-android-experience-fitness-band.html)

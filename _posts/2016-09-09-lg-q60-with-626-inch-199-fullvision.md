@@ -1,0 +1,12 @@
+---
+title: 'LG Q60 with 6.26-inch 19:9 FullVision display, triple rear cameras, military-level durability launched in India for Rs. 13490'
+date: 2019-09-27T14:16:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/02/LG-Q60-1024x1017.jpg) LG just launched its Q60 smartphone in India, months after it was introduced at the MWC in February. It has a 6.26-inch 19:9 HD+ FullVision waterdrop notch display, is powered by MediaTek Helio P22 SoC with 3GB of RAM, runs Android Pie, has triple rear cameras that includes 16MP primary camera with Phase Detection Auto Focus (PDAF), 5MP with Super Wide Angle and a 2MP shooter with Depth Sensor. It also has a 13MP front camera. It has DTS:X 3D Surround Sound that simulates a 7.1-channel surround sound system to make any content more immersive when playing games, streaming movies or music via earphones. The phone is also MIL-STD-810G compliant that can withstand impact, vibration, high temperature, low temperature, thermal shock, and humidity. It features a rear-mounted fingerprint sensor, has a dedicated Google Assistant button and packs a 3500mAh battery. LG Q60 specifications 6.26-inch (1520 × 720 pixels) HD+ 19:9 aspect ratio FullVision display 2GHz Octa-Core MediaTek Helio P22 (MT6762) 12nm processor with 650MHz IMG PowerVR GE8320 GPU 3GB RAM, 64GB storage, expandable memory with microSD Dual SIM 16MP rear camera with LED flash,PDAF, 2MP depth sensor, 5MP Super Wide Angle lens 13MP front-facing camera Fingerprint sensor MIL-STD 810G Compliance, DTS:X 3D Surround ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=WiO8YWQxmI4:FVMNVyDRoGo:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=WiO8YWQxmI4:FVMNVyDRoGo:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=WiO8YWQxmI4:FVMNVyDRoGo:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=WiO8YWQxmI4:FVMNVyDRoGo:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=WiO8YWQxmI4:FVMNVyDRoGo:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=WiO8YWQxmI4:FVMNVyDRoGo:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/WiO8YWQxmI4)  
+[Read Here»](https://www.fonearena.com/blog/293324/lg-q60-price-india-specifications.html)

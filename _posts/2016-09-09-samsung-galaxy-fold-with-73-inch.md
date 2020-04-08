@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy Fold with 7.3-inch Infinity Flex display, 4.6-inch AMOLED cover display, 6 cameras, 12GB RAM launched in India for Rs. 1,64,999'
+date: 2019-10-01T10:56:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Samsung-Galaxy-Fold-1-1024x497.jpg) Samsung just launched the Galaxy Fold smartphone in India, as it had promised. It was introduced the Galaxy Fold at its Unpacked event back in February and said that it will go on sale in April. After a delay, it started rolling out in September. It has a 7.3-inch QXGA+ Dynamic AMOLED 4.2:3 aspect ratio Infinity Flex Display, which folds into a compact device with a 4.6-inch HD+ Super AMOLED 21:9 aspect ratio cover display. It is powered by Snapdragon 855 with 12GB of RAM. In addition to triple rear cameras and dual front cameras, similar to the S10+, it also has a 10-megapixel camera for the front cover display. It has new UX with several features such as App Continuity so apps will automatically show up where you leave off when you open and close the display and the Multi-Active Window lets you open up to three active apps simultaneously on the main display so you can surf, text, work, watch and share easily. It has fingerprint on the side where the thumb naturally rests, so the device unlocks easily and features engraved hinge with Samsung logo complete its elegant fit and finish. It has two batteries for a total of 4,380mAh battery and ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Myco0fxVvkI:nmLZTbC__RU:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Myco0fxVvkI:nmLZTbC__RU:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Myco0fxVvkI:nmLZTbC__RU:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Myco0fxVvkI:nmLZTbC__RU:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Myco0fxVvkI:nmLZTbC__RU:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Myco0fxVvkI:nmLZTbC__RU:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Myco0fxVvkI)  
+[Read Here»](https://www.fonearena.com/blog/293768/samsung-galaxy-fold-price-india-specifications.html)

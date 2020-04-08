@@ -1,0 +1,12 @@
+---
+title: 'Blaupunkt 43-inch 4K Palladium Series Smart LED TV launched for Rs. 19999'
+date: 2019-09-30T13:01:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Blaupunkt-43-inch-4K-Palladium.jpg) Blaupunkt, the German brand known for its wide range of audio products, Televisions, car audio etc has today launched its new 4K Smart LED TV in India - Blaupunkt BLA43BU680. It comes under the new Palladium Series and has been launched during Big Billion Days Sale on Flipkart. Blaupunkt BLA43BU680 sports a 43-inch 4K Ultra HD display with a resolution of 3840 x 2160 pixels, 60Hz refresh rate, 280 nits brightness, and 178-degree viewing angle. It is powered by a Cortex- A53 Quad-core processor clocked at 1.5GHz paired with 1GB RAM and 8GB internal storage. It features slim bezels with a premium metallic frame and is an Android-based TV with preloaded apps like Netflix, Hotstar, Prime Video and Youtube directly and also supports screen mirroring. The company has also added a dedicated gaming feature which enables users to play their favourite games on the television. The connectivity options and the ports include WiFi, Ethernet, 3 x HDMI, 2 x USB-A, PC Audio In, and headphone jack. It packs 30W dual speakers with surround sound technology and supports audio formats like MP3, WMA, AAC. This TV also comes with the Google Assistant feature to help users access its functions using voice commands. The new ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=REOyFE_3eps:_EpR1ZF_pkA:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=REOyFE_3eps:_EpR1ZF_pkA:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=REOyFE_3eps:_EpR1ZF_pkA:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=REOyFE_3eps:_EpR1ZF_pkA:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=REOyFE_3eps:_EpR1ZF_pkA:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=REOyFE_3eps:_EpR1ZF_pkA:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/REOyFE_3eps)  
+[Read Here»](https://www.fonearena.com/blog/293688/blaupunkt-palladium-4k-price-india-features.html)

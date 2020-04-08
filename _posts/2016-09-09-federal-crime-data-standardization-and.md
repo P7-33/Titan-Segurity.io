@@ -1,0 +1,68 @@
+---
+title: 'Federal Crime Data Standardization and Analysis'
+date: 2019-11-08T05:52:00+01:00
+draft: false
+---
+
+![](https://avatars2.githubusercontent.com/u/46985347?s=400&v=4 "GitHub - the-trace-and-buzzfeed-news/federal-crime-data-analysis: Federal Crime Data Standardization and Analysis — The Trace and BuzzFeed News")  
+
+[](https://github.com/the-trace-and-buzzfeed-news/federal-crime-data-analysis#federal-crime-data-standardization-and-analysis)Federal Crime Data Standardization and Analysis
+=============================================================================================================================================================================
+
+This repository includes methodologies, data, and code supporting the following articles, published by The Trace and BuzzFeed News:
+
+*   "Shoot Someone In A Major US City, And Odds Are You’ll Get Away With It" (January 24, 2019) — [The Trace](https://www.thetrace.org/features/murder-solve-rate-gun-violence-baltimore-shootings) / [BuzzFeed News](https://www.buzzfeednews.com/article/sarahryley/police-unsolved-shootings)
+*   "5 Things To Know About Cities’ Failure To Arrest Shooters" (January 24, 2019) — [The Trace](https://www.thetrace.org/2019/01/gun-murder-solve-rate-understaffed-police-data-analysis) / [BuzzFeed News](https://www.buzzfeednews.com/article/sarahryley/5-things-to-know-about-cities-failure-to-arrest-shooters)
+
+[_Click here for additional data and code from The Trace and BuzzFeed News's collaboration._](https://github.com/the-trace-and-buzzfeed-news/introduction)
+
+[](https://github.com/the-trace-and-buzzfeed-news/federal-crime-data-analysis#raw-data)Raw Data
+===============================================================================================
+
+The analysis is based, primarily, on three major datasets collected and published by the Federal Bureau of Investigation (FBI): Return A data, Supplementary Homicide Report data, and the National Incident-Based Reporting System. Each serves different purposes (for the FBI, and for our analyses), and each has different benefits and drawbacks. A detailed explanation of each can be found in the methodology linked above.
+
+The FBI's raw data files require many gigabytes of storage in total, and so are not directly included in this repository. The Trace and BuzzFeed News have [uploaded the raw files to the Internet Archive](https://archive.org/details/fbi-raw-data-files-nibrs-shr-return-a), where you can download them.
+
+[](https://github.com/the-trace-and-buzzfeed-news/federal-crime-data-analysis#standardized-data)Standardized Data
+=================================================================================================================
+
+The raw Return A, NIBRS, and SHR data are formatted entirely differently from one another, use different terminology, different variables, and different data structures. To facilitate the combination and comparison of these three datasets, The Trace and BuzzFeed News created "standardized" versions of them all. You can find the standardized data in the [`data/standardized`](https://github.com/the-trace-and-buzzfeed-news/federal-crime-data-analysis/blob/master/data/standardized) directory, and data dictionary of the standardized datasets in the [`documentation/`](https://github.com/the-trace-and-buzzfeed-news/federal-crime-data-analysis/blob/master/documentation) folder.
+
+The code to standardize the raw data can be found in the three Jupyter notebooks, written in the Python programming language, in the `notebooks/standardize` directory. Each notebook processes one of the three main federal datasets, and saves a standardized version to the `data/standardized` directory.
+
+[](https://github.com/the-trace-and-buzzfeed-news/federal-crime-data-analysis#data-and-analysis)Data and Analysis
+=================================================================================================================
+
+The code to analyze the standardized data can be found in the four Jupyter notebooks, written in the Python programming language, in the `notebooks/analyze` directory. Each of the first three notebooks analyzes one of the three federal datasets; the fourth compares findings from the three datasets to one another. The findings are also summarized in the methodology linked in the first section of this document.
+
+[](https://github.com/the-trace-and-buzzfeed-news/federal-crime-data-analysis#data-disclaimer)Data Disclaimer
+=============================================================================================================
+
+The data in this repository is a standardization of raw FBI data, from the three data collection programs described above. We have carefully checked the accuracy of our analysis, and shared our findings numerous experts in the law enforcement field prior to publication. We are sharing our data, methodology, and code in order to support further research and reporting on gun violence. However, users of this data may wish to independently verify the accuracy of their findings prior to making them public, as The Trace and Buzzfeed make no representations or warranties as to any third party use of this data.
+
+[](https://github.com/the-trace-and-buzzfeed-news/federal-crime-data-analysis#reproducibility)Reproducibility
+=============================================================================================================
+
+Executing the notebooks above, in order, will reproduce the findings. You will need Python 3 installed, as well as the Python libraries specified in this repository's `Pipfile`.
+
+Before running the standardization code, you will need to download the raw data files from the Internet Archive, and place them in the `data/raw` directory, so that that folder's structure becomes:
+
+```
+data/ raw/ nibrs/ reta/ shr/ 
+```
+
+You do not need to run the standardization code (which can take several hours to finish) in order to run the analysis code. But if you choose not to run the standardization code, you will first need to unzip the `data/standardized/nibrs-victims.csv.zip` and `data/standardized/nibrs-victims.csv.zip` files in order for the analysis to work.
+
+[](https://github.com/the-trace-and-buzzfeed-news/federal-crime-data-analysis#licensing)Licensing
+=================================================================================================
+
+All code in this repository is available under the [MIT License](https://opensource.org/licenses/MIT). The standardized data files are available under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0) license.
+
+[](https://github.com/the-trace-and-buzzfeed-news/federal-crime-data-analysis#questions--feedback)Questions / Feedback
+======================================================================================================================
+
+For questions or feedback, please contact Jeremy Singer-Vine ([jeremy.singer-vine@buzzfeed.com](https://github.com/the-trace-and-buzzfeed-news/federal-crime-data-analysis/blob/master/jeremy.singer-vine@buzzfeed.com)) and Sarah Ryley ([sryley@thetrace.org](https://github.com/the-trace-and-buzzfeed-news/federal-crime-data-analysis/blob/master/sryley@thetrace.org)).
+
+  
+  
+from Hacker News https://ift.tt/2WLpmod

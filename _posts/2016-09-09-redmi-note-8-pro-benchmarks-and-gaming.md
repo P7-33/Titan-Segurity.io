@@ -1,0 +1,12 @@
+---
+title: 'Redmi Note 8 Pro Benchmarks and Gaming Review'
+date: 2019-10-23T15:13:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Redmi-Note-8-Pro_fonearena-04-1024x602.jpg) Xiaomi under Redmi launched its Redmi Note 8 Pro smartphone last week. We already brought you the unboxing and camera samples, here we have the benchmarks of the smartphone. The Redmi Note 8 Pro is powered by an Octa-Core MediaTek Helio G90T 12nm processor with 2 x Cortex-A76 CPUs at up to 2.05GHz for performance and 6x Cortex-A55 GPUs at up to 2GHz  and has ARM Mali G76 3EEMC4 at 800MHz, 8GB 2133MHz LPDDR4x RAM and 128GB UFS 2.0 storage. It has MediaTek’s HyperEngine Game technology. It has a 6.53-inch FHD+ LCD HDR display and runs on Android 9 with MIUI 10. Check out the synthetic benchmark scores. Also, check out the Gaming review below. https://www.youtube.com/watch?v=2GadbtmBB9U AnTuTu Benchmark 7 It scored 223474 points in the AnTuTu Benchmark 7 and grabbed the third spot, beating the Redmi K20. It comes close to Snapdragon 845-powered Snapdragon 845. Geekbench 4 Single-Core It scored 2062 points in the Geekbench 4 Single-Core benchmark and comes close to Snapdragon 845-powered POCO F1. Geekbench 4 Multi-Core It scored 6236 points in the Geekbench 4 Multi-Core benchmark and lies above the realme XT powered by Snapdragon 712, but it couldn't beat the Snapdragon 675-powered Redmi Note 7 Pro. 3D Mark Ice Storm Unlimited It scored 33687  points and ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=UC-yslPiJ4U:cULtR8FRnls:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=UC-yslPiJ4U:cULtR8FRnls:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=UC-yslPiJ4U:cULtR8FRnls:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=UC-yslPiJ4U:cULtR8FRnls:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=UC-yslPiJ4U:cULtR8FRnls:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=UC-yslPiJ4U:cULtR8FRnls:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/UC-yslPiJ4U)  
+[Read Here»](https://www.fonearena.com/blog/296219/redmi-note-8-pro-benchmarks-and-gaming-review.html)

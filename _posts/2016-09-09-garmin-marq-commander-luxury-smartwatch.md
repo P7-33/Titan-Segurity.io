@@ -1,0 +1,12 @@
+---
+title: 'Garmin MARQ Commander luxury smartwatch with 1.2-inch always-on display, built-in topographical maps announced'
+date: 2019-10-02T12:11:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Garmin-MARQ-Commander.jpg) Garmin, the brand which is known for its wide range of smartwatches has now announced its new luxury smartwatch - Garmin MARQ Commander. It features an always-on display, built-in topographical maps, tactical functions, activity tracking and more. The MARQ Commander sports a 1.2-inch display with a resolution of 240 x 240 pixels along with always-on functionality. It is made of premium materials like stealth matte design, a purpose-built domed sapphire lens, matte diamond-like carbon-coated titanium bezel and tritone jacquard-weave strap. It features dual-format GPS coordinates, built-in topographical maps, tactical functions with a new kill switch function that when activated, clears the user memory. It also supports smart notifications, music apps, daily activity tracking, stress score, etc. There is also a dedicated stealth mode, which when enabled stops storing and sharing GPS position and disables wireless connectivity and communication. It is preloaded with topographic mapping and navigation features. Other features include a unique dual-position mode, which simultaneously displays two sets of coordinate systems on a single data screen, Jumpmaster, tactical activity profiles and waypoint projection. Garmin MARQ Commander highlights 1.2-inch display (240 x 240 pixels); always-on function, sunlight-readable Stealth matte design, a purpose-built domed sapphire lens, matte diamond-like carbon-coated titanium bezel and tritone jacquard-weave ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=UooMHkjFBAo:_055U4bX2rc:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=UooMHkjFBAo:_055U4bX2rc:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=UooMHkjFBAo:_055U4bX2rc:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=UooMHkjFBAo:_055U4bX2rc:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=UooMHkjFBAo:_055U4bX2rc:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=UooMHkjFBAo:_055U4bX2rc:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/UooMHkjFBAo)  
+[Read Here»](https://www.fonearena.com/blog/293858/garmin-marq-commander-price-features.html)

@@ -1,0 +1,26 @@
+---
+title: 'Liverpool FC fails in attempt to register LIVERPOOL as trade mark'
+date: 2019-10-01T18:29:00+01:00
+draft: false
+---
+
+**Last week**, it was **[reported](https://www.liverpoolecho.co.uk/news/liverpool-news/liverpool-fcs-failed-trademark-bid-16990249)** that Liverpool Football Club's (LFC's) application to register LIVERPOOL as a UK trade mark was rejected by the UK Intellectual Property Office (IPO).  
+  
+Apparently, and logically, this was on the basis that Liverpool is more "_geographically significant_" as a city than other place names that have previously been trade marked \[unfortunately the IPO's full reasons are not available for perusal\]. **[Everton](https://trademarks.ipo.gov.uk/ipo-tmcase/page/Results/1/UK00002149693)**, **[Chelsea](https://trademarks.ipo.gov.uk/ipo-tmcase/page/Results/4/EU012619755)** and **[Tottenham (Hotspur)](https://trademarks.ipo.gov.uk/ipo-tmcase/page/Results/1/UK00002130740)** Football Clubs, for example, have managed to register several trade marks each for their respective area names. Fair enough, you might say: these are the names of areas; not of entire cities. But Southampton Football Club has managed to register **[SOUTHAMPTON as an EU trade mark](https://trademarks.ipo.gov.uk/ipo-tmcase/page/Results/4/EU011121761)**...   
+  
+LFC has said it doesn't plan to appeal the decision. This seems sensible, given that the application upset everyone from Liverpool supporters to the Mayor of Liverpool. But of greater interest to this GuestKat is that there seems to be an additional application for LIVERPOOL lurking (and indeed now published) that has gone unnoticed by the press. The original application, covering classes 9, 16, 25, 28, 35, 38, 41 and 43 was divided into two applications on 1 August 2019, around a week after the **[public backlash began](https://www.thelondoneconomic.com/sport/football/liverpool-face-growing-criticism-over-plans-to-trademark-name/26/07/)**. One was refused following examination, but the "child" application (covering classes 9, 25 and 28 only) was published for opposition on **[9 August 2019](https://www.ipo.gov.uk/t-tmj/tm-journals/2019-032/index.html) **and appears still to be pending on the register.  
+  
+Perhaps the second application has already been withdrawn and the register simply hasn't been updated \[and the writer needs to calm down (calm down), per the below\]. If not, this will be an interesting story to monitor as the end of the opposition period approaches.  
+  
+
+[![](https://1.bp.blogspot.com/-T5XtkDjTiXA/XZOBxT8RCsI/AAAAAAAAAeI/g9egTt6bAdUyZQJaGennp5VHbtcvm_cDgCLcBGAsYHQ/s320/Calm%2Bdown.jpg)](https://1.bp.blogspot.com/-T5XtkDjTiXA/XZOBxT8RCsI/AAAAAAAAAeI/g9egTt6bAdUyZQJaGennp5VHbtcvm_cDgCLcBGAsYHQ/s1600/Calm%2Bdown.jpg)
+
+_With apologies to Liverpudlian readers, and anyone unfamiliar with the oeuvre of Harry Enfield_
+
+  
+Attempting to cut through the noise and the valiant attempts by the mainstream press to engage with the intricacies of trade mark law, what can we take from this story?  
+  
+
+1.  Virtually all of the goods and services applied for were implicitly or explicitly (by limitation) related to the sport of football \[obviously an attempt to register a broader specification would have been suicidal in light of _[Windsurfing Chiemsee](http://curia.europa.eu/juris/showPdf.jsf?docid=44567&doclang=EN) _etc.\]. This was however insufficient to convince the examiner that the mark would be distinctive of LFC's goods/services in context (i.e. capable of designating commercial origin). Is the general historical association of football with the city of Liverpool (outside of LFC) just too strong? Perhaps. But **[Oxford University](https://trademarks.ipo.gov.uk/ipo-tmcase/page/Results/4/EU003424851)** has managed to acquire various education and publishing related trade marks in spite of the city's association with education and abundance of educational institutions (such as Oxford Brookes, Oxford International Sixth Form College, etc.).  
+2.  The goods in the surviving "child" application all fall into the "merchandising" category (computer games; clothing; toys etc.). We don't yet know the fate of this application, but is it more reasonable to associate these goods exclusively with LFC in context? Perhaps. Interestingly, Southampton FC's EU trade mark covers only classes 25, 28 and 35, so there is a precedent. 
+3.  If LFC is indeed pursuing the child application in the face of public backlash, this illustrates the value it places in a well-developed trade mark portfolio. If there is an ill that this application seeks to cure, it is not immediately obvious - surely the overwhelming majority of counterfeits can be defeated using the existing portfolio (including variants of the club name, motto, logos etc.)? Perhaps LFC is aiming more for a deterrent effect. What, for example, if a group of disgruntled fans tried to set up their own rival/protest club, along the lines of **[FC United of Manchester](https://en.wikipedia.org/wiki/F.C._United_of_Manchester)**? Other than this, what is the point? LFC has already publicly stated that the application was in "_good faith_" and it does not want to stop other local football clubs from using "Liverpool" in their names.

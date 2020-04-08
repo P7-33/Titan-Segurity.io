@@ -1,0 +1,12 @@
+---
+title: 'Xiaomi Redmi Note 5 Pro MIUI Software Update Tracker [Update: MIUI 11.0.2.0 with October Security Patch]'
+date: 2019-10-30T16:17:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/03/Xiaomi-Redmi-Note-5-Pro-Android-Pie_fonearena-1024x706.jpg) Xiaomi launched its first dual-camera phone Redmi Note 5 Pro in India last year running MIUI 9.2 on top of Android 7.1 (Nougat) and later updated it to MIUI 9.5 based on Android 8.1 (Oreo) back in June 2018. Xiaomi doesn’t follow any fixed update frequency for the MIUI Global Stable ROM but on an average, the Global Stable ROM is updated once in 20-40 days. This post will help our readers in keeping track of MIUI updates for Redmi Note 5 Pro (codename whyred), also check out our Redmi Note 5 Pro custom ROM reviews, Android 10 based Pixel Experience Android 10 based Arrow OS Android Pie based Android One Port (ported from Mi A2) Android Pie based Resurrection Remix 7 Android Pie based Oxygen OS Port Android Pie based Pixel Experience Extended Android Pie based Pixel Experience \[gallery size="large" link="file" ids="296821,296822,296823"\] MIUI updates rolled out for the Redmi Note 5 Pro so far: \[Oct 30, 2019\]: Xiaomi has started rolling out MIUI 11 Stable 11.0.2.0.PEIMIXM with October Android security patch to select users. The update weighs around 622MB in size and brings new features such as New Minimalistic Design, Quick Replies, New Dynamic Sound Effects, Redesigned Settings Menu, Mi Share, Floating Calculator, Updated Mi File Manager, Digital Wellbeing and more to the ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=UZ4kEeG3lh4:6cldIvx9IEA:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=UZ4kEeG3lh4:6cldIvx9IEA:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=UZ4kEeG3lh4:6cldIvx9IEA:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=UZ4kEeG3lh4:6cldIvx9IEA:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=UZ4kEeG3lh4:6cldIvx9IEA:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=UZ4kEeG3lh4:6cldIvx9IEA:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/UZ4kEeG3lh4)  
+[Read Here»](https://www.fonearena.com/blog/281855/xiaomi-redmi-note-5-pro-miui-software-update-tracker.html)

@@ -1,0 +1,12 @@
+---
+title: 'Vodafone Idea partners with Revolt Motors to provide 4G IoT connectivity solutions'
+date: 2019-10-10T15:04:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/06/Revolt-RV-400.jpg) Revolt Motors introduced RV400 and RV300 as India’s first fully-electric  AI-enabled motorcycle back in August and recently introduced 'The Revolt Cash Down' onetime payment plan. Now, the company has teamed up with Vodafone Idea for 4G IoT connectivity solutions and the collaboration between the two companies aims to give a ‘smart’ riding experience for the AI-enabled motorcycle. With this partnership, Vodafone Idea will be providing exclusive IoT enabled solutions to enable features such as geofencing, bike locator and real-time bike information and diagnostics, with voice recognition start feature to be introduced soon. In related news, with the new ‘The Revolt Cash Down’ plan users have a choice to pay a onetime price for the vehicle and under this plan, the Cost Before on Road price for the RV400 is Rs. 98,999  and RV300 is Rs. 84,999, with an additional cost of registration/RTO, Insurance, Smart card and one-time mandatory charge of 4G connectivity for 3 years. The deliveries will begin by end of October in Pune and the company will soon announce the closure of bookings for the second batch November-December & January-February 2020 following demand. Commenting on the partnership, Nick Gliddon, Chief Enterprise Business Officer, Vodafone Idea said: We are extremely happy to announce this partnership with Revolt ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=KeU0-L7W4XM:VLE3s4kDeWM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=KeU0-L7W4XM:VLE3s4kDeWM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=KeU0-L7W4XM:VLE3s4kDeWM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=KeU0-L7W4XM:VLE3s4kDeWM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=KeU0-L7W4XM:VLE3s4kDeWM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=KeU0-L7W4XM:VLE3s4kDeWM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/KeU0-L7W4XM)  
+[Read Here»](https://www.fonearena.com/blog/294701/vodafone-idea-revolt-4g-iot.html)

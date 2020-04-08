@@ -1,0 +1,12 @@
+---
+title: 'Liker v1.1.2 – WordPress Rating Plugin'
+date: 2019-12-02T07:09:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/04/Realme-C2-2-1024x1008.jpg) realme launched the realme C2 along with realme 3 Pro in the country back in April running ColorOS 6.0 based on Android 9.0 (Pie). To recall, It has a 6.1-inch HD+ Dewdrop display and, is powered by MediaTek Helio P22 SoC with up to 3GB of RAM. It has a 13-megapixel rear camera along with a secondary 2-megapixel camera for portrait shots and a 5-megapixel front camera. The company has already announced Android 10 update roadmap for its smartphones, but realme C2 wasn't included in the list. \[Dec 2, 2019\]: realme has started rolling out RMX1941EX\_11\_A.20 with an updated November security patch. The update fixes touch response issues. \[Download Link\] \[Oct 25, 2019\]: realme has started rolling out RMX1941EX\_11\_A.18 with an updated October security patch. The update brings system-wide Dark Mode, updated charging animation, realme laboratory along with swipe down on the home screen to expand notification center feature. \[Download Link\] \[Sep 30, 2019\]: realme has started rolling out Android Pie based RMX1941EX\_11\_A.17 with September 2019 security patch. The update brings digital wellbeing, and redesigned notification center interface to realme C2. \[Download Link\] realme says it is a staged rollout and will be randomly pushed to a limited number of users and will have a ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=RiHTr_yvA1w:txqNdVcHwLI:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=RiHTr_yvA1w:txqNdVcHwLI:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=RiHTr_yvA1w:txqNdVcHwLI:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=RiHTr_yvA1w:txqNdVcHwLI:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=RiHTr_yvA1w:txqNdVcHwLI:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=RiHTr_yvA1w:txqNdVcHwLI:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/RiHTr_yvA1w)  
+[Read Here»](https://www.fonearena.com/blog/293550/realme-c2-coloros-software-update-tracker.html)

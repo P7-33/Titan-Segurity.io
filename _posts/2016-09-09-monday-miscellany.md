@@ -1,58 +1,91 @@
 ---
-title: 'Monday Miscellany'
-date: 2020-01-13T09:04:00+01:00
+title: 'Monday Miscellany '
+date: 2019-10-20T21:33:00+01:00
 draft: false
 ---
 
-It's a Monday, it's 2020, and of course the events and opportunities keep on coming! Here are all of the latest for you to put in your diaries.
+Monday is here ... to start the week with renewed enthusiasm, do take a look at all the events and job opportunities below!  
+  
+
+[![](https://1.bp.blogspot.com/-ODh5vdU1Uyk/XazDxRk78NI/AAAAAAAAM2M/-vdApXzJnRQiORA593CnZjorQ7cO0xTKACLcBGAsYHQ/s400/Screenshot%2B2019-10-20%2B16.14.03.png)](https://1.bp.blogspot.com/-ODh5vdU1Uyk/XazDxRk78NI/AAAAAAAAM2M/-vdApXzJnRQiORA593CnZjorQ7cO0xTKACLcBGAsYHQ/s1600/Screenshot%2B2019-10-20%2B16.14.03.png)
+
+**Conferences, events and calls for papers**
+
+**The 2nd IP & Innovation Researchers of Asia (IPIRA) Conference**  
 
   
 
-[![](https://1.bp.blogspot.com/-ZSNLYtbq8RQ/XhurA8Ha1bI/AAAAAAAAANU/JU7UJ-I8Q9Af6HSAJ-cmA_2QS1GN8SgjwCLcBGAsYHQ/s320/Screenshot%2B2020-01-09%2Bat%2B17.06.08.png)](https://1.bp.blogspot.com/-ZSNLYtbq8RQ/XhurA8Ha1bI/AAAAAAAAANU/JU7UJ-I8Q9Af6HSAJ-cmA_2QS1GN8SgjwCLcBGAsYHQ/s1600/Screenshot%2B2020-01-09%2Bat%2B17.06.08.png)
-
-One of many exciting events to look forward to this year!
-
-**Events**
+The IP & Innovation Researchers of Asia (IPIRA) Network is pleased to announce the Second IP & Innovation Researchers of Asia (IPIRA) Conference, which will be held on **27th -28th February 2020** at the Faculty of Law, Universitas Indonesia, in Jakarta, Indonesia.  
+  
+This Conference is organized by the Faculty of Law, Universitas Indonesia in collaboration with Texas A&M University School of Law, and the Faculty of Law of the University of Geneva, the World Intellectual Property Organization (WIPO), and the World Trade Organization (WTO). 
 
   
 
-**EUIPO IP Case Law Conference 2020**  
-Following the resounding success of the previous two colloquiums in 2016 and 2018, the EUIPO Boards of Appeal, together with EUIPO’s International Cooperation and Legal Affairs Department and the EUIPO Academy, will host the 3rd IP Case Law Conference on 21 and 22 May 2020 in Alicante. Covering substantive and procedural issues of trade mark and design dispute resolution, the conference will draw on a wide range of intellectual property law expertise for the two day forum of debate and discussion. Further details **[here](https://euipo.europa.eu/ohimportal/es/ip-case-law-conference-2020)**.  
-  
-**AIPPI UK: The _Cofemel_ decision - What has the CJEU done now?**
-
-AIPPI UK is delighted to announce that the Director of the Centre for Intellectual Property and Information Law at the University of Cambridge, Professor Lionel Bently, will be speaking on the _Cofemel_ decision, concerning the designs of t-shirts and jeans sold by G-Star Raw. The event will be held on 23 January 2020 from 6pm to 8pm at Bristows LLP, 100 Victoria Embankment, EC4Y 0DH, London. To sign up, click **[here](https://www.eventbrite.co.uk/e/the-cofemel-decision-what-have-the-cjeu-done-now-tickets-87222058525)**.
+The IPIRA Conference is an initiative created to provide a forum for academics and other researchers to present and discuss their papers and works-in-progress with colleagues from other universities, policy makers, and other stakeholders. The scientific organizers welcome submissions by senior, mid-career, and junior academics writing on topics related to IP law-related issues in Asian law, international law, and comparative law
 
   
 
-**University of Geneva: Intellectual Property in the Era of Big Data and Blockchain**
-
-The University of Geneva will be holding a conference looking into the recent developments in the era of big data and blockchain, and the present and future challenges of intellectual property law form an international, European and Swiss perspective. The all-day session will be held on 5 February 2020 in Room MR080, University of Geneva, Bd du Pont d'Arve, 1211 Genève 4. You can register and find further details **[here](https://www.unige.ch/droit/en/jdpi)**.
-
-**Fashion, Law and Business: Fashion Law Masterclass**
-
-Fashion, Law and Business is hosting a Winter Fashion Law Masterclass on 20 February 2020 from  10am to 4pm at the Condé Nast College of Fashion & Design, 16-17 Greek Street, Soho, W1D 4DR, London. Designed to help participants understand the law as it applies to the business of fashion, this one-day event will offer a practical understanding of the law of intellectual property and will explore the essential legal issues faced by a fashion business as it grows from a start-up to a luxury fashion phase. You can register **[here](https://www.eventbrite.co.uk/e/fashion-law-masterclass-tickets-87087153019)** and find further information **[here](https://www.fashionlawbusiness.com/masterclass)**.
-
-**CIPIL Annual Spring Conference 2020: Is IP Good for Our Health?**
-
-In its Annual Spring Conference (chaired by Lord Justice Richard Arnold), the Centre for Intellectual Property and Information Law's conference will bring together practitioners, scholars and policymakers to examine the latest decisions, research and political developments in the field of intellectual property and health. The event will be held on 7 March 2020 from 9:30am to 5:50pm, at the Faculty of Law, 10 West Road, Cambridge, CB3 9DZ. Topics will include, amongst others: the implications of non-obviousness for follow-on medical innovation (e.g. drug repurposing) after the UK Supreme Court's 2019 decision in _Actavis v ICOS_; the current and future roles of competition law in controlling drug prices, including an update on Flynn and Pfizer; and the potential effect of Brexit on the trade of medical products. You can sign up **[here](https://onlinesales.admin.cam.ac.uk/conferences-and-events/faculty-of-law/cipil-spring-conference/cipil-annual-spring-conference-2020-is-ip-good-for-our-health)**, find further information **[here](https://www.cipil.law.cam.ac.uk/seminars-and-eventscipil-spring-conference/cipil-spring-conference-2020)**, and the conference programme [here](https://www.cipil.law.cam.ac.uk/sites/www.law.cam.ac.uk/files/images/www.cipil.law.cam.ac.uk/conference_programme_pdf_-_16.12.19_0.pdf).
+The deadline to submit an abstract and a request to present is** 30th October 2019**.
 
   
-**CIPIL 15th Annual Intellectual Property Lecture**  
-Professor Arti K. Rai (Elvin R. Larry Professor of Law, Duke Law School) will deliver the fifteenth annual intellectual property lecture on 10 March 2020 at 5:30pm at Emmanuel College, Cambridge. Further details will be uploaded **[here](https://www.cipil.law.cam.ac.uk/press/events/2020/03/cipil-15th-annual-international-intellectual-property-lecture)** when they are available.  
-  
 
-**UCL IBIL and MARQUES: Question the Trade Mark Judges**
-
-UCL Institute of Brand and Innovation Law (IBIL) and MARQUES, the European Association of Trade Mark Owners, invite you to meet and question some of the judges that are or were until recently deciding our trade mark disputes. The Rt Hon Sir Robin Jacob will be posing questions to: Emma Himsworth QC (Appointed Person), Judge Ian Forrester (General Court, Court of Justice of the European Union), and The Rt Hon Lord Justice Arnold. The event will be held on 11 March 2020 from 6pm to 8:30pm at UCL Faculty of Laws, Bentham House, Endsleigh Gardens, WC1H 0EG, London, and you can find further details **[here](https://www.eventbrite.co.uk/e/question-the-trade-mark-judges-tickets-86692939917)**.
+There will be no registration fee or any other costs associated with attending the Second IPIRA Conference. However, all presenters must cover their own travel-related and accommodation expenses. The organizers are working to secure funds to partially assist a limited number of researchers with financial needs from developing countries in Asia. 
 
   
-**UCL IBIL - IP Transactions: Law and Practice**  
-In addition to understanding relevant provisions of IP law, IP practitioners need to be familiar with a wide range of commercial law subjects, including personal property, contracts, competition, insolvency, and employment. Each day of UCL IBIL’s 5 day course focuses on a different market or practice area, provides instruction on legal and commercial topics relevant to IP transactions in that area, and gives an introduction to the IP agreements in the media and consumer goods sectors. The course will be held from 20-24 April 2020, with deadline for applications on 31 January 2020. More details can be found **[here](https://www.ucl.ac.uk/laws/events/2020/apr/ip-transactions-law-and-practice-2020)**.  
+
+For more information, [**see **](http://ipresearchersasia.org/annual-conference/)[**here**](http://ipresearchersasia.org/annual-conference/).
+
   
 
-**IP News**  
+****IP Law Reading Group****
 
-**The final 1709 Copyright Blog post**
+  
 
-As an avid follower of the 1709 Copyright Blog, this InternKat was sad to find out that this blog would not be joining us in 2020. The blog - founded 300 years after the Statute of Anne created the first purpose-built statute law in 1709 (or was it 1710?) - has been posting fascinating copyright articles and insights for the past 10 years. We wish the team all of the best in the future and thank them for their contributions to the IP blogosphere! You can find the 1709 Blog’s last post, an in-depth and comprehensive recap of the copyright highlights of 2019, **[here](http://the1709blog.blogspot.com/2019/12/2019-copyright-year.html?m=1)**.
+The IP Law Reading Group will be having a session on Intellectual Property and Online Harms on Wednesday, 30 October 2019. The group will discuss the potential impact of regulatory attempts in this area on intellectual property and freedom of expression online.
+
+  
+
+The event will be held from 5 to 6 PM on **30th October 2019** at Somerset House East Wing, London WC2R 2LS, United Kingdom
+
+  
+
+Please book and access this session's reading materials on [**Eventbrite**](https://www.eventbrite.co.uk/e/intellectual-property-and-online-harms-ip-law-reading-group-tickets-75835360605?aff=ebdssbdestsearch).
+
+  
+
+****Owning Expression and Propertizing Speech - Freedom of Expression v Copyright before the European Courts****
+
+  
+
+This conference will examine the conflict between the right to freedom of expression and copyright, as protected under the EU Charter of Fundamental Rights. The Court of Justice of the EU has addressed this conflict in a number of cases on intermediary liability and enforcement, as well as in the interpretation of the parody and quotation exceptions. Although the cases only address the balance in relation to copyright, they will have implications for other policy fields.
+
+  
+
+This conference will be held on 7 November 2019 at the University of Luxembourg, Weicker Building - conference room B 001 (ground floor) 4, rue Alphonse Weicker L-2721 Luxembourg.
+
+  
+
+Please [**book directly**](https://wwwen.uni.lu/university/events/owning_expression_and_propertizing_speech_freedom_of_expression_v_copyright_before_the_european_courts) with the University.
+
+  
+
+**2019 REDA conference **
+
+The biennial "Regulation and Enforcement in the Digital Age" (REDA) conference will take place on **21st-22nd November 2019** in Cyprus. REDA is an international conference on internet law that explores and presents contemporary issues and challenges related to this area of law, with emphasis on copyright law, data protection, e-commerce, consumer protection, and cybercrime. **[Click here to learn more](https://redaconference2019.blogspot.com/?fbclid=IwAR3QeNiBR-CYhKDDDuR3FyQ5NQKhYaiYShhaEmavzPd5doWxLucnhF-L-BM).**
+
+  
+
+**Jobs**  
+****Knowledge Manager position at the ICC (Paris)****  
+  
+The International Chamber of Commerce is seeking to hire a Knowledge Manager to join its team, working specifically as part of the Innovation for All Knowledge Hub in the Knowledge Solutions Department. [**Please click here for further details**](https://iccwbo.org/careers/job-opportunities/knowledge-manager-knowledge-solutions-department-innovation-for-all-knowledge-centre/).
+
+  
+
+**Lecturer/Assistant Professor in Intellectual Property Law (copyright) at UCD Sutherland **
+
+UCD Sutherland wishes to appoint a Lecturer/Assistant Professor in Intellectual Property (Copyright) Law who will be required to engage in research, teaching and academic administration within the UCD Sutherland School of Law. This will include the delivery and development of modules at undergraduate and graduate levels, the supervision of graduate students and the generation of publications in leading international peer reviewed journals and with leading academic presses in line with the academic mission of the School. The appointee will report to the Dean of Law.
+
+  
+
+Please [**click here**](https://www.jobs.ac.uk/job/BVY159/lecturer-assistant-professor-in-intellectual-property-copyright-law) for further information.

@@ -1,0 +1,12 @@
+---
+title: 'Revolt introduces ‘The Revolt Cash Down’ onetime payment plan for RV300 and RV400 starting at Rs. 84999'
+date: 2019-10-05T15:38:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/08/Revolt-RV-300-2.jpg) Revolt Motors introduced RV400 and RV300 as India’s first fully-electric  AI-enabled motorcycle back in August and also started bookings for the bike exclusively for customers in Delhi and Pune. Until now, there was only a single payment option - 'My Revolt Plan' wherein users had to pay a fixed amount monthly for a period of 37 months. But, now the company is introducing a new payment option that allows you to pay a onetime price for the RV400 and RV300 and the company has also announced its entry into the Pune market. With the new 'The Revolt Cash Down' plan users have a choice to pay a onetime price for the vehicle and under this plan, the Cost Before on Road price for the RV400 is Rs. 98,999  and RV300 is Rs. 84,999, with an additional cost of registration/RTO, Insurance, Smart card and one-time mandatory charge of 4G connectivity for 3 years. Vehicle Cost before On-Road Revolt RV400 Rs. 98,999 + Additional cost of registration/RTO (On Actuals) + Insurance + Smart Card + One-time mandatory charge of 4G connectivity for 3 years Revolt RV300   Rs. 84,999 + Additional cost of registration/RTO (On Actuals) + Insurance + Smart Card + One-time mandatory charge of 4G connectivity for 3 years Customers ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=OsCUjlNae_Q:l8jNbmRR3Bg:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=OsCUjlNae_Q:l8jNbmRR3Bg:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=OsCUjlNae_Q:l8jNbmRR3Bg:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=OsCUjlNae_Q:l8jNbmRR3Bg:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=OsCUjlNae_Q:l8jNbmRR3Bg:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=OsCUjlNae_Q:l8jNbmRR3Bg:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/OsCUjlNae_Q)  
+[Read Here»](https://www.fonearena.com/blog/294153/revolt-cash-down-onetime-payment-plan-rv300-and-rv400.html)

@@ -1,0 +1,12 @@
+---
+title: 'Vivo X30 with Exynos 980 SoC, SA/NSA dual mode 5G support to be announced in December 2019'
+date: 2019-11-07T12:51:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Vivo-X30-Exynos-980-1024x711.jpg) Vivo just announced that it will introduce flagship X30 smartphone in China next month. This will be powered by Samsung's latest Exynos 980 8nm SoC with support for both SA and NSA dual mode 5G. It has two high performing ARM Cortex-A77 cores and six efficient Cortex-A55 cores and ARM Mali-G76 MP5 GPU. The modem supports E-UTRA-NR Dual Connectivity (EN-DC), which combines 2CC LTE and 5G connectivity, to maximize mobile downlink speed up to 3.55Gbps and 5G NR Sub-6GHz speeds of up to 2.55Gbps. Based on latest rumors, the phone will feature a 6.5-inch FHD+ AMOLED 90Hz screen, 64MP quad rear cameras, and the X30 Pro is said to feature a slightly larger 6.89-inch FHD+ AMOLED 90Hz screen, 60MP quad rear cameras with upcoming Sony IMX686 sensor and support for thermal, graphite and carbon fiber liquid cooling. Vivo X30 rumored specifications 6.5-inch (2400 x 1080 pixels) Full HD+ 20:9 aspect ratio AMOLED screen with 90Hz refresh rate, HDR10+ with Corning Gorilla Glass 5 protection Octa-Core Exynos 980 (2 x 2.2GHz ARM Cortex-A77 CPUs + 6x 1.8GHz ARM A55 CPUs) 8nm SoC with ARM Mali-G76 MP5GPU 8GB LPDDR4X RAM with 128GB / 256GB (UFS 2.1) storage Android with FuntouchOS Dual SIM 64MP rear ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=xcS3vn8gEv4:GhyayOPrc38:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=xcS3vn8gEv4:GhyayOPrc38:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=xcS3vn8gEv4:GhyayOPrc38:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=xcS3vn8gEv4:GhyayOPrc38:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=xcS3vn8gEv4:GhyayOPrc38:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=xcS3vn8gEv4:GhyayOPrc38:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/xcS3vn8gEv4)  
+[Read Here»](https://www.fonearena.com/blog/297445/vivo-x30-launch-date-exynos-980-5g.html)

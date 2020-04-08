@@ -1,0 +1,12 @@
+---
+title: 'IDC reports 0.8% YoY growth in global smartphone shipments in Q3 2019, Samsung leads'
+date: 2019-11-08T09:01:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/08/Samsung-Galaxy-Note-10-Plus_fonearena-01-1024x646.jpg) International Data Corporation (IDC) has reported a growth of 0.8% Year on Year for smartphone shipments in its Worldwide Quarterly Mobile Phone Tracker. Total shipments counted to 358.3 million smartphones that resulted in an 8.1% growth compared to the last quarter, marking positive growth in smartphone shipments after almost 2 years. The top 5 companies that shipped smartphones in the IDC report were Samsung, HUAWEI, Apple, Xiaomi and OPPO. These 5 companies accounted for more than 70% of smartphone shipments in this quarter. India was reported to have the biggest market with the entry of many budget Chinese smartphones. Samsung claimed number 1 spot in the global market, primarily due to HUAWEI being put on USA's entity list and being unable to load Google Play Store. Samsung shipped over 78.2 million smartphones worldwide, with its A series proving to be popular. Surprisingly HUAWEI, even with its US ban, reported over 66.6 million smartphones shipped as it shifted focus onto its domestic market. The company, propelled with sentiment of nationalism and solid relationships with the local channel players, had a 28.2% growth compared to the same period last year. Apple shipped over 46.6 million iPhones in 3Q19, although a decline, it exceeded its expectations. Positive ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=gb9raFbhKcs:zkMJVwjfhV0:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=gb9raFbhKcs:zkMJVwjfhV0:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=gb9raFbhKcs:zkMJVwjfhV0:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=gb9raFbhKcs:zkMJVwjfhV0:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=gb9raFbhKcs:zkMJVwjfhV0:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=gb9raFbhKcs:zkMJVwjfhV0:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/gb9raFbhKcs)  
+[Read Here»](https://www.fonearena.com/blog/297527/idc-global-smartphone-shipments-q3-2019.html)

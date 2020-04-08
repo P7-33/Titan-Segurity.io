@@ -1,0 +1,12 @@
+---
+title: 'Xiaomi Redmi K20 Pro MIUI Software Update Tracker [Update: Android 10 based MIUI 11 Stable Beta Update]'
+date: 2019-10-30T05:37:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Redmi-K20-Pro-Android-10_fonearena-1-1024x629.jpg) Xiaomi launched the Redmi K20 Pro smartphone in India on July 17th running MIUI 10.3 Global Stable on top of Android 9.0 (Pie). Xiaomi doesn’t follow any fixed update frequency for the MIUI Global Stable ROM but on an average, the Global Stable ROM is updated once in 30-45 days. This post will help our readers in keeping track of MIUI updates for Redmi K20 Pro (codename ‘raphael’), also check out our Redmi K20 Pro content, Redmi K20 Pro Unboxing and First Impressions Redmi K20 Pro Carbon Black Photo Gallery Redmi K20 Pro Benchmarks and Gaming Review Redmi K20 Pro Review \[gallery size="large" link="file" ids="296747,296748,296749"\] MIUI Updates rolled out for the smartphone: \[Oct 29, 2019\]: Xiaomi has started rolling out Android 10 based MIUI 11 Stable 11.0.1.0.QFKINXM with October Android security patch for selected users. The update weighs around 2.2GB in size and brings MIUI 11 features such as New Minimalistic Design, Quick Replies, New Dynamic Sound Effects, Mi Share, Floating Calculator, Update Mi File Manager, Steps Trackers and more to Redmi K20 Pro, check out this post to learn more about MIUI 11 features. \[Download Link\] \[Sep 23, 2019\]: Xiaomi has started rolling out MIUI 10.4.8.0.QFKINXM with Android 10 and updated September 2019 security patch. The update ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=d01qrptfwEA:RGdduHqjN6Y:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=d01qrptfwEA:RGdduHqjN6Y:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=d01qrptfwEA:RGdduHqjN6Y:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=d01qrptfwEA:RGdduHqjN6Y:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=d01qrptfwEA:RGdduHqjN6Y:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=d01qrptfwEA:RGdduHqjN6Y:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/d01qrptfwEA)  
+[Read Here»](https://www.fonearena.com/blog/287043/xiaomi-redmi-k20-pro-miui-software-update-tracker.html)

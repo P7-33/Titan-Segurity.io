@@ -1,0 +1,12 @@
+---
+title: 'Microsoft’s Project Lockhart could be cheaper, disc-less Next-Gen Xbox alternative to Scarlett'
+date: 2019-12-05T11:17:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/06/Microsoft-Project-Scarlett-1024x551.jpg) When project Scarlett was announced back in June, it was reported that there would two variants in the earlier leaks: the high-performance Anaconda and the lower-end Lockhart. A new report from Kotaku has confirmed that the cheaper, digital-only alternative to Scarlett called Lockhart is still in development. When Microsoft announced Project Scarlett as the only high end console, it was assumed that Project Lockhart was cancelled. But Kotaku.com has reported that the project development is still underway although with no information on pricing of the console. Developers who have been briefed on Lockhart claim that the performance in the Lockhart console will be similar to the PS4 Pro in terms of RAW graphical power. Microsoft has put forward an ideal target of 1440p for resolution and at 60 fps for Lockhart. It is still unclear as to which console, the PS5 or Project Scarlett will be more powerful as development kits for both are just reaching the hands of developers. Both companies were initially wary of Google's Stadia game streaming service. But, thanks to lack lustre launch it seems like the console wars will still be fought between Sony and Microsoft in 2020. Source
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=ypy_Z6EBcGI:xbM3mFPu1KE:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ypy_Z6EBcGI:xbM3mFPu1KE:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=ypy_Z6EBcGI:xbM3mFPu1KE:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ypy_Z6EBcGI:xbM3mFPu1KE:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=ypy_Z6EBcGI:xbM3mFPu1KE:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=ypy_Z6EBcGI:xbM3mFPu1KE:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/ypy_Z6EBcGI)  
+[Read Here»](https://www.fonearena.com/blog/299691/microsoft-xbox-project-lockhart-disc-less-scarlett.html)

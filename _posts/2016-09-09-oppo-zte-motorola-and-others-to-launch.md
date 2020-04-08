@@ -1,0 +1,12 @@
+---
+title: 'OPPO, ZTE, Motorola and others to launch Snapdragon 865-powered 5G phones in 2020'
+date: 2019-12-04T04:35:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/OPPO-Snapdragon-865-1-1024x410.jpg) At the Snapdragon Tech Summit 2019 Xiaomi confirmed Snapdragon 765G for its K30 smartphone that will be introduced in China next week and their Mi 10 smartphone with Snapdragon 865 will be introduced in Q1 2019. Nokia said that its 765G-powered 5G phone will be introduced in 2020. In addition, several other companies such as OPPO, ZTE and Motorola also announced their plans to launch Snapdragon 865-powered 5G phones in 2020. OPPO said that its next flagship smartphone powered by Snapdragon 865 Mobile Platform will be announced in Q1 2020. It's latest flagship Reno Ace uses Snapdragon 855 Plus. ZTE said that New ZTE Axon phones with 5G support, Snapdragon 865 and X55 will be introduced in the first half 2020. Motorola said that its 5G smartphones with both Snapdragon 865 and Snapdragon 765 will be introduced in early 2020 and it will be expanding outside North America. Even though 5G has not been launched in India yet, realme already said that it will launch 5G smartphones with Qualcomm Snapdragon 5G SoC in 2020. Chinese OEMs, ODMs and brands including BlackShark, Coolpad, iQOO, Lenovo, Meizu, nubia RedMagic, OnePlus, Realme, Redmi, Smartisan, TCL, vivo, Wingtech, ZTE, and 8848 plan to use Qualcomm's latest Qualcomm Snapdragon ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=WL7eYZjBNdA:yUYyJodaeXQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=WL7eYZjBNdA:yUYyJodaeXQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=WL7eYZjBNdA:yUYyJodaeXQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=WL7eYZjBNdA:yUYyJodaeXQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=WL7eYZjBNdA:yUYyJodaeXQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=WL7eYZjBNdA:yUYyJodaeXQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/WL7eYZjBNdA)  
+[Read Here»](https://www.fonearena.com/blog/299551/oppo-zte-motorola-snapdragon-865-5g-phone-2020.html)

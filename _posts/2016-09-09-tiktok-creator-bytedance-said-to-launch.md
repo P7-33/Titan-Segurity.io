@@ -1,0 +1,12 @@
+---
+title: 'TikTok creator ByteDance said to launch music streaming service in India'
+date: 2019-11-18T12:43:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/02/TikTok-e1551332039644.jpg) After creating a storm with a short video app, ByteDance Technology, a Chinese Internet technology company known for TikTok, is said to be planning to launch music streaming. As per the FT report, the company is in talks with major music labels, including Sony Music, Warner Music, and Universal Music, for global licensing deals to include their songs on its new music streaming service. The Chinese Internet company is expected to launch its music streaming somewhere around next month in a few markets, including India, Indonesia, and Brazil, before heading on to the United States. On top of that, ByteDance will host short video clips to search which users can sync the music to as well. However, information like name, service plans, and other few details remains unclear. But, the report said the service is expected to cost less than other audio streaming platform’s subscriptions. With this move, TikTok's audio streaming service will compete directly against Apple Music, Spotify, Youtube Music, Amazon Prime Music, and others. It's worth mentioning that TikTok has over 1.5 billion users across the globe. In 2019, out of 614 million downloads, around 277 million downloads came from India, accounting for 45% . Source  | Via
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=f7MwJwd5dDE:jFQNLW9FHLc:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=f7MwJwd5dDE:jFQNLW9FHLc:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=f7MwJwd5dDE:jFQNLW9FHLc:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=f7MwJwd5dDE:jFQNLW9FHLc:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=f7MwJwd5dDE:jFQNLW9FHLc:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=f7MwJwd5dDE:jFQNLW9FHLc:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/f7MwJwd5dDE)  
+[Read Here»](https://www.fonearena.com/blog/298291/tiktok-music-streaming-service-india.html)

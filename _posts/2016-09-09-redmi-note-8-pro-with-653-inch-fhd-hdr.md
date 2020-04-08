@@ -1,0 +1,12 @@
+---
+title: 'Redmi Note 8 Pro with 6.53-inch FHD+ HDR display, Helio G90T, liquid cooling, up to 8GB RAM, quad rear cameras launched in India starting at Rs. 14999'
+date: 2019-10-16T09:29:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Redmi-Note-8-Pro-1024x919.jpg) Xiaomi's Redmi brand just launched the Redmi Note 8 Pro, the company's latest smartphone in the Redmi Note series in India, as it had promised. The phone packs a 6.53-inch Full HD+ LCD screen with HDR support, 2.05mm narrow top frame, 1.8mm narrow left and right borders and 4.2mm bottom border offering 91.4% screen-to-body ratio and has TÜV Rheinland eye protection certification. It the world’s first smartphone to be powered by the latest MediaTek Helio G90T SoC and is the first phone in the price range to feature liquid cooling that will reduce the temperature of the phone by 4 to 6 degrees. The phone features a 64-megapixel primary rear camera with 1/1.7″ Samsung GW1 Sensor with ISOCELL Plus technology  that delivers higher color fidelity along with up to a 15% enhancement in light sensitivity and the Smart ISO supported by Dual Conversion Gain (DCG) technology intelligently adjusts the ISO sensitivity based on ambient light intensity. It has an 8-megapixel 120° ultra-wide angle lens, 2-megapixel depth sensor and a 2-megapixel sensor for 2cm macro shots. There is a 20-megapixel camera on the front. The phone features a 3D glass back curved on the four sides with Corning  Gorilla Glass 5 Protection and has a splash resistant ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=PH9lAtSp1Hg:qD1kMlIL3hw:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=PH9lAtSp1Hg:qD1kMlIL3hw:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=PH9lAtSp1Hg:qD1kMlIL3hw:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=PH9lAtSp1Hg:qD1kMlIL3hw:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=PH9lAtSp1Hg:qD1kMlIL3hw:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=PH9lAtSp1Hg:qD1kMlIL3hw:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/PH9lAtSp1Hg)  
+[Read Here»](https://www.fonearena.com/blog/295271/redmi-note-8-pro-price-india-specifications.html)

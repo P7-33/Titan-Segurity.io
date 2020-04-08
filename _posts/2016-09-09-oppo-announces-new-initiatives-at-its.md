@@ -1,0 +1,12 @@
+---
+title: 'OPPO announces new initiatives at its Developer Conference 2019, to launch health platform along with Smartwatch in Q1 2020'
+date: 2019-12-19T12:58:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/OPPO-Developers-Conference-2019-1024x682.jpg) OPPO Developer Conference (ODC) 2019 saw a bunch of new initiatives announced by OPPO aimed at building a worldwide ecosystem with developers and partners. The three main initiatives include the Gravity Plan 2.0, the Five System-level Capability Exposure Engines and the IoT Enablement Plan. The first initiative, Gravity Plan 2.0 will see OPPO investing RMB 1 Billion (~ Rs. 1014 crores) and is a continuation of the Gravity Plan that was launched last year at ODC 2108. It outlines OPPO's plan to reach out and support more outstanding developers in the major fields of applications, services, content and going global. The Five System-level Capability Exposure Engines is designed to enable developers improve OPPO's system level capabilities like Hyper Boost, Link Boost, CameraUnit, MediaUnit, and ARUnit. These improvements are designed at providing OPPO users with a smoother, quicker and enhanced software experience. The third announcement, the IoT Enablement Plan will be work along with the HeyThings IoT service platform to accelerate integration and convergence of IoT platforms. OPPO, along with the launch of its first smartwatch, will also debut its health platform to create a robust ecosystem with its partners next year.
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=EO--YJE7wZ0:6FKLCQKWO3A:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=EO--YJE7wZ0:6FKLCQKWO3A:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=EO--YJE7wZ0:6FKLCQKWO3A:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=EO--YJE7wZ0:6FKLCQKWO3A:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=EO--YJE7wZ0:6FKLCQKWO3A:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=EO--YJE7wZ0:6FKLCQKWO3A:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/EO--YJE7wZ0)  
+[Read Here»](https://www.fonearena.com/blog/300723/oppo-developer-conference-2019-in-beijing-health-platform-smartwatch.html)

@@ -1,0 +1,12 @@
+---
+title: 'Motorola One Hyper (XT2027-1) with Snapdragon 675 SoC, 32MP pop-up front camera surface in live images'
+date: 2019-10-23T12:43:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Moto-One-Hyper-live-image.jpg) Earlier this month, a Motorola smartphone with a no-notch display, pop-up front camera, dual rear cameras surfaced in live images. Following that, now more renders of the smartphone has surfaced including the name, design, and key specifications. According to new renders, the smartphone is said to be Motorola One Hyper (XT2027-1) and is said to flaunt a 6.39-inch FULL HD+ IPS display with a resolution of 2340 x 1080 pixels, is said to be powered by Qualcomm Snapdragon 675 processor paired with 4GB RAM with 128GB internal storage. It is said to pack a 3600mAh battery and a rear-mounted fingerprint scanner with LED backlighting. Regarding the cameras, the renders reveal a dual rear camera setup and a pop-up front camera. It is said to be a combination of 64MP (primary sensor with f/1.8 aperture) + 8MP (depth sensor with f/2.2 aperture) to the rear and a 32MP pop-up front camera with f/2.0 aperture. Furthermore, the One Hyper is said to launch with Android 10 out of the box, but it is not clear if it will be an Android one phone. There is no information on the launch date yet, and we should know more information in the coming months. Source 1, 2
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=YtAjxiGgIyw:sxKweaEED2E:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=YtAjxiGgIyw:sxKweaEED2E:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=YtAjxiGgIyw:sxKweaEED2E:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=YtAjxiGgIyw:sxKweaEED2E:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=YtAjxiGgIyw:sxKweaEED2E:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=YtAjxiGgIyw:sxKweaEED2E:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/YtAjxiGgIyw)  
+[Read Here»](https://www.fonearena.com/blog/296161/motorola-one-hyper-specs-image-leak.html)

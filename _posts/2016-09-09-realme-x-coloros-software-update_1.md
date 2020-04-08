@@ -1,0 +1,12 @@
+---
+title: 'Realme X ColorOS Software Update Tracker [Update: September Security patch]'
+date: 2019-10-01T09:11:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/07/Realme-X_fonearena-12-1024x722.jpg) realme launched the realme X smartphone in India back in July running ColorOS 6.0 on top of Android 9.0 (Pie). realme doesn’t follow a fixed update frequency for the devices but the company rolls out update frequently. This post will help our readers in keeping track of ColorOS updates for realme X. \[gallery columns="2" link="file" size="large" ids="293759,293758"\] ColorOS updates rolled out for the realme X so far, \[Sep 30, 2019\]: realme starts rolling out RMX1901EX\_11.A.08 with September Android security patch. \[Download Link\] \[Sep 13, 2019\]: realme X will be upgraded to Android 10 in Q1 2020, confirms realme. \[Aug 30, 2019\]: realme releases Android Pie based kernel source codes for realme X \[Aug 21, 2019\]: realme starts rolling out RMX1901EX\_11.A.07 with August Android security patch. \[Download Link\] \[July 26, 2019\]: realme starts rolling out RMX1901EX\_11.A.06 \[Download Link\] The realme X comes in Space Blue and Polar White colors, is priced at Rs. 16,999 for the 4GB RAM version and the 8GB RAM version costs Rs. 19,999. The realme X master edition in Onion and Garlic versions with 8GB RAM with 128GB storage costs Rs. 19,999. The realme X Spider-Man: Far From Home Gift box with 8GB RAM with 128GB storage costs Rs. 20,999. The realme X ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=LeVmgiZDv5E:cpmH1hw2eP4:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=LeVmgiZDv5E:cpmH1hw2eP4:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=LeVmgiZDv5E:cpmH1hw2eP4:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=LeVmgiZDv5E:cpmH1hw2eP4:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=LeVmgiZDv5E:cpmH1hw2eP4:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=LeVmgiZDv5E:cpmH1hw2eP4:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/LeVmgiZDv5E)  
+[Read Here»](https://www.fonearena.com/blog/291892/realme-x-coloros-software-update-tracker-update-september-security-patch.html)

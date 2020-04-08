@@ -1,0 +1,12 @@
+---
+title: 'ASUS VivoBook S15 S532 Review (Intel Core i5 10th Gen, GeForce MX250)'
+date: 2019-12-17T05:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/ASUS-VivoBook-S532-fonearena-7-1024x768.jpg) ASUS introduced its unique touchscreen trackpad called ScreenPad last year and it debuted on the ZenBook models. The company made changes to ScreenPad 1.0 and introduced the new ScreenPad 2.0 recently with a lot of improvements. VivoBook S15 S532 is one of the first models to debut with ScreenPad 2.0 and we have been testing this laptop for some time now. In this review, let us find out what's new in ScreenPad 2.0 and if the VivoBook S532 is worth buying or not. ASUS VivoBook S15 S532 Specifications Processor: 10th Gen Intel Core i5-10210U processor 1.6 GHz quad-core with Turbo Boost (up to 4.2 GHz) and 6MB cache / 10th Gen Intel Core i7-10510U processor 1.8 GHz quad-core with Turbo Boost (up to 4.9 GHz) and 8MB cache Memory & Storage: 8GB 2400MHz DDR4 RAM with| Storage: PCIe Gen3x2 NVMe 512GB M.2 SSD Graphics: NVIDIA GeForce MX250 GDDR5 2GB VRAM Display: 15.6” LED-backlit FHD (1920 x 1080) Anti-Glare NanoEdge display with 88% screen-to-body ratio, 178° wide-view technology Operating System: Pre-loaded Windows 10 Home with lifetime validity Design & battery: Metal-Body| Thin & Light | Laptop weight 1.8 Kg | 42Whrs 3-cell lithium-polymer battery | Fast charging: 60% in 49 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=DnbFOMhgsWc:xyoyc8yb0Iw:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=DnbFOMhgsWc:xyoyc8yb0Iw:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=DnbFOMhgsWc:xyoyc8yb0Iw:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=DnbFOMhgsWc:xyoyc8yb0Iw:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=DnbFOMhgsWc:xyoyc8yb0Iw:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=DnbFOMhgsWc:xyoyc8yb0Iw:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/DnbFOMhgsWc)  
+[Read Here»](https://www.fonearena.com/blog/300408/asus-vivobook-s15-s532-review.html)

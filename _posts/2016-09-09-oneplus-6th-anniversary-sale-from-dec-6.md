@@ -1,0 +1,12 @@
+---
+title: 'OnePlus 6th Anniversary Sale from Dec 6: Discounts on 7T and 7 Pro, additional HDFC card discount, exchange offers'
+date: 2019-12-04T11:35:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/OnePlus-6th-Anniversary-Sale-1024x515.jpg) OnePlus has announced its sixth-anniversary celebration globally.  As a mark of celebrating its successful journey in India, and in an effort to give back to its thriving OnePlus community in India, OnePlus has announced a range of offers, providing a special opportunity for its users to upgrade to the latest OnePlus 7 series devices starting on Friday, 6 December 2019 until Tuesday, 17 December 2019. This is similar to the discounts that it offered recently. OnePlus 6th Anniversary Sale offers Discount from INR 2,000 up to INR 6,000 on OnePlus 7 Pro and OnePlus 7T. Instant discount of INR 2,000, INR 1,500 and INR 3,000 on purchase of OnePlus 7 Pro, OnePlus 7T and OnePlus 7T Pro respectively across all OnePlus sales platforms on HDFC card transactions. Special no-cost EMI up to six months on Amazon.in, OnePlus.in and OnePlus experience stores for OnePlus 7 Pro, OnePlus 7T and OnePlus 7T Pro. Exchange old OnePlus devices and gain a cashback of INR 2,000 on the purchase of any OnePlus 7 Series device on Amazon.in and OnePlus Experience Stores. With these special offers in-store, it offers its existing and potential OnePlus users with the valuable opportunity to upgrade to the latest OnePlus devices and ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=dIXeu7fTwCg:a4F0drcohS8:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=dIXeu7fTwCg:a4F0drcohS8:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=dIXeu7fTwCg:a4F0drcohS8:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=dIXeu7fTwCg:a4F0drcohS8:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=dIXeu7fTwCg:a4F0drcohS8:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=dIXeu7fTwCg:a4F0drcohS8:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/dIXeu7fTwCg)  
+[Read Here»](https://www.fonearena.com/blog/299569/oneplus-7t-oneplus-7-pro-discount-cashback-offers-india.html)

@@ -1,0 +1,12 @@
+---
+title: 'Mi AirDots Pro Review: Premium true wireless earphones at affordable price'
+date: 2019-10-01T04:36:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/07/Mi-AirDots-Pro_fonearena-8-1024x599.jpg) Xiaomi introduced Mi AirDots Pro, premium true wireless earphones for global markets back in June. Priced at €79.99 (US$ 80 / Rs. 6,280 approx.), the Mi AirDots Pro offers up to 10 hours of music playback, packs a 7mm dynamic driver unit and support active noise cancellation, but are these worth your consideration? Read on our review to find out. Box Contents Mi AirDots Pro with the charging case USB Type-C cable Extra ear-tips User guide We recently unboxed the Mi AirDots Pro, check out the unboxing and first impressions. Design and Build Quality At first sight, you will notice that Mi AirDots Pro draws inspiration from Apple Airpods, similar to other Xiaomi eco-system products, you get a minimal design. Mi AirDots Pro comes with a case which is made up of plastic, due to which it is lightweight but it is also prone to scratches. The earbuds have a metallic exterior finish but are made up of plastic, due to which each earbud weighs just 5.8 grams, even with the case, the total weight of the package is less than 60 gram. The earbuds, as well as the case, have an impressive built but just don't drop it on a hard surface. The earbuds are held tightly via magnetic pins inside the case, ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=i4YsfOj9EEQ:k3c36-sib-U:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=i4YsfOj9EEQ:k3c36-sib-U:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=i4YsfOj9EEQ:k3c36-sib-U:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=i4YsfOj9EEQ:k3c36-sib-U:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=i4YsfOj9EEQ:k3c36-sib-U:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=i4YsfOj9EEQ:k3c36-sib-U:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/i4YsfOj9EEQ)  
+[Read Here»](https://www.fonearena.com/blog/289505/mi-airdots-pro-review.html)

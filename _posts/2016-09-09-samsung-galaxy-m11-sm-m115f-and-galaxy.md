@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy M11 (SM-M115F) and Galaxy M31 (SM-M315F) said to be in works'
+date: 2019-12-13T13:40:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/02/Samsung-Galaxy-M10_fonearena-2-1024x733.jpg) Samsung launched the Galaxy M10 and Galaxy M30 smartphones earlier this year in India under M-series. The company released the next version, Galaxy M30s recently in India, but there was no information on the successor to the Galaxy M10 until now. Now, according to a new report, Samsung is said to be working on the Galaxy M11 and Galaxy M31 smartphones which are expected to be launched next year. Samsung Galaxy M11 is said to carry the model number SM-M115F and the Galaxy M31 is said to carry the model number SM-M315F. There is no information on the design, key specifications of the smartphones yet, but according to the report, Galaxy M11 is said to come with 32GB internal storage and Galaxy M31 with 64GB internal storage. According to the previous report, Samsung is also said to working on the Galaxy M21 and Galaxy M41 smartphones. Samsung Galaxy M21 which is the successor to Galaxy M20 is said to be powered by Exynos 9609 processor, feature 4GB RAM, and sport dual rear camera setup with a combination of 24MP primary sensor and 5MP depth sensor. To recall, Galaxy M20 is powered by Exynos 7904 processor and a 13MP+5MP dual rear camera. Samsung Galaxy ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=GbybfIs5sow:lz5YPmkP0iQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=GbybfIs5sow:lz5YPmkP0iQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=GbybfIs5sow:lz5YPmkP0iQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=GbybfIs5sow:lz5YPmkP0iQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=GbybfIs5sow:lz5YPmkP0iQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=GbybfIs5sow:lz5YPmkP0iQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/GbybfIs5sow)  
+[Read Here»](https://www.fonearena.com/blog/300314/samsung-galaxy-m11-galaxy-m31-rumor.html)

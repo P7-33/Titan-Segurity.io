@@ -1,0 +1,12 @@
+---
+title: 'Xiaomi Mi Air Purifier 3 with OLED touch display, laser particle sensor launched in India for Rs. 9999'
+date: 2019-11-06T08:57:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Mi-Air-Purifier-3-1.jpg) Xiaomi just launched the Mi Air Purifier 3, successor of Mi Air Purifier 2S in India. It has an OLED touch display, more precise air purification with Laser particle sensor, and has smarter home integration with support for Alexa and Google Assistant. Xiaomi Mi Air Purifier 2S features OLED touch display lets you check PM2.5 levels, humidity, WiFi connection, switch between sleep, auto, favorite, low, medium and high level modes, brightness is automatically adjusted according to ambient light Air quality indicators with green, orange and red ring to denote PM2.5<75mg/μ3, 75<150mg/μ3 and >150mg/μ3, respectively Mi Home app lets you check the indoor and outdoor air quality, temperature, and humidity, adjust the fan strength Amazon Alexa and Google home lets you command the air purifier with just your voice no matter Extremely power efficient under night mode, extremely silent at only 32 decibels High precision laser sensor allows the air purifier to detect particles as small as 0.3μm and instantly report the particulate matter levels . 360-degree cylindrical triple-layer filter traps pollutants from all angles Triple-layer filter removes micron-sized particles, catch harmful bacteria and even effectively removes formaldehyde and other harmful substances, and also eliminates odors. Has a Clean Air Delivery Rate, ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=74iuiSNsksQ:ygQtUbxz8SI:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=74iuiSNsksQ:ygQtUbxz8SI:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=74iuiSNsksQ:ygQtUbxz8SI:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=74iuiSNsksQ:ygQtUbxz8SI:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=74iuiSNsksQ:ygQtUbxz8SI:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=74iuiSNsksQ:ygQtUbxz8SI:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/74iuiSNsksQ)  
+[Read Here»](https://www.fonearena.com/blog/297325/xiaomi-mi-air-purifier-3-price-india.html)

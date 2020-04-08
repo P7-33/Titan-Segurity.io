@@ -1,0 +1,12 @@
+---
+title: 'Vivo S1 and Vivo V15 Pro get a price cut in India, now available starting at Rs. 15990'
+date: 2019-12-02T13:16:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/08/Vivo-S1_fonearena-7-1024x643.jpg) Vivo launched the Vivo V15 Pro with a pop-up front camera earlier this year and recently the company launched the Vivo S1 smartphone in India. The V15 Pro got a price cut back in August this year and now, both the V15 Pro and Vivo S1 have got a price cut in India. Vivo S1 (4+128GB) variant is now available for Rs. 15,990, against its launch price of Rs. 17,990 and the 6+128GB variant is now available for Rs. 17,990, against its launch price of Rs. 19,990. Vivo V15 Pro (6+128GB) is now available for Rs. 19,990, against its previous selling price of Rs. 23,990. The revised prices are reflecting on Flipkart, Amazon.in, and are also available at offline stores. Smartphone Old Price New Price Price Cut Vivo S1 (4+128GB) Vivo S1 (6+128 GB) Rs. 17,990 Rs. 15,990   Rs. 2000 Rs. 19,990 Rs. 17,990 Vivo V15 Pro (6+128GB) Rs. 23,990 Rs. 19,990 Rs. 4000 To recall, Vivo S1 packs a 6.39-inch Full HD+ Super AMOLED display with about 90% screen-to-body ratio, is powered by the latest MediaTek Helio P65 12nm SoC with up to 6GB of RAM, sports a 16MP primary sensor with f/1.78 aperture, 8MP ultrawide sensor and an 2MP depth sensor, as well as a 32MP front-facing camera. It has an in-display fingerprint scanner and packs ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=KP3kjEaS86I:Yu1D-qUkKA0:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=KP3kjEaS86I:Yu1D-qUkKA0:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=KP3kjEaS86I:Yu1D-qUkKA0:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=KP3kjEaS86I:Yu1D-qUkKA0:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=KP3kjEaS86I:Yu1D-qUkKA0:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=KP3kjEaS86I:Yu1D-qUkKA0:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/KP3kjEaS86I)  
+[Read Here»](https://www.fonearena.com/blog/299422/vivo-s1-vivo-v15-price-cut-india.html)

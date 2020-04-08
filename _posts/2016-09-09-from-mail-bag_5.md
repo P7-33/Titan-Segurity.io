@@ -1,20 +1,14 @@
 ---
 title: 'From the mail bag…'
-date: 2020-02-06T07:35:00+01:00
+date: 2019-11-07T07:23:00+01:00
 draft: false
 ---
 
-![Mailbag animated](https://www.adafruit.com/blog/wp-content/uploads/2014/07/mailbag_animated1.gif "mailbag_animated.gif")
+![Mailbag animated](https://cdn-blog.adafruit.com/uploads/2014/07/mailbag_animated1.gif "mailbag_animated.gif")
 
 [From the mail bag!](https://www.adafruit.com/blog/?s=mail+bag)
 
-> Hello guys, I received my order a few days ago, now I’m working with it and I love it!! I just wanted to send you this email to say that I really love your products and that you have really made my life so much easier! Seems to me that you are really focused to understanding the mind and need of your customers and that you develop your products accordingly. Keep up the awesome work.
-> 
-> Thanks,
-> 
-> Leonardo
-
-  
-  
-from Adafruit Industries – Makers, hackers, artists, designers and engineers! https://ift.tt/2Slnuku  
-via [IFTTT](https://ifttt.com/?ref=da&site=blogger)
+> Love your company – Love new products – lady ada and  
+> phil Rule! Collins lab is one of my favorites.  
+> Anyone that promotes learning to young people should be commended-great  
+> job!!!!!!!!!!!!!!!!!!!!!!!

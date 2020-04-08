@@ -1,0 +1,12 @@
+---
+title: 'Intel completes sale of smartphone modem business to Apple valued at $1 billion'
+date: 2019-12-03T12:11:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2017/11/Intel-5G-Modem.jpg) Intel has announced that it has completed the sale of the majority of its smartphone modem business to Apple. This transaction, valued at $1 billion, was announced back in July, and Intel already said that approximately 2,200 Intel employees will join Apple, along with intellectual property, equipment and leases. Intel closed its 5G modem business in April this year after Apple and Qualcomm announced a settlement and prior to this, Intel became the sole third-party provider of modems of the iPhones launched in 2018. Intel already said that will retain the ability to develop modems for non-smartphone applications, such as PCs, internet-of-things devices and autonomous vehicles. Few days back Intel filed a brief supporting the Federal Trade Commission (FTC) and said that it was forced out of the market because of its rival Qualcomm’s patent licensing practices. However, Qualcomm has denied the FTC’s accusations, and other parts of the U.S. government urged the appeals court to pause enforcement of the FTC ruling against it. "We invested billions, hired thousands, acquired two companies and built innovative world-class products that eventually made their way into Apple’s industry-leading iPhones, including the most recently released iPhone 11. But when all was said and done, Intel could not overcome ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=zU5DSyybFlM:3k4HBUwTL9k:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=zU5DSyybFlM:3k4HBUwTL9k:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=zU5DSyybFlM:3k4HBUwTL9k:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=zU5DSyybFlM:3k4HBUwTL9k:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=zU5DSyybFlM:3k4HBUwTL9k:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=zU5DSyybFlM:3k4HBUwTL9k:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/zU5DSyybFlM)  
+[Read Here»](https://www.fonearena.com/blog/299512/apple-intel-modem-business-complete.html)

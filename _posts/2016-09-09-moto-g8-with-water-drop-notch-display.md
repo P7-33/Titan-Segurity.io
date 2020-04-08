@@ -1,0 +1,12 @@
+---
+title: 'Moto G8 with water-drop notch display, triple rear cameras surfaces in promotional video ahead of official announcement'
+date: 2019-11-08T12:21:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Moto-G8-leak.jpg) Motorola launched Moto G8 Plus last month in India and the company announced the Moto G8 Play alongside the G8 Plus. The company is gearing up to launch the new Moto G8 smartphone as an official promotional video of the smartphone has surfaced online, hinting at an imminent launch. The leaked promotional video of Moto G8 posted by Evan Blass (@evleaks) on Twitter reveals that the G8 will come in multiple colour options. The video also reveals a water-drop notch display, triple rear cameras with a combination of 48MP  + 5MP +4MP sensor with AI capabilities. It will also come with a USB Type-C port, and furthermore, the colour options include Black, Red, and Blue. Other specifications are not known yet, but it is likely to be a watered-down version of the Moto G8 Plus. To recall, Moto G8 Plus packs a 6.3-inch Full HD+ waterdrop notch display, is powered by Snapdragon 665 with 4GB of RAM, runs Android 9 (Pie), has a 48-megapixel rear camera with Samsung GM1 sensor, f/1.79 aperture, 16MP action camera and a 5MP depth sensor with laser auto focus and 25MP front camera. Furthermore, it has a plastic back, splash resistant body, rear-mounted fingerprint scanner, Dual stereo ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=BpfNYg2xcqU:tKGfZCpHyQI:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=BpfNYg2xcqU:tKGfZCpHyQI:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=BpfNYg2xcqU:tKGfZCpHyQI:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=BpfNYg2xcqU:tKGfZCpHyQI:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=BpfNYg2xcqU:tKGfZCpHyQI:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=BpfNYg2xcqU:tKGfZCpHyQI:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/BpfNYg2xcqU)  
+[Read Here»](https://www.fonearena.com/blog/297564/moto-g8-leak-video.html)

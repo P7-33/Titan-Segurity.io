@@ -1,0 +1,12 @@
+---
+title: 'Vodafone REDX postpaid plan offers unlimited data, up to 50% faster data speeds, Airport lounge access and more for Rs. 999'
+date: 2019-11-07T11:31:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Vodafone-REDX-.jpg) Vodafone has launched new limited edition REDX postpaid plan that offers superior data speeds, premium customer service, access to airport lounges, exclusive deals on handsets, hotel bookings & much more for Rs. 999. The company says that this will offer 50 per cent faster data speeds, unlimited data and calls to anywhere in India. There are benefits worth over Rs. 20000. Under the travel benefits, there are free international roaming for both data and calls for a week. It also offers free access to airport lounge across the world. Subscribers also get 10 per cent discount on hotel bookings around the world and on tickets to museums and attractions on overseas trips. There are also free access to Netflix, Amazon Prime, Zee5 and Vodafone Play for a month. Subscribers also enjoy special deals on Samsung devices and ISD calls to USA and Canada at just 50p/min. However, this plan comes with an exit fee for the first 6 months. If you wish to change to another plan or port out of Vodafone or migrate to a prepaid plan within 6 months of activating REDX, you will be charged a one-time exit fee of Rs. 3000. You can pre-book the plan from Vodafone website now. Commenting ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=FpAM26QUFRg:CcZvkZpicaU:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=FpAM26QUFRg:CcZvkZpicaU:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=FpAM26QUFRg:CcZvkZpicaU:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=FpAM26QUFRg:CcZvkZpicaU:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=FpAM26QUFRg:CcZvkZpicaU:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=FpAM26QUFRg:CcZvkZpicaU:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/FpAM26QUFRg)  
+[Read Here»](https://www.fonearena.com/blog/297438/vodafone-redx-postpaid-plan-price.html)

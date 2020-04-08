@@ -1,0 +1,12 @@
+---
+title: 'Panasonic Eluga Ray 810 with 6.2-inch display, 4GB RAM, 16MP front camera with flash launched in India for Rs. 7999'
+date: 2019-11-15T11:03:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Panasonic-Eluga-Ray-810-1024x1004.jpg) Panasonic has launched Eluga Ray 810, the company's latest phone in the Eluga series in India. It has a 6.2-inch HD+ notch display, is powered by MediaTek Helio P22 SoC, features a 16-megapixel rear camera along with a secondary 2-megapixel camera with AI features, 16-megapixel front camera with AI beautify, LED flash and face unlock. It comes with dedicated dual SIM and microSD slots, rear-mounted fingerprint sensor, ARBO Hub, an AI powered hub which provides users access to multiple apps and services on a single platform and uses Artificial Intelligence and Machine Learning to make recommendations and packs a 4000mAh battery. Panasonic Ray 810 Specifications 6.2-inch (1500 x 720 pixels) HD+ 2.5D curved glass display 2GHz Octa-Core MediaTek Helio P22 (MT6762) 12nm processor with 650MHz IMG PowerVR GE8320 GPU 4GB RAM, 64 GB storage, expandable memory up to 128GB with microSD Android 9.0 (Pie) Dual SIM (nano + nano + microSD) 16MP rear camera with LED flash, 5MP secondary camera 16MP front-facing camera with LED flash Fingerprint sensor Dimensions:154.7x74.5x8.6mm; Weight: 158g 4G VoLTE, Wi-Fi 802.11 b/g/n, Bluetooth 5 LE, GPS/ A-GPS 4000mAh battery The Panasonic Ray 810 comes in Turquoise blue and Starry black colors, is priced at Rs. 7999 and is available from online ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=qeI18wFJwOg:0z5E157WDQc:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=qeI18wFJwOg:0z5E157WDQc:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=qeI18wFJwOg:0z5E157WDQc:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=qeI18wFJwOg:0z5E157WDQc:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=qeI18wFJwOg:0z5E157WDQc:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=qeI18wFJwOg:0z5E157WDQc:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/qeI18wFJwOg)  
+[Read Here»](https://www.fonearena.com/blog/298112/panasonic-eluga-ray-810-price-india-specifications.html)

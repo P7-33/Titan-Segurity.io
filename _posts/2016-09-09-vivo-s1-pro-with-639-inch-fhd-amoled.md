@@ -1,0 +1,12 @@
+---
+title: 'Vivo S1 Pro with 6.39-inch FHD+ AMOLED screen, in-display fingerprint scanner, quad rear cameras teased ahead of India launch'
+date: 2019-12-27T10:21:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Vivo-S1-Pro.jpg) Vivo has started teasing the launch of S1 Pro smartphone in India soon on Amazon.in. It was introduced in Russia as V17 last month and packs a 6.38-inch FULL HD+ 19.5:9 aspect ratio Super AMOLED notch display with a resolution of 2340 x 1080 pixels and 90% screen-to-body ratio and minimal bezels. It is powered by Qualcomm Snapdragon 665 processor paired with 8GB RAM + 128GB internal storage and runs Funtouch OS 9.2 based on Android 9 (Pie). It has 48MP rear camera with f/1.8 aperture) + 8MP ultra-wide camera with f/2.2 aperture, 2MP macro and 2MP depth sensor with f/2.4 aperture and 32MP f/2.0 front camera. The camera supports various features including Gesture control, Voice control, Professional mode, Slow motion, HDR, Bokeh, Panorama, and more. As it is a Super AMOLED panel, it features an in-display fingerprint scanner. It packs a 4500mAh battery with 18W fast charging support through USB Type-C port. Vivo S1 Pro specifications 6.38-inch (2340 × 1080 pixels) Full HD+ 19.5:9 Super AMOLED display; 90% screen-to-body ratio Octa-Core Snapdragon 665 11nm Mobile Platform (Quad 2GHz Kryo 260 + Quad 1.8GHz Kryo 260 CPUs) with Adreno 610 GPU 8GB LPPDDR4x RAM with 128GB storage Dual SIM Funtouch OS 9.2 based ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=9QVtrtszx-c:lJOd25dGZjg:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=9QVtrtszx-c:lJOd25dGZjg:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=9QVtrtszx-c:lJOd25dGZjg:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=9QVtrtszx-c:lJOd25dGZjg:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=9QVtrtszx-c:lJOd25dGZjg:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=9QVtrtszx-c:lJOd25dGZjg:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/9QVtrtszx-c)  
+[Read Here»](https://www.fonearena.com/blog/301240/vivo-s1-pro-with-6-39-inch-fhd-amoled-screen-in-display-fingerprint-scanner-quad-rear-cameras-teased-ahead-of-india-launch.html)

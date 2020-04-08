@@ -1,0 +1,59 @@
+---
+title: 'The Daredevil of Niagara Falls'
+date: 2019-11-15T03:39:00+01:00
+draft: false
+---
+
+New York Governor Andrew Cuomo recently signed legislation permitting [Nik Wallenda](http://nikwallenda.com/)—self-proclaimed “King of the High Wire” and descendant of the legendary Flying Wallendas—to cross Niagara Falls on a tightrope. Wallenda plans to run a cable, two inches thick and 2200 feet long, between two cranes raised 13 feet from the ground. To train, he will take wire walks over water near his Florida home while a caravan of airboats swarm around him, blasting winds up to 78 miles per hour to approximate the winds and spray of the falls. For the real thing, a rescue helicopter will hover nearby. “Worse-case scenario,” Wallenda said, “I sit down on the wire, the helicopter swoops in, I hook on and they get me out of there. I look goofy, but nobody gets hurt.”
+
+History’s most famous tightrope walker (or “ropedancer” or “funambulist,” in 19th century parlance) performed without the luxury of such assurances. During the winter of 1858, a 34-year-old French acrobat named Jean François Gravelet, better known as Monsieur Charles Blondin, traveled to Niagara Falls hoping to become the first person to cross the “boiling cataract.” Noting the masses of ice and snow on either bank and the violent whirls of wind circling the gorge, Blondin delayed the grand event until he would have better weather. He always worked without a net, believing that preparing for disaster only made one more likely to occur. A rope 1,300 feet long, two inches in diameter and made entirely of hemp would be the sole thing separating him from the roiling waters below.
+
+Blondin, born in 1824, grew to be only five feet five and 140 pounds; he had bright blue eyes and golden hair (which gave him his nickname). He believed that a ropewalker was “like a poet, born and not made,” and discovered his calling at the age of four, mounting a rope strung between two chairs placed a few feet apart. The following year he enrolled at the École de Gymnase in Lyon. He first came to America in 1855 at the behest of theatrical agent [William Niblo](http://www.ibdb.com/person.php?id=107405) and was about to begin an engagement with Franconi’s Equestrian Troop when the idea struck to cross the falls. “He was more like a fantastic sprite than a human being,” wrote his manager, Harry Colcord. “Had he lived a century or two earlier he would have been treated as one possessed of a devil…. He could walk the rope as a bird cleaves to air.”
+
+Blondin also understood the appeal of the morbid to the masses, and reveled when gamblers began to take bets on whether he would plunge to a watery death. (Most of the smart money said yes.) On the morning of June 30, 1859, about 25,000 thrill-seekers arrived by train and steamer and dispersed on the American or Canadian side of the falls, the latter said to have the better view. Both banks grew “fairly black” with swarms of spectators, among them statesmen, judges, clerics, generals, members of Congress, capitalists, artists, newspaper editors, professors, debutantes, salesmen and hucksters. Vendors hawked everything from lemonade to whiskey, and Colcord gave tours to the press, explaining the logistics of what the Great Blondin was about to attempt.
+
+[![](http://blogs.smithsonianmag.com/history/files/2011/10/DDblondinbalancepole.jpg)](http://blogs.smithsonianmag.com/history/2011/10/the-daredevil-of-niagara-falls/ddblondinbalancepole/)
+
+Blondin with his balancing pole. From "Blondin: His Life and Performances."
+
+A light rope, not even an inch thick, had been attached to one end of his hempen cable so it could be conveyed across the [Niagara River](http://www.britannica.com/EBchecked/topic/413748/Niagara-River). On the American side the cable was wound around the trunk of an oak tree in White’s Pleasure Grounds, but securing it on the Canadian side presented a problem. Blondin’s assistants feared that the light rope wouldn’t bear the weight of the cable as it was drawn up the gorge for anchorage in Canada, but the rope dancer, to the delight of his audience, executed a daring solution.
+
+After tying another rope around his waist, he rappelled 200 feet on the small rope, attached the second rope to the end of the cable, and then blithely climbed back to Canadian ground and secured the cable to a rock. To prevent swaying, guy ropes ran from the cable at 20-foot intervals to posts on both banks, creating the effect of a massive spider web. Blondin could do nothing, however, about the inevitable sag in its center, approximately 50 feet of cable to which it was impossible to fasten guy ropes. At that spot, in the middle of his crossing, he would be only 190 feet above the gorge. “There were hundreds of people examining the rope,” reported one witness, “and, with scarcely an exception, they all declared the inability of M. Blondin to perform the feat, the incapacity of the rope to sustain him, and that he deserved to be dashed to atoms for his desperate fool-hardiness.”
+
+Shortly before 5 p.m., Blondin took his position on the American side, dressed in pink tights bedecked with spangles. The lowering sun made him appear as if clothed in light. He wore fine leather shoes with soft soles and brandished a balancing pole made of ash, 26 feet long and weighing nearly 50 pounds. Slowly, calmly, he started to walk. “His gait,” one man noted, “was very like the walk of some barnyard cock.” Children clung to their mothers’ legs; women peeked from behind their parasols. Several onlookers fainted. About a third of the way across, Blondin shocked the crowd by sitting down on his cable and calling for the Maid of the Mist, the famed tourist vessel, to anchor momentarily beneath him. He cast down a line and hauled up a bottle of wine. He drank and started off again, breaking into a run after he passed the sagging center. While the band played “Home, Sweet Home,” Blondin reached Canada. One man helped pull him ashore and exclaimed, “I wouldn’t look at anything like that again for a million dollars.”
+
+After 20 minutes of rest Blondin began the journey to the other side, this time with a [Daguerreotype camera](http://memory.loc.gov/ammem/daghtml/) strapped to his back. He advanced 200 feet, affixed his balancing pole to the cable, untied his load, adjusted it in front of him and snapped a likeness of the crowd along the American side. Then he hoisted the camera back into place and continued on his way. The entire walk from bank to bank to bank took 23 minutes, and Blondin immediately announced an encore performance to take place on the Fourth of July.
+
+[![](http://blogs.smithsonianmag.com/history/files/2011/10/BlondinPhotographs-audience.jpg)](http://blogs.smithsonianmag.com/history/2011/10/the-daredevil-of-niagara-falls/blondinphotographs-audience/)
+
+Blondin and his camera, as rendered in "Blondin: His Life and Performances."
+
+Not everyone admired Blondin’s feat. The _New York Times_ condemned “such reckless and aimless exposure of life” and the “thoughtless people” who enjoyed “looking at a fellow creature in deadly peril.” Mark Twain later dismissed Blondin as “that adventurous ass.” One indignant resident of Niagara Falls insisted that he was a hoax, that there was “no such person in the world.” Nevertheless, on July 4, Blondin appeared at the American end of the cable, this time without his balancing pole. Halfway across, he lay down on the cable, flipped himself over, and began walking backward. He stopped again to take a swig from his flask, and then made it safely to the Canadian side. On the journey back he wore a sack over his body, depriving himself of sight. “One can scarcely believe that the feat was indeed real,” wrote one reporter, “and stands gazing upon the slender cord and the awful gulf in a state of utter bewilderment.… I look back upon it as upon a dream.”
+
+[![](http://blogs.smithsonianmag.com/history/files/2011/10/Blondin-blindfold-sack.jpg)](http://blogs.smithsonianmag.com/history/2011/10/the-daredevil-of-niagara-falls/blondin-blindfold-sack/)
+
+Blondin and his sack, as rendered in "Blondin: His Life and Performances."
+
+Blondin announced subsequent crossings, promising that each would be more daring than the last. On July 15, with President [Millard Fillmore](http://www.whitehouse.gov/about/presidents/millardfillmore) in attendance, Blondin walked backward to Canada and returned to the U.S. pushing a wheelbarrow. Two weeks later, he somersaulted and backflipped his way across, occasionally pausing to dangle from the cable by one hand. Shortly after that he made another crossing, and, after a brief rest, appeared on the Canadian end of the cable with Harry Colcord clinging to his back. Blondin gave his manager the following instructions: “Look up, Harry.… you are no longer Colcord, you are Blondin. Until I clear this place be a part of me, mind, body, and soul. If I sway, sway with me. Do not attempt to do any balancing yourself. If you do we will both go to our death.”
+
+A few of the guy ropes snapped along the way, but they made it.
+
+[![](http://blogs.smithsonianmag.com/history/files/2011/10/DDblondin1.jpg)](http://blogs.smithsonianmag.com/history/2011/10/the-daredevil-of-niagara-falls/ddblondin1/)
+
+Blondin carrying Harry Colcord across Niagara Falls. From "Blondin: His Life and Performances."
+
+He crossed at night, a locomotive headlight affixed to either each of the cable. He crossed with his body in shackles. He crossed carrying a table and chair, stopping in the middle to try to sit down and prop up his legs. The chair tumbled into the water. Blondin nearly followed but regained his composure. He sat down on the cable and ate a piece of cake, washed down with champagne. In his most famous exploit, he carried a stove and utensils on his back, walked to the center of the cable, started a fire and cooked an omelet. When it was ready, he lowered the breakfast to passengers on deck of the [Maid of the Mist](http://www.maidofthemist.com/en/).
+
+[![](http://blogs.smithsonianmag.com/history/files/2011/10/Blondincooking-354x500.jpg)](http://blogs.smithsonianmag.com/history/2011/10/the-daredevil-of-niagara-falls/blondincooking/)
+
+Blondin performed in China, Japan, Australia, India and throughout Europe. He soured on America in 1888 when he was forbidden to perform in Central Park and had to settle instead for St. George in Staten Island. Although he was then 65 years old, he carried his son and another man on his back and made another omelet for the crowd. By the time he gave his final performance, in 1896, it was estimated that Blondin had crossed Niagara Falls 300 times and walked more than 10,000 miles on his rope. He died of complications from diabetes the following year. In nearly 73 years on this earth, he never had life insurance. No one, he’d always joked, would take the risk.
+
+**Sources**
+
+**Books:** _Blondin: His Life and Performances_. Edited by G. Linnaeus Banks. London, New York: Routledge, Warne, and Routledge, 1862.
+
+**Articles:** “Blondin, The Hero of Niagara,” by Lloyd Graham. _American Heritage_, August 1958; “High Above Niagara, a Funambulist Cooked a Well-balanced Breakfast,” by Martin Herbert Kaufman. _Sports Illustrated_, April 16, 1979; “A Daredevil’s Toughest Challenge,” by Charlie Gillis. _Macleans.ca_, August 5, 2011; “An Exciting Scene,” _New York Times_, July 4, 1859; “When Blondin Left America Gasping.” _The Hartford Courant_, August 1, 1959; “He Walked Across Niagara Falls,” by Bennett Cerf. _Los Angeles Times_, June 28, 1959; “Poised Between Life and Death.” _Chicago Daily Tribune_, February 28, 1897; “A Chat With Blondin.” _New York Tribune_, August 12, 1888; “Blondin, The Rope Walker.” _New York Times_, June 5, 1888; “The Experiences of a Rope-Walker.” _Lippincott’s Monthly Magazine_, November 1888.
+
+  
+  
+from Hacker News https://ift.tt/2igjxeU

@@ -1,28 +1,21 @@
 ---
-title: 'WooCommerce Page Builder For Elementor v1.1.4.4'
-date: 2020-01-09T10:31:00+01:00
+title: 'WooCommerce Page Builder For Elementor v1.1.4.1'
+date: 2019-12-15T07:50:00+01:00
 draft: false
 ---
 
-\[the\_ad id='1307'\]  
-  
+[  
+![IMG 3396 754x1024](https://cdn-blog.adafruit.com/uploads/2019/12/IIMG_3396-754x1024-1.jpg "IMG_3396-754x1024.jpg")](https://teachyourkidscode.com/learn-to-code-unplugged-with-hotwheels/)
 
-  
-![](https://beebom.com/wp-content/uploads/2019/10/Chrome-shutterstock-website.jpg)
+[Teaching kids code](https://teachyourkidscode.com) uses teaching simple code concepts to assist youngsters with critical thinking, creativity, and persistence!
 
-With its latest update, Google’s open-source Chromium browser project is introducing a so-called ‘quieter UI’ that the developers say will significantly cut down on annoying notification permissions from websites. Being debuted in Chrome 80, the change will bring a _“new, quieter notification permission UI that reduces the interruptiveness of notification permission requests”_. While the quieter UI will be an opt-in functionality under normal circumstances, [Google](https://beebom.com/sonos-sues-google-multi-speaker-technology/) says it will be automatically enabled for users who generally block notification requests and on sites with very low opt-in rates.  
+> Today we have another great unplugged coding activity on the blog! When first getting started with learning to code, it’s best to start completely unplugged. [Screen-free coding activities](https://teachyourkidscode.com/screen-free-coding-activity/) are perfect to teach coding fundamentals. Kids as young as kindergarten can learn the [basic concepts of coding](https://teachyourkidscode.com/coding-for-kindergarten-5-basic-coding-concepts-5-year-olds-can-understand/).
+> 
+> In this activity, we will be playing a grid-based coding game. Grid-based coding games are an easy way to teach kids about sequencing, algorithms and debugging. Grids are like a maze and provide kids with the challenge of giving instructions to get their ‘computer’ from start to finish.
 
-The new feature is available both on desktop and mobile, and can be enabled manually by going over to Settings > Site Settings > Notifications. Do note that to try out the new feature, the basic notification permission has to be ‘On’ in the first place. While it is switched-on by default, users also have the option to switch it off entirely by toggling off the ‘Sites can ask to send notifications’ option.  
-
-![](https://media.giphy.com/media/XBX8TKPACbSSE6b3la/giphy.gif)
-
-The quieter UI was first introduced last year in the Canary channel both on [Google Chrome](https://beebom.com/chrome-flag-true-search-box-new-tab/) and [Microsoft Edge](https://beebom.com/edge-chromium-linux-confirmed/), but it had to be enabled manually by users who wanted to try it out for themselves. According to Google, the feature silently blocks most website notification requests without showing the usual dialog, but still lets users get notifications from the sites that matter to them.  
-
-The quieter UI is just one of the new features that Google has been working on to get rid of some of the annoying practices used by a vast majority of websites. As part of its plans, the company says it will also enable additional enforcement against abusive websites using web notifications for ads, malware or deceptive purposes. While there’s no exact ETA for that just yet, the company says it will happen sometime later this year.  
+check out [#kindercoding](https://twitter.com/hashtag/kindercoding?src=hashtag_click) on twitter for more really cute ideas for teaching little ones coding concepts!
 
   
   
-\[the\_ad id='1307'\]  
-  
-[Source link](https://beebom.com/google-chrome-will-now-silence-annoying-notification-requests-from-websites/)  
-\[the\_ad id='1307'\]
+from Adafruit Industries – Makers, hackers, artists, designers and engineers! https://ift.tt/2PmkHqL  
+via [IFTTT](https://ifttt.com/?ref=da&site=blogger)

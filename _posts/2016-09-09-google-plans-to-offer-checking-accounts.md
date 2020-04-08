@@ -1,0 +1,19 @@
+---
+title: 'Google plans to offer checking accounts next year'
+date: 2019-11-13T17:01:00+01:00
+draft: false
+---
+
+![](https://cdn.vox-cdn.com/thumbor/w1KFZ1bLj7ySlPgwwZRo8brcIrA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/65691286/acastro_180508_1777_google_IO_0003.0.jpg) Illustration by Alex Castro / The Verge
+
+Google is planning to offer checking accounts within its Google Pay app, [_The Wall Street Journal_ reports](https://www.wsj.com/articles/next-in-googles-quest-for-consumer-dominancebanking-11573644601?mod=mhp). Its "Cache" project, which could launch as soon as next year, will be offered in partnership with Citigroup and a small Stanford University credit union. Google says that the accounts will be branded up front as coming from these banks, which will handle the financial backend and regulatory compliance.
+
+Google executive Caesar Sengupta told the _WSJ_ that the initiative is designed to "help more people do more stuff in a digital way online," and he noted that the service could be used to offer loyalty card programs. The publication also notes that checking accounts contain a huge amount of valuable data about consumer spending as well as information about how much people earn. Google, however, has been quick to claim that it won't sell checking account financial data to advertisers, and it added that it doesn't currently use Google Pay data for advertising purposes.
+
+Apple recently pushed into financial services with the Apple Card
+
+In recent years, big tech companies have been increasingly interested in pushing into financial services. Earlier this year, Apple launched a credit card, the [Apple Card](https://www.theverge.com/2019/8/6/20756048/apple-card-availability-sign-up-cancel-apr-iphone-goldman-sachs), in partnership with Goldman Sachs, and Facebook announced Libra, a cryptocurrency it's attempting to launch with a collection of other tech and finance companies. Just yesterday, [Facebook announced Facebook Pay](https://www.theverge.com/2019/11/12/20961447/facebook-pay-whatsapp-instagram-messenger-features), a service for sending money over the company's social networks and app. Even Amazon has reportedly investigated [offering checking accounts to teens](https://www.theverge.com/2018/3/29/17175928/amazon-checking-accounts-teenagers).
+
+These initiatives have already created big problems for the companies that are offering them. Apple's credit card is being [investigated for discriminating against women](https://www.theverge.com/2019/11/11/20958953/apple-credit-card-gender-discrimination-algorithms-black-box-investigation), and earlier this month, almost half a dozen companies [dropped out of Facebook's Libra Association](https://www.theverge.com/2019/10/11/20910453/libra-association-facebook-visa-mastercard-stripe-leaving), as [regulators grow increasingly wary](https://www.theverge.com/2019/10/9/20906348/libra-association-visa-mastercard-stripe-blockchain-us-lawmakers-schatz-sherrod-brown) of the planned cryptocurrency. This push into financial services also arrives as the world is coming to terms with the privacy implications of concentrating so much user data in the hands of a small number of tech giants.
+
+At the same time as Silicon Valley's tech giants move into financial services, a number of smaller tech-focussed banks have started to emerge, including Revolut and Monzo, the latter of which [launched in the US earlier this year](https://www.theverge.com/2019/6/13/18677298/monzo-bank-us-launch-date-availability). Left in the middle, traditional banks could soon start to feel the squeeze.

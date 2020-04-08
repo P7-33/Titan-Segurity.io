@@ -1,0 +1,9 @@
+---
+title: 'Behavioral analysis versus artifacts/IOC''s'
+date: 2019-10-16T14:15:00+01:00
+draft: false
+---
+
+Much of our defensive architecture today is based on the ability to extract indicators of compromise from logs, packet data and flow data and the monitoring of processes on the system. While this is good, to work through the enormous amounts of alerts and data, the analyst needs more than IOCs, even more than what processes ran. The analyst must be able to determine what action(s) resulted.  
+A good example of this is Powershell. This program is 1. Installed by default on modern Windows operating systems 2. Utilized heavily by sysadmins to script out maintenance and update processes and 3. also used heavily by attackers as part of their LOLBAS methodology. Behavioral analysis is an essential part of a good EDR product these days. The ability to see what happened after the IOC has become crucial. The old saying goes prevention is optimal but detection is essential. As attack methods and the sophistication and the resources of the attacker continues to increase, I can see a day where behavioral analysis may be the only indication of compromise, a day when IOCs can no longer be detected.  
+Is machine learning and AI the solution? Personally, I think we're years away from a system that can automate the investigative ability of a good analyst, one who knows his network, application and normal flows of traffic. Can ML learn all of that non-cognitively? Yes, but the human ability to rapidly change their thought process from defender to attacker and back again isn't something ML can duplicate yet, if ever.

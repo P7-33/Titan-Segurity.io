@@ -1,0 +1,12 @@
+---
+title: 'Realme 2 Pro latest update brings System Wide Dark Mode, Redesigned Notification Center and Realme Laboratory'
+date: 2019-11-13T03:58:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2018/09/Realme-2-Pro-3.jpg) realme launched the Realme 2 Pro smartphone in India last year running ColorOS 5.2 on top of Android 8.1 (Oreo) and updated it to Android 9.0 (Pie) based ColorOS 6 back in June. ColorOS 6.0 brought several features such as Chroma Boost Mode and Hal3 / Camera2 API support to the device. \[gallery size="large" link="file" ids="297886,297887,297888"\] realme has started rolling out RMX1801EX\_11\_C.25 with the latest November security patch to realme 2 Pro users. The update brings system-wide dark mode, redesigned notification center, realme laboratory and app clone support to more third-party apps. If you haven’t received the update on your device, you can download the zip file here and flash it manually simply by tapping on the downloaded file. realme has already confirmed Android 10 roadmap for its devices and as per the schedule, realme 2 Pro is expected to get Android 10 update in Q3, 2020. The company is already working on an exclusive version of ColorOS 7 for realme devices that will offer near-stock Android experience. RMX1801EX\_11\_C.25 changlogs, Security ● Android security patch: November, 2019 System ● Added Dark Mode ● Added realme laboratory ● Added data switch in notification pannel ● App cloner support more third-party applications ● Added a switch of notification dot for updates ● Swipe left or right ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=La-hab-aYHg:rBtHY33tV70:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=La-hab-aYHg:rBtHY33tV70:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=La-hab-aYHg:rBtHY33tV70:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=La-hab-aYHg:rBtHY33tV70:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=La-hab-aYHg:rBtHY33tV70:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=La-hab-aYHg:rBtHY33tV70:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/La-hab-aYHg)  
+[Read Here»](https://www.fonearena.com/blog/297883/realme-2-pro-update-system-wide-dark-mode.html)

@@ -1,0 +1,19 @@
+---
+title: 'Apple could be forced to let Apple Pay competitors access NFC under German law'
+date: 2019-11-15T19:41:00+01:00
+draft: false
+---
+
+![](https://cdn.vox-cdn.com/thumbor/lC8S5JWDgqqvOIHPEJIbi1wNYtM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/65708725/acastro_180604_1777_apple_wwdc_0002.0.jpg) Illustration by Alex Castro / The Verge
+
+Apple could be forced to allow rival payment services on iOS to compete with its own Apple Pay service in Germany after the country's parliament voted in favor of the measures on Thursday, [_Zeit Online_ reports](https://www.zeit.de/digital/mobil/2019-11/mobiles-bezahlen-apple-nfc-chips-koalition). The legislation came in the form of an amendment attached to an anti-money laundering bill, and it will need to pass through the country's upper house before it can become law next year.
+
+If these measures become law, then, in Germany, Apple could be forced to allow other companies to access its phone's NFC chips, which it has historically tightly controlled access to. _Zeit Online_ notes that the change could result in individual banks offering NFC payments through their own apps, rather than going through Apple's service. Apple would reportedly be allowed to charge a fee for access to the NFC chip, but it wouldn't get the reported [0.15 percent fee](https://www.theverge.com/2019/3/20/18273179/apple-icloud-itunes-app-store-music-services-businesses) that it currently gets from each Apple Pay transaction.
+
+"We are surprised at how suddenly this legislation was introduced."
+
+The move would bring iOS closer to Google's model for Android where users are able to use competing mobile payment services to Google Pay (like Samsung Pay) on compatible phones. The legislation doesn't specifically mention Apple, [according to _Reuters_](https://www.reuters.com/article/us-apple-germany-apple-pay/apple-warns-of-risks-from-german-law-to-open-up-mobile-payments-idUSKBN1XP16M?feedType=RSS&feedName=technologyNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtechnologyNews+%28Reuters+Technology+News%29), but it applies to electronic money infrastructure operators. Apple Pay competitors are currently forced to use more cumbersome methods like QR codes to offer payment functionality on iOS.
+
+Unsurprisingly, Apple doesn't seem happy about the development. "We are surprised at how suddenly this legislation was introduced," the company [told _Reuters_](https://www.reuters.com/article/us-apple-germany-apple-pay/apple-warns-of-risks-from-german-law-to-open-up-mobile-payments-idUSKBN1XP16M?feedType=RSS&feedName=technologyNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtechnologyNews+%28Reuters+Technology+News%29). "We fear that the draft law could be harmful to user friendliness, data protection and the security of financial information." _Zeit Online_ also reports that one German politician claimed that the US Embassy intervened to prevent the decision, and _Reuters_ reports that Chancellor Angela Merkel's office had also pushed for the amendment to be withdrawn.
+
+German lawmakers aren't the only ones with Apple Pay in their sights. [_Bloomberg_](https://www.bloomberg.com/news/articles/2019-10-18/vestager-s-nagging-iphone-helps-put-apple-pay-on-antitrust-radar) and [_Reuters_](https://uk.reuters.com/article/uk-eu-antitrust-apple/eus-vestager-says-apple-pay-has-prompted-many-concerns-idUKKBN1XH1ZE)  have both recently reported that Margrethe Vestager, the EU's antitrust chief, is considering an investigation into the service. "Convenience can come with a very big price if it shuts down competition, because then eventually you may have to pay a higher price either in terms of money or fees or in terms of data," Vestager told _Bloomberg_. "Payment systems is an obvious place where it is beneficial for consumers that different payment systems can work together."

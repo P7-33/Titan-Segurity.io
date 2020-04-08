@@ -1,11 +1,12 @@
 ---
-title: 'Adafruit Weekly Editorial Round-Up: January 5th – January 11th,
-Thoughts for #CircuitPython2020'
-date: 2020-01-12T21:49:00+01:00
+title: 'Adafruit Weekly Editorial Round-Up: November 3rd to November
+9th, #TubmanStamp at the Smithsonian, Adafruit Holiday Shipping
+Deadlines 2019 and “Arcade Game Typography” Book Review'
+date: 2019-11-10T21:01:00+01:00
 draft: false
 ---
 
-![IINewImage 21 1 1 2](https://cdn-blog.adafruit.com/uploads/2020/01/IINewImage-21-1-1-2.png "IINewImage-21-1-1-2.png")
+![IINewImage 21 1 1](https://cdn-blog.adafruit.com/uploads/2019/11/IINewImage-21-1-1.png "IINewImage-21-1-1.png")
 
 * * *
 
@@ -21,48 +22,51 @@ We’ve got so much happening here at Adafruit that it’s not always easy to ke
 BLOG
 ----
 
-[![Adafruit blinka 2020 blog](https://cdn-blog.adafruit.com/uploads/2020/01/adafruit_blinka_2020_blog-1.jpg "adafruit_blinka_2020_blog.jpg")](https://blog.adafruit.com/?s=%23CircuitPython2020)
+[![DSC 1912](https://cdn-blog.adafruit.com/uploads/2019/11/DSC_1912-1.jpg "DSC_1912.jpg")](https://blog.adafruit.com/2019/11/06/harriet-tubman-stamp-on-display-at-the-smithsonian-national-museum-of-american-history-tubmanstamp/)
 
-**[#CircuitPython2020](https://blog.adafruit.com/?s=%23CircuitPython2020)**
+**[Harriet Tubman stamp on display at the Smithsonian National Museum of American History #tubmanstamp](https://blog.adafruit.com/2019/11/06/harriet-tubman-stamp-on-display-at-the-smithsonian-national-museum-of-american-history-tubmanstamp/)**
 
-This week was [#CircuitPython2020](https://blog.adafruit.com/?s=%23CircuitPython2020) packed! We shared your thoughts, we shared our thoughts…we’re just so excited to see what 2020 will bring!
+The Harriet Tubman stamp is now on display as a part of the Smithsonian’s The Value of Money exhibition at the National Museum of American History in Washington, DC. The Smithsonian joins the International Slavery Museum in putting the Harriet Tubman stamp on display to the public.
 
-Check out all the posts [here](https://blog.adafruit.com/?s=%23CircuitPython2020)!
+Check out the full post [here](https://blog.adafruit.com/2019/11/06/harriet-tubman-stamp-on-display-at-the-smithsonian-national-museum-of-american-history-tubmanstamp/)!
 
 **More BLOG**:
 
 Keeping with tradition, we covered quite a bit this past week. Here’s a kinda short nearing medium length list of highlights:
 
-*   [#DecadeofAdafruit](https://blog.adafruit.com/?s=%23DecadeofAdafruit) still going strong
-*   …and don’t forgot about the 2019 [#AdafruitTopTens](https://blog.adafruit.com/?s=%23AdafruitTopTen)!
-*   Huzzah to the triumphant [return of 3D Hangouts](https://blog.adafruit.com/2020/01/07/the-return-of-3d-hangouts/)!
-*   We also saw the release of [CircuitPython 5.0.0 Beta](https://blog.adafruit.com/2020/01/08/circuitpython-5-0-0-beta-3-released/)
-*   Anne Barela posted about the [Wireworld computer](https://blog.adafruit.com/2020/01/08/the-wireworld-computer-turingmachine-computers/)
-*   Gareth Branwyn covered [Peter Sripol’s air-powered snow sled](https://blog.adafruit.com/2020/01/08/peter-sripols-crazy-cool-and-probably-just-crazy-air-powered-snow-sled-petersripol/)
-*   PT saw that [Python snaked its way to the Arduino Portenta H7](https://blog.adafruit.com/2020/01/07/python-snakes-its-way-to-the-arduino-portenta-h7-arduino-micropython/)
-*   PT also knows [micro:bit + Feather = match made in heaven](https://blog.adafruit.com/2020/01/06/microbit-feather-match-made-in-heaven-microbit_edu-nordictweets-adafruit-microbit-adafruit-feather/)
-*   Zay posted about the _gorgeous_ [Geometric Patterns in Iranian Mosques and Palaces](https://blog.adafruit.com/2020/01/07/the-geometric-patterns-in-iranian-mosques-and-palaces-arttuesday/)
+*   [We’re not shipping USPS orders Veterans Day, 11/11](https://blog.adafruit.com/2019/11/05/adafruit-not-shipping-usps-orders-november-11-for-veterans-day-2/)
+*   ..but we’re already thinking about 2019 holiday shipping. [Don’t miss these deadlines!](https://blog.adafruit.com/2019/11/04/adafruit-holiday-shipping-deadlines-2019/)
+*   Isaac talks [“Arcade Game Typography”](https://blog.adafruit.com/2019/11/04/book-review-arcade-game-typography-by-toshi-omagari-typography-retro-tosche_e-atari-adafruit/)
+*   One feel week of [#NativeAmericanHeritageMonth](https://blog.adafruit.com/tag/native-american-heritage-month/)!
+*   [Arm AIoT Dev Summit](https://blog.adafruit.com/?s=Arm+AIoT+Dev+Summit)
+*   This week in [#VintageComputing](https://blog.adafruit.com/?s=%23VintageComputing+)
+*   From the Forums – check out the [tronket](https://blog.adafruit.com/2019/11/05/a-trinket-plus-prototyping-area-the-tronket-trinket-pcb/)!
+*   Have you seen the [BrainCraft EDGE BADGE](https://blog.adafruit.com/2019/11/04/braincraft-edge-badge-at-supercon-brought-to-you-by-digi-key-and-adafruit-digikey-hackaday-hackadayio-supercon-tensorflow-machinelearning-tinyml-tensorflow/)?!
 
 * * *
 
-LEARN
+Learn
 -----
 
-[![Hero weather](https://cdn-blog.adafruit.com/uploads/2020/01/hero-weather.jpg "hero-weather.jpg")](https://learn.adafruit.com/pyportal-retro-compys)
+[![](https://cdn-blog.adafruit.com/uploads/2019/11/makecode_Dumpster_fire_CPX.2019-10-16_16_55_52.gif)](https://learn.adafruit.com/desktop-dumpster-fire)
 
-**[PyPortal Retro Cases](https://learn.adafruit.com/pyportal-retro-compys)**
+**[Desktop Dumpster Fire](https://learn.adafruit.com/desktop-dumpster-fire)**
 
-Retro-inspired Enclosures for Adafruit PyPortal IoT Displays. This project is like a mini desktop PC that you can have on your desk and display all sorts of data. The ports are accessible on the side and there’s even a spot to hold a speaker.
+Having a bad day? With the press of a button and your small desktop storage container erupts into flames, creating a perfect visual representation of how life often feels, and a cathartic way to express oneself.
 
-The 3D printed enclosure is designed to snap fit so it’s easy to assemble and take apart.
-
-[See the full guide here!](https://learn.adafruit.com/pyportal-retro-compys)
+See the full guide [here](https://learn.adafruit.com/desktop-dumpster-fire)!
 
 **More LEARN**:
 
-*   [Adafruit MCP4728 I2C Quad DAC](https://learn.adafruit.com/adafruit-mcp4728-i2c-quad-dac)
-*   [PiTFT Python + Pillow Animated Gif Player](https://learn.adafruit.com/pitft-linux-python-animated-gif-player)
-*   [PyPortal MQTT Sensor Node/Control Pad for Home Assistant](https://learn.adafruit.com/pyportal-mqtt-sensor-node-control-pad-home-assistant)
-*   [Guide Updated: CircuitPython Made Easy on Circuit Playground Express and Bluefruit](https://blog.adafruit.com/2020/01/09/guide-updated-circuitpython-made-easy-on-circuit-playground-express-and-bluefruit-adafruitlearningsystem-adafruit-circuitpython-adafruit/)
+*   [Turtle Graphics in CircuitPython on TFT Gizmo](https://learn.adafruit.com/turtle-graphics-gizmo)
+*   [CircuitPython Animated Sprite Pendants](https://learn.adafruit.com/circuitpython-sprite-animation-pendant-mario-clouds-flying-toasters)
+*   [Adafruit STM32F405 Feather Express](https://learn.adafruit.com/adafruit-stm32f405-feather-express)
+*   [How to Convert a JVC Videosphere into a Monitor for Raspberry Pi and Desktop Computers](https://learn.adafruit.com/using-a-videosphere-as-a-digital-monitor)
+*   [MPU6050 6-DoF Accelerometer and Gyro](https://learn.adafruit.com/mpu6050-6-dof-accelerometer-and-gyro)
 
 Browse all that’s new in the Adafruit Learning System [here](https://learn.adafruit.com/guides/latest)!
+
+  
+  
+from Adafruit Industries – Makers, hackers, artists, designers and engineers! https://ift.tt/2ry3Isl  
+via [IFTTT](https://ifttt.com/?ref=da&site=blogger)

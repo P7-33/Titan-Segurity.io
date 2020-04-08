@@ -1,0 +1,12 @@
+---
+title: 'Belkin Lightning Headphones, Tempered Glass Screen protectors and more accessories for iPhone 11 series launched in India'
+date: 2019-10-23T09:03:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Belkin-iPhone-11-accessories.jpg) Belkin, the consumer electronics manufacturer has announced a whole ecosystem of premium accessories for the iPhone 11 series. These include headphones, connectivity accessories and screen protectors. They feature the “Made for Apple” certification which means that they have met the developer standard for Apple performance, safety and regulations. The ROCKSTAR Lightning earphones deliver high quality sound, offer supreme comfort and have additional features such as water resistance and noise reduction. The most important feature is the fact that it has a lightning connector and not a 3.5 mm jack which makes it perfect for the iPhone 11 series. The earphones are priced at Rs. 4999, but you can get it from Flipkart for Rs. 3999. Belkin has announced BOOST↑CHARGE USB-C Cable with Lightning Connector. It is certified to support Fast charge for the iPhone 8 or later with an 18-watt or higher USB-C power adapter. The Wireless Charging Pad will retail for Rs. 4499 while the USB-C will retail for Rs. 2499 from Amazon.in. For screen protection Belkin has introduced two products. The SCREENFORCE Tempered Glass Screen Protection, designed for the iPhone 11 series, provides resilient, hard-wearing protection for your phone screen and will retail for Rs. 2999 onward. SCREENFORCE InvisiGlass Ultra Privacy Screen ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=6P1HinYuNBw:kAqJ8eOlq88:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=6P1HinYuNBw:kAqJ8eOlq88:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=6P1HinYuNBw:kAqJ8eOlq88:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=6P1HinYuNBw:kAqJ8eOlq88:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=6P1HinYuNBw:kAqJ8eOlq88:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=6P1HinYuNBw:kAqJ8eOlq88:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/6P1HinYuNBw)  
+[Read Here»](https://www.fonearena.com/blog/296118/belkin-lightning-headphones-temperedglass-screen-protector-iphone-11-india.html)

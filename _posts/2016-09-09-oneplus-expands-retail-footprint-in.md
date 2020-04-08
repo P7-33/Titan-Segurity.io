@@ -1,0 +1,12 @@
+---
+title: 'OnePlus expands retail footprint in India with Redington (India) partnership'
+date: 2019-10-23T09:48:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/OnePlus-Experience-Store-Forum-Mall-Bangalore-1024x682.jpg) OnePlus India has announced its partnership with Redington (India) Ltd. to open up more offline stores across India. Redington (India) Ltd. is one of the most popular IT & Mobility distributors in India, serving customers such as Google and Apple. It will now work with OnePlus to enable customers experience and buy the latest OnePlus smartphone devices across many more offline stores throughout the nation. The partnership will boost OnePlus's offline footprint across India, in particular Northern and Northeast regions. The company plans to open retail stores in towns in the Northern region like Chandigarh, Agra, Lucknow, Patna and Ludhiana, to Eastern cities such as Guwahati, Bhubaneshwar, and Kolkata, as well as cities in the Northwest region such as Jaipur, Indore, Raipur and Bhopal among others. Marking the announcement, Vikas Agarwal, General Manager, OnePlus India said: As India continues to be a significant market for us, we look to partner with the best of market players who share a similar global vision like us to bring top-notch international quality of service to our customers across the nation. Therefore, we are excited to partner with Redington (India) Limited in an effort to bring the best of our premium product experience to our offline based ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=OmRUGaSGP5s:2211h3_dmmw:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=OmRUGaSGP5s:2211h3_dmmw:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=OmRUGaSGP5s:2211h3_dmmw:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=OmRUGaSGP5s:2211h3_dmmw:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=OmRUGaSGP5s:2211h3_dmmw:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=OmRUGaSGP5s:2211h3_dmmw:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/OmRUGaSGP5s)  
+[Read Here»](https://www.fonearena.com/blog/296139/oneplus-expands-retail-footprint-in-india-with-redington-india-partnership.html)

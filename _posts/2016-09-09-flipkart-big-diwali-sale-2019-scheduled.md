@@ -1,0 +1,12 @@
+---
+title: 'Flipkart Big Diwali Sale 2019 scheduled from Oct 12 to 16, Amazon Great Indian Festival Celebration Special from Oct 13 to 17'
+date: 2019-10-08T04:55:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Flipkart-Big-Diwali-Salme-Amazon-Great-Indian-Festival-Celebration-special.jpg) Flipkart Big Billions Days Sale and Amazon Great Indian Festival got over last week. Now, both the online retailers have announced their next sale before Diwali. Flipkart has announced its 5-day Big Diwali Sale from October 12th to 16th, and Flipkart Plus users get 4 hours early access starting from 8PM on 11th October. Amazon has announced its 5-day Great Indian Festival Celebration special sale from October 13th till 17th. Prime members will get exclusive early access starting 12 noon on October 12. Flipkart has partnered with SBI to offer 10% instant discount on SBI credit cards during the sale. In this sale it will offer up to 50% discount on laptops, up to 75% off on headphones and speakers, smartwatches from Rs. 999, DSLRs and mirrorless cameras from Rs. 17,999 and more. There will be extra discounts on Mobiles, TVs and Electronics with Dhamaka Deals at 12AM, 8AM and 4PM, Rush hour sale from 12AM to 2AM will offer extra discount on products. Amazon has partnered with ICICI bank to offer instant discount of 10% when they pay with ICICI Debit and Credit Cards; Extra bonus when you shop more. There will be up to 40% off on smartphones with Free ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=TBlPyjBKaiA:__uG-E6WJTk:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=TBlPyjBKaiA:__uG-E6WJTk:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=TBlPyjBKaiA:__uG-E6WJTk:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=TBlPyjBKaiA:__uG-E6WJTk:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=TBlPyjBKaiA:__uG-E6WJTk:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=TBlPyjBKaiA:__uG-E6WJTk:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/TBlPyjBKaiA)  
+[Read Here»](https://www.fonearena.com/blog/294277/flipkart-big-diwali-sale-amazon-great-indian-festival-celebration-special.html)

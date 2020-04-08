@@ -1,0 +1,17 @@
+---
+title: 'Xbox Game Pass Means Not Every Game Needs To Be A Service, Microsoft Says'
+date: 2019-11-16T00:27:00+01:00
+draft: false
+---
+
+Microsoft wants Game Pass to help alleviate the pressure developers might feel to design their next title as a game as a service. By launching on Game Pass, a game's delivery system can be the service that players buy into--keeping them invested and coming back to play future games.
+
+"You don't have to go make a service," Microsoft GM of games marketing Aaron Greenberg told [VG247](https://www.vg247.com/2019/11/14/dont-make-service-game-viable-subscription-offering-like-game-pass-says-microsoft/). "Game Pass gives those creators a lot of flexibility. If you want to deliver something in chapters, like we're doing with Tell Me Why and Dontnod, that's okay too. If you want your game to have a beginning, a middle, and an end, and no DLC, and no other transactions, and just a single-player game, that's also fine.
+
+"Games as a service" is a term used to describe games that rely on post-launch monetization to continually support the game with additional content--something you see a lot of in free-to-play games like [Apex Legends](https://www.gamespot.com/apex-legends/). Greenberg explained that Game Pass, as a subscription service, is designed to essentially fill that role; allowing developers to design multiplayer or single-player games and tie them to a monthly subscription without the need to include loot boxes or a price tag on post-launch DLC. By tying their passion projects to Game Pass, developers can still make money off their smaller games that might not sell as well as the larger ones.
+
+"The idea is that we really want a diversity of content in the types of games and experiences for our fans, and especially for our Game Pass owners, and the types of games and content that these new studios are bringing in particular, really round out what we traditionally have built with our internal studios," Greenberg said.
+
+He went on to list examples of how Microsoft is already using Game Pass to encourage its first-party studios to take risks and make the games that they want. "Take Ninja Theory as an example of what they've created with [Hellblade](https://www.gamespot.com/hellblade-senuas-sacrifice/)," Greenberg said. "It's just such an incredible game, such a unique game, such a creative game. And we trust them to want to go create other things. So we want to enable them to do that, give them the resources to do that, and it’s exciting what they're doing with [Bleeding Edge](https://www.gamespot.com/bleeding-edge/). They have other projects in the works as well, that in time we will show. Obsidian, another great example of that, where they have [The Outer Worlds](https://www.gamespot.com/the-outer-worlds/) now, and then being able to announce [Grounded](https://www.gamespot.com/grounded/) will be coming in 2020 is very exciting."
+
+During [X019](https://www.gamespot.com/articles/all-the-big-announcements-at-x019-from-xbox-full-n/1100-6471272/), Microsoft revealed [Bleeding Edge would release in March 2020](https://www.gamespot.com/articles/hellblade-and-dmc-devs-new-team-based-brawler-blee/1100-6471436/) and announced several other new games from its first-party studios, such as Grounded and [Everwild](https://www.gamespot.com/everwild/).

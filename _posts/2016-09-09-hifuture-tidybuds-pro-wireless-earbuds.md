@@ -1,0 +1,12 @@
+---
+title: 'HiFuture TidyBuds Pro wireless earbuds with 100 hours battery life with 3000mAh charging case launched in India for Rs. 4199'
+date: 2019-12-03T13:51:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/HiFuture-TidyBuds-Pro-1024x705.jpg) HiFuture has come out with a unique product, a pair of truly earphones called the TidyBuds Pro that comes with a 3000 mAh charging case. This big case gives the earphones with a total listening time of over 100 hours with also the ability to behave as an external power bank to charge a phone. The earbuds themselves have an 8-hour battery life from its 75 mAh inbuilt battery. The uniqueness of this product comes from its 3000mAh charging case that lets the earphones to be charged for another 10-12 full cycles for a total of 100+ listening hours. Other features of the earphones include Bluetooth 5.0 with a 10-meter connection distance, IPX4 dust and water resistance, a balanced sound signature and clear distortion-free audio. The earphones can be controlled via intuitive touch pad built-in both earbuds which enables controls for music, calls and voice assistant with just one touch. HiFuture has provided the earphones  with 3 pairs of ear tips to get the best possible fit and the TidyBuds Pro will come in either White or Black colours. The earphones are available for purchase online for a price of Rs. 4,499 on Flipkart and is slightly cheaper at Rs. 4199 on Amazon.in
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=mgciUgklYrw:117r6_CBIRM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=mgciUgklYrw:117r6_CBIRM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=mgciUgklYrw:117r6_CBIRM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=mgciUgklYrw:117r6_CBIRM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=mgciUgklYrw:117r6_CBIRM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=mgciUgklYrw:117r6_CBIRM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/mgciUgklYrw)  
+[Read Here»](https://www.fonearena.com/blog/299503/hifuture-tidybuds-pro-price-india.html)

@@ -1,0 +1,12 @@
+---
+title: 'Xiaomi Mi CC9 Pro: Snapdragon 730G, ultra-thin in-display fingerprint scanner, NFC, Infrared sensor and more confirmed'
+date: 2019-11-04T05:17:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Mi-CC9-Pro-1024x950.jpg) Xiaomi Mi CC9 Pro smartphone with 108MP penta rear cameras will be announced on November 5th. The company already revealed details about the camera sensors, dual OIS, shared samples, and the specifications were revealed through TENAA listing, and it also confirmed the 5260mAh battery with 30W fast charging. Few days back it has confirmed Snapdragon 730G, details about the in-display fingerprint scanner and more. The Redmi K20 was powered by Snapdragon 730, and the Mi CC9 Pro will be the first Xiaomi phone to be powered by Snapdragon 730G. It also said that this is the world's first smartphone to feature ultra-thin screen in-display fingerprint scanner with improved sensitivity for better unlock success rate. It is easier to unlock even in low temperatures and if the fingers are dry, said the company. The phone is equipped with bottom ported speaker with a 1CC large sound chamber, and the overall loudness is doubled compared with the previous generation, said the company. It also has a 3.5mm audio jack with support for Hi-Res audio. The CC9 Pro features NFC support and comes with infrared sensor on the top to control home appliances using Mi Remote app. Xiaomi Mi CC9 Pro rumored specifications 6.47-inch (2340 × 1080 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=VjybaWVcQDY:kayBC9SWdUM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=VjybaWVcQDY:kayBC9SWdUM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=VjybaWVcQDY:kayBC9SWdUM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=VjybaWVcQDY:kayBC9SWdUM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=VjybaWVcQDY:kayBC9SWdUM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=VjybaWVcQDY:kayBC9SWdUM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/VjybaWVcQDY)  
+[Read Here»](https://www.fonearena.com/blog/297097/xiaomi-mi-cc9-pro-snapdragon-730g-in-display-fingerprint-scanner-nfc.html)

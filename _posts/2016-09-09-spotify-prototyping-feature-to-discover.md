@@ -1,0 +1,12 @@
+---
+title: 'Spotify prototyping feature to discover music through friends called Tastebuds'
+date: 2019-12-19T08:58:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Spotify-Tastebuds-1024x506.jpg) Popular software reverse engineer Jane Manchun Wong has reported a new prototype feature in Spotify called Tastebuds. The feature, currently in testing phase, allows user to discover new music and artists through their friends. There’s literally an app called @tastebuds, which supported Spotify, but its Twitter account has been inactive since 2017 Is this a hint of acquisition or will Spotify have to change the name of this feature before release? pic.twitter.com/wmdnnmFsa8 — Jane Manchun Wong (@wongmjane) December 18, 2019 The feature is designed to let users explore music taste profiles of friends you trust. Currently users can access a non functioning site that shows a landing page for the feature. By clicking a pen icon shown in the centre of the webpage, users can search and select the people you want to follow. Once added, users will be able to see their friends music collection and what they have been listening to recently. Spotify has been known to test a variety of social features, but nothing actually made it through its testing phase. Spotify has been known to limit connectivity through social as a way to lockdown users, ensuring they on discover music through Spotify's own curated playlists. The company is now slowly testing ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=FVtNZ1_aBfk:9NaGCP2zcAI:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=FVtNZ1_aBfk:9NaGCP2zcAI:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=FVtNZ1_aBfk:9NaGCP2zcAI:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=FVtNZ1_aBfk:9NaGCP2zcAI:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=FVtNZ1_aBfk:9NaGCP2zcAI:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=FVtNZ1_aBfk:9NaGCP2zcAI:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/FVtNZ1_aBfk)  
+[Read Here»](https://www.fonearena.com/blog/300698/spotify-tastebuds-discover-music-through-friends.html)

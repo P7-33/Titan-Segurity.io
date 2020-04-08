@@ -1,0 +1,12 @@
+---
+title: 'Jio and Samsung demo virtual classroom, massive full HD content streaming and more 5G use cases at IMC 2019'
+date: 2019-10-15T08:19:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Reliance-Jio-Samsung-Virtual-classroom.jpg) At the ongoing Indian Mobile Congress (IMC) 2019, Reliance Jio and Samsung are showcasing several use cases of 5G as well as advanced 4G LTE and 5G technology used in combination as a dual-connected mode network. These demonstrations are designed to show use cases that can benefit customers and enterprises. To showcase 5G  for India, Samsung and Jio have deployed multiple technology solutions such as Samsung Networks’ 5G product portfolio, including its 3.5GHz solution for 5G Massive MIMO Unit (MMU), its 28GHz Access Unit (AU) and 5G mobile devices. The demonstrations include: Virtual Classroom allows attendees to watch 360-degree virtual lecture taken from a classroom in Jio’s Reliance Corporate Park (RCP) in Mumbai. Massive Full High-Definition (HD) Content Streaming shows FHD video streaming on multiple smartphones (Galaxy S10 5G) simultaneously and 4K video streaming using multiple 5G tablets which is meant to the show massive entertainment capabilities of 5G. With regards to LTE technologies, Jio and Samsung are demonstrating a live “public safety network over LTE” (PS-LTE) featuring Mission-Critical-Push-To-X (MCPTX) communication. Code named “OneNet”, the technology is potentially designed to be India’s Emergency Communication Network. This technology utilizes the real-time streaming of videos and high-definition images capabilities of LTE to enable first ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=rNQ3h3C_bsY:nF99Ftmu_DA:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=rNQ3h3C_bsY:nF99Ftmu_DA:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=rNQ3h3C_bsY:nF99Ftmu_DA:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=rNQ3h3C_bsY:nF99Ftmu_DA:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=rNQ3h3C_bsY:nF99Ftmu_DA:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=rNQ3h3C_bsY:nF99Ftmu_DA:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/rNQ3h3C_bsY)  
+[Read Here»](https://www.fonearena.com/blog/295133/samsung-jio-5g-virtual-classroom-massive-full-hd-content-streaming.html)

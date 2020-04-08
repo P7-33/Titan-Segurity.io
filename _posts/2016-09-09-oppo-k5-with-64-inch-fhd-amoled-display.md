@@ -1,0 +1,12 @@
+---
+title: 'OPPO K5 with 6.4-inch FHD+ AMOLED display, Snapdragon 730G, 64MP quad rear cameras, in-display fingerprint scanner to be announced on October 10'
+date: 2019-09-26T04:11:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/OPPO-K5.jpg) Update: September 26, 2019 - OPPO has confirmed that K5 will be announced on October 10th along with the Reno Ace. It will come in Green, Blue and White colors with 3D Glass back. Earlier: OPPO recently confirmed that its 30W VOOC 4.0 Flash Charge fast charging will be used in OPPO K5 and realme X2. Now the K5 has been certified by TENAA in China with the model number PCNM00. This has similar specifications as the realme X2, and the only change is the gradient glass back with OPPO branding. OPPO K5 rumored specifications 6.4-inch (2340 × 1080 pixels) Full HD+ AMOLED display Octa Core (2.2GHz Dual + 1.8GHz Hexa) Snapdragon 730G Mobile Platform with Adreno 618 GPU 8GB (LPPDDR4x) RAM, 128GB (UFS 2.1) storage, expandable memory up to 256GB with microSD Dual SIM ColorOS 6.0 based on Android 9.0 (Pie) 64MP rear camera with 1/1.72″ Samsung GW1 sensor, 0.8μm pixel size, f/1.8 aperture, LED flash, EIS, 8MP 119° ultra-wide angle lens with f/2.25 aperture, 1.12μm pixel size with 2MP depth sensor, f/2.4 aperture,1.75μm pixel size, 2MP for 4cm macro with f/2.4 aperture,1.75μm pixel size 32MP front-facing camera In-display fingerprint sensor Dimensions: 158.7×75.2×8.6mm; Weight: 182g Dual 4G VoLTE, WiFi 802.11 ac ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=kWeaWS75VTU:ve9t9dVrJi0:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=kWeaWS75VTU:ve9t9dVrJi0:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=kWeaWS75VTU:ve9t9dVrJi0:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=kWeaWS75VTU:ve9t9dVrJi0:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=kWeaWS75VTU:ve9t9dVrJi0:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=kWeaWS75VTU:ve9t9dVrJi0:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/kWeaWS75VTU)  
+[Read Here»](https://www.fonearena.com/blog/292728/oppo-k5-specs-images-launch-date.html)

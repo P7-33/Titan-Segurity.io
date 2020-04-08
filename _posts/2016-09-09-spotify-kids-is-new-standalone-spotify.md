@@ -1,0 +1,12 @@
+---
+title: 'Spotify Kids is a new standalone Spotify app for the younger generation'
+date: 2019-10-30T14:32:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Spotify-Kids-1024x391.jpg) Spotify, the most popular music streaming service in the world has introduced a new standalone app called Spotify Kids, designed to bring ad-free audio content such as music and stories to the next generation of listeners. The app will be a part of the premium family subscription and is currently in its beta phase in Ireland. With this app, Spotify is aiming to create a playground of sound for kids, with content that has been hand-picked by a team of editors, who have nearly 100 years of combined experience curating content for kids. The editors come from a variety of children-focused companies such as Nickelodeon, Disney, Discovery Kids, and Universal Pictures, as well as Public Service in Sweden. The app itself has been designed from the ground up with many playful and colourful elements. Parents will be required to sign-in to the app with their premium family account in the beginning. After this, children can choose their own silly avatar, search for content and playlists based on cutesy genres they might be interested in, and save their favorites just as adult users can in the normal Spotify app. Spotify has been working on this project for almost 2 years, being very deliberate with ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=IXQHt2U95Uc:VhlrBNG8iks:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=IXQHt2U95Uc:VhlrBNG8iks:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=IXQHt2U95Uc:VhlrBNG8iks:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=IXQHt2U95Uc:VhlrBNG8iks:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=IXQHt2U95Uc:VhlrBNG8iks:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=IXQHt2U95Uc:VhlrBNG8iks:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/IXQHt2U95Uc)  
+[Read Here»](https://www.fonearena.com/blog/296808/spotify-kids-download-features.html)

@@ -1,0 +1,12 @@
+---
+title: 'TikTok creator ByteDance introduces Smartisan Jianguo Pro 3 with 6.39-inch FHD+ AMOLED display, Snapdragon 855 Plus, up to 12GB RAM, quad rear cameras'
+date: 2019-11-02T09:47:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Smartisan-Jianguo-Pro-3.jpg) TikTok creator ByteDance acquired set of patents and some empoyees from the smartphone maker Smartisan earlier this year, and the company this week introduced Jianguo Pro 3, the first smartphone after the deal. The phone packs a 6.39 FHD+ AMOLED screen with DC Dimming, is powered by Snapdragon 855 Plus with up to 12GB of RAM, runs Android Pie-based Smartisan OS 3.0, features a 48MP (IMX586) main, 13MP 123-degrees ultra-wide, 8MP telephoto for 2x zoom and a 5MP 2cm macro lens. There is also a 20MP camera on the front with 4-in-1 pixel binning. It has an in-display fingerprint scanner, doesn't have a 3.5mm audio jack, and packs a 4,000mAh battery with 18W fast charging, and is just 7.8mm thick. Smartisan Jianguo Pro 3 specifications 6.39-inch (1080 × 2280 pixels) Full HD+ Super AMOLED display with 100% NTSC Color Gamut, DCI-P3 / sRGB color gamut Octa-Core Snapdragon 855 Plus 7nm Mobile Platform (1 x 2.96GHz  Kryo 485 + 3 x 2.42GHz Kryo 485 + 4x 1.80GHz Kryo 485) with Adreno 640 GPU 8GB LPDDR4x RAM with 128GB / 256GB (UFS 3.0) storage, 12GB LPDDR4x RAM with 256GB (UFS 3.0) storage Dual SIM Android 9.0 (Pie) with Smartisan OS 3.0 48MP rear camera ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=vlpa2DZmw0M:2ilRA5zVVYA:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=vlpa2DZmw0M:2ilRA5zVVYA:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=vlpa2DZmw0M:2ilRA5zVVYA:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=vlpa2DZmw0M:2ilRA5zVVYA:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=vlpa2DZmw0M:2ilRA5zVVYA:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=vlpa2DZmw0M:2ilRA5zVVYA:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/vlpa2DZmw0M)  
+[Read Here»](https://www.fonearena.com/blog/297026/tiktok-bytedance-smartisan-jianguo-pro-3-price-specifications.html)

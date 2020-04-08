@@ -1,0 +1,12 @@
+---
+title: 'Amazfit GTS with 1.65-inch AMOLED display, 50-meter water resistance, 14 days battery life launching in India soon on Amazon'
+date: 2019-10-10T05:35:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Amazfit-GTS.jpg) After the launch of Amazfit GTR last month, Huami is all set to launch the Amazfit GTS smartwatch in India on Amazon.in soon. It was introduced in China back in August, has a 1.65-inch Super Retina Grade AMOLED Screen, Custom Modular Dial, Colorful Light Metal Body, 14 days of battery life and it can track 12 sports activities. It has BioTracker PPG bio-tracking optical heart rate sensor, GPS, and have 5ATM or 50 meter water resistance so that you can take them for swimming. The Amazfit GTS has aviation grade aluminum alloy metal body and the Smart Sports Watch 3 has a polycarbonate + fiberglass polymer body, 316L stainless steel bezel, laser-engraved carbon fiber texture, features four stainless steel buttons that are convenient for users to operate under extreme sports conditions, 3D wavy pattern on the inside helps to dissipate heat easily. Amazfit GTS specifications 1.65-inch (348 X 442 pixels) AMOLED 341PPI screen with 100% NTSC color gamut, Corning Gorilla Glass 3 protection Support for Android 5.0 or iOS 10.0 and above 12 Sport Mode tracking, Activity and Sleep tracking Low-power BioTracker PPG sensor, 6-Axis Accelerometer , 3 Axis Geomagnetic Sensor, Air Pressure Sensor, Ambient Light sensor Water resistant (5ATM / 50 Meters) ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=abqxUtPTVQQ:94z6QyoFj8Y:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=abqxUtPTVQQ:94z6QyoFj8Y:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=abqxUtPTVQQ:94z6QyoFj8Y:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=abqxUtPTVQQ:94z6QyoFj8Y:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=abqxUtPTVQQ:94z6QyoFj8Y:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=abqxUtPTVQQ:94z6QyoFj8Y:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/abqxUtPTVQQ)  
+[Read Here»](https://www.fonearena.com/blog/294643/amazfit-gts-india-launch-date.html)

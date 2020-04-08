@@ -1,0 +1,12 @@
+---
+title: 'Qualcomm Snapdragon 7c 8nm and Snapdragon 8c 7nm Compute platforms for always on, always connected PCs announced'
+date: 2019-12-06T03:17:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Qualcomm-Snapdragon-8c-1024x545.jpg) Qualcomm announced its next-generation Snapdragon 865, Snapdragon 765, and Snapdragon 865 7nm Mobile Platforms recently. Last year, the company also announced 8cx 7nm Compute Platform for thin. light, and always on, always connected Windows 10 PCs - Qualcomm Snapdragon 8cx. Now, Qualcomm has announced the new Snapdragon 7c and Snapdragon 8c which joins the previously announced Snapdragon 8cx. The Snapdragon 7c compute platform has an Octa-core Kryo 468 CPU and Adreno 618 GPU, and the compute platform delivers a 25% boost in system performance. It too comes with Qualcomm AI Engine (Qualcomm Hexagon 692 DSP) that delivers over 5 TOPS (Trillion Operations Per Second) of performance. Regarding the connectivity, it has the Snapdragon X15 LTE modem with support for 800 Mbps LTE. But there is no option for 5G in this. This platform also promises to deliver up to "twice the battery life" compared to competing platforms and is aimed at competing with budget Windows laptops. Highlights of Qualcomm Snapdragon 7c: Up to 2.4GHz Octa-Core (4x performance Kryo 468+ 4x effeciency Kryo 468) CPU 8nm Process Technology Integrated X15 LTE modem Cat 15/13 speeds of up to 800Mbps down: 3x20 MHz carrier aggregation, up to 256-QAM, up to 4x4 MIMO on two ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=f_RX17fKbbQ:DADt6tdL0Pg:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=f_RX17fKbbQ:DADt6tdL0Pg:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=f_RX17fKbbQ:DADt6tdL0Pg:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=f_RX17fKbbQ:DADt6tdL0Pg:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=f_RX17fKbbQ:DADt6tdL0Pg:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=f_RX17fKbbQ:DADt6tdL0Pg:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/f_RX17fKbbQ)  
+[Read Here»](https://www.fonearena.com/blog/299743/qualcomm-snapdragon-7c-snapdragon-8c-features.html)

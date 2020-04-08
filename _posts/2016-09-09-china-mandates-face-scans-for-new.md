@@ -1,0 +1,12 @@
+---
+title: 'China mandates face scans for new mobile connection'
+date: 2019-12-02T12:06:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/China-face-scanning-mandate.jpg) Fingerprint authentication, Identity proof, etc are being used by many countries to verify user identity for new mobile connections. Now face scanning method is being adopted by many countries to verify users identify and on similar lines, China has mandated face scans when users register for a new mobile connection. According to a report from the BBC, users in China when signing up for a new mobile or mobile data contract must have their faces scanned as a part of verification. The usual national identity card and photos as proof of verification still exist, and now face scanning is also a compulsory process. The regulation was due to come into effect on Sunday after it was announced in September and it is framed by the Ministry of Industry and Information Technology. The Chinese government says that it wants to "protect the legitimate rights and interest of citizens in cyberspace". Although there has been increasing criticism on China for enforcing face scanning for user identity verification, the regulation is framed to ensure that the Chinese government can identify all mobile phone users and strengthen the system. China already uses facial recognition to survey its population and the new regulation aims to strengthen this system. Source ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Axs3AkVCxv4:TSZu2x89vKY:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Axs3AkVCxv4:TSZu2x89vKY:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Axs3AkVCxv4:TSZu2x89vKY:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Axs3AkVCxv4:TSZu2x89vKY:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Axs3AkVCxv4:TSZu2x89vKY:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Axs3AkVCxv4:TSZu2x89vKY:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Axs3AkVCxv4)  
+[Read Here»](https://www.fonearena.com/blog/299399/china-mandates-face-scans-for-new-mobile-connection.html)

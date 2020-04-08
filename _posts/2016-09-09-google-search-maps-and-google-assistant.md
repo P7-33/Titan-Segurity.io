@@ -1,0 +1,12 @@
+---
+title: 'Google Search, Maps and Google Assistant now lets you to search over 57000 public sanitation facilities across India'
+date: 2019-10-02T12:31:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Google-Maps-public-toilets-search-India.png) Google has been adding new features to Google Maps lately including India specific features like 'Stay Safer', live train status, speed limits and speed traps and more. The latest addition to Google Maps is the ability to search over 57,000 public toilets in 2300+ cities across India and it also works with Google Search and Google Assistant. https://www.youtube.com/watch?v=wpEMADe0L7I Google, back in 2016 collaborated with the Swachh Bharat Mission, Ministry of Housing & Urban Affairs, to help users across India to locate public toilets within Google Maps. It was launched as a pilot program in New Delhi, Bhopal, and Indore and now Google Maps allows you to search over 57,000 public toilets in 2,300+ cities across India. Google says that over 2.5 lakh users now search for public toilets every month across Search and Maps, and they have worked closely with the Ministry to update Maps with key information about public toilets from across India. The Ministry also took ownership of these listings on Google Maps, so they could monitor visits, ratings, reviews and more. Starting today, users can just search for ‘public toilets near me’ on Google Search, the Google Assistant or Google Maps to receive instant results. Source
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=lhfqR3HmaoI:2SxGNtQ_1hc:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=lhfqR3HmaoI:2SxGNtQ_1hc:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=lhfqR3HmaoI:2SxGNtQ_1hc:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=lhfqR3HmaoI:2SxGNtQ_1hc:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=lhfqR3HmaoI:2SxGNtQ_1hc:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=lhfqR3HmaoI:2SxGNtQ_1hc:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/lhfqR3HmaoI)  
+[Read Here»](https://www.fonearena.com/blog/293871/google-search-maps-google-assistant-public-sanitation-india.html)

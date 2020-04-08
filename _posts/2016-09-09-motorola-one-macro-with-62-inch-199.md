@@ -1,0 +1,12 @@
+---
+title: 'Motorola One Macro with 6.2-inch 19:9 display, triple rear cameras including Macro Vision camera, Laser Autofocus launched in India for Rs. 9999'
+date: 2019-10-09T08:05:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/motorola-one-macro-review_7_1-1024x714.jpg) After rumors, Motorola has officially launched the One Macro, the company's latest smartphone in the One series, and this is focused on macro photography.  It has a 6.2-inch HD+ 19:9 aspect ratio Max Vision display with 82% screen to body ratio, is powered by MediaTek Helio P70 12nm processor with 4GB of RAM, runs Android 9.0 (Pie), but this is not an Android One phone. It comes with a 13-megapixel rear camera, laser auto focus, along with 2-megapixel camera for portrait shots and another 2-megapixel camera for macro shots. It has an 8-megapixel front camera, comes with hybrid dual SIM slot rear-mounted fingerprint scanner and packs a 4000mAh battery. Motorola One Macro specifications 6.2-inch (1520 x 720 pixels) Max Vision display Octa Core MediaTek Helio P70 12nm processor (Quad 2.1GHz Cortex A73 + Quad 2GHz Cortex A53 CPUs) with 900MHz ARM Mali-G72 MP3 GPU 4GB RAM, 64GB storage, expandable memory up to 512GB with microSD Hybrid Dual SIM (nano + nano / microSD) Android 9.0 (Pie) 13MP rear camera with LED flash, f/2.0 aperture, 1.12μm pixel size, Laser AF, PDAF, 2MP camera for macro and 2MP for portraits with f/2.2 aperture, 1.75μm pixel size 8MP front-facing camera with f/2.2 aperture, 1.12μm pixel ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=TqO-bhoftTU:hOSal7knl20:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=TqO-bhoftTU:hOSal7knl20:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=TqO-bhoftTU:hOSal7knl20:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=TqO-bhoftTU:hOSal7knl20:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=TqO-bhoftTU:hOSal7knl20:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=TqO-bhoftTU:hOSal7knl20:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/TqO-bhoftTU)  
+[Read Here»](https://www.fonearena.com/blog/294263/motorola-one-macro-price-india-specifications.html)

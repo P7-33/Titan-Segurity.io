@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy S10, S10+, S10e and S10 5G Android 10 One UI 2.0 beta program announced'
+date: 2019-10-14T04:44:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Samsung-Android-10-OneUI-2.0-beta-1024x543.jpg) It has been over a month since Google rolled out stable Android 10 update for its Pixel phones. Samsung today announced new One UI 2.0, the next major One UI update for its smartphones, which is based on Android 10 for its flagship Galaxy S10 series. New features in Android 10 One UI 2.0 update Clean and easy-to-use interface with minimized pop-ups, embedded loading indicators and simplified button arrangements. Streamlined design where notifications take up less space New, smarter layout for a visually comfortable experience. An enhanced Dark Mode intelligently adjusts the brightness of images, texts and colors on the display while reducing battery consumption. Smart Lock screen automatically adjusts the color and format of the clock and notifications so that you can always see the text and icons clearly. Focus Mode lets you pause apps temporarily for times when you need to minimize distractions and get in the zone. By tracking usage, managing screen time or enabling focus mode to minimize distractions, users can ensure they are being efficient. Intuitive Device Care menu gives you quicker access to the essential functions. Some individual features are also enhanced to give you more control, such as keeping or deleting duplicate photos. Samsung ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=4FwJkKo6B3c:mDQeVX8O0CE:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=4FwJkKo6B3c:mDQeVX8O0CE:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=4FwJkKo6B3c:mDQeVX8O0CE:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=4FwJkKo6B3c:mDQeVX8O0CE:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=4FwJkKo6B3c:mDQeVX8O0CE:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=4FwJkKo6B3c:mDQeVX8O0CE:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/4FwJkKo6B3c)  
+[Read Here»](https://www.fonearena.com/blog/295013/samsung-galaxy-s10-s10-plus-s10e-and-s10-5g-android-10-one-ui-2-0-beta.html)

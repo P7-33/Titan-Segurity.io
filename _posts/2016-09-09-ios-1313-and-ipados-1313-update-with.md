@@ -1,0 +1,12 @@
+---
+title: 'iOS 13.1.3 and iPadOS 13.1.3 update with bug fixes released for iPhone and iPad'
+date: 2019-10-16T12:29:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/06/iOS-13.jpg) Apple released iOS 13, its latest operating system for iPhone last month and following that released iOS 13.1.2 recently. Now, Apple has released yet another update for iPhone and iPad - iOS 13.1.3 and iPadOS 13.1.3 and comes with bug fixes for Phone, Mail, Health, and more. Apple iOS 13.1.3 includes bug fixes and improvements for iPhone and primarily address issues with the Phone app that could prevent a device from ringing or vibrating for an incoming call, address issues with the Mail app, Health app, Voice Memos recordings, Apple watch pairing, Bluetooth, and more. Here's the complete changelog: Addresses an issue that could prevent a device from ringing or vibrating for an incoming call Fixes an issue that may prevent opening a meeting invite in Mail Resolves an issue where data in the Health app may not display correctly after daylight savings time adjusts Fixes an issue where Voice Memos recordings may not download after restoring from iCloud Backup Addresses an issue where apps might fail to download when restoring from iCloud Backup Fixes an issue that can prevent Apple Watch from pairing successfully Resolves an issue where notifications may not be received on Apple Watch Fixes an issue where Bluetooth ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=-Lx33gT8shE:ba2EQtmobcs:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=-Lx33gT8shE:ba2EQtmobcs:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=-Lx33gT8shE:ba2EQtmobcs:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=-Lx33gT8shE:ba2EQtmobcs:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=-Lx33gT8shE:ba2EQtmobcs:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=-Lx33gT8shE:ba2EQtmobcs:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/-Lx33gT8shE)  
+[Read Here»](https://www.fonearena.com/blog/295359/apple-ios-13-1-3-ipados-13-1-3-update-iphone-ipad.html)

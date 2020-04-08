@@ -1,0 +1,12 @@
+---
+title: 'Noise ColorFit Pro 2 with 1.3-inch touch color display, heart rate sensor, 9 sports modes, waterproof body launched for Rs. 2999'
+date: 2019-10-14T08:54:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Noise-ColorFit-Pro-2-1-1024x561.jpg) Noise, popular for its smart accessories has launched the ColorFit Pro 2, the company's latest fitness smartwatch and the successor of last year's ColorFit Pro. It comes with a bigger 1.3-inch color touch screen that is brighter and shows off a new user interface with dynamic watch faces, has IP68 certification for waterproof body, and has improved pedometer, and can measure Blood Pressure, SpO2 Level, Sleep Quality and Dynamic Heart Rate. Noise ColorFit Pro 2 features and specifications 1.3-inch (240 x 240 pixels) LCD touch screen with dynamic watch faces Compatible with Android as well as iOS ‘Breathe’ feature, ability to choose from up to 9 sports modes like indoor running, yoga etc. along with a built-in activity tracker 24-hour heart rate monitor, step counter, sleep tracker, sedentary reminder and goal completion reminder Full smartphone notifications for calls, text and WhatsApp messages in addition to Facebook, Skype and more. Weighs 35 grams Waterproof (IP68) 7-10 days battery life, up to 45 days standby The Noise ColorFit Pro 2 comes in Jet Black color, is priced at Rs. 2999 and will be available from gonoise.com from tomorrow, 15th October, 2019 and will be coming soon on all leading marketplaces. Teal Green and Mist ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=jTJXwMHoQ18:_j4quaOZE_U:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=jTJXwMHoQ18:_j4quaOZE_U:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=jTJXwMHoQ18:_j4quaOZE_U:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=jTJXwMHoQ18:_j4quaOZE_U:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=jTJXwMHoQ18:_j4quaOZE_U:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=jTJXwMHoQ18:_j4quaOZE_U:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/jTJXwMHoQ18)  
+[Read Here»](https://www.fonearena.com/blog/295022/noise-colorfit-pro-2-price-features.html)

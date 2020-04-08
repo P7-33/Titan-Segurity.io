@@ -1,0 +1,12 @@
+---
+title: 'Airtel Wi-Fi Calling launched officially — Here are the list of supported devices and how to enable it'
+date: 2019-12-09T15:44:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Airtel-VoWiFi-1024x585.jpg) Airtel today launched its Wi-Fi Calling / Vo-WiFi services in India officially starting from Delhi NCR. This lets Airtel users make VoWi-Fi calls in compatible handsets offering improved indoor coverage, faster connectivity and says it will offer crystal clear conversations as if you are next to each other, however it is currently available only when users are connected to Airtel Broadband / Airtel Xstream Fibre network  when connected to WiFi. Airtel Wi-Fi Calling Compatible Handsets: iPhone XR, iPhone 6s, iPhone 6s Plus, iPhone 7, iPhone 7 Plus, iPhone SE, iPhone 8, iPhone 8 Plus, iPhone X, iPhone Xs, iPhone Xs Max, iPhone 11, iPhone 11 Pro OnePlus 7, OnePlus 7 Pro, OnePlus 7T, OnePlus 7T Pro POCO F1, Redmi K20, Redmi K20 Pro Samsung Galaxy J6, Samsung Galaxy On 6, Samsung Galaxy M30s, Samsung Galaxy A10s How to enable Airtel Wi-Fi Calling You need any one of the Wi-Fi Calling Capable Handset and Airtel 4G In Apple go to Settings > Mobile Data > Wifi Calling In Samsung, from the drop-down Quick settings menu enable WiFi Calling In Xiaomi phones go to Settings > SIM Cards & mobile networks > Airtel > Make Calls using Wi-Fi In OnePlus go to Settings > ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=xuxQfGm3xLs:K5SB1wv41OM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=xuxQfGm3xLs:K5SB1wv41OM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=xuxQfGm3xLs:K5SB1wv41OM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=xuxQfGm3xLs:K5SB1wv41OM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=xuxQfGm3xLs:K5SB1wv41OM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=xuxQfGm3xLs:K5SB1wv41OM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/xuxQfGm3xLs)  
+[Read Here»](https://www.fonearena.com/blog/299930/airtel-wi-fi-calling-supported-devices.html)

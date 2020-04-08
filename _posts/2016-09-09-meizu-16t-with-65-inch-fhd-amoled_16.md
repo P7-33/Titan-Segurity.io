@@ -1,0 +1,12 @@
+---
+title: 'Meizu 16T with 6.5-inch FHD+ AMOLED display, Snapdragon 855, 8GB RAM, triple rear cameras to be announced on October 23'
+date: 2019-10-16T11:39:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Meizu-16T.jpg) After rumors, Meizu has announced that it will introduce Meizu 16T, the company's top-end smartphone in China on October 23rd. The phone got certified by TENAA with the model number M928Q, which revealed 6.5-inch FHD+ AMOLED screen, Snapdragon 855 with up to 8GB RAM, triple rear cameras, in-display fingerprint scanner and a 4500mAh battery. Meizu 16T rumored specifications 6.5-inch (1080 × 2232 pixels) Full HD+ 18.6:9 Super AMOLED display Octa-Core Qualcomm Snapdragon 855 Mobile Platform with Adreno 640 GPU 6GB LPDDR4x RAM with 128GB (UFS 3.0) storage / 8GB LPDDR4x RAM with 256GB (UFS 3.0) internal storage Dual SIM Android 9.0 (Pie) with Flyme OS 12MP rear camera with LED flash, 8MP ultra-wide sensor, 8MP ultra-wide angle lens, 5MP camera 16MP front-facing camera In-display fingerprint sensor Dimensions: 159.63×78.2×8.3mm; Weight: 183g Dual 4G VoLTE, Wi-Fi 802.11 ac (2.4GHz + 5GHz) 4×4 MIMO, Bluetooth 5, GPS (L1 + L5 dual band), USB Type-C 4500mAh (typical) / 4400mAh (minimum) battery with 24W mCharge fast charging The Meizu 16T is expected to come in Blue, Black, Green and Red colors. It is rumored to start at 2499 yuan (US$ 352 / Rs. 25,129 approx.). We should know all the details when the phone goes official next ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=CaZUETyQ-rQ:wG87kIt7AHM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=CaZUETyQ-rQ:wG87kIt7AHM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=CaZUETyQ-rQ:wG87kIt7AHM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=CaZUETyQ-rQ:wG87kIt7AHM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=CaZUETyQ-rQ:wG87kIt7AHM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=CaZUETyQ-rQ:wG87kIt7AHM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/CaZUETyQ-rQ)  
+[Read Here»](https://www.fonearena.com/blog/295343/meizu-16t-launch-date.html)

@@ -1,0 +1,12 @@
+---
+title: 'ASUS ZenBook 14 (UM431DA), ZenBook Flip 14 (UM462DA) with up to AMD Ryzen 7 processor, Radeon RX Vega GPU launched in India'
+date: 2019-11-12T13:17:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/asus-zenbook-14-um431da-zenbook-flip-14-um462da.jpg) ASUS launched the ZenBook Pro Duo, ZenBook Duo, VivoBook S14, and more in India last month. Expanding its ZenBook lineup in India, ASUS has today launched its new ZenBook 14 and ZenBook Flip 14 (convertible) laptops with AMD Ryzen processor, Radeon RX Vega GPU, PCIe SSD, and more. ASUS ZenBook 14 (UM431DA) specifications 14-inch 16:9 LED-backlit FULL HD display with a resolution of 1920 x 1080 pixels 2nd gen AMD Ryzen R5-3500U processor with 2.1GHz base clock speed and can be boosted up to 3.7GHz AMD Radeon RX Vega 8 GPU 8GB DDR4 2400MHz RAM 512GB PCIe x2 SSD ErgoLift hinge Connectivity and ports: Dual-Band WiFi (802.11 ac), Bluetooth 4.2, 1 x USB 3.1 Gen 2 Type-C, 1 x USB 3.1 Gen 1 Type-A , 1 x USB 2.0, 1 x HDMI 2.0, 1 x Audio combo jack, 1 x SD card reader HD camera Quad-speaker system with ASUS SonicMaster stereo audio system, Cortana and Alexa voice-recognition support Dimensions: 323.5 x 211.85 x 15.9 mm; Weight: 1.39kg 47Wh 2-cell  battery; Up to 12 hours battery life MIL-STD-810G certified Windows 10 Home ASUS ZenBook Flip 14 (UM462DA) Convertible specifications 14-inch 16:9 LED-backlit FULL HD display with a resolution of 1920 x 1080 pixels ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=WzRnacvIk8s:pOFN5tDlEH8:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=WzRnacvIk8s:pOFN5tDlEH8:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=WzRnacvIk8s:pOFN5tDlEH8:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=WzRnacvIk8s:pOFN5tDlEH8:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=WzRnacvIk8s:pOFN5tDlEH8:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=WzRnacvIk8s:pOFN5tDlEH8:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/WzRnacvIk8s)  
+[Read Here»](https://www.fonearena.com/blog/297845/asus-zenbook-14-zenbook-flip-14-price-india.html)

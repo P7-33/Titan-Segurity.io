@@ -1,0 +1,12 @@
+---
+title: 'Samsung’s Q3 2019 profits down 55.7% YoY, mobile profits up 31.5% YoY due to strong Galaxy Note 10 and A series sales'
+date: 2019-10-31T08:27:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/08/Samsung-Galaxy-Note-10-Plus_fonearena-08-1024x681.jpg) Samsung has reported its earnings for Q3 2019 that ended September 30, 2019, in which the company has made operating profit of 7.78 trillion won, down 55.7% YoY. This due to continued weakness in the memory chip market, even with stronger smartphone sales and improved utilization in mobile OLED screens, said Samsung. It reported revenue of 62 trillion won, down 5.2% YoY from 65.46 trillion won last year. IM sector that includes Mobile Communications and Networks Businesses posted 29.25 trillion won consolidated revenue, up 17.4% YoY and 2.92 trillion won operating profit for the quarter, up 31.5% compared to 2.22 trillion won in the same quarter last year. Samsung’s smartphone shipments increased QoQ led by strong sales of the Note10 and A Series, along with improved margins for mass-market models. Network Business reported higher earnings YoY on growing commercialization of 5G service in Korea. The Company expects fourth-quarter earnings in the Mobile Business to decrease QoQ as marketing costs are set to rise and shipments to decline slightly, with flagship model sales weakening from their post-launch peaks, but A Series (including upcoming models) is expected to keep performing solidly. For 2020, Samsung expects growing sales in 5G products and foldable devices; the logic chip ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=RfBR1CR1KaQ:gXm6vcwUT6I:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=RfBR1CR1KaQ:gXm6vcwUT6I:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=RfBR1CR1KaQ:gXm6vcwUT6I:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=RfBR1CR1KaQ:gXm6vcwUT6I:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=RfBR1CR1KaQ:gXm6vcwUT6I:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=RfBR1CR1KaQ:gXm6vcwUT6I:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/RfBR1CR1KaQ)  
+[Read Here»](https://www.fonearena.com/blog/296838/samsung-q3-2019-revenue-profits.html)

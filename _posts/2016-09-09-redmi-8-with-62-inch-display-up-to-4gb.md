@@ -1,0 +1,12 @@
+---
+title: 'Redmi 8 with 6.2-inch display, up to 4GB RAM, dual rear cameras, 5000mAh battery launched in India starting at Rs. 7999'
+date: 2019-10-09T07:20:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Redmi-8-1-1024x789.jpg) Soon after the launch of Redmi 8A, Xiaomi's Redmi brand has launched Redmi 8, successor of the Redmi 7, as it had promised. It has a 6.26-inch HD+ Dot Notch display with Corning Gorilla Glass 5 protection, is powered by Snapdragon 439 12nm Mobile Platform, compared to Snapdragon 632 in the Redmi 7, comes with up to 4GB RAM, features a 12-megapixel main camera with Sony IMX363 sensor, same as the Redmi 8A, comes with AI scene detection for 33 scenes, has a 2-megapixel depth sensor for portrait shots and an 8-megapixel camera on the front with AI selfies and portrait mode as well as AI face unlock. It has an Aura Mirror design, rear-mounted fingerprint scanner, comes with splash-resistant coating, has dedicated dual SIM and microSD card slots and packs a 5000mAh battery with support for 18W fast charging as well as USB Type-C, and it comes with 10W charger in the box. Redmi 8 specifications 6.26-inch (1520 × 720 pixels) HD+ 19:9 2.5D curved glass display with Corning Gorilla Glass 5 protection Octa-Core (Quad 1.95GHz Cortex A53 + Quad 1.45GHz Cortex A53) Snapdragon 439 12nm Mobile Platform with Adreno 505 GPU 3GB RAM with 32GB storage / 4GB RAM with ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=6kzr_Bl0evw:TMKsnl3HnUA:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=6kzr_Bl0evw:TMKsnl3HnUA:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=6kzr_Bl0evw:TMKsnl3HnUA:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=6kzr_Bl0evw:TMKsnl3HnUA:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=6kzr_Bl0evw:TMKsnl3HnUA:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=6kzr_Bl0evw:TMKsnl3HnUA:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/6kzr_Bl0evw)  
+[Read Here»](https://www.fonearena.com/blog/294400/redmi-8-price-india-specifications.html)

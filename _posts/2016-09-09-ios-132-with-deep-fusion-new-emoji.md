@@ -1,0 +1,12 @@
+---
+title: 'iOS 13.2 with Deep Fusion, new emoji, ‌‌AirPods Pro‌ support and iPadOS 13.2 released'
+date: 2019-10-28T18:53:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/06/iOS-13.jpg) Apple released iOS 13 last month and the iOS 13.1.3 u\[date was released a couple of weeks back. Today it has released iOS 13.2 and iPadOS 13.2, the next update, which brings several new features including the Deep Fusion camera feature for the iPhone 11 series that uses A13 Bionic Neural Engine for images with better quality and reduced noise, especially for mid to low light scenes. This also brings new emojis that were previewed few months back, based on  Unicode 12.0 approved earlier this year.  These include, people in wheelchairs or with a hearing aid, a flamingo, waffle, and skin tone support for people holding hands. There is also adds new Siri privacy that lets users opt out of Siri and dictation audio recording with Apple and delete ‌Siri‌ and dictation history. The update brings back Announce Messages with ‌Siri‌ feature, which lets ‌Siri‌ read incoming messages without having to unlock the iPhone. The update also includes bug fixes and improvements for iPhone and iPad. Check out the complete changelog below. iOS 13.2 introduces Deep Fusion, an advanced image processing system that uses the A13 Bionic Neural Engine to capture images with dramatically better texture, detail, and reduced noise in lower light, on ‌iPhone ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=KYdaKBXZ-ck:zITiA3xZgRA:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=KYdaKBXZ-ck:zITiA3xZgRA:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=KYdaKBXZ-ck:zITiA3xZgRA:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=KYdaKBXZ-ck:zITiA3xZgRA:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=KYdaKBXZ-ck:zITiA3xZgRA:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=KYdaKBXZ-ck:zITiA3xZgRA:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/KYdaKBXZ-ck)  
+[Read Here»](https://www.fonearena.com/blog/296647/ios-13-2-deep-fusion-%e2%80%8cairpods-pro%e2%80%8c-ipados-13-2.html)

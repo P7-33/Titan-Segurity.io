@@ -1,0 +1,12 @@
+---
+title: 'Airtel Xstream Fibre home broadband plans launched starting at Rs. 799/month'
+date: 2019-10-31T12:37:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Airtel-Xstream-Fiber.jpg) Airtel rebranded its TV app to Airtel Xstream back in August this year and the company launched 1Gbps Ultra broadband plan under Xstream Fibre branding last month. Following that, Airtel has now updated all home broadband plans under XStream Fibre branding and the plans now start at Rs. 799/month. There are 4 new plans under Airtel Xstream Fibre - Basic, Entertainment, Premium, and VIP. Airtel Xstream Fibre Basic is priced at Rs. 799/month, offers up to 100Mbps speed with 150GB data along with Unlimited Airtel Xstream content and Unlimited Local/STD calls. The Entertainment plan is priced at Rs. 999/month, offers up to 200Mbps speed with 300GB data along with 3 months Netflix subscription, 12 months Amazon Prime subscription, Unlimited Zee5 and Airtel Xstream content. The Premium plan is priced at Rs. 1499/month, offers up to 300Mbps speed with 500GB data along with 3 months Netflix subscription, 12 months Amazon Prime subscription, Unlimited Zee5 and Airtel Xstream content. The flagship VIP plan is priced at Rs. 3999/month, offers up to 1Gbps speed with Unlimited data (but the speed might be reduced if you hit a particular limit every month, which could be 3.3TB) along with 3 months Netflix subscription, 12 months Amazon Prime subscription, Unlimited Zee5 and ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=THmM9KSODfI:l8fPlA6yteY:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=THmM9KSODfI:l8fPlA6yteY:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=THmM9KSODfI:l8fPlA6yteY:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=THmM9KSODfI:l8fPlA6yteY:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=THmM9KSODfI:l8fPlA6yteY:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=THmM9KSODfI:l8fPlA6yteY:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/THmM9KSODfI)  
+[Read Here»](https://www.fonearena.com/blog/296887/airtel-xstream-fibre-home-broadband-plans-price.html)

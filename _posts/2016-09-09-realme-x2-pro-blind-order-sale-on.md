@@ -1,0 +1,12 @@
+---
+title: 'Realme X2 Pro Blind Order sale on November 18 – Here’s how to book the realme X2 Pro before launch'
+date: 2019-11-15T13:28:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/realme-X2-Pro-8.jpg) Realme is all set to launch its flagship smartphone, realme X2 Pro in India on November 20 along with realme 5s. Ahead of the launch, the company has announced Blind Order sale of realme X2 Pro that will let realme fans and customers pre-order realme X2 Pro on November 18th, 2019 by simply registering themselves on realme.com. How to place realme X2 Pro Blind Order Visit realme.com on 18th November. The exact timing is not announced yet, but it is likely to be 12 Noon. Login using your realme ID Follow the steps on the blind order page and pay ₹1000 as a deposit which in-turn ensures their 100% chance to buy the all-new realme X2 Pro (Only for first 855 customers) Pay balance due from 20th to 21st November The product will be dispatched from 20th November after paying the due balance. To recall,realme X2 Pro has a 6.55-inch FHD+ display with 91.7% screen-to-body ratio, HDR10+ support, hardware-level DC Dimming 2.0, 90Hz refresh rate and 135Hz touch sampling rate, is powered by Snapdragon 855 Plus with up to 12GB RAM, liquid cooling along with superconducting carbon fiber for improved heat dissipation, runs Android Pie with ColorOS on top, features quad rear ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=BpT7keC2s_M:w5zglIlfOME:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=BpT7keC2s_M:w5zglIlfOME:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=BpT7keC2s_M:w5zglIlfOME:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=BpT7keC2s_M:w5zglIlfOME:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=BpT7keC2s_M:w5zglIlfOME:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=BpT7keC2s_M:w5zglIlfOME:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/BpT7keC2s_M)  
+[Read Here»](https://www.fonearena.com/blog/298160/realme-x2-pro-sale-india.html)

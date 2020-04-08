@@ -1,0 +1,12 @@
+---
+title: 'realme PaySa launched in India — Instant Personal Loans, Business Loans, Mobile Screen Insurance and more'
+date: 2019-12-17T10:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/realme-PaySa.jpg) realme, known for its smartphones and accessories, today launched its first full stack financial service platform via its realme PaySa app to take on Mi Credit. The service comes with 4 highlight products namely Free credit report, Personal loans, screen insurance for mobiles and business loans. realme PaySa will offer 4 main solutions which are lending, savings & protections, payments and tools. Lending will involve personal and business loans. Savings and protections solutions will entail mutual funds, digital gold, SIP, life and non life insurance. The third solution, payments is realme's entry into payment solutions where they are exploring services like UPI, etc. The last solution, tools will include products like free credit report, tax and budgeting tools. The Beta launch of #realmePaySa will feature 4 key products: -Free Credit Report -Personal Loan -Screen Insurance -Business Loan Download your app from the Play Store or realme Store. pic.twitter.com/hSDGY0cGVm — realme (@realmemobiles) December 17, 2019 The free credit report is available for everyone which will take less than a minute and can be availed for 3 times over 3 months. The report will be generated in partnership with a company called CreditMantri. Personal loans will range from 8000 to 10 lakh rupees with up to 1 lakh rupees for ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=xKAiqVFE4ME:p5swc2WMLNI:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=xKAiqVFE4ME:p5swc2WMLNI:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=xKAiqVFE4ME:p5swc2WMLNI:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=xKAiqVFE4ME:p5swc2WMLNI:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=xKAiqVFE4ME:p5swc2WMLNI:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=xKAiqVFE4ME:p5swc2WMLNI:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/xKAiqVFE4ME)  
+[Read Here»](https://www.fonearena.com/blog/300535/realme-paysa-india-features.html)

@@ -1,0 +1,12 @@
+---
+title: 'Xiaomi Mi Credit digital lending platform launched in India officially, offers instant loans of up to Rs. 1 lakh'
+date: 2019-12-03T10:06:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Mi-Credit-app-1024x709.jpg) Xiaomi today launched its Mi Credit digital lending platform in India officially, after running a pilot last year. The company said that during pilot period it has disbursed over 28 crore worth of loans, and 20% of the loans disbursed were for the highest loan value. The company partnered with KreditBee last year, now it has partnered with Aditya Birla Finance Limited, Money View, EarlySalary, CreditVidya and ZestMoney. Xiaomi says that the process is 100% digital, and takes just 5 minutes to complete. It offers real-time disbursements and it supports all major banks. It is offering loans of up to Rs. 100,000, and says that it has high success rate and low interest rate. You can also check credit score for free. Mi Credit allows users to choose the amount and the tenure of the loan once it’s approved.  Repayment period can be selected from 91 days to 3 years with interest rates starting at 1.35% per month.  Xiaomi says that it has data protection agreement with all its lenders and its data is stored in an encrypted format in Indian data centres. How to apply for a loan? Step 1: Install Mi Credit app from Google Play Store and register through Mi ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=PCdQXkMH1W8:fzfBSAPwl0k:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=PCdQXkMH1W8:fzfBSAPwl0k:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=PCdQXkMH1W8:fzfBSAPwl0k:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=PCdQXkMH1W8:fzfBSAPwl0k:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=PCdQXkMH1W8:fzfBSAPwl0k:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=PCdQXkMH1W8:fzfBSAPwl0k:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/PCdQXkMH1W8)  
+[Read Here»](https://www.fonearena.com/blog/299485/xiaomi-mi-credit-india-launch-loan.html)

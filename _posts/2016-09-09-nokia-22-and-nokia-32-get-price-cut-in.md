@@ -1,0 +1,12 @@
+---
+title: 'Nokia 2.2 and Nokia 3.2 get a price cut in India, now available starting at Rs. 6599'
+date: 2019-10-10T14:55:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/02/Nokia-3.2_fonearena-10-1024x741.jpg) HMD Global launched Nokia 3.2 back in May this year and later launched Nokia 2.2 smartphone. Today, Nokia 2.2 has received a price cut in India alongside Nokia 3.2 which has received multiple price cuts recently. Nokia 3.2 was launched for Rs. 8990 (2+16GB) variant and Rs. 10,790 (3+32GB) variant. It was available lately starting at Rs. 7999 and after the price cut, now, Nokia 3.2 is available for Rs. 7499 (2+16GB) variant and Rs. 8499 (3+32GB) variant and this means that Nokia 3.2 has received Rs. 500 price cut. Nokia 2.2, on the other hand, was launched for Rs. 6999 (2+16GB) variant and Rs. 7999 (3+32GB) variant. After the price cut, now, Nokia 2.2 is available for Rs. 6599 (2+16GB) and Rs. 7599 (3+32GB) and this means that Nokia 2.2 has received Rs. 400 price cut. The revised prices are reflecting on Flipkart and Nokia India's official website. Smartphone Old Price New Price Nokia 3.2 Rs. 7999 (2+16GB) Rs. 8999 (3+32GB) Rs. 7499 (2+16GB) Rs. 8499 (3+32GB) Nokia 2.2 Rs. 6999 (2+16GB) Rs. 7999 (3+32GB) Rs. 6599 (2+16GB) Rs. 7599 (3+32GB)   To recall, Nokia 3.2 packs a 6.26-inch HD+ a-Si TFT LCD screen, is powered by the Qualcomm Snapdragon 429 SoC with up to 3GB RAM, runs Android 9.0 (Pie), has a 13-megapixel rear camera and an ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=92yK7oJz1Sg:PyYbkS8wxuU:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=92yK7oJz1Sg:PyYbkS8wxuU:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=92yK7oJz1Sg:PyYbkS8wxuU:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=92yK7oJz1Sg:PyYbkS8wxuU:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=92yK7oJz1Sg:PyYbkS8wxuU:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=92yK7oJz1Sg:PyYbkS8wxuU:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/92yK7oJz1Sg)  
+[Read Here»](https://www.fonearena.com/blog/294698/nokia-2-2-nokia-3-2-price-cut-india.html)

@@ -1,0 +1,12 @@
+---
+title: 'Microsoft Surface Laptop 3 13.5-inch with 10th Gen Intel Core processor and 15-inch with AMD Ryzen custom processor announced'
+date: 2019-10-02T18:06:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Microsoft-Surface-Laptop-3-1024x486.jpg) Microsoft at its event just announced the Surface Laptop 3 in two sizes - 13.5-inch and 15-inch. The Surface Laptop 3 13.5" comes with 10th Generation Intel Core processor up to Core i7, 16GB of LPDDR4x RAM, up to 1TB of SSD storage,tone-on-tone Alcantara and machined aluminum all-metal finish. The Surface Pro 3 15" is powered by new AMD Ryzen 7 Surface Edition processor with built-in Vega 9 or Vega 11 graphics, up to 32GB of LPDDR4x RAM and 1TB of SSD storage, full 1.33mm key travel, 20% larger glass track pad, both USB-A and USB-C and Fast Charging, 80% charge in about an hour. These have Improved front-facing cameras, OmniSonic speakers and dual far-field Studio Mics for crystal clear sound. Surface Laptop 3 now includes a replaceable SSD. Microsoft Surface Laptop 3 13.5-inch specifications 13.5-inch (2256 x 1504 pixels) PixelSense 10 point multi-touch Display with 3:2 aspect ratio 10th Gen Intel Core i5-1035G7 / i7-1065G7 processor with Iris Plus graphics 950 8GB/16GB LPDDR4X, 3733MHz, 128GB/256GB/512GB/1TB SSD, Removable M.2 NVME SSD Windows 10 720p f/2.0 HD front-facing camera 3.5mm headphone jack, Dual far-field Studio Mics, Omnisonic speakers with Dolby Audio Premium Ambient light sensor,  TPM chip for Enterprise-grade protection with Windows Hello face ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=j6SQopIGjm4:yhMqzFTsWrM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=j6SQopIGjm4:yhMqzFTsWrM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=j6SQopIGjm4:yhMqzFTsWrM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=j6SQopIGjm4:yhMqzFTsWrM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=j6SQopIGjm4:yhMqzFTsWrM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=j6SQopIGjm4:yhMqzFTsWrM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/j6SQopIGjm4)  
+[Read Here»](https://www.fonearena.com/blog/293887/microsoft-surface-laptop-3-price-specifications.html)

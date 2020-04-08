@@ -1,0 +1,12 @@
+---
+title: 'Google rolls out October 2019 security update for Pixel devices, also available for Essential Phone'
+date: 2019-10-08T09:35:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/07/Google-Pixel-3a-XL_fonearena-11-1024x683.jpg) Google has started rolling out new over-the-air (OTA) update for Pixel devices and also posted factory images as part of monthly Android Security release for October. The latest security update is the first after Android 10 update that was released recently. New builds for the Pixel devices with October 2019 Android Security update: Pixel, Pixel XL, Pixel 2, Pixel 2 XL (QP1A.191005.007.A1) Pixel 3, Pixel 3 XL, Pixel 3a, Pixel 3a XL (QP1A.191005.007) Check out the complete set of issues that are fixed in the latest update in the Android update Bulletin here, Security and download full factory images or OTA images for these Pixel devices from the Google Developers website, if you don’t have the over-the-air (OTA) update yet. Functional patches for Pixel, Pixel XL, Pixel 2, Pixel 2 XL, Pixel 3, Pixel 3 XL, Pixel 3a, Pixel 3a XL Wi-Fi stability improvements System stability improvements Fix for memory drain in UI Fix for missing heads-up notifications Gesture navigation stability improvements Fix for bootloop in certain device locale modes Functional patches for Pixel 3, Pixel 3 XL Fix for missing notifications in Pixel Stand mode Sensor calibration improvements As usual Essential has also rolled out the October security patch for the Essential Phone. October's security update for Android 10 is now available OTA (Open Market). ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=HClkrP7tCkg:vxYdBg-N-0M:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=HClkrP7tCkg:vxYdBg-N-0M:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=HClkrP7tCkg:vxYdBg-N-0M:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=HClkrP7tCkg:vxYdBg-N-0M:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=HClkrP7tCkg:vxYdBg-N-0M:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=HClkrP7tCkg:vxYdBg-N-0M:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/HClkrP7tCkg)  
+[Read Here»](https://www.fonearena.com/blog/294309/google-pixel-october-2019-android-security-update-essential-phone.html)

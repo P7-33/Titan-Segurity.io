@@ -1,0 +1,12 @@
+---
+title: 'Flipkart MarQ TurboStream streaming stick launched for Rs. 3499'
+date: 2019-11-05T09:02:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Flipkart-MarQ-TurboStream-1024x899.jpg) Flipkart has announced their entry into the streaming stick market with the launch of the MarQ TurboStream. It supports a resolution of 1080p, dual band Wi-Fi, built-in Chromecast and runs Android 9.0 with full access to Google Play apps. With competitors like the Google Chromecast, Amazon Fire Stick and others, Flipkart has come into a crowded market with its MarQ TurboStream. The device is designed to buy more affordable non-smart TVs and turn them into smart TVs. It supports up to Full HD resolutions of 1920x1080 at 60fps resolution, has 1 GB of RAM and 8 GB of ROM. It Dual-band WiFi support along with Dolby Digital Audio support. The included remote has Google assistant built in with shortcut buttons to YouTube and Netflix. The MarQ Turbostream is available on Flipkart for a price of Rs. 3499. Commenting on the launch of the MarQ TurboStream,  Adarsh Menon, Senior Vice President — Private Brands, Electronics and Furniture, Flipkart, said: Flipkart’s Private Brands strategy has always focused on helping our consumers realise their aspirations, without having to compromise on design or their budget. Appetite for streaming devices and Smart TVs has been growing in India, particularly outside the top metros. The MarQ TurboStream is designed for these ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=n5UyeH4qBQg:YmBv2B0yEOQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=n5UyeH4qBQg:YmBv2B0yEOQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=n5UyeH4qBQg:YmBv2B0yEOQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=n5UyeH4qBQg:YmBv2B0yEOQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=n5UyeH4qBQg:YmBv2B0yEOQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=n5UyeH4qBQg:YmBv2B0yEOQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/n5UyeH4qBQg)  
+[Read Here»](https://www.fonearena.com/blog/297183/flipkart-marq-turbostream-streaming-stick-price.html)

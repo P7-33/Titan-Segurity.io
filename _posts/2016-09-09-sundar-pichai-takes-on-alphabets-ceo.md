@@ -1,0 +1,12 @@
+---
+title: 'Sundar Pichai takes on Alphabet’s CEO role as Larry Paige steps down'
+date: 2019-12-04T12:05:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2016/04/Sundar-Pichai.jpg) Sundar Pichai, the current CEO of Google has now taken up the role of CEO of Google's parent company — Alphabet. Larry Paige and Sergey Brin, who were the previous CEO and President respectively at Alphabet, will be stepping down but will remain in the board of directors. In a letter, Larry Paige and Sergey Brin explained their decision to step down. They talk about how they believe Alphabet to have reached a point in time where it does not need both a CEO and a president. To simplify management structure for Alphabet and Google, Sundar Pichai will take CEO roles at both companies, being the chief executive at leading Google, and managing Alphabet’s investment in their portfolio of Other Bets. Alphabet was founded in 2015, designed to be a parent company to Google and other companies such as Nest, Fiber, Malta and others, with Larry Paige and Sergey Brin leading the company. As they step down now, they will continue to remain as active as co-founders, shareholders and board members of Alphabet. Commenting on taking up his new role at Alphabet, Sundar Pichai said: I’m excited about Alphabet and its long term focus on tackling big challenges through technology. I’m looking forward to ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=aYzhxsgv1c8:C3BJn2oJhzE:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=aYzhxsgv1c8:C3BJn2oJhzE:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=aYzhxsgv1c8:C3BJn2oJhzE:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=aYzhxsgv1c8:C3BJn2oJhzE:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=aYzhxsgv1c8:C3BJn2oJhzE:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=aYzhxsgv1c8:C3BJn2oJhzE:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/aYzhxsgv1c8)  
+[Read Here»](https://www.fonearena.com/blog/299590/sundar-pichai-alphabet-ceo.html)

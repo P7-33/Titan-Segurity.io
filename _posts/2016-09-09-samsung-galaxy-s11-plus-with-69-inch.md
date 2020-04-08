@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy S11 Plus with 6.9-inch curved Dynamic AMOLED display, penta rear cameras surface'
+date: 2019-11-26T18:09:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Samsung-Galaxy-S11-Plus-leak.jpg) It is that time of the year when leaks, renders of the upcoming Samsung Galaxy S series smartphone surface and on similar lines recently, renders of Galaxy S11 and Galaxy S11e surfaced revealing key details. Now, the renders of the upcoming Samsung Galaxy S11 Plus revealing key details of the smartphone. According to the renders, Samsung Galaxy S11 Plus is said to flaunt a 6.9-inch curved Dynamic AMOLED display and the resolution is expected to be QHD+. The renders reveal a Penta-camera setup on the S11 Plus with dedicated laster autofocus as well. However, the combination of the Penta-cameras is not known yet and some rumors suggest it could be the 108MP  1/1.33-inch ISOCELL Bright HMX image sensor and one of them could be a ToF sensor as well. Similar to Galaxy Note 10/Note10+, the Galaxy S11 Plus is also said to sport a centered-punch hole camera. Regarding the button placement, the power button and volume buttons are said to be at the left edge, and speakers to the bottom edge of the smartphone. Furthermore, Galaxy S11 Plus is said to measure 166.9 x 76 x 8.8 mm in size with 10.2 mm around the rear camera bump. The processor, memory, storage, ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=5dqhuQeUePM:j6xHykeXrgM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=5dqhuQeUePM:j6xHykeXrgM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=5dqhuQeUePM:j6xHykeXrgM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=5dqhuQeUePM:j6xHykeXrgM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=5dqhuQeUePM:j6xHykeXrgM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=5dqhuQeUePM:j6xHykeXrgM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/5dqhuQeUePM)  
+[Read Here»](https://www.fonearena.com/blog/299071/samsung-galaxy-s11-plus-leak-image-specs.html)

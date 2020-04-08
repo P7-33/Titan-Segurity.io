@@ -1,0 +1,12 @@
+---
+title: 'Qualcomm adds support for ISRO’s NavIC Satellite Navigation System in upcoming Mobile, Automotive and IoT Platforms'
+date: 2019-10-14T08:39:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/IRNSS.jpg) Qualcomm Technologies today announced that it has partnered with Indian Space Research Organization (ISRO) to support India’s Regional Navigation Satellite System (IRNSS), Navigation with Indian Constellation (NavIC), in select chipset platforms across the company’s upcoming portfolio. This will help accelerate the adoption of NavIC and enhance the geolocation capabilities of mobile, automotive and the Internet of Things (IoT) solutions in the region — with the backing of engineering talent in India. The solution is built on Qualcomm Technologies' leading foundational inventions in location-based position technology. As part of the updated platforms, the Qualcomm Location Suite now supports up to seven satellite constellations concurrently, including the use of all of NavIC’s operating satellites for more accurate location performance, faster time-to-first-fix (TTFF) position acquisition, and improved robustness of location-based services. These enhancements will enable select mobile, automotive and IoT platforms to better serve key industries and technology ecosystems in the region and will help improve user experience for location-based applications especially in dense urban environments where geolocation accuracy tends to degrade. The collaboration delivered the first-ever NavIC demonstration using the Qualcomm Snapdragon Mobile Platforms on September 19th. Support for NavIC will be available in select Qualcomm Technologies’ chipset platforms starting in late 2019 and commercial ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=pKO5xY9_3SM:aoMrLu8m-PQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=pKO5xY9_3SM:aoMrLu8m-PQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=pKO5xY9_3SM:aoMrLu8m-PQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=pKO5xY9_3SM:aoMrLu8m-PQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=pKO5xY9_3SM:aoMrLu8m-PQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=pKO5xY9_3SM:aoMrLu8m-PQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/pKO5xY9_3SM)  
+[Read Here»](https://www.fonearena.com/blog/295018/qualcomm-isro-navic-mobile-automotive-iot.html)

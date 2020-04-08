@@ -1,0 +1,12 @@
+---
+title: 'Amazon, Apple, Google, and Zigbee Alliance collaborate to develop Project Connected Home over IP'
+date: 2019-12-19T03:58:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Project-Connected-Home-over-IP.jpg) Smart home devices are becoming popular in recent years and many brands are coming up with their own smart home solutions. On similar lines to increase compatibility among smart home products, Amazon, Apple, Google, and Zigbee Alliance have now announced a working group to develop and adopt a royalty-free connectivity standard. The new open standard is named Project Connected Home over IP and it aims to enable communication across smart home devices, cloud services, and mobile apps. This project's goal seems pretty straight forward as its goal is to increase compatibility across smart home devices and companies with security and this is based upon an open-sourced approach. For the development of Project Connected Home over IP, a number of companies including IKEA, Legrand, NXP Semiconductors, Resideo, Samsung SmartThings, Schneider Electric, Signify (it was formerly Philips Lighting), Silicon Labs, Somfy, and Wulian are onboard. With the new connectivity standard, it will be easier for companies to build products that are compatible with existing voice services like Amazon Alexa, Google Assistant, Apple Siri, and more. It is to be seen how manufacturers will make use of this open connectivity standard and increase compatibility in their future products, and as more companies join, it will be ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=v4zXf7B-t_Q:xME8ariDfDM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=v4zXf7B-t_Q:xME8ariDfDM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=v4zXf7B-t_Q:xME8ariDfDM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=v4zXf7B-t_Q:xME8ariDfDM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=v4zXf7B-t_Q:xME8ariDfDM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=v4zXf7B-t_Q:xME8ariDfDM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/v4zXf7B-t_Q)  
+[Read Here»](https://www.fonearena.com/blog/300683/amazon-apple-google-zigbee-alliance-project-connected-home-over-ip.html)

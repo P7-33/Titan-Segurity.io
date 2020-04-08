@@ -1,0 +1,12 @@
+---
+title: 'Amazfit GTS with 1.65-inch AMOLED display, 50-meter water resistance, 14 days battery life launched in India for Rs. 9999'
+date: 2019-10-11T10:56:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Amazfit-GTS-1-1024x655.jpg) After teasers, Huami has launched Amazfit GTS smartwatch in India. It was introduced in China back in August, has a 1.65-inch Super Retina Grade AMOLED Screen, Custom Modular Dial, Colorful Light Metal Body, 14 days of battery life and it can track 12 sports activities. It has BioTracker PPG bio-tracking optical heart rate sensor, GPS, and 5ATM or 50 meter water resistance so that you can take it for swimming. The Amazfit GTS has aviation grade aluminum alloy metal body and integrates multiple health management features such as sedentary reminder, calorie consumption, sleep analysis, and more. Amazfit GTS specifications 1.65-inch (348 X 442 pixels) AMOLED 341PPI screen with 100% NTSC color gamut, Corning Gorilla Glass 3 protection Support for Android 5.0 or iOS 10.0 and above 12 Sport Mode tracking, Activity and Sleep tracking Low-power BioTracker PPG sensor, 6-Axis Accelerometer , 3 Axis Geomagnetic Sensor, Air Pressure Sensor, Ambient Light sensor Water resistant (5ATM / 50 Meters) Bluetooth 5.0 LE, GPS+GLONASS Dimensions: 43.25 X 36.25 X 9.4mm; Weight: 24.8g 220mAh lithium polymer battery with up to 14 days battery life, up to 46 days battery life in basic watch mode, 25 hours on continuous GPS use The Amazfit GTS comes in Obsidian  Black color, is ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=O8OHtLTvSbo:fnjfXCE0KKo:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=O8OHtLTvSbo:fnjfXCE0KKo:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=O8OHtLTvSbo:fnjfXCE0KKo:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=O8OHtLTvSbo:fnjfXCE0KKo:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=O8OHtLTvSbo:fnjfXCE0KKo:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=O8OHtLTvSbo:fnjfXCE0KKo:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/O8OHtLTvSbo)  
+[Read Here»](https://www.fonearena.com/blog/294824/amazfit-gts-price-india-specifications.html)

@@ -1,0 +1,12 @@
+---
+title: 'Vivo iQOO Neo Snapdragon 855 Edition with 6.38-inch FHD+ AMOLED display, up to 8GB RAM, in-display fingerprint scanner announced'
+date: 2019-10-25T12:13:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Vivo-iQOO-Neo-Snapdragon-855.jpg) Vivo introduced iQOO Neo, a mid-range smartphone with Snapdragon 845 in China in July, now it has launched iQOO Neo Snapdragon 855 Edition, said it had promised. This has a 6.39-inch Full HD+ water drop notch with 90.0% screen-to-body ratio, liquid cooling, up to 8GB of RAM, runs Android Pie, has a 12-megapixel primary rear camera with Sony IMX363 sensor, 8-megapixel ultra-wide lens and a 2-megapixel sensor for portrait shots. There is also a 12-megapixel camera on the front. It has an in-display fingerprint scanner, comes in electro-optic violet color with a special microstructure texture with blue and purple gradients that offer lightning movement and the and the carbon black color uses carbon fiber texture under the glass. The phone has 4D gaming experience with real-time recognition of the game scene that vibrates the phone to intelligent match the scenes. It packs a 4500mAh battery, same as the 845 edition, but this has 33W flash charge that can charge from 0 to 25% in 10 minutes. Vivo iQOO Neo Snapdragon 855 specifications 6.39-inch ( 1080 × 2340 pixels) Full HD+ Super AMOLED 19.5:9 aspect ratio display, 105% NTSC color gamut Octa-Core Snapdragon 855 7nm Mobile Platform (1 x 2.84GHz Kryo 485 + 3 x ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=JlHONq2AOrI:YraB7irawNk:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=JlHONq2AOrI:YraB7irawNk:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=JlHONq2AOrI:YraB7irawNk:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=JlHONq2AOrI:YraB7irawNk:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=JlHONq2AOrI:YraB7irawNk:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=JlHONq2AOrI:YraB7irawNk:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/JlHONq2AOrI)  
+[Read Here»](https://www.fonearena.com/blog/296516/vivo-iqoo-neo-snapdragon-855-price-specifications.html)

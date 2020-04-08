@@ -1,0 +1,12 @@
+---
+title: 'YouTube Music update with Discovery Playlists, personalised mixes rolling out globally'
+date: 2019-12-18T09:40:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Youtube-Music-Discovery-Playlist_1-1024x840.jpg) YouTube Music is updating to finally get a much awaited feature, called personalised mixes. They will come in 3 types - the new Discover Mix, New Release Mix, and Your Mix. These three mixes will help users keep up to date on what’s just been released and also expose them to a wider range of music and artists. The discover mix is designed to introduce users to artists that they would have never heard of before, helping users discover lesser known gems and music. Every week on Wednesday, YouTube music will update the playlist with 50 tracks for everyone. New release mix will contain personalisations derived from a user in its playlist, with new songs from the users favourite artists and some from other newer artists. YouTube has said that this playlist will be updated every Friday of the week. The last playlist, Your Mix will contain a highly personalised mix of songs containing artists that the user know and loves, with new songs put in rotation. This playlist is primarily for users who just want to play their favourite songs don't want the hassle of choosing their songs. Discovery playlist have been some of the highlight features in other music streaming services like ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=HKB8lKtZhyI:AOB_sP6aw_w:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=HKB8lKtZhyI:AOB_sP6aw_w:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=HKB8lKtZhyI:AOB_sP6aw_w:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=HKB8lKtZhyI:AOB_sP6aw_w:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=HKB8lKtZhyI:AOB_sP6aw_w:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=HKB8lKtZhyI:AOB_sP6aw_w:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/HKB8lKtZhyI)  
+[Read Here»](https://www.fonearena.com/blog/300635/youtube-music-discovery-playlists-personalised-mixes.html)

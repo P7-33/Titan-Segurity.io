@@ -1,0 +1,12 @@
+---
+title: 'LG Tone+ Free wireless water-resistant earbuds with fast charging announced'
+date: 2019-10-01T04:26:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/LG-Tone-Plus-Free-1024x745.jpg) LG just announced Tone+ Free (HBS-PFL7), the company's first wireless earbuds in Korea after introducing neckband Bluetooth headsets for the past several years. This has rich signal processing technology and advanced tuning technology (EQ, Equalizer) from audio manufacturer 'Meridian Audio' for rich bass, clear mid and highs, and offers three-dimensional sound. It also reduces digital noise, minimizing distortion. The earphones have 'UVnano' coating to prevent it from ultraviolet rays. It has a normal microphone for voice and noise-canceling microphone as well. It recognizes and analyzes the voice and noise coming from each microphone, and then removes the noise, offering a clearer voice to the caller. The earbuds have IPX4 ratings to protect it from sweat and light rain. The touch pad on both the earphones lets you control call, music playback and also launch 'Google Assistant'. You can hold down the 'Touch Pad' and say "Call Mom", "Let me know my schedule today" and more. The ergonomic semi-open design ensures a secure fit. Even if worn for a long time, it will be comfortable, says LG. It supports fast charging, allowing you to listen to music for up to one hour with just five minutes of charging. When fully charged, it will offer ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=lg69Su5usjo:eMWz3MvQfrA:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=lg69Su5usjo:eMWz3MvQfrA:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=lg69Su5usjo:eMWz3MvQfrA:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=lg69Su5usjo:eMWz3MvQfrA:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=lg69Su5usjo:eMWz3MvQfrA:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=lg69Su5usjo:eMWz3MvQfrA:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/lg69Su5usjo)  
+[Read Here»](https://www.fonearena.com/blog/293747/lg-tone-plus-free-price-features.html)

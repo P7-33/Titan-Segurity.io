@@ -1,0 +1,12 @@
+---
+title: 'Realme XT 730G with Snapdragon 730G, 30W VOOC Flash Charge and true wireless earbuds launching in India on December 17'
+date: 2019-12-06T12:50:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/realme-X2-2-1024x994.jpg) Update: realme has sent out invites for the launch of realme XT 730G phone in India on December 17th. It will also launch the true wireless earbuds in Black, White and Yellow colors. We already know that realme is working on a Snapdragon 730G version of the realme XT smartphone. The phone event got certified by TENAA in China earlier this week. Today at the realme XT launch event Realme CEO Madhav Sheth confirmed that the phone will be called Realme XT 730G and will come with 30W VOOC Flash Charge fast charging, but it will only launch in India in December. realme XT 730G specifications 6.4-inch (2340 × 1080 pixels) Full HD+ AMOLED display with Corning Gorilla Glass 5 protection Octa Core (2.2GHz Dual + 1.8GHz Hexa) Snapdragon 730G 8nm Mobile Platform with Adreno 618 GPU 6GB (LPPDDR4x) RAM with 64GB (UFS 2.1) storage / 8GB (LPPDDR4x) RAM with 128GB (UFS 2.1) storage, expandable memory up to 256GB with microSD Dual SIM ColorOS 6.0 based on Android 9.0 (Pie) 64MP rear camera with 1/1.72″ Samsung GW1 sensor, 0.8μm pixel size, f/1.8 aperture, LED flash, EIS, 8MP 119° ultra-wide angle lens with f/2.25 aperture, 1.12μm pixel size with 2MP depth sensor, f/2.4 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=kpeksIyb_-c:3kbZDP0tE0o:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=kpeksIyb_-c:3kbZDP0tE0o:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=kpeksIyb_-c:3kbZDP0tE0o:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=kpeksIyb_-c:3kbZDP0tE0o:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=kpeksIyb_-c:3kbZDP0tE0o:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=kpeksIyb_-c:3kbZDP0tE0o:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/kpeksIyb_-c)  
+[Read Here»](https://www.fonearena.com/blog/291781/realme-xt-730g-india-launch-date.html)

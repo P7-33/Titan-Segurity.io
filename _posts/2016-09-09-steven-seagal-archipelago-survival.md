@@ -1,20 +1,18 @@
 ---
-title: 'Steven Seagal''s Archipelago Survival 0.0.198 MOD (Unlimited gold coins + More) APK For Android'
-date: 2020-02-04T11:00:00+01:00
+title: 'Steven Seagal''s Archipelago Survival 0.0.181 ÐOD (Unlimited gold coins + More) APK For Android'
+date: 2019-12-14T12:14:00+01:00
 draft: false
 ---
 
-![Steven Seagal](https://i0.wp.com/apkhome.net/wp-content/uploads/2020/02/Steven-Seagals-Archipelago-Survival-0.0.198-MOD-Unlimited-gold-coins-More.png "Steven Seagal")
+![Steven Seagal](https://i2.wp.com/apkhome.net/wp-content/uploads/2019/11/Steven-Seagals-Archipelago-Survival-0.0.181-ÐOD-Unlimited-gold-coins-More.png "Steven Seagal")
 
   
 
-Steven Seagal's Archipelago Survival 0.0.198 MOD (Unlimited gold coins + More) APK For Android
+Steven Seagal's Archipelago Survival 0.0.181 ÐOD (Unlimited gold coins + More) APK For Android
 
-The legendary action hero moves on to the next task - but this time, he won't be able to win without your help! Only together can you unlock all the secrets of the archipelago lost in the ocean and save our world from the deadly threat.
+The Survival Archipelago of Steven Seagal is a new and exciting survival game with advanced RPG elements. Find yourself on "paradise" tropical islands, where powerful secret societies and powerful terrorist organizations conduct experiments that can radically change the history of humanity. Stand by their side with a special agent, known as Mr. S, and stop the imminent global catastrophe!
 
-Archipelago Survival by Steven Seagal is an exciting new survival game with advanced RPG elements. Find yourself on the âparadiseâ tropical islands, where powerful secret societies and terrorist organizations are carrying out experiments that can radically change the history of humanity. Stand in their way with a special agent, known as MS, and stop the impending global disaster!
-
-Archipelago Survival by Steven Seagal is based on the classic and age-old mechanics of survival games. Here you will have to explore the territory, seek resources, make weapons and equipment, build and strengthen the base, engage in intense battles with various enemies - from traditional zombies to unique mutant bosses with superpowers. Your survival is in your hands.
+Archipelago Survival by Steven Seagal is based on classic mechanics and recognized survival games. Here you will have to explore the territory, search for resources, make weapons and equipment, build and strengthen the base, engage in intense combat with different enemies - from traditional zombies to unique mutant bosses with superpowers. Your survival is in your hands.
 
 **Supported Android**  
 {4.0 and UP}  
@@ -24,22 +22,21 @@ Jelly Bean(4.1â"4.3.1)- KitKat (4.4â"4.4.4)- Lollipop (5.0â"5.0.2) - Ma
 **MOD TYPE: Unlimited gold coins + More  
 **
 
-Download Steven Seagal's Archipelago Survival 0.0.198 MOD (Unlimited gold coins + More) APK For Android
-=======================================================================================================
+Download Steven Seagal's Archipelago Survival 0.0.181 ÐOD (Unlimited gold coins + More) APK For Android
+========================================================================================================
 
 Additional Information
 ----------------------
 
 **Developer :** TeslaGames Global
 
-**Version :** 0.0.198
+**Version :** 0.0.181
 
 **Google Play :** [PlayStore](https://play.google.com/store/apps/details?id=com.teslagames.mssurvival)
 
   
 
-[Download Now](https://store4app.co/post/steven-seagals-archipelago-survival-0-0-198-mod-unlimited-gold-coins-more-apk-for-android_1580810347)
+[Download Now](https://store4app.co/post/steven-seagals-archipelago-survival-0-0-181-od-unlimited-gold-coins-more-apk-for-android_1574713114)
 
   
-#ApkDownload, #APKForAndroid, #DownloadApkMod, #store4app  
-Source: [Go homepage.](https://store4app.co/post/steven-seagals-archipelago-survival-0-0-198-mod-unlimited-gold-coins-more-apk-for-android_1580810347) .downloadtop{ text-align:center; -webkit-appearance: none; -moz-appearance: none; appearance: none; width: 100%; padding: 9px 9px 11px 13px; background-color: #0EBD3F; border: none; color:#fff; border-radius: 3px; outline: none; font-weight;bold; font: 20px 'Open Sans', sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; color: #fff; cursor: pointer; border-radius:15px;-webkit-border-radius:15px;-moz-border-radius:5px;box-shadow:0 0 5px rgba(0,0,0,.2);-moz-box-shadow:0 0 5px rgba(0,0,0,.2);-webkit-box-shadow:0 0 5px rgba(0,0,0,.2) !important; }
+Source: [Go homepage.](https://store4app.co/post/steven-seagals-archipelago-survival-0-0-181-od-unlimited-gold-coins-more-apk-for-android_1574713114) .downloadtop{ text-align:center; -webkit-appearance: none; -moz-appearance: none; appearance: none; width: 100%; padding: 9px 9px 11px 13px; background-color: #0EBD3F; border: none; color:#fff; border-radius: 3px; outline: none; font-weight;bold; font: 20px 'Open Sans', sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; color: #fff; cursor: pointer; border-radius:15px;-webkit-border-radius:15px;-moz-border-radius:5px;box-shadow:0 0 5px rgba(0,0,0,.2);-moz-box-shadow:0 0 5px rgba(0,0,0,.2);-webkit-box-shadow:0 0 5px rgba(0,0,0,.2) !important; }

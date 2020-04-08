@@ -1,0 +1,75 @@
+---
+title: 'The boy behind the biggest coin-op conversion of the 80s'
+date: 2019-10-14T03:14:00+01:00
+draft: false
+---
+
+It's 6am on a cold morning in November 1987. 17-year-old programmer Martin Webb is sitting in front of a computer at a house somewhere in Shropshire. Martin's father Dennis Webb is also present, as is Geoff Brown, the boss of game publisher US Gold. They've been here all night.
+
+The previous evening, moments before the Commodore 64 version of OutRun was due to be duplicated at Ablex Audio Video in Telford - producing tens of thousands of copies for the lucrative Christmas market - one of the testers reported a problem with the mastering process. Somewhere between Martin's code and US Gold's turbo tape loader there was a bug. They'd been unable to fix the problem at the factory so they'd moved to a nearby house to give Martin a quiet space to concentrate on the issue. No-one was talking but the teenager needed no reminding how much was at stake. OutRun was the hottest arcade game around and US Gold had paid £250,000 up-front to secure the home computer rights from Sega (a top-tier license typically sold for a quarter of this amount). Contracts had been signed and adverts had been running for months. This was easily the biggest coin-op conversion to date, and Martin was responsible for the key C64 version that would be distributed worldwide.
+
+![6](https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-10-10-17-25/Sega_Eurogamer.png/EG11/resize/690x-1/quality/75/format/jpg)
+
+The adults leave the room to fix up some breakfast, leaving Martin alone. He is fighting back tears by this point. "I was tired from no sleep for days," he says, remembering that morning in that house. "It would have been easy to get distraught and give up. But at those moments you realise that failing is far worse than struggling. Pushing forward, as hard as it seems, is easier than losing everything you have sacrificed. Even at 17, I felt that."
+
+Most readers will remember OutRun, Sega's breezy blue-sky racer that screeched into arcades in 1986. The game involved racing a Ferrari Testarossa along sweeping highways in a bid to beat the clock and impress your blonde passenger. The journey that led to Martin landing the OutRun conversion job was a little different. He and his father Dennis hit the M1 in the family Ford Sierra, travelling north from their home in Kent to US Gold's Birmingham base. "I always dreaded drives with dad," he says. "I loved to listen to the radio but dad loved to talk. We set off early and all I wanted to do was sleep and dream. But Dad just wanted to talk about games and my coding. It wore me out."
+
+![1](https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-10-10-17-13/outrun_ingame1.png/EG11/resize/648x-1/quality/75/format/jpg)
+
+Dad Dennis was responsible for the graphics and daubed his and Martin's initials on the in-game vehicles.
+
+Although Martin was only 17, he was already a seasoned programmer with more than a dozen games under his belt. The majority of these were original titles for the Texas Instruments TI-99/4A home computer which were mainly sold via mail order. His dad managed the business - and therefore Martin - and also produced the graphics for the games. The company, Intrigue Software, got off to a good start and built up a decent reputation in TI-99 circles.
+
+"It was a good money spinner," says Martin. "I had become pretty proficient at rolling out TI-99 games and that was good for business and keeping dad happy. When I made a game the orders followed." But the TI-99 market was tiny and it would shrink further as the C64, Spectrum and other systems began to dominate. "We weren't making any money. Dad kept dragging me to the bank telling the bank manager I was a whiz-kid, and the bank manager increased the overdraft. It was that easy. Dad would just tell them I was making a new game, roll off some sales figures and the money was given."
+
+As the lending increased Martin started to look for a solution. The obvious one was to ditch the TI-99 and start developing games for more popular systems. He chose the C64 and spent around a year learning to code in 6502, then used his newfound skills to create a simple one-on-one fighter called Karate Chop. The next problem was how to sell the game. "The C64 and Spectrum markets had moved on and by now there were a few big players. If you made a game you needed thousands of pounds to run full colour ads and since we were broke we couldn't compete. We needed to sell the C64 game to one of the software houses, get an advance and let them worry about selling it. So after five years of selling our own games via mail order, and going broke a few times, I begged my dad to take me to see one of the big software houses."
+
+![2](https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-10-10-17-13/outrun_ingame2.png/EG11/resize/648x-1/quality/75/format/jpg)
+
+The famous Gateway stage, realised on the C64. The graphics were basic and blocky, but fast.
+
+Martin admits that convincing his father to change tack was not easy. "Up until now dad came up with the game ideas. I would sit in my bedroom while my dad was in the spare room running the business, and of course trying to keep a 17-year-old on track to get the games finished. I'm a total perfectionist so I can't imagine how hard that must have been. That said, teenagers and parents are not a good brew and we had a fair few problems, usually resulting in me running off into the Kent countryside and my dad driving around looking for me. I'm smiling now but back then it was really bad. The arguments started off verbally and soon turned to marginal fights and later got worse."
+
+As financial pressure and domestic tension rose, Dennis agreed to go along with Martin's suggestion. They took Karate Chop to Ocean Software, but the Manchester firm was already developing the coin-op conversion of Yie Ar Kung-Fu so turned it down. However another publisher, Melbourne House, snapped it up for £5,000. Enthused, Martin developed Max Torque, a clone of Sega's motorbike racer Hang-On, which they successfully sold to Bubble Bus Software. He then started work on a quick OutRun clone. "I'd already coded the road stuff for Max Torque - bends and so on. It was pretty simple to switch the bike for a car and boom, I had another game!" To avoid any issues his version featured a Porsche-style car rather than a Ferrari. "I had dad take me to the Porsche garage in Maidstone. We photographed the back end of a 911 from different angles and then traced the photos onto a sprite sheet. I even remember that being an argument. Dad was like 'I can just draw a car'."
+
+On the day the Webbs visited US Gold, they brought along a demo of their C64 OutRun clone, having no idea that the firm had just officially licensed the Sega coin-op.
+
+"When we finally arrived my dad was looking very impressed, like this could be the big time. US Gold was based in a huge glass building and the car park was lined with expensive cars. We met Geoff Brown, the CEO, and I showed him this demo of the driving game. We were in a room with about three or four programmers and I recall them all looking over at what I was doing. I had this Porsche driving down the road from for my Hang-On rip-off and I'd added a dashboard, with a steering wheel, speedometer and gear shift. I did this because the OutRun machine had a sit-down version and it was kind of meant to resemble that. As soon as I loaded the game and showed off this Porsche, looking very much like one of those parked outside, I had the attention of everyone in the room. What they all knew and I didn't was that Geoff's gamble of signing his latest Sega deal had just paid off."
+
+![3](https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-10-10-17-13/outrun_ingame3.png/EG11/resize/648x-1/quality/75/format/jpg)
+
+The Porsche from Martin's OutRun rip-off makes an appearance in the official conversion.
+
+It seemed that the 17-year-old in the room had a prototype of just what US Gold needed - and this was around Eastertime, giving them months to get the game ready for Christmas 1987. "Geoff took me into a side room where there sat an OutRun arcade machine. He said 'Martin you can do this right? You can convert this to the C64?' I was gobsmacked. Within an hour the lawyers and my dad had made a contract and that's how I landed my first conversion. The upfront fee was about £20k. That was a lot of cash back in 1987."
+
+Despite the OutRun arcade machine being a technical behemoth, powered by twin 68000 CPUs, Martin was confident that he could meet the challenge and get a reasonable version running on the C64's measly 6510. "Sure it was a big gamble," he says, referring to the hefty advance. "Dad had to sign our house on the line, and we had a deadline, but I already had this Porsche game running, so I was a long way ahead. I remember the first bits I did were the intro screen, the car radio screen, where you select soundtracks, and the high score screen. I did this as US Gold wanted these elements in, and by doing them first I knew how much memory I would had left. After that the game had two real challenges: the hills and the huge graphics."
+
+He conquered the hills in a couple of hours ("All I did was move the horizon, which was created using raster timing, up and down"), but the large roadside graphics presented a quandary: should he opt for speed or graphical detail? "For me speed was the true test of my skills," he says. "OutRun was fast in the arcades so I knew it had to be fast, but I also knew there would be a payoff using chunky object sprites as opposed to native ones. It was a gamble and I decided it was better to choose huge, fast-moving objects over smaller, smoother ones. It was down to personal taste. If I redid the game now I would maybe do it differently, but when I was testing the game, flying along with all the stuff whizzing by, I was really chuffed with what I'd made."
+
+Everything was going well and Martin was weeks ahead of schedule when the finish line suddenly moved. "US Gold requested a handful of tracks initially. Then when I finished in October Geoff asked me to port all of the routes, which was a mammoth task. We had no original design documents, just the arcade game, so we had to master every route and video it using a Super 8 recorder. I played that game a lot."
+
+The extra content pushed the development right to the wire, and resulted in the unfortunate bug that almost derailed the game's duplication. Martin managed to fix that in the nick of time, but there was nothing he could do about the basic multi-load routine which couldn't accommodate the famous forking road from the original. This missing feature was mentioned in most of the magazine reviews, including Zzap!64 who praised the game's "tremendous speed" but concluded that it lacked "playability and flair" in its 68% review. This rating was fairly typical, and if Metacritic had been around back then the version would have scored 58 overall.
+
+![4](https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-10-10-17-17/martinwebb_2019.jpg/EG11/resize/300x-1/quality/75/format/jpg)
+
+Martin Webb programmed the C64 version of OutRun when he was just 17-years-old.
+
+For everyone involved the number that really mattered was sales and OutRun didn't disappoint. The game was released on December 10 and still managed to become the biggest-selling title of 1987. US Gold reported that it shifted 250,000 copies across all formats over the Christmas period. The Webb's were suitably rewarded and the days of going to see the bank manager, cap in hand, were over. "The advance was repaid and the first royalty check was for £17k for January sales," says Martin. "The trailing months were pretty good too. Dad was still getting royalties into the 90s since OutRun was sold over and over again on compilations, all of which were best sellers. I don't know what the total sum was but I'd guess a lot of money - maybe £70-80k. When we got the first royalty check my dad gave me a grand and I part-exchanged my Mini Cooper for a Ford Fiesta XR2. A few months later I changed that for a Ford Orion 1.6i Ghia."
+
+No Ferrari then? "No Ferrari but that Orion was a pretty flash motor for an 18-year-old."
+
+The sky was the limit for Martin. He was whisked over to Chicago to work on the 'enhanced' NTSC version of OutRun that was published by Mindscape. "While there I was taken out for dinner by a boss at Nintendo. I think it's what we now call headhunting but I was too young to know and dad was too protective of his asset." Back in the UK, US Gold offered them another coin-op conversion - Atari's RoadBlasters. Martin was able to reuse the track editor he had developed for OutRun so this was a quick, easy, profitable job.
+
+However the successes were papering over the cracks in the relationship between father and son. "Whilst dad would often run me down at home, when we were out at computer fairs he would really talk me up. He'd announce to onlookers playing our games that I had made them. He would come across very proud, but when we were back at home and I was not getting the job done things were different. Later in life I learnt that close friends of the family had tried to get dad to back off, questioning if the pressure and workload was good for a young person. But if you knew my dad, you'd know that would have been a waste of time."
+
+Some small gaming projects followed but Martin had made up his mind to move on, leaving his home - and the industry - behind. "After I packed up doing games with dad it caused a lot of problems and it's a part of my life I don't like to talk about," he says, explaining his reticence to discuss the years that followed and whether he ever found common ground with his father.
+
+"I'm living in Brazil now with my mum, who sat through all the drama and fights of the game years. She knew it was not the best situation for me. 30 years later it has left its scars. I was young and dad drove me a little too hard. I don't regret it, and in a way I have respect for my dad relying on someone so young to do so much. That must have been hard. I only wish that I could have carried on making games and maybe gone on to do bigger things in the industry. For me the 80s were all about music, hot hatchbacks and videogames. The gaming industry was in its infancy. Just kids, young men, making stuff in their bedrooms. What an amazing time to have lived."
+
+It's a warm evening in June 2017. Martin's son Thomas auditions for America's Got Talent under the stage name Tom London. As the 25-year-old 'tech magician' faces the judges before his performance, Simon Cowell asks "Who's been your main inspiration?"
+
+"It's been my dad," replies Thomas. "My whole life I've just grown up wanting to be like him. If it wasn't for him, I wouldn't be able to do what I'm about to try and do."
+
+  
+  
+from Hacker News https://ift.tt/2VCGuvS

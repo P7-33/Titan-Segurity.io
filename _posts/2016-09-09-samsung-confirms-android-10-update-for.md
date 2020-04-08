@@ -1,0 +1,12 @@
+---
+title: 'Samsung confirms Android 10 update for range of Galaxy smartphones, only available for 2018 and 2019 devices'
+date: 2019-11-29T07:21:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/08/Android-10.jpg) Samsung announced Android 10 beta program officially for the Galaxy S10 series last month, and roll out the beta update for Galaxy S10 series, Galaxy Note 10 series few weeks back, and most recently for the Galaxy Note 9 and Galaxy S9 series. Now it has confirmed the Android 10 One UI 2.0 update schedule for its old phones, and also said that stable update will begin starting from January 2020 for its flagships. However, it is offering update only for the phones that are released in 2018 and 2019.   Android 10 and One UI will bring Clean and easy-to-use interface with minimized pop-ups,  New, smarter layout for a visually comfortable experience, enhanced Dark Mode, Focus Mode, Intuitive Device Care menu and more. Samsung phones that are confirmed to get Android 10  update January 2020 Galaxy Note10 Galaxy Note10+ Galaxy S10 Galaxy S10+ Galaxy S10e Galaxy Note9 Galaxy S9 Galaxy S9+ Galaxy A30 Galaxy M30 Galaxy M20 April 2020 Galaxy Fold Galaxy A80 Galaxy A70s Galaxy A70 Galaxy A50s Galaxy A50 Galaxy A9(2018) Galaxy A7(2018) Galaxy A6+ Galaxy A6 Galaxy M30s Galaxy Tab S6 May 2020 Galaxy A8 Star Galaxy A10 Galaxy A10s Galaxy M10s June 2020 Galaxy A20s Galaxy J6 Galaxy On6 July 2020 Galaxy J8 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=3ktwMhJD6b4:JQCy3NhD5t0:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=3ktwMhJD6b4:JQCy3NhD5t0:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=3ktwMhJD6b4:JQCy3NhD5t0:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=3ktwMhJD6b4:JQCy3NhD5t0:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=3ktwMhJD6b4:JQCy3NhD5t0:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=3ktwMhJD6b4:JQCy3NhD5t0:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/3ktwMhJD6b4)  
+[Read Here»](https://www.fonearena.com/blog/299299/samsung-android-10-update-list.html)

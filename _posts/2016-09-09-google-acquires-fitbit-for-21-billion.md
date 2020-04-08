@@ -1,0 +1,12 @@
+---
+title: 'Google acquires Fitbit for $2.1 billion with opportunity to introduce Made by Google wearable devices'
+date: 2019-11-01T15:17:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2018/01/Fitbit-Ionic-Review-2.jpg) Recently, Alphabet Inc, Google’s parent company reportedly made an offer to acquire U.S. wearables device maker, Fitbit Inc. for an undisclosed amount. Now, Google has confirmed that it is acquiring Fitbit for $2.1 billion and Fitbit will be joining Google itself and Google sees this as an opportunity to invest even more in Wear OS as well as introduce 'Made by Google' wearable devices into the market. Google LLC acquires Fitbit, Inc for $7.35 per share in cash, valuing the company at a fully diluted equity value of approximately $2.1 billion. Google says that they have made progress with partners in this space with Wear OS and Google Fit, but now sees an opportunity to invest even more in Wear OS as well as introduce Made by Google wearable devices into the market. So we can expect Google to introduce its own WearOS smartwatch in the future. Google also confirmed that similar to their other products, with wearables, the company will be transparent about the data they collect and why. Fitbit health and wellness data will not be used for Google ads and Fitbit users will be given a choice to review, move, or delete their data. Similarly, Fitbit also confirmed that it will remain transparent ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=AutLq4k-lEo:ohf3c_hVpws:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=AutLq4k-lEo:ohf3c_hVpws:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=AutLq4k-lEo:ohf3c_hVpws:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=AutLq4k-lEo:ohf3c_hVpws:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=AutLq4k-lEo:ohf3c_hVpws:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=AutLq4k-lEo:ohf3c_hVpws:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/AutLq4k-lEo)  
+[Read Here»](https://www.fonearena.com/blog/297015/google-acquires-fitbit-for-2-1-billion.html)

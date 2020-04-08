@@ -1,0 +1,12 @@
+---
+title: 'Nubia Red Magic 3S with 6.65-inch FHD+ HDR AMOLED 90Hz display, Snapdragon 855 Plus, up to 12GB RAM launching in India soon'
+date: 2019-10-11T08:16:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Nubia-Red-Magic-3S.jpg) ZTE's Nubia brand announced the Red Magic 3S gaming smartphone last month in China which is an upgrade to the Red Magic 3 that was launched in India in June, and also recently announced the global roll out of 3s too. Today, the company has officially started teasing the India launch of Red Magic 3S and is set to launch soon in India. The teaser posted by Red Magic India says "The wait is almost over #Faster #Cooler #Smarter #GodModeOnPlus #RedMagic3S #ArrivingSoon #StayTuned" and the hashtags clearly indicate that the Red Magic 3S is indeed launching soon in India. However, the launch date isn't revealed yet, and we should know more information in the coming days. The wait is almost over #Faster #Cooler #Smarter #GodModeOnPlus #RedMagic3S #ArrivingSoon #StayTuned pic.twitter.com/KKs9Km11q0 — Red Magic India (@RedMagicIN) October 11, 2019 To recall, Nubia Redmi Magic 3S flaunts a 6.65-inch FHD+ HDR AMOLED display with 90hz refresh rate, HDR support, is powered by Snapdragon 855 Plus with up to 12GB of RAM and features UFS 3.0 storage. It also retains the active cooling system that uses liquid cooling technology along with an internal turbo fan with upgraded air inlet, making active cooling more efficient to dramatically improving thermal performance. The ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=1vOZkoyHE-E:h1-oa0mlHwA:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=1vOZkoyHE-E:h1-oa0mlHwA:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=1vOZkoyHE-E:h1-oa0mlHwA:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=1vOZkoyHE-E:h1-oa0mlHwA:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=1vOZkoyHE-E:h1-oa0mlHwA:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=1vOZkoyHE-E:h1-oa0mlHwA:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/1vOZkoyHE-E)  
+[Read Here»](https://www.fonearena.com/blog/294791/nubia-red-magic-3s-india-launch-date.html)

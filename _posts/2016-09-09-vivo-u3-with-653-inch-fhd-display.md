@@ -1,0 +1,12 @@
+---
+title: 'Vivo U3 with 6.53-inch FHD+ display, Snapdragon 675, triple rear cameras, 5000mAh battery announced'
+date: 2019-10-21T08:49:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Vivo-U3-1.jpg) Vivo has announced, the company’s latest mid-range smartphone in China.. It packs a 6.53-inch Full HD+ LCD screen, is powered by Snapdragon 675 with up to 6GB of RAM, runs Android Pie with FuntouchOS, has a 16-megapixel rear camera, 8-megapixel 120° ultra wide sensor and a 2-megapixel depth sensing camera and a 16-megapixel camera on the front. It has a rear-mounted fingerprint scanner, gradient back and packs a 5000mAh battery with support for 18W fast charging. Vivo U3 specifications 6.53-inch (2340  × 1080 pixels) Full HD+ 19.5:9 LCD screen 2GHz Octa-Core Snapdragon 675 64-bit 11nm Mobile Platform with Adreno 612 GPU 4GB / 6GB LPPDDR4x RAM with 64GB  storage, expandable memory up to 256GB with microSD Dual SIM Funtouch OS 9.2 based on Android 9.0 (Pie) 16MP rear camera with f/1.78 aperture, Sony IMX499 sensor, LED flash, 8-megapixel 120° wide-angle camera with f/2.2 aperture, 2-megapixel camera with f/2.4 aperture 16MP front-facing camera with f/2.0 aperture Fingerprint sensor 3.5mm audio jack Dimensions:  162.15 x 76.47 x 8.89 mm; Weight: 193g Dual 4G VoLTE, WiFi 802.11 ac (2.4GHz + 5GHz), Bluetooth 5, GPS + GLONASS, Micro USB 5000mAh (typical) battery with 18W fast charging The Vivo U3 coms in Black, Blue and Green colors, ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=rsMyZhIqE-0:VRI5V5WTlac:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=rsMyZhIqE-0:VRI5V5WTlac:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=rsMyZhIqE-0:VRI5V5WTlac:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=rsMyZhIqE-0:VRI5V5WTlac:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=rsMyZhIqE-0:VRI5V5WTlac:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=rsMyZhIqE-0:VRI5V5WTlac:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/rsMyZhIqE-0)  
+[Read Here»](https://www.fonearena.com/blog/295836/vivo-u3-price-specifications.html)

@@ -1,0 +1,12 @@
+---
+title: 'Google Shopping to integrate Translate and Google My Business early next year for Indian users'
+date: 2019-11-26T11:29:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Google-Shopping-Update-1024x681.jpg) Google has introduced new integrations for the Google Shopping experience for Indian users, namely Google My Business and Google Translate integration. These changes are aimed at making Google Shopping more accessible for new small to medium businesses and non English speaking Indian users. With a majority of shopping in India still happening offline, Google aims to change that by make it easier for local retailer to create an online store through Google My Business. Retailers will be able to connect with the millions of shoppers searching for their products online by posting photos of their in-store products, which Google will automatically connect as product listings on Search and in the Google Shopping tab. Google is also integrating Translate into their Shopping tab as well as the Shopping home page for Indian languages. Google claims that almost 500 million non-English-speaking users will come online and that the Google Translate integration will enable them to more easily find products in their own language. Translation will also be taken care of from the merchants side seamlessly. Both these features will be coming to Indian users next year with over 20000 local businesses using Google My Business in India. Source
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=P-fzkrjc0nc:wmAeW0E8cRY:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=P-fzkrjc0nc:wmAeW0E8cRY:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=P-fzkrjc0nc:wmAeW0E8cRY:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=P-fzkrjc0nc:wmAeW0E8cRY:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=P-fzkrjc0nc:wmAeW0E8cRY:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=P-fzkrjc0nc:wmAeW0E8cRY:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/P-fzkrjc0nc)  
+[Read Here»](https://www.fonearena.com/blog/298961/google-shopping-translate-google-my-business.html)

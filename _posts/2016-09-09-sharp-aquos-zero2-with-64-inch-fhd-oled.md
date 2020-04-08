@@ -1,0 +1,12 @@
+---
+title: 'Sharp AQUOS zero2 with 6.4-inch FHD+ OLED 240Hz display, Snapdragon 855, Android 10, AQUOS sense3 plus and AQUOS sense3 announced'
+date: 2019-09-26T10:16:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Sharp-AQUOS-zero2-1.jpg) Sharp has introduced AQUOS zero2, the company's latest flagship smartphone as well as AQUOS sense3 and sense3 plus in the winter lineup in Japan. The zero2 has a 6.4-inch OLED screen with 120Hz screen and a black screen is inserted between each frame to double up refresh rate to 240Hz, in addition touch response speed has improved. It is powered by Snapdragon 855  with unique heat dissipation design, 8GB of RAM, runs Android 10, has a 12-megapixel rear camera along with a 20-megapixel ultra-wide sensor an 8-megapixel in-screen front camera. It weighs just 143 grams and packs a 3,130mAh battery  Parallel Charging that uses two charging ICs to reduce heat generation during charging. Sharp AQUOS zero2 specifications 6.4-inch (2340 x 1080 pixels) Full HD+ OLED display, 240Hz refresh rate Octa-Core Snapdragon 855 7nm Mobile Platform (1 x 2.84GHz Kryo 485 + 3 x 2.42GHz Kryo 485 + 4x 1.80GHz Kryo 485) with Adreno 640 GPU 8GB LPDDR4X RAM, 256GB storage Android 10 Dual SIM 12.2MP camera with LED Flash, f/1.7 aperture, OIS, 20.1MP 125°MP ultra-wide camera with f/2.4 aperture 8MP front camera In-display fingerprint sensor Dimensions: 158 x 74 x 8.8mm; Weight: 143g Water and dust proof (IPX5 / IPX8 / IP6X) ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=m1AmQiXTAiM:W6HNSimgAac:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=m1AmQiXTAiM:W6HNSimgAac:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=m1AmQiXTAiM:W6HNSimgAac:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=m1AmQiXTAiM:W6HNSimgAac:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=m1AmQiXTAiM:W6HNSimgAac:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=m1AmQiXTAiM:W6HNSimgAac:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/m1AmQiXTAiM)  
+[Read Here»](https://www.fonearena.com/blog/293121/sharp-aquos-zero2-aquos-sense3-sense3-plus-price-specifications.html)

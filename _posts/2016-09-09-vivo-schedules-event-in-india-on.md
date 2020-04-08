@@ -1,0 +1,12 @@
+---
+title: 'Vivo schedules an event in India on December 9, Vivo V17 with punch-hole display expected'
+date: 2019-11-29T12:06:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Vivo-V17-India-launch-invite.jpg) Vivo recently announced the 'Vivo V17' smartphone in Russia with Super AMOLED+ display, quad rear cameras, and more. Now, Vivo India has scheduled an event in India on December 9 where the company is expected to launch the Vivo V17 smartphone. The media invite sent by Vivo reads "Save The Date 9.12.19" along with the hashtag "ClearAsReal", and this tagline was used for the launch of Vivo V17 Pro as well. This suggests that Vivo will be indeed unveiling the V17 smartphone on December 9th, 2019 in India. Vivo V17 that was launched in Russia sports a notch display, but the Indian variant will sport a punch-hole display, according to the invite. We should be knowing more information once more teasers are out officially. Regarding the specifications, Vivo V17 launched in Russia sports a 6.38-inch FULL HD+ 19.5:9 aspect ratio Super AMOLED notch display with a resolution of 2340 x 1080 pixels and 90% screen-to-body ratio and minimal bezels. It is powered by Qualcomm Snapdragon 665 processor paired with 8GB RAM + 128GB internal storage and runs Funtouch OS 9.2 based on Android 9 (Pie). The design is similar to recently launched Vivo S5. It sports a quad rear camera setup housed in a ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=8evjflgnElo:H7YbiaaUQ68:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=8evjflgnElo:H7YbiaaUQ68:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=8evjflgnElo:H7YbiaaUQ68:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=8evjflgnElo:H7YbiaaUQ68:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=8evjflgnElo:H7YbiaaUQ68:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=8evjflgnElo:H7YbiaaUQ68:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/8evjflgnElo)  
+[Read Here»](https://www.fonearena.com/blog/299327/vivo-v17-launch-date.html)

@@ -1,0 +1,12 @@
+---
+title: 'OnePlus Care benefits launched in India: 1-year extended warranty, 50% off on battery replacement and Buyback discounts'
+date: 2019-10-09T11:05:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/OnePlus-Care-India-1024x451.jpg) OnePlus has launched OnePlus Care, its unique post-purchase program for its consumers. "The OnePlus Care program was envisioned with the community in mind and is another step towards enabling a superior experience for users," said the company. Phase I of the program includes the following benefits: Free 1-Year extended warranty for OnePlus 6T models and above Flat 50% off on battery replacement with zero labour charge for OnePlus 3, OnePlus 3T, OnePlus 5, OnePlus 5T and OnePlus 6 devices. An upgrade plan for all models on OnePlus phones that offers a competitive price and an additional offer when you trade in your old OnePlus device and upgrade to a new OnePlus. How to claim it? Download the dedicated OnePlus Care app from Google Play Store. Login to the app with a OnePlus account or create a OnePlus account there Verify device on OnePlus care using IMEI number to claim the benefits These are just Phase I of the OnePlus Care Benefits program, and more benefits are expected in the coming months, said the company. You can check out more details on OnePlus India website here. Commenting on the program, Vikas Agarwal, General Manager, OnePlus India said: At OnePlus, our users are our top priority and ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=49gVKrDv3vM:u14l6jaqmcE:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=49gVKrDv3vM:u14l6jaqmcE:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=49gVKrDv3vM:u14l6jaqmcE:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=49gVKrDv3vM:u14l6jaqmcE:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=49gVKrDv3vM:u14l6jaqmcE:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=49gVKrDv3vM:u14l6jaqmcE:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/49gVKrDv3vM)  
+[Read Here»](https://www.fonearena.com/blog/294572/oneplus-care-india-extended-warranty-battery-replacement-buyback-discounts.html)

@@ -1,0 +1,12 @@
+---
+title: 'Twitter is testing Reddit-like conversation layout from replies'
+date: 2019-11-29T09:21:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Twitter-Reply-conversation-layout-1024x931.jpg) Twitter is experimenting with new ways to display conversations on its platform, trying out Reddit style flows to replies to a Tweet. First seen on Twttr, the prototype app for Twitter.com, it makes use of threaded replies that give a message board type of feel, connecting replies to the original tweeter. Twitter continues working on Conversation Tree now with the ability to focus a specific tweet, even from a permalink pic.twitter.com/CVadSqbFDP — Jane Manchun Wong (@wongmjane) November 26, 2019 The new design first appeared on Twttr, which was an experimental invite-only app, and now is reportedly spotted being tested on Twitter.com. Twitter user Jane Manchun Wong spotted these changes on Twitter.com, observing new conversation tree style layouts, identical to the ones found in the Twttr app. The design was further tweaked to include the ability to focus on any one tweet, even if its a permalink. The design on Twitter.com also incorporated Twttr's card stye layout which highlights tweets you tap within a thread in the same way. Twitter did confirm if they will be bringing this soon to everyone, likely in 2020, but this will not be final iteration of it. It will apparently contain the best of the design elements from Twttr with a ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=WdC7Vq7L5CY:bnhFyKT3IVY:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=WdC7Vq7L5CY:bnhFyKT3IVY:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=WdC7Vq7L5CY:bnhFyKT3IVY:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=WdC7Vq7L5CY:bnhFyKT3IVY:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=WdC7Vq7L5CY:bnhFyKT3IVY:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=WdC7Vq7L5CY:bnhFyKT3IVY:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/WdC7Vq7L5CY)  
+[Read Here»](https://www.fonearena.com/blog/299312/twitter-replies-conversation-layout.html)

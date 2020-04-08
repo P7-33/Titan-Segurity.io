@@ -1,0 +1,12 @@
+---
+title: 'Google Chrome 79 for Android roll out paused due to bug that deletes app data'
+date: 2019-12-16T08:40:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Google-Chrome.jpg) Google has paused the rollout of Chrome 79 that was just released with the new phishing protections updates. Users who updated discovered a bug that caused data from other apps to be deleted. The reason identified had to do with how apps use Android WebView on Android. Android apps that are basically wrappers for webpages like Twitter Lite use Android WebView to render their webpages on the phone. On Friday morning, developers of these apps discovered that when Android WebView was updated to version 79, users began to see their app data basically being deleted. Those affected reported this issue on the Chromium bug tracker page, claiming some of them had years of user data deleted and requesting a rollback immediately. Unfortunately, end users will only notice their data being deleted and not understand why, they would only blame the developers of the app. Chromium developers have responded to the issue, pausing rollback as almost 50% of users received the update. Developing a solution to the bug has been made a priority and Google is currently working on minimising the data loss along with a safe rollout for Chrome 79. At the moment, it is unclear as to which apps have actually been affected. ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=-5ZhjXnuIlY:JFsxkbypYao:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=-5ZhjXnuIlY:JFsxkbypYao:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=-5ZhjXnuIlY:JFsxkbypYao:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=-5ZhjXnuIlY:JFsxkbypYao:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=-5ZhjXnuIlY:JFsxkbypYao:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=-5ZhjXnuIlY:JFsxkbypYao:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/-5ZhjXnuIlY)  
+[Read Here»](https://www.fonearena.com/blog/300431/google-chrome-79-android-roll-out-paused-app-data-bug.html)

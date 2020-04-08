@@ -1,0 +1,12 @@
+---
+title: 'Intel unveils its first 7nm ‘Ponte Vecchio’ Xe GPU for HPC, AI Workloads and Sapphire Rapids CPUs'
+date: 2019-11-18T09:33:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Intel.png) Tech giant Intel took on the stage at the Supercomputing event 2019 to unveil the new category of GPUs based on Xe architecture. Codenamed 'Ponte Vecchio,' it is high-performance, highly flexible discrete general-purpose GPU is architecture for HPC modeling and simulation workloads and AI training. As per the company claims, Ponte Vecchio will be manufactured on Intel’s 7nm technology and will be Intel’s first Xe-based GPU optimized for HPC and AI workloads. Furthermore, it will leverage Intel’s Foveros 3D and EMIB packaging innovations and feature multiple technologies in-package, including high-bandwidth memory, Compute Express Link interconnect, and other intellectual property. According to few reports, the Ponte Vecchio will probably debut in 2021. In addition to it, Intel also announced the oneAPI initiative unified and open programming experience to developers in an attempt to deliver cross-architecture performance without compromising the performance and eliminating the complexity of separate codebases, multiple-programming languages, and different tools and workflows. It's worth mentioning that the oneAPI preserves existing software investments with support for existing languages while delivering flexibility for developers to create versatile applications. The oneAPI specification includes a direct programming language, powerful APIs, and a low-level hardware interface. Aurora will be the first U.S. exascale system to leverage the full breadth ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=sL8P2WH8cQ4:nnpTVrxRwTE:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=sL8P2WH8cQ4:nnpTVrxRwTE:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=sL8P2WH8cQ4:nnpTVrxRwTE:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=sL8P2WH8cQ4:nnpTVrxRwTE:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=sL8P2WH8cQ4:nnpTVrxRwTE:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=sL8P2WH8cQ4:nnpTVrxRwTE:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/sL8P2WH8cQ4)  
+[Read Here»](https://www.fonearena.com/blog/298252/intel-7nm-ponte-vecchio-hpc.html)

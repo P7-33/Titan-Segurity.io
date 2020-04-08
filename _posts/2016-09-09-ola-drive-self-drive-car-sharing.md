@@ -1,0 +1,12 @@
+---
+title: 'Ola Drive self-drive car-sharing service launched, plans to host 20,000 cars by 2020'
+date: 2019-10-18T04:09:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Ola-Drive-1024x736.jpg) Ola has launched ‘Ola Drive’, a self-drive car-sharing service to take on Mahindra-backed ZoomCar, Revv and others. The service is already live in Bengaluru with Hyderabad, Mumbai, and New Delhi to follow shortly. Ola said that it intends to host a fleet of 20,000 cars by 2020, 50% more than the fleet size of the entire industry put together. On the app, you can choose the Drive option on the top, click plan your drive, confirm start and end time (from 2 hours to 60 days), select the number of kilometers even fuel inclusion, in addition to the free kilometer with fuel mentioned. This allows for savings of upto 30% over other providers, says the company. For Bengaluru, there are lot of cars to choose from Maruti Suzuki Dzire, Swift, Ciaz, Hyundai Xcent, i10, i20, Verna, Creta and Renault Captur. Ola said that it conducted research with individuals with different driving experience levels to get a keen understanding of their preferences. The insights helped Ola to procure user-preferred car models, enable high-quality repairs and maintenance structures to ensure every user gets a fresh and high performing vehicle, added the company. All Ola Drive cars across segments will come equipped with Ola’s connected car ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=bGLHWu9pMR4:QQb5LiZbryU:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=bGLHWu9pMR4:QQb5LiZbryU:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=bGLHWu9pMR4:QQb5LiZbryU:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=bGLHWu9pMR4:QQb5LiZbryU:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=bGLHWu9pMR4:QQb5LiZbryU:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=bGLHWu9pMR4:QQb5LiZbryU:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/bGLHWu9pMR4)  
+[Read Here»](https://www.fonearena.com/blog/295557/ola-drive-self-drive-car-sharing-service.html)

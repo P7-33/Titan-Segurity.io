@@ -1,0 +1,50 @@
+---
+title: 'What was the relevant undertaking? Further comments on Unilever v Shanks [2019] UKSC 45 '
+date: 2019-11-01T16:15:00+01:00
+draft: false
+---
+
+**Since the release of the UK Supreme Court's decision in** _Unilever v Shanks_ [\[2019\] UKSC 45](https://www.bailii.org/uk/cases/UKSC/2019/45.html) **(IPKat post** [here](http://ipkitten.blogspot.com/2019/10/breaking-uksc-finds-unilever-is-not-too.html?_sm_au_=iVVMHtM2JPHSTTtNpGsWvKttvN1NG)**) the mainstream and social media have been awash with hyperbole as to the potential impact of the decision on large employers. However, the UK Supreme Court's (UKSC) decision was not a substantive change in the law. **The point of difference between the UKSC decision and that of the lower courts lay predominantly in their interpretation as to what constituted the relevant "undertaking" of the employer, in view of the facts of the case. Determining the relevant undertaking was unusually complicated in the case of Professor Shanks: Professor Shanks had been employed by a small research-focused subsidiary of Unilever (CRL), but it was Unilever as a whole that reaped the benefits of Professor Shanks' invention. Furthermore, Professor Shanks' invention (glucose testing) was outside the normal business activities of Unilever (ice cream and deodorant). Bearing this in mind, IPKat delves a bit deeper into Lord Kitchin's reasoning.  
+  
+
+**The relevant undertaking**  
+
+[![](https://1.bp.blogspot.com/-Uylo-wowYdc/XbhvT6etmbI/AAAAAAAAJTs/KJ5Jys52OPUKuTTxYaZOhbbw4A8Qys9NACNcBGAsYHQ/s320/undercats02.jpg)](https://1.bp.blogspot.com/-Uylo-wowYdc/XbhvT6etmbI/AAAAAAAAJTs/KJ5Jys52OPUKuTTxYaZOhbbw4A8Qys9NACNcBGAsYHQ/s1600/undercats02.jpg)
+
+"Under-cat"  
+A different kind of undertaking...
+
+[Section 40(1)](https://www.gov.uk/guidance/the-patent-act-1977/section-40-employees-inventions-compensation-of-employees-for-certain-inventions) UKPA states that, when considering if an employee should be awarded compensation for his invention, the court should have "regard among other things to the size and nature of the employer’s undertaking". In the UKSC decision, Lord Kitchin reasoned that the Hearing Officer and lower courts had erred in their interpretation of the appropriate "undertaking" of Professor Shanks employer. The "undertaking" to be considered, according to the UKSC, was not that of Unilever as a whole. The relevant undertaking was instead that of the Unilever subsidiary by which Professor Shanks was directly employed (CRL), whilst also taking account of the commercial relationship between CRL and Unilever as a whole.  
+  
+In order to establish the correct "employer undertaking" in the case in question, Lord Kitchin observed that in many situations relating to employee compensation, identification of the appropriate undertaking "will be comparatively straightforward. It will be the whole or, if it is divided into economic units, the relevant unit of the employer's business" (para. 41). However, the case in question was a different and more difficult case.  
+  
+Unilever argued that the relevant undertaking was Unilever as a whole. In particular it was argued that it was "unreal to treat CRL as the relevant undertaking because it never generated any material revenues, was not the beneficiary of the royalties in question and is and was simply a service company for the Unilever group" (para. 45). Furthermore, the £24.3m benefit from the Shanks Patents went to the Unilever group as a whole. By contrast, Professor Shanks argued that the relevant undertaking was that of CRL. Particularly, CRL was Professor Shanks' direct employer and the entire Unilever group could not sensibly be described as CRL's undertaking (para. 45).  
+  
+Lord Kitchin opted for an approach that lay between these two extremes. The analysis, according to Lord Kitchin, should have a more practical and commercial focus. In particular, the question to ask was what would have been the expected benefit of a patent originating from a research facility such as CRL, operating as part of the larger Unilever group, to Unilever as a whole?  
+  
+**Size and nature (among other things)**  
+  
+Lord Kitchin asked to how much the size and nature of an employer's undertaking should be taken into account when considering if a benefit to the employer was outstanding (as _per_ [Section 40(1)](https://www.gov.uk/guidance/the-patent-act-1977/section-40-employees-inventions-compensation-of-employees-for-certain-inventions) UKPA). As may be expected from a UK judge, Lord Kitchin thought there could be no single answer to this question. Importantly however, Lord Kitchin confirmed that in many circumstances, "a straightforward comparison of profitability may be sufficient, in the case of a smaller company, to show an outstanding benefit" (para 52.). On the other hand, Lord Kitchin warned against _only_ considering the effect of a patent on overall sales of profitability when considering if the patents had been of outstanding benefit to an employer (para. 54).  
+  
+**Outstanding benefit**  
+Lord Kitchin had therefore established, in contrast to the lower courts, that the relevant undertaking was the expected contribution of CRL to Unilever, and not the undertaking of Unilever as a whole. Lord Kitchin then applied the "outstanding benefit" test. Importantly, this test still involved a comparison of benefit from the Patent and total sales and profits of the "undertaking". The difference was the definition of the undertaking, essentially removing Unilever's ice cream and deodorant business from the equation (para. 79.).  
+  
+Having established a different starting point to the lower courts, Lord Kitchin also noted that the Shanks Patents stood out as providing an abnormally high benefit given Unilever's normal business model. In Unilever's main business, branding was of far greater significance than patent protection. Unilever had been unable to point to any other patents within its portfolio providing as great a benefit as the Shanks Patents. Lord Kitchin also observed that the size and success of Unilever's business as a whole had not played any material part in securing the benefit provided by the Shanks Patents. In particular, Unilever's manufacturing capacity or sales and distribution facilities had not played any role in securing the £23.4m benefit.  
+  
+
+[![](https://1.bp.blogspot.com/-zNEu5A0jnQk/XbhiRApXP5I/AAAAAAAAJTQ/DNd9sKa69B8ni7uxp97DbeEpxJQkVH9QwCNcBGAsYHQ/s320/UnileverIceCream_Lead.jpg)](https://1.bp.blogspot.com/-zNEu5A0jnQk/XbhiRApXP5I/AAAAAAAAJTQ/DNd9sKa69B8ni7uxp97DbeEpxJQkVH9QwCNcBGAsYHQ/s1600/UnileverIceCream_Lead.jpg)
+
+_Unilever ice-cream_
+
+The UKSC therefore concluded that the Hearing Officer had been wrong in principle. In particular, there had been no "justification here for simply weighing the sums Unilever generated from the Shanks patents against the size of its turnover and overall profitability in products such as Viennetta ice cream, spreads and deodorants". To look at it another way, had Professor Shanks invented a new type of ice cream or deodorant providing a £24.3m benefit to Unilever, the outcome of the appeal may have been very different.  
+  
+Therefore, having first established that it was the undertaking of CRL and not Unilever as a whole that was relevant, the decision of the UKSC to award compensation to Professor Shanks is not surprising. The case primarily went against Professor Shanks in the lower courts because the £24.3m benefit provided by the Shanks patents had been compared to, and dwarfed by, the turnover and profits of Unilever as a whole. Lord Kitchin did not conclude that it was wrong to take account of the overall profits and sales of the employer. On the contrary, [Section 40(1)](https://www.gov.uk/guidance/the-patent-act-1977/section-40-employees-inventions-compensation-of-employees-for-certain-inventions) UKPA indicates that these should be considered. Lord Kitchin merely differed from the Hearing Officer and the lower courts as to the scope of the relevant undertaking in a case where the inventor is employed by a subsidiary, and wherein the subsidiary's business activities are very different to the company as a whole. The UKSC decision is therefore only likely to be of concern to large companies with multiple and diverse fields of business, particularly where technologies not fitting in with the main business have been out-licensed.  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+  
+**Appendix: A note on the amount of compensation**  
+  
+£2m compensation is the largest amount of compensation that has been awarded to an employee-inventor under [Section 40](https://www.gov.uk/guidance/the-patent-act-1977/section-40-employees-inventions-compensation-of-employees-for-certain-inventions). Lord Kitchin agreed with the Hearing Officer that a "fair share" of the benefit derived by Unilever from the patents was 5%. Lord Kitchin disagreed with Professor Shanks' argument that a fair share would have been between 10-20%, given that, amongst other factors, the patent had been exploited at no risk to Unilever. Lord Kitchin agreed with the Hearing Officer at first instance that 5% was fair given that 1) Professor Shanks was employed to invent and, in making the invention, did what he was employed to do. Furthermore, the benefit of the patents was brought to fruition by Unilever's negotiation of the licences (something in which Professor Shanks played no part) (para. 91).  
+  
+Lord Kitchin disagreed with the Hearing Officer, that the time value of the money should be taken into account. The £2m awarded to Professor Shanks therefore took account of the average inflation rate of 2.8%.  
+  
+Image credits: [**under-look**](https://www.underlook.org/)

@@ -1,0 +1,12 @@
+---
+title: 'HUAWEI Enjoy 10S with 6.3-inch FHD+ OLED display, in-display fingerprint scanner, 48MP triple rear cameras announced'
+date: 2019-12-05T16:35:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/HUAWEI-Enjoy-10S-1.jpg) After the Enjoy 10 Plus  and Enjoy 10, HUAWEI has introduced Enjoy 10S, another phone in the 'Enjoy 10' series in China, as it had.  It packs a 6.3-inch FHD+ OLED display, is powered by an octa-core Kirin 710F 12nm SoC with up to 8GB RAM and GPU Turbo 3.0, has a 48-megapixel primary camera with AI features, 8-megapixel ultra-wide and an 2-megapixel camera for portrait shots. It also has a 16-megapixel front camera in the waterdrop notch. The phone has an in-display fingerprint scanner, gradient back and packs a 4000mAh battery, but doesn't have fast charging support. HUAWEI Enjoy 10S specifications 6.3-inch ( 2400 x 1080 pixels pixels) FHD+ 2.5D curved glass OLED display Octa-Core Kirin 710F 12nm (4 x 2.2GHz Cortex-A73 +4 x 1.7GHz Cortex-A53) with ARM Mali-G51 MP4 GPU 6GB / 8GB RAM with 128GB storage, expandable memory up to 256GB Android 9 (Pie) with EMUI 9.1 Hybrid Dual SIM (nano + nano / microSD) 48-megapixel primary sensor with f/1.8 aperture, LED flash, 8-megapixel ultra-wide sensor with f/2.4 aperture, 2-megapixel depth sensor with f/2.4 aperture 16MP front camera with f/2.0 aperture In-display fingerprint scanner Dimensions: 157.4 x 73.2 x 7.75mm ; Weight: 163g Dual 4G VoLTE, Wi-Fi 802.11 ac (2.4GHz / ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=pP8UjaGRdcU:N-MT7AA4ASQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=pP8UjaGRdcU:N-MT7AA4ASQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=pP8UjaGRdcU:N-MT7AA4ASQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=pP8UjaGRdcU:N-MT7AA4ASQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=pP8UjaGRdcU:N-MT7AA4ASQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=pP8UjaGRdcU:N-MT7AA4ASQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/pP8UjaGRdcU)  
+[Read Here»](https://www.fonearena.com/blog/299725/huawei-enjoy-10s-price-specifications.html)

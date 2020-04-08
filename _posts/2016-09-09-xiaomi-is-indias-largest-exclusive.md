@@ -1,0 +1,12 @@
+---
+title: 'Xiaomi is India’s largest exclusive offline brand: Channelplay Research'
+date: 2019-11-04T08:52:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2017/08/Xiaomi-Mi-Home-Store-Delhi-1.jpg) Xiaomi has emerged as India's biggest exclusive offline brand in India, according to a market research survey conducted by Channel Play, a Retail Execution & Measurement company in India. The survey evaluated 11 product based industries and concluded Xiaomi as the largest in the country, with Samsung in second place. The study was conducted across many industries including Apparel, Footwear, Jewellery & Watches, Electronics, Books & Stationery, Sports & Games, etc. Xiaomi, with all its single brand retail outlets-Mi Home, Mi Studio and Mi Stores emerged as the leader. Samsung followed in second place, Cafe Coffee Day (CCD) third and then Dominos India, and Bata. The study showed that Xiaomi held a significant lead over others, over 44% bigger than Samsung and over 48% bigger than CCD. Commenting on the results of the survey, Sundeep Holani, CEO of Channelplay said: The growth in offline retail is largely motivated by the increasing need of experiential buying by Indian consumers. A large proportion of consumers prefer a physical product experience before buying and another significant proportion is reluctant in making financial transactions online, especially for high value products. This has largely established the need for brand experience stores. Post studying 11 product-based retail industries and around 700 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=YmZttGYoMCY:_aH0XFjPa0c:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=YmZttGYoMCY:_aH0XFjPa0c:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=YmZttGYoMCY:_aH0XFjPa0c:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=YmZttGYoMCY:_aH0XFjPa0c:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=YmZttGYoMCY:_aH0XFjPa0c:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=YmZttGYoMCY:_aH0XFjPa0c:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/YmZttGYoMCY)  
+[Read Here»](https://www.fonearena.com/blog/297114/xiaomi-largest-exclusive-offline-brand-india.html)

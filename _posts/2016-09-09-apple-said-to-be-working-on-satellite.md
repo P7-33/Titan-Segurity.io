@@ -1,0 +1,12 @@
+---
+title: 'Apple said to be working on satellite technology to beam data directly to devices'
+date: 2019-12-20T14:28:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2015/01/tim-cook-apple.jpg) Apple has been secretly hiring more minds for a project that is studying satellite and communications technologies to find ways to beam data like internet connectivity, maybe even software updates directly to its devices; Bloomberg reports. The company has hired multiple engineers in the field of aerospace, satellite and antenna design industries and more to begin working on a project that Apple wishes to see results within the next 5 years. The goal of the project is maybe to find way to deliver data directly to user devices, eliminating the dependence on wireless carriers. The tech can also be used for linking devices to each other without a traditional network for improved maps and location data. The project is still in its early stages but Apple's CEO Tim Cook has shown interest in the project, which promises company priority in it. The project is led by former aerospace engineers Michael Trela and John Fenwick, who were previously part of a software imaging company called Skybox Imaging. Apple has hired a bunch of software and hardware experts for the team along with executives in companies from fields of  Satellite communications, Content delivery, etc. Source
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Cei1NkIE3DE:Jvauek0dd-M:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Cei1NkIE3DE:Jvauek0dd-M:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Cei1NkIE3DE:Jvauek0dd-M:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Cei1NkIE3DE:Jvauek0dd-M:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Cei1NkIE3DE:Jvauek0dd-M:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Cei1NkIE3DE:Jvauek0dd-M:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Cei1NkIE3DE)  
+[Read Here»](https://www.fonearena.com/blog/300786/apple-satellite-technology-beam-data-directly-to-devices.html)

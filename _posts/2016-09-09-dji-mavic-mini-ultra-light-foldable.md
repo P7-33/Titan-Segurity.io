@@ -1,0 +1,12 @@
+---
+title: 'DJI Mavic mini ultra-light foldable drone with 3-Axis gimbal announced'
+date: 2019-10-30T17:27:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/DJI-Mavic-Mini-1-1024x645.jpg) DJI just introduced Mavic mini, the most portable 3-Axis Gimbal 2.7K Camera Drone. It weighs just 249grams pack professional-quality drone features into the lightest possible frame. It incorporates DJI’s renowned safety technology, including geofencing to help drone pilots avoid restricted areas; AeroScope remote identification to help protect sensitive locations; built-in altitude limits; and automatic return to the launch point if the drone loses connection to the controller or reaches critically low battery level. Mavic Mini is the first DJI drone to weigh below 250 grams, which aviation regulators around the world consider to be safest category for drone flight. In many countries, including India drones below 250 grams are considered safe enough. https://www.youtube.com/watch?v=hS\_OjalEpZI It has dedicated remote controller, features ultra-light design and high-grade motors offering up to 30 minutes of flight time. GPS receivers and downward visual sensors detect the ground below Mavic Mini, enabling precise hovering, stable flying and accurate landing both indoors and out. It offers 2.7K video at 30fps, 1080p at 60 frames per second, or 12-megapixel photographs using the 1/2.3-inch sensor. A three-axis motorized gimbal supports and stabilizes the camera, ensuring the footage is smooth. The new DJI Fly app is intuitively designed, simplifying the flying and content capturing experience ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=b-w79LtCR44:6mafIZuGZy8:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=b-w79LtCR44:6mafIZuGZy8:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=b-w79LtCR44:6mafIZuGZy8:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=b-w79LtCR44:6mafIZuGZy8:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=b-w79LtCR44:6mafIZuGZy8:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=b-w79LtCR44:6mafIZuGZy8:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/b-w79LtCR44)  
+[Read Here»](https://www.fonearena.com/blog/296828/dji-mavic-mini-price-features.html)

@@ -1,0 +1,12 @@
+---
+title: 'Moto G8 Play with 6.2-inch Max Vision display, triple rear cameras and Moto E6 Play with 5.5-inch display announced'
+date: 2019-10-24T19:23:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Moto-G8-Play-3-1024x836.jpg) After the launch of Moto G8 Plus in India, Motorola also introduced the Moto G8 Play and Moto E6 Play smartphones in Brazil, after recently rumors. The G8 Play has a 6.2-inch HD+ screen, is powered by Helio P70, has a 13-megapixel rear camera, 8-megapixel 117° ultra-wide and a 2-megapixel depth sensor. There is also an 8-megapixel front camera. The E6 Play features a 5.5-inch HD+ screen, is powered by Snapdragon 435, features a 13-megapixel rear and a 5-megapixel front camera. Both the phones run Android Pie, feature a rear-mounted fingerprint scanner and pack, feature gradient, eye-catching colors, and pack 4000mAh and 3000mAh battery, respectively. Moto G8 Play specifications 6.2-inch (1520 x 720 pixels) Max Vision display 2GHz Octa Core MediaTek Helio P70 12nm processor with ARM Mali-G72 MP3 GPU 2GB RAM, 32GB storage, expandable memory up to 512GB with microSD Hybrid Dual SIM (nano + nano / microSD) Android 9.0 (Pie) 13MP rear camera with LED flash, f/2.0 aperture, 1.25um pixel size, 8MP 117° ultra-wide 1.12µm pixel size sensor with f/2.2 aperture, 2MPdepth sensor with f/2.2 aperture, 1.75um pixel size 8MP front-facing camera Fingerprint sensor 3.5mm audio jack, FM Radio Splash resistant (IPX2) Dimensions: 157.6x75.4x9mm; Weight: 183.6g Dual 4G VoLTE, WiFi ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=V2EERcHVemc:opFp9R0iy3Y:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=V2EERcHVemc:opFp9R0iy3Y:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=V2EERcHVemc:opFp9R0iy3Y:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=V2EERcHVemc:opFp9R0iy3Y:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=V2EERcHVemc:opFp9R0iy3Y:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=V2EERcHVemc:opFp9R0iy3Y:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/V2EERcHVemc)  
+[Read Here»](https://www.fonearena.com/blog/296472/moto-g8-play-moto-e6-play-price-specifications.html)

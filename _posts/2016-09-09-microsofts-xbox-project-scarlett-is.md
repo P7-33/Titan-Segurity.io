@@ -1,0 +1,12 @@
+---
+title: 'Microsoft’s Xbox ‘Project Scarlett’ is Xbox Series X, coming in 2020'
+date: 2019-12-13T07:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Xbox-X-Series-1024x724.jpg) At the E3 2019 back in June Microsoft revealed details about its high-end Xbox console codenamed ‘Project Scarlett’. Today the company has confirmed that it will be called the 'Xbox Series X', offering four times the processing power of Xbox One X, thanks to the custom-designed processor, leveraging the latest Zen 2 and Radeon RDNA architecture from AMD, high bandwidth GDDR6 memory, and a next generation solid state drive (SSD). https://www.youtube.com/watch?v=0tUqIHwHDEc Microsoft Xbox Series X Highlights Can be placed in both vertical and horizontal orientation 4K at 60FPS, with possibility of up to 120FPS, including support for Variable Refresh Rate (VRR), and 8K capability. Powered by custom-designed processor leveraging the latest Zen 2 and next generation RDNA architecture from AMD, offering hardware accelerated ray tracing Patented Variable Rate Shading (VRS) technology will allow developers to get even more out of the Xbox Series X GPU and next-generation SSD will virtually eliminate load times Auto Low Latency Mode (ALLM) and Dynamic Latency Input (DLI) Backward compatibility to support thousands of games across four generations of gaming, including Xbox Game Pass Xbox Game Studios support cross-generation entitlements so your Achievements and game saves are shared across devices New bundled Xbox Wireless Controller with a ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=hpRYoTsY7Wk:fK5xCDrY54c:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=hpRYoTsY7Wk:fK5xCDrY54c:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=hpRYoTsY7Wk:fK5xCDrY54c:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=hpRYoTsY7Wk:fK5xCDrY54c:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=hpRYoTsY7Wk:fK5xCDrY54c:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=hpRYoTsY7Wk:fK5xCDrY54c:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/hpRYoTsY7Wk)  
+[Read Here»](https://www.fonearena.com/blog/300276/microsoft-xbox-series-x-launch-date-features.html)

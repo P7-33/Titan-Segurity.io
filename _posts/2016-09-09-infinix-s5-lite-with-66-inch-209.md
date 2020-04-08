@@ -1,0 +1,12 @@
+---
+title: 'Infinix S5 Lite with 6.6-inch 20:9 display, 4GB RAM, triple rear cameras, 16MP in-screen front camera launched in India for Rs. 7999'
+date: 2019-11-15T09:28:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Infinix-S5-Lite-1.jpg) Infinix has launched S5 Lite, the company’s latest smartphone in the S series in India, soon after the launch of S5. It has a 6.6-inch HD+ display with a 16-megapixel in-screen camera with 4-in-1 Super Pixel technology along with 3D Face Beauty, AR Emoji, AR Stickers, Bokeh Mode, AI Scene detection, hybrid focus and more, 90.5% screen-to-body ratio, is powered by Octa-Core MediaTek Helio P22 12nm SoC with 4GB of RAM, runs Android 9.0 (Pie) with XOS 5.5, has a 16-megapixel rear camera with quad LED flash, along with a 2-megapixel sensor for portrait shots and a low-light camera. The phone has a fingerprint sensor on the back, features a 3D Crystal Feather Glass Design on the back, comes with dedicated dual SIM and microSD card lots and packs a 4000mAh battery. Infinix S5 Lite specifications 6.6-inch (1600×720 pixels) 20:9 aspect ratio HD+ display with 480 nits brightness 2GHz Octa-Core MediaTek Helio P22 (MT6762) 12nm processor with 650MHz IMG PowerVR GE8320 GPU 4GB LPDDR4 RAM, 64GB storage, expandable memory up to 256GB with microSD Dual SIM (nano + nano + microSD) Android 9.0 (Pie) with XOS 5.5 16MP rear camera with f/1.8 aperture, Quad LED flash, 2MP Depth Sensor, VGA Low ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=g1EdHopYAsY:Hu_1NlGG4UM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=g1EdHopYAsY:Hu_1NlGG4UM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=g1EdHopYAsY:Hu_1NlGG4UM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=g1EdHopYAsY:Hu_1NlGG4UM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=g1EdHopYAsY:Hu_1NlGG4UM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=g1EdHopYAsY:Hu_1NlGG4UM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/g1EdHopYAsY)  
+[Read Here»](https://www.fonearena.com/blog/298099/infinix-s5-lite-price-specifications.html)

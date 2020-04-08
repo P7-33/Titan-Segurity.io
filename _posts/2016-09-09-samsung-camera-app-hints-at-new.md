@@ -1,0 +1,12 @@
+---
+title: 'Samsung Camera app hints at new Director’s View Mode, Single Take Photo, Vertical Panorama, and more; could debut on Galaxy S11'
+date: 2019-11-18T12:43:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/04/Samsung-Galaxy-S10_fonearena-16-1024x686.jpg) Recently, the code found in the Samsung Camera app hinted at a future Galaxy smartphone with a 108MP camera and a 20:9 display. Now, the codes found in the Camera app suggest that Samsung is working on an array of new photo and video modes including a new Director's View Mode, Single Take Photo, Night Hyperlapse, and more. According to a report from XDA Developers, the new Director's View Mode will let users lock onto a subject in view, change who's in the closeup, and also tap the thumbnails on the left to switch between camera lenses, and finally tap the ones on the right to jump close-up on a subject. The Single Take Photo mode will let users start shooting to capture the scene in a series of pictures and short videos, pan around slowly for about 15 seconds to capture multiple photos in the scene, process all the photos/videos captured, and finally show the collection. During the capture, the mode will show popups in the app like "Fantastic stuff", "Get ready", "Hard at work", "This is some of my best work", and more. The Night Hyperlapse mode, as the name suggests will help in capturing hyperlapse with night mode. The next feature ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=pVzNH8t0vYU:VhbVfo5iHVY:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=pVzNH8t0vYU:VhbVfo5iHVY:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=pVzNH8t0vYU:VhbVfo5iHVY:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=pVzNH8t0vYU:VhbVfo5iHVY:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=pVzNH8t0vYU:VhbVfo5iHVY:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=pVzNH8t0vYU:VhbVfo5iHVY:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/pVzNH8t0vYU)  
+[Read Here»](https://www.fonearena.com/blog/298288/samsung-galaxy-s11-directors-view-mode-single-take-photo-vertical-panorama.html)

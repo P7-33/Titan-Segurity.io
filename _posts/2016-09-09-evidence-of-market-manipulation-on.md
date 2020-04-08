@@ -1,0 +1,25 @@
+---
+title: 'Evidence of market manipulation on the Chicago Mercantile Exchange?'
+date: 2019-10-17T07:32:00+01:00
+draft: false
+---
+
+![](https://media.vanityfair.com/photos/5da737fb3627570008a883c0/16:9/w_2560,c_limit/trump-trades.jpg "“There Is Definite Hanky-Panky Going On”: The Fantastically Profitable Mystery of the Trump Chaos Trades | Vanity Fair")  
+
+Traders in the Chicago pits have been watching these kinds of wagers with an increasing mixture of shock and awe since the start of the Trump presidency. They are used to rapid fluctuations in the S&P 500 index; volatility is common, of course. But the precision and timing of these trades, and the vast amount of money being made as a result of them, make the traders wonder if all this is on the level. Are the people behind these trades incredibly lucky, or do they have access to information that other people don’t have about, say, Trump’s or Beijing’s latest thinking on the trade war or any other of a number of ways that Trump is able to move the markets through his tweeting or slips of the tongue? Essentially, do they have inside information?
+
+Theoretically, market regulators are supposed to be keeping an eye on big trades such as these, to try to figure out whether they are just happy coincidences or whether there is something more nefarious afoot. And they say they do. But calls to the Chicago Mercantile Exchange, where the trades takes place, the Securities and Exchange Commission, which regulates the equity markets, and to the Commodity Futures Trading Commission, which regulates futures contracts, such as e-minis, were answered in different ways. **Christopher Carofine,** at the SEC, declined to comment. The CFTC did not respond to my inquiries, while a spokeswoman for the CME says the trades in question did not originate from a single source and they were of no concern.
+
+There is no way for another trader, let alone an outsider such as me, to know who is making these trades. But regulators know or can find out. One longtime CME trader who has been watching with disgust says he’s never seen anything quite like these trades, not at least since al-Qaida cashed in before initiating the September 11 attacks. “There is definite hanky-panky going on, to the world’s financial markets’ detriment,” he says. “This is abysmal.”
+
+In the case of Trump, market manipulation also yields political dividends. Perhaps the most obvious example dates to late August, when Trump, desperate to reignite trade talks with China, boasted during the G7 summit that his counterparts in Beijing had come back to the table. “We’ve gotten two calls—very, very good calls,” he [told](https://www.usatoday.com/story/news/politics/2019/08/26/donald-trump-china-trade-war/2118225001/) reporters. “They mean business.” The market rose more than 900 points over the next few days. But a spokesperson for the Chinese foreign ministry said he was not aware of any such calls. An editor at the _Global Times,_ the state-controlled newspaper, [tweeted](https://twitter.com/huxijin_gt/status/1165924915142262785?lang=en) that he knew of no calls made in the days leading up to the G7 meeting and that “China won’t cave to US pressure.” Two U.S government officials later [told CNN](https://www.cnn.com/2019/08/28/politics/donald-trump-2020-election-pardons-walls-victories/index.html) that Trump misspoke and “conflated” comments from China’s Vice Premier **Liu He** with direct communication from the Chinese. According to CNN, the officials said Trump was “eager to project optimism that might boost markets.”
+
+Indeed, this single Trump lie briefly inflated domestic markets by hundreds of billions of dollars. “What this describes is, quite literally, market manipulation that constitutes criminal violations of the Securities Exchange Act of 1934,” [commented](https://twitter.com/gtconway3d/status/1167102474806841344?lang=en) **George Conway,** the conservative attorney and Trump critic.
+
+Whether Conway is right or wrong is a matter of legal opinion, but given how fishy and coincidental the trading in e-minis seems to be these days, the SEC or CFTC would be doing a great service (and their job) for the American people by investigating who is behind these lucrative trades, and what they knew before they placed them. At the moment, what we’re getting from them is an indifferent shrug.
+
+Federal regulators might start here: In the last 10 minutes of trading on Friday, August 23, as the markets were roiling in the face of more bad trade news, someone bought 386,000 September e-minis. Three days later, Trump [lied](https://www.vanityfair.com/news/2019/08/donald-trump-china-phone-call) about getting a call from China to restart the trade talks, and the S&P 500 index shot up nearly 80 points. The potential profit on the trade was more than $1.5 billion.
+
+  
+  
+from Hacker News https://ift.tt/2P3z6Zt

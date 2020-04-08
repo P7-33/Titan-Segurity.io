@@ -1,0 +1,12 @@
+---
+title: 'LG PuriCare Mini world’s first filter-type portable air purifier starts rolling out globally'
+date: 2019-11-07T09:31:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/LG-PuriCare-Mini-Air-Purifier-1-1024x653.jpg) LG has started rolling out PuriCare Mini globally, after it was introduced in  Hong Kong a few months back. It says that this is the world’s first filter-type portable air purifier. The LG PuriCare Mini is not only highly efficient, it’s also fast, cleaning 50 percent of the air inside a car in 10 minutes offering Clean Air Delivery Rate (CADR) of 13m2/hr. It features LG’s 4-Step Air Filtration System to detect and remove 99 percent particulates as small as 0.3 μm. The first step involves the PM1.0 Sensor which quickly and accurately detects the quality of the air Dual Inverter Motor forcibly draws in the air at 5,000rpm in the second step. In step three, the high-efficiency Total Allergen Removal filter removes particulates in the air In the final step, the powerful Twin Tornado Dual Fan disperses the clean air far and wide. LG PuriCare Mini features and specifications PM 1.0 Ultra Fine Dust Sensor for Air Quality Detection 1.67M² area cover with CADR of 13M³/h Inverter Motor, Pre-Filter, Total Allergy Filter Operation Noise (dB) — 48 (Turbo) / 43(High) / 30(Low) Purifying Mode 4: Auto / Low / High / Turbo Cleanliness Indicator, Air Quality Monitoring, Filter Lifespan Check, Remote ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=OcEft85xAqw:of-YxALxTL8:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=OcEft85xAqw:of-YxALxTL8:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=OcEft85xAqw:of-YxALxTL8:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=OcEft85xAqw:of-YxALxTL8:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=OcEft85xAqw:of-YxALxTL8:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=OcEft85xAqw:of-YxALxTL8:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/OcEft85xAqw)  
+[Read Here»](https://www.fonearena.com/blog/297421/lg-puricare-mini-price-features.html)

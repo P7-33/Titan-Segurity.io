@@ -1,0 +1,29 @@
+---
+title: 'An Uncommon Correspondent'
+date: 2019-11-04T05:49:00+01:00
+draft: false
+---
+
+![](https://literaryreview.co.uk/wp-content/lr-files/2019/10/bell-social-800x614.jpg?1572840106 "Martin Bell - An Uncommon Correspondent | Literary Review | Issue 481")  
+
+War reporters come in many types and guises (and degrees of honesty). John Hersey was at the peak of the profession during the Second World War, rivalled among Americans only by the GIs’ own journalist, the immortal Ernie Pyle. Hersey thoroughly deserves this full-length biography and tribute by Jeremy Treglown.
+
+Hersey was born in 1914 in China, where his American-born parents were Protestant missionaries. He spoke Chinese before he spoke English, and his knowledge of the language proved to be a great asset in later assignments up the Yangtse River and beyond. He enjoyed a privileged education at Yale University and Clare College, Cambridge. Afterwards, he was taken onto the staff of _Time_ magazine, and within two years he was working at its bureau in Chungking, the capital of China during the second Sino-Japanese War. Like many of its foreign correspondents, he was politically at odds with the magazine’s owner, Henry Luce, who was the megaphone of what was known as the China Lobby. Hersey never involved himself in daily journalism but stood back from the stampede. Throughout his career he crafted his dispatches with the greatest care and always with an eye on the characters and incidents at the very edge of the frame.
+
+Books about writers too often fall down at the interface between the writer and the work. This one does not. The writer and the work were inseparable. Hersey was a man of conspicuous courage, both physical and moral. He survived four air crashes. He accompanied American forces during the invasion of Sicily in 1943. His fictionalised account of that time, _A Bell for Adano_, won him a Pulitzer Prize at the age of thirty. The American commander who passes through the novel, General Marvin, was a thinly disguised version of General Patton.
+
+Hersey’s first published book, _Men on Bataan_, was an account of the American defeat in the Philippines in 1942. It suffered from the defect of his not having been there. He was also indulgent towards General Douglas MacArthur, to the extent that in later years he did not allow the book to be republished. Since he wrote both fiction and non-fiction, there was always the question of when or whether one merged into the other. Some called his style New Journalism, a term of which he was profoundly critical. But he certainly started something that is still with us today.
+
+Treglown recounts in detail the genesis and publication of Hersey’s _Hiroshima_, which many regard as the finest journalistic dispatch of the 20th century. In the midst of the human and material wreckage caused by the most destructive weapon of war ever used, he could so easily have fallen into clichés and purple prose. Instead he went the other way. His method was low-key and anecdotal, interweaving the experiences of six survivors and drawing on the testimony of many others. He started as he meant to continue:
+
+At exactly fifteen minutes past eight in the morning, on August 6, 1945, Japanese time, at the moment when the atomic bomb flashed above Hiroshima, Miss Toshiko Sasaki, a clerk in the personnel department of the South East Asia Tin Works, had just sat down at her place in the plant office and was turning her head to speak to the girl at the next desk. At the same moment, Dr Masakazu Fujii was sitting down cross-legged to read the Osaka _Asahi_ on the porch of his private hospital …
+
+_Hiroshima_ ran to 31,000 words. The original article filled the entire edition of the _New Yorker_ on 31 August 1946, the first time in the magazine’s history that this had ever happened. It was serialised in full in eighty other publications around the world and eventually even in Japan. Subsequently republished in book form, it has been in print ever since and has sold more than three million copies. And yet, unusually for a work of journalism, it appeared more than a year after the events it described. There were reasons for the delay. One was the difficulty of accessing Hiroshima and the severity of postwar censorship. Another was the effect of the demonisation of the Japanese people in the American media after the attack on Pearl Harbor. It took an original mind and an eloquent pen to portray them as victims as well as aggressors. Hersey possessed both. Among his peers, in my view, he was rivalled only by the late and great James Cameron of the equally late and great _News Chronicle_.
+
+‘Mr Straight Arrow’ was a nickname given to Hersey by a colleague on the _New Yorker_, a reference to how Hersey represented the ‘straight and narrow’ to his second wife, who had been married twice before settling down with him. Treglown’s book is a masterwork of research, since Hersey was a correspondent in a double sense. Not only did he file dispatches for _Time_, _Life_ and the _New Yorker_, but he also left a prodigious paper trail behind him, including letters to family, friends, editors and colleagues. He was to my mind the father of the idea that journalism – yes, even journalism – can have a moral dimension to it.
+
+By the standards of today’s frantic twenty-four-hour news cycle, war reporting was a more considered and leisurely occupation in Hersey’s day. All news was slow news. The emphasis was on style, substance and accuracy. Now it is on speed and sensation at any cost, and the guiding principle is ‘never wrong for long’_._ Those who came after him can read this book and weep.
+
+  
+  
+from Hacker News https://ift.tt/34iwEm4

@@ -1,0 +1,12 @@
+---
+title: 'Xiaomi Mi Watch with 1.78-inch AMOLED screen, Snapdragon Wear 3100, 4G VoLTE via eSIM announced'
+date: 2019-11-05T10:12:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Xiaomi-Mi-Watch-1024x615.jpg) Xiaomi just announced Mi watch, the company's first smartwatch in the Mi Ecosystem in China, as it had promised. It has a 1.78-inch AMOLED touch screen with support for over 100 watch faces, is powered by Qualcomm Snapdragon Wear 3100 with 1GB of RAM, runs Wear OS with MIUI for Watch on top and has support for eSIM for 4G VoLTE calling through all the major operators in China such as China Telecom and China Unicom. It promises up to 36 hours of battery life on 4G. The watch can automatically track 10 sports activities, comes with European professional sports algorithm FIRSTBEAT, which supports 02 Max. Xiaomi Mi Watch specifications 1.78-inch (368 x 448 pixels) AMOLED 326PPI screen with Corning Gorilla Glass 3 protection Qualcomm Snapdragon Wear 3100 Platform 1GB RAM, 8GB eMMC Wear OS based MIUI For Watch with support for Android and iOS Sports, Activity and Sleep tracking Accelerometer, Geomagnetic sensor,Heart Rate Sensor, Ambient Light Sensor, Barometer Swim Proof 4G VoLTE (via eSIM), WiFi  802.11 b/g/n, Bluetooth 4.2 LE, GPS+GLONASS+BEIDOU, NFC Dimensions: 44.69 x 36.92x 12.28mm; Weight: 44g (without strap) / 56g (Premium Edition without strap) Speaker, microphone  570mAh (typical) / 560mAh (minmum) battery with up to 36hours of battery ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=q43tWzIeMuY:-KZf1MJp9Rw:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=q43tWzIeMuY:-KZf1MJp9Rw:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=q43tWzIeMuY:-KZf1MJp9Rw:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=q43tWzIeMuY:-KZf1MJp9Rw:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=q43tWzIeMuY:-KZf1MJp9Rw:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=q43tWzIeMuY:-KZf1MJp9Rw:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/q43tWzIeMuY)  
+[Read Here»](https://www.fonearena.com/blog/297205/xiaomi-mi-watch-price-specifications.html)

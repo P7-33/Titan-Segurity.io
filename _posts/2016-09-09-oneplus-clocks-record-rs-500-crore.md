@@ -1,0 +1,12 @@
+---
+title: 'OnePlus clocks record Rs. 500 crore revenue in 2 days during Amazon Great Indian Festival sale'
+date: 2019-10-01T07:36:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/OnePlus-7T_fonearena-03-1024x655.jpg) OnePlus launched the OnePlus 7T and OnePlus TV 55Q1 series in India last week, and these went on sale on Amazon.in and OnePlus India website online as well as OnePlus stores offline on September 29th. Today the company has announced that OnePlus has recorded Rs. 500 crore revenue in two days, September 29th and 30th during the Amazon Great Indian Festival Sale driven by new product launches ahead of festival season sale. OnePlus added that it has yet again emerged as the best-selling technology brand in the premium segment with over 100% growth as compared to the previous year. "The recently unveiled OnePlus 7T and the OnePlus TV 55Q1 saw tremendous uptake registering the highest-ever sales in the premium smartphone category and the TV category respectively on Amazon.in," it said. Manish Tiwary, Vice President — Category Management, Amazon India said: We are humbled and equally thrilled to witness such an overwhelming response for OnePlus smartphones and OnePlus TV on Amazon.in. This festive season, Amazon.in remains the destination of choice for customers with millions of mobile phones & televisions sold by Day 2 of the Amazon Great Indian Festival. Our affordability programs such as no-cost EMI, exchange, instant bank discounts and more continue to ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=alVIg7_KfLk:HwbyRFvANMA:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=alVIg7_KfLk:HwbyRFvANMA:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=alVIg7_KfLk:HwbyRFvANMA:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=alVIg7_KfLk:HwbyRFvANMA:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=alVIg7_KfLk:HwbyRFvANMA:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=alVIg7_KfLk:HwbyRFvANMA:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/alVIg7_KfLk)  
+[Read Here»](https://www.fonearena.com/blog/293754/oneplus-rs-500-crore-revenue-2-days-amazon-great-indian-festival-sale.html)

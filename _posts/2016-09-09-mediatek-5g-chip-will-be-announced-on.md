@@ -1,0 +1,12 @@
+---
+title: 'MediaTek 5G chip will be announced on November 26, will power 5G phones in 2020'
+date: 2019-11-11T09:17:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/MediaTek-5G-chip-1024x631.jpg) At the MediaTek Summit in San Diego, the company teased its upcoming 5G chip with the model number MT6885Z. It also confirmed that it will introduce the chip on November 26th. At the Computex 2019 in Taiwan back in May the company’s already said that the 5G SoC will be built using 7nm FinFET process technology and MediaTek Helio M70 5G modem built in, and we can expect the full specifications of this chip at the event. It uses the latest Cortex-A77 CPU, Mali-G77 GPU and MediaTek’s most advanced AI processing unit (APU).  The multi-mode 5G chipset is for 5G stand alone and non-stand alone (SA/NSA) sub-6GHz networks. It supports connectivity from 2G to 4G to bridge existing network access while 5G networks roll out globally. MediaTek already said that it's working with leading cellular operators, equipment makers and suppliers to verify the market readiness of its 5G technologies for mobile and also for smart homes and smart cars. Companies collaborating with MediaTek on RF technology include OPPO, Vivo and top tier RF suppliers like Skyworks, Qorvo, and muRata, designing the front end module that can accommodate 5G and still keep the device thin and stylish. The MediaTek 5G SoC  will roll out in commercial ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=pS8KIVxIgUc:dRDYAYyzj9I:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=pS8KIVxIgUc:dRDYAYyzj9I:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=pS8KIVxIgUc:dRDYAYyzj9I:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=pS8KIVxIgUc:dRDYAYyzj9I:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=pS8KIVxIgUc:dRDYAYyzj9I:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=pS8KIVxIgUc:dRDYAYyzj9I:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/pS8KIVxIgUc)  
+[Read Here»](https://www.fonearena.com/blog/297714/mediatek-5g-chip-launch-date.html)

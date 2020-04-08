@@ -1,0 +1,25 @@
+---
+title: 'Death Stranding Pizza Tips: There''s A Good Reason To Deliver Pizza'
+date: 2019-11-13T00:53:00+01:00
+draft: false
+---
+
+In [Death Stranding](https://www.gamespot.com/death-stranding/), you'll find yourself delivering all sorts of items for the strange and eccentric survivors in Hideo Kojima's post-apocalyptic world. Whether it's bringing classic game consoles to [the Collector](https://www.gamespot.com/articles/death-stranding-guide-the-most-useful-upgrade-you-/1100-6471282/) or delivering well-aged wine to those in the furthest reaches of the map, you'll be putting in the leg work to ensure you can form bonds with the many characters you'll come to know. However, there's one especially strange series of deliveries that's worth taking the time for.
+
+In Episode 3, you'll eventually get an optional order in Lake Knot City asking you to deliver a pizza. Shipping to Peter Englert, a prepper in the west, you'll have to bring the hot item to his shelter in under an hour--even less if you choose to take on the premium delivery challenge. Once you deliver the cargo, you actually won't speak to him directly, the terminal's automated system will take care of the handoff. Once that's done, you'll eventually get a follow-up message from Peter thanking you for the pizza. Later on, the mystery man will send you an email asking for another one, this time, presenting clues on where to find the pizza, which you'll need to deliver in the same fashion.
+
+[![No Caption Provided](https://gamespot1.cbsistatic.com/uploads/scale_super/1579/15792183/3603350-peter1.png)](https://gamespot1.cbsistatic.com/uploads/original/1579/15792183/3603350-peter1.png)
+
+[![Gallery image 1](https://gamespot1.cbsistatic.com/uploads/square_avatar/1579/15792183/3603352-peter2.png)](https://gamespot1.cbsistatic.com/uploads/original/1579/15792183/3603352-peter2.png)[![Gallery image 2](https://gamespot1.cbsistatic.com/uploads/square_avatar/1579/15792183/3603353-peter3.png)](https://gamespot1.cbsistatic.com/uploads/original/1579/15792183/3603353-peter3.png)
+
+What makes delivering pizzas in Death Stranding a bit of challenge is that it is sensitive cargo that must be stacked horizontally at all times. The worst thing you can do to a box of pizza is to place it on its side, and in Death Stranding, that will cause it significant damage. To ensure that you can keep the item safe and sound, always make sure that you have items in your backpack before placing it into your inventory. If you have a full set of cargo in your backpack, the pizza will stack on top of it. Also, avoid using the [auto-arrange feature](https://www.gamespot.com/articles/death-strandings-auto-arrange-cargo-feature-might-/1100-6471057/) when carrying pizza. While this feature can come in handy most of the time, it will ignore requirements for sensitive cargo to optimize the layout for Sam's inventory. This means that it will more than likely pack the pizza vertically to make space. If you want to avoid messing with your inventory, grab a truck and place the pizza inside its cargo hold--instant pizza delivery truck!
+
+These missions may seem like an odd diversion and a waste of time, but if you stick with it, you'll come to find this questline has a somewhat surprising payoff. In total, there are about four different pizza delivery missions throughout the game. Eventually, you'll be able to learn more about the identity of Peter Englert, and just what's inside of his shelter. Once you complete Episode 10, you'll be able to return to Peter's shelter and find the door wide open. For the sake of spoilers, we won't reveal what's inside. However, we can say it's a satisfying discovery which adds a lot to the overall plot. But if you're looking for a more tangible reward, completing all the pizza delivery missions will open up special upgrades for Sam's firearms, allowing him to fire rounds made from chiralium.
+
+Death Stranding Guides
+
+*   [Death Stranding BT Survival Guide: Early Tips For Overcoming These Dangerous Enemies](https://www.gamespot.com/articles/death-stranding-bt-tips-and-advice-how-to-beat-the/1100-6471058/)
+*   [Death Stranding: How Long Does It Take To Beat?](https://www.gamespot.com/articles/how-long-is-death-stranding-game-length-breakdown/1100-6471233/)
+*   [Death Stranding Walkthrough, Guides, And Tips](https://www.gamespot.com/articles/death-stranding-walkthrough-tips-guides/1100-6471243/)
+
+For more on Death Stranding, including some [essential tips on movement](https://www.gamespot.com/articles/death-stranding-guide-tips-on-how-to-walk-in-hideo/1100-6471246/), fighting [MULEs](https://www.gamespot.com/gallery/death-stranding-combat-tips-guide-early-advice-for/2900-3156/), and figuring out where how to find other [hidden preppers](https://www.gamespot.com/articles/death-stranding-guide-the-hidden-preppers-that-you/1100-6471361/) in the game, be sure to check back with GameSpot for more on the game.

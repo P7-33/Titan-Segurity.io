@@ -1,0 +1,12 @@
+---
+title: 'WhatsApp Business app gets catalog feature to showcase products and services'
+date: 2019-11-07T16:21:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/WhatsApp-Business-catalog-1-1024x913.jpg) WhatsApp has been adding new features to with their Business app. The latest feature is catalog that lets businesses add products and services to showcase and share their goods so people can easily browse and discover something they would like to buy. Previously businesses had to send product photos one at a time and repeatedly provide information — now customers can see their full catalog right within WhatsApp. This makes business owners look more professional and keeps customers engaged in the chat without having to visit a website. "Like Agradaya, a sustainable herbs and spices business in Indonesia. We gave the founder Andhika Mahardika early access to the catalog feature, and he told us that it makes it easier for customers to learn about their products, know the prices and view the images of what they offer — which is essential for serving their customers better," said the company. https://www.youtube.com/watch?v=goTSdIcwyqs For each item in its catalog, a business can add information including price, description and product code. WhatsApp hosts these catalogs to save valuable storage space on the phones of both businesses and customers. The catalog feature is available today to businesses using the WhatsApp Business app on both Android and iPhone in Brazil, Germany, ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=iy2LkpTlnkQ:dl3khdyj1k8:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=iy2LkpTlnkQ:dl3khdyj1k8:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=iy2LkpTlnkQ:dl3khdyj1k8:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=iy2LkpTlnkQ:dl3khdyj1k8:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=iy2LkpTlnkQ:dl3khdyj1k8:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=iy2LkpTlnkQ:dl3khdyj1k8:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/iy2LkpTlnkQ)  
+[Read Here»](https://www.fonearena.com/blog/297458/whatsapp-business-catalog-products-services.html)

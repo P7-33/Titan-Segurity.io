@@ -1,0 +1,12 @@
+---
+title: 'India-based GPS tracking company Letstrack foraying into USA'
+date: 2019-11-08T14:06:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Letstrack-Logo.jpg) Letstrack, a popular GPS device tracking company has decided to expand to the US market after its successful Indian market entry. The company aims to establish itself in the US market by 2020 with its pilot program crossing more than 10K app registrations in the country. The company is launching all of its products in the US - Letstrack Personal series, Letstrack Bike series, Letstrack Premium, Letstrack Plug and Play, Letstrack Special and few newer products. With a successful pilot program and $1.7 million in seed funding, the company is expecting higher growth and momentum from the US market over the next few months. Letstrack aims to create more demand in the market among US consumers for GPS tracking products with its new features such as full car security, connectivity and entertainment package. While focusing on 100K US users, the company is also working with OEMs to expand its reach nationwide. Regarding the expansion, Vikram Kumar, Founder & CEO, Letstrack, stated: All American companies want to enter China and India, but Chinese don't let them enter. And India is too difficult to understand an operate. Our main strategy was to place distribution in place and conquer the Asian Market, then move on to launch ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=K3fxLCwjmZQ:B4gMLK0sOXY:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=K3fxLCwjmZQ:B4gMLK0sOXY:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=K3fxLCwjmZQ:B4gMLK0sOXY:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=K3fxLCwjmZQ:B4gMLK0sOXY:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=K3fxLCwjmZQ:B4gMLK0sOXY:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=K3fxLCwjmZQ:B4gMLK0sOXY:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/K3fxLCwjmZQ)  
+[Read Here»](https://www.fonearena.com/blog/297575/india-letstrack-foraying-usa.html)

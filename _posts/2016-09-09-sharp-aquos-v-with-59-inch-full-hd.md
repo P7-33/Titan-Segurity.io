@@ -1,0 +1,12 @@
+---
+title: 'Sharp AQUOS V with 5.9-inch FULL HD+ display, dual rear cameras announced'
+date: 2019-11-11T16:47:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Sharp-AQUOS-V.png) Sharp has just introduced its AQUOS V smartphone in Taiwan and this comes after the launch of AQUOS zero2 last month. The AQUOS V sports FHD+ display, dual rear cameras with OIS support, fingerprint scanner, and more. Sharp AQUOS V flaunts a 5.9-inch FULL HD+ IPS display with a resolution of 2160 x 1080 pixels, noticeable bezels on the top and bottom, and it is powered by a dated Qualcomm Snapdragon 835 processor paired with 4GB RAM with 64GB storage. The storage can be expanded up to 256GB through a microSD card. It sports a rear-mounted physical fingerprint scanner, supports face unlock, and runs on Android 9 Pie. Regarding the optics, it sports dual rear cameras with a combination of 13MP + 13MP (Mono), f/2.0 aperture, and supports OIS and PDAF. The front-facing camera is 8MP with an f/2.0 aperture and supports EIS. The connectivity options and ports include 4G LTE, Dual-Band WiFi 2.4 + 5GHz, Bluetooth 5.0, USB Type-C, and 3.5mm headphone jack. It packs a 3090mAh battery. Sharp AQUOS V specifications 5.9-inch (2160 x 1080 pixels) Full HD+ IPS display Octa-Core Snapdragon 835 Mobile Platform with Adreno 540 GPU 4GB RAM, 64GB storage which is expandable up to 256GB Android 9 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=J3uwFlW0uSk:aen_djZnl6g:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=J3uwFlW0uSk:aen_djZnl6g:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=J3uwFlW0uSk:aen_djZnl6g:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=J3uwFlW0uSk:aen_djZnl6g:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=J3uwFlW0uSk:aen_djZnl6g:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=J3uwFlW0uSk:aen_djZnl6g:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/J3uwFlW0uSk)  
+[Read Here»](https://www.fonearena.com/blog/297759/sharp-aquos-v-price-specifications.html)

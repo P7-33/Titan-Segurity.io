@@ -1,0 +1,12 @@
+---
+title: 'LG G8X ThinQ with 6.4-inch FHD+ OLED display, Snapdragon 855 global roll out begins Nov 1, price revealed'
+date: 2019-10-23T10:58:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/LG-G8X-ThinQ-1024x888.jpg) LG introduced the G8X ThinQ at the IFA last month,  and it started rolling out as V50S ThinQ with 5G support in Korea earlier this month. Today the company has announced the global roll out for the G8X ThinQ, which will be available in the U.S. on November 1 followed by key markets around the world such as Brazil, Germany, Japan, Mexico, Spain and Turkey over the next several weeks. It will be sold in the U.S. unlocked at $699.99 (Rs. 49,630 approx.) on Amazon as well as AT&T and Sprint. The company is also offering LG Dual Screen worth $300 for eligible customers when discounted through carrier agreements. It will be available for pre-order from Friday, Oct. 25 and will vary by wireless provider and retailer. It packs a 6.4-inch FullVision FHD+ OLED display, is powered by Snapdragon 855 with 6GB of RAM, runs Android Pie with improved user interface with a cleaner design, refreshed icons and tabs such as Dial, Call logs, and Contacts moving to the bottom of the display so that users can get even more done with only one hand, has dual rear cameras, 13MP 136-degree super wide-angle and 12MP standard sensor. There is also a ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=lP63NjHLcKI:14VuukLoiOg:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=lP63NjHLcKI:14VuukLoiOg:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=lP63NjHLcKI:14VuukLoiOg:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=lP63NjHLcKI:14VuukLoiOg:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=lP63NjHLcKI:14VuukLoiOg:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=lP63NjHLcKI:14VuukLoiOg:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/lP63NjHLcKI)  
+[Read Here»](https://www.fonearena.com/blog/296149/lg-g8x-thinq-price-specifications-global-roll-out.html)

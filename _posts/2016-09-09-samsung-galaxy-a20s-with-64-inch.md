@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy A20s with 6.4-inch Infinity-V display, triple rear cameras, 4000mAh battery launched in India starting at Rs. 11999'
+date: 2019-10-05T07:23:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Samsung-Galaxy-A20s-1-878x1024.jpg) Samsung just launched the A20s, successor of A20. It has a 6.4-inch HD+ Infinity-V TFT screen, is powered by a Snapdragon 450 SoC with up to 4GB of RAM, runs Android Pie, comes with a 13-megapixel rear camera with f/1.8 aperture along with an 8-megapixel 120° ultra-wide and 5-megapixel depth sensor and an 8-megapixel front camera with f/2.0 aperture with support for face unlock. It has a 3D plastic back with gradient finish, comes with dedicated dual SIM and microSD slots, has a rear-mounted fingerprint scanner, and has a 4000mAh battery with 15W fast charging. Samsung Galaxy A20s Specifications 6.4-inch (1560 × 720 pixels) HD+ TFT Infinity-V display 1.8GHz Octa-Core Snapdragon 450 14nm Mobile Platform with Adreno 506 GPU 3GB RAM with 32GB Storage / 4GB RAM with 64GB storage, expandable up to 512GB via micro SD card Android 9.0 (Pie) with Samsung One UI Dual SIM (nano + nano + microSD) 13MP rear camera with LED flash, f/1.8 aperture, 8MP 120° ultra-wide angle lens with f/2.2 aperture, 5MP depth sensor 8MP front camera with f/2.0 aperture Fingerprint sensor Dimension:163.3 x 77.5 x 8.0mm; Weight: 183g 3.5mm audio jack, FM Radio Dual 4G VoLTE, Wi-Fi 802.11 b/g/n, Bluetooth 4.2, GPS + GLONASS, USB ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=N4hKVObPUQg:XGq7eFAOznQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=N4hKVObPUQg:XGq7eFAOznQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=N4hKVObPUQg:XGq7eFAOznQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=N4hKVObPUQg:XGq7eFAOznQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=N4hKVObPUQg:XGq7eFAOznQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=N4hKVObPUQg:XGq7eFAOznQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/N4hKVObPUQg)  
+[Read Here»](https://www.fonearena.com/blog/294108/samsung-galaxy-a20s-price-india-specifications.html)

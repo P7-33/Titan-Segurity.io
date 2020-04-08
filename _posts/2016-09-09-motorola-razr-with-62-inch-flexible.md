@@ -1,0 +1,12 @@
+---
+title: 'Motorola razr with 6.2-inch flexible OLED 21:9 CinemaVision display, Quick View external display announced'
+date: 2019-11-14T05:58:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Motorola-razr.gif) Motorola just announced razr, the company's latest foldable smartphone, as it had promised. It is still a flip phone, similar to the old range but this has a large  6.2-inch flexible OLED 21:9 CinemaVision screen that closes completely in half, thanks to hinge mechanism that allows the phone to close with both sides perfectly flush. "This engineering breakthrough protects the display and creates an even thinner, more compact design," says the company. The touchscreen Quick View external display lets you respond to notifications, take selfies, play your music, use Google Assistant, and more without having to flip open your phone. There is a 16MP main camera with Laser Auto Focus and Night Vision mode and electronic image stabilization as well as built-in artificial intelligence (AI). On the outside there is a 5-megapixel selfie camera. The phone is powered by Snapdragon 710 with 6GB of RAM, runs stock Android Pie and doesn't have a 3.5mm audio jack, but it comes with Premium USB Type-C headphones, tuned by expert sound engineers. The phone packs a  2510mAh battery that promises all-day battery life and has 15W TurboPower charging. Motorola razr specifications 6.2-inch (2142 x 876 pixels) 21:9 Cinemavision foldable pOLED screen, external 2.7-inch (600 x 800 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Tz7xxIrHWEU:mxV9Q4msu4k:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Tz7xxIrHWEU:mxV9Q4msu4k:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Tz7xxIrHWEU:mxV9Q4msu4k:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Tz7xxIrHWEU:mxV9Q4msu4k:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Tz7xxIrHWEU:mxV9Q4msu4k:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Tz7xxIrHWEU:mxV9Q4msu4k:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Tz7xxIrHWEU)  
+[Read Here»](https://www.fonearena.com/blog/298000/motorola-razr-price-specifications.html)

@@ -1,0 +1,12 @@
+---
+title: 'Kerala government’s KFON project to provide high speed internet by December 2020'
+date: 2019-11-07T08:36:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2016/09/Optical-fibre.jpg) The Kerala government has green lit the Kerala-Fiber Optic Network (K-Fon) project that will provide free high speed internet connection to over 20 Lakh Below Poverty Line (BPL) families. The $1548 crore project is estimated to be completed by December 2020 and will be built by a group led by Bharat Electronics Limited (BEL). The project, financed by the KIIFB, is part of a program by the state to provide high speed internet access to all citizens. The program is aimed at giving a push to the digitization of government services like the e-health programs, IT parks, airports and seaports. The program will also provide Net connectivity at affordable rate for families which do not fall in the BPL bracket. It will be set up by the Kerala State Electricity Board Limited and Kerala State IT Infrastructure Limited and will link houses and over 30000 government offices and educational institutions. The network, once built, will be open to utilization for licensed Internet service providers and cable TV operators. Mobile towers will also be linked to provide faster mobile internet services. Thomas Issac, Finance Minister of Kerala. Member, Central Committee of Communist Party of India, tweeted this regarding the news: Internet connection made a basic a ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=qqIFT9BgEDw:alr18NMYGkU:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=qqIFT9BgEDw:alr18NMYGkU:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=qqIFT9BgEDw:alr18NMYGkU:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=qqIFT9BgEDw:alr18NMYGkU:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=qqIFT9BgEDw:alr18NMYGkU:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=qqIFT9BgEDw:alr18NMYGkU:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/qqIFT9BgEDw)  
+[Read Here»](https://www.fonearena.com/blog/297415/kerala-government-kfon-project-fiber-connection-december-2020.html)

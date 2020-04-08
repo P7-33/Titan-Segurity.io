@@ -1,0 +1,110 @@
+---
+title: 'Kierkegaard’s Leap'
+date: 2019-10-31T04:32:00+01:00
+draft: false
+---
+
+Kierkegaard’s Leap
+==================
+
+* * *
+
+One ought to be a riddle not only to others but also  
+to oneself.  
+—_Either/Or_
+
+  
+We think of Søren Kierkegaard as one of the poetic philosophers. His restless experimentation with the forms of his books, his many pseudonyms and his running battle against group thinking make him attractive to an anarchic sensibility. And he seems to fit our inborn existentialism, even to illuminate it with his leap into the absurd. This remains my view as an amateur coming to Kierkegaard through poetry—particularly the poetry of W. H. Auden, who lived in an era when Kierkegaard’s works were newly translated and widely influential on a range of theologians and scholars, including Karl Barth and Paul Tillich. The Dane, who lived from 1813 to 1855, seemed accessible and relevant, not only to a time of global conflict, but also to the personal conflicts experienced in relation to one’s identity, one’s apprehension of meaninglessness and the stultifying conventions of society. Above all, Kierkegaard wrote as a person in time, impatient with philosophical systems and a discourse of purified abstraction. He told stories, created dialogues, presented characters wrestling with experience. He seemed connected to the primary philosophy of Plato and his teacher Socrates, to Boethius, to the aesthetic sympathies of Schopenhauer, the aphoristic and oblique writing in Nietzsche.
+
+He was a character, even a figure of absurdity, self-martyred by his ideas and his famous outsider status. Reading his journals can be dispiriting, he seems so dour, so tortured by his inner turmoil. As Auden put it:
+
+> . . . it is hardly surprising that Kierkegaard should have become—not intellectually but in his sensibility—a Manichee. That is to say, though he would never have denied the orthodox doctrine that God created the world, and asserted that matter was created by an Evil Spirit, one does not feel in his writings a sense that, whatever sorrows and sufferings a man may have to endure, it is nevertheless a miraculous blessing to be alive.
+
+Kierkegaard himself could turn this dark strain into rueful comedy, as he did in his extraordinary early book, _Either/Or_ (1843): “Hang yourself, and you will regret it. Do not hang yourself, and you will also regret it.”[\[1\]](https://hudsonreview.com/2019/10/kierkegaards-leap/#%5B1%5D) One takes note of a strain of misogyny in his thinking, his egotism, even solipsism, and then one finds marvelous fits of humor and satire, and the conflicts and contradictions humanize him all over again.
+
+The problem for a reader like me is that Kierkegaard’s struggles are inseparable from his Christianity. Auden said he was neither poet nor philosopher, but essentially a preacher, “an expounder and defender of Christian doctrine and Christian conduct.” How then to read him? While I am intrigued by the character of Jesus, I do not qualify as a Christian, do not participate in the faith and its attendant rituals. So how is it I can still find Kierkegaard attractive and useful? My answer involves a poem, “Leap Before You Look,” which Auden wrote in 1940, soon after arriving in the United States to begin a new life. Auden was at odds with his own country, denounced in Parliament for leaving England in a time of war. He was a public figure and, due to his homosexuality, a man whose private life pitted him against the laws and mores of his time. He wanted to avoid the trap of national prominence and to speak as a free man, an individual sympathetic to other suffering individuals. Auden’s poem is one of several in his works explicitly using images from Kierkegaard, particularly the leap of faith, a reference to Kierkegaard’s most famous book, _Fear and Trembling_ (1843). As a religious skeptic and a practicing poet, I read the poem metaphorically. The leap made perfect sense to me in terms of daily life:
+
+> The sense of danger must not disappear:  
+> The way is certainly both short and steep,  
+> However gradual it looks from here;  
+> Look if you like, but you will have to leap.
+> 
+> Tough-minded men get mushy in their sleep  
+> And break the by-laws any fool can keep;  
+> It is not the convention but the fear  
+> That has a tendency to disappear.
+> 
+> The worried efforts of the busy heap,  
+> The dirt, the imprecision and the beer  
+> Produce a few smart wisecracks every year;  
+> Laugh if you can, but you will have to leap.
+> 
+> The clothes that are considered right to wear  
+> Will not be either sensible or cheap,  
+> So long as we consent to live like sheep  
+> And never mention those who disappear.
+> 
+> Much can be said for social savoir-faire,  
+> But to rejoice when no one else is there  
+> Is even harder than it is to weep;  
+> No one is watching, but you have to leap.
+> 
+> A solitude ten thousand fathoms deep  
+> Sustains the bed on which we lie, my dear:  
+> Although I love you, you will have to leap;  
+> Our dream of safety has to disappear.
+
+I don’t love every stanza of this poem equally, but I remember in my twenties taking the final stanza to heart. I was working as a gardener and estate caretaker in New York, a socially-awkward person who spent many hours alone with plants and trees and weather, entertaining myself with whatever poems I happened to have memorized. I actually set that final stanza to a tune in my head and sang it aloud when I was sure no one else could hear. The lines became a sort of mantra, carried ever since, over more than forty years, whenever I need to console myself about uncertainty in life and love. Auden addressed them to his beloved, Chester Kallman, who would soon betray him and give him his first experience of jealousy and personal devastation. But Auden’s most personal poems can, at their best, be read as our own private thoughts, no matter how we self-identify. These four lines were touchstones for me, and for that reason I also feel attracted to Kierkegaard’s writing despite his sometimes repellent character.
+
+Clare Carlisle’s superb new biography of Kierkegaard works a similar trick, surveying the life in dramatic terms, clarifying the ideas while setting them in the context of her subject’s complicated character.[\[2\]](https://hudsonreview.com/2019/10/kierkegaards-leap/#%5B2%5D) It’s the sort of biography Kierkegaard himself might have written, thematic in structure rather than chronological, lucid in its narrative but not exhaustive in detail. Its shapely chapters circle back through the primary events in Kierkegaard’s life—his childhood and education, his proposal of marriage to Regine Olsen, nearly ten years his junior, and scandalous withdrawal of that proposal, his life as a sort of boulevardier in Copenhagen, frequenting cafes, smoking cigars and consuming copious draughts of coffee with his intellectual conversations, his journeys to the cultural capital of Berlin and impatience with German philosophy, his frenetic productivity as a writer under such pen names as Johannes _de silentio_, the letter A, Johannes the Seducer, Judge William and Frater Taciturnus, his self-imposed monasticism, his battles with the Danish church and the literary establishment, his prominence, outrage and shame in society. Carlisle writes with intimate knowledge of Copenhagen, its weather, its long winter nights, its beauty and the smugness of its society in Kierkegaard’s lifetime. One translation of the name Søren, she writes, is “severe,” and readers will often find her subject lacerating himself and others, yet claiming to have a happy disposition.
+
+Perhaps the most attractive thing about Kierkegaard is the way his productions, like his personality, refuse easy categorization. Auden might be right that he was more preacher than poet or philosopher, but few other preachers have produced such a varied and vital body of work, attacking ideas from so many points of view. To the degree that he was a philosopher, he imbued his philosophy with psychological presence. The life of the mind was always embodied in daily life and its anxieties, which makes him attractive to poets, even if they have trouble swallowing his theological strictness. It was, Carlisle writes, “a new kind of philosophy, in which truth cannot be known, yet must somehow be lived.” His objection to the Danish State Church arose because of its worldliness, its social hypocrisy, its failure to follow the example of Christ. This is a common hypocrisy, of course, but Kierkegaard’s sermons on the subject, while bracing and truthful, work best when he confesses his own failures and sinfulness. Auden called him a “Knight of Doleful Countenance,” and he could indeed be a connoisseur of despair. He considered a career as a minister, first as a means of marrying Regine and later on, when he wondered whether his writing life had reached its end. Carlisle writes,
+
+> Kierkegaard was well qualified to be a parish priest, or to teach in the pastoral seminary he had attended in 1840: he was an expert theologian, a gifted preacher, and a sensitive counsellor with “a special ability to talk with ordinary people.” But would he be offered a clerical appointment if he asked for one? Would publishing the 1848 works \[_Christian Discourses_ and his essay “The Crisis and a Crisis in an Actress’s Life”\] damage his prospects? And how could he continue his subversive authorship—which had been produced undercover, without authority—if he held an official position in the Church?
+
+Perhaps Søren was in some odd way a happy writer, but he was also a man for whom conventional happiness, marriage and career, always seemed incompatible with the demands of his writing life. As he wrote in _Either/Or_, “I have, I believe, the courage to doubt everything; I have, I believe, the courage to fight against everything; but I do not have the courage to acknowledge anything, the courage to possess, to own, anything.” He was writing this giant book at precisely the time when he denied his own erotic attraction to Regine. “Marry, and you will regret it,” he wrote. “Do not marry, and you will also regret it. Marry or do not marry, you will regret it either way. Laugh at the stupidities of the world, and you will regret it; weep over them, and you will also regret it.” These dramatizations of inner life are provisional, written by fictional personae, and Carlisle is careful not to take them for literal truth. The degree to which Kierkegaard was a self-dramatizing writer remains a major question about his work.  
+  
+\*  
+  
+Søren Kierkegaard’s father was born an indentured serf in Jutland and was given his freedom at age twenty-one. A former slave, he almost immediately took advantage of slavery in the Caribbean as well as trade with India and China, making in one decade a business fortune that would support his wife and seven children. “This remarkable transformation of a God-forsaken peasant boy into one of the richest men in Copenhagen is not a story of good fortune,” Carlisle writes. Michael Pedersen Kierkegaard transferred his hard-earned severity to his children. They were steeped in Danish Lutheranism. Søren regarded “his childhood as a paradise already lost in infancy: ‘I never had the joy of being a child, for the frightful torment I suffered disturbed the peace requisite for being a child, for being capable of diligence, etc., in order to please one’s father, because the unrest within me caused me to be always, always outside myself.’” If you translate his name as “Severe Churchyard,” you can imagine the anxiety and torment of his early life, even as he knew he was loved. Most of his siblings died young, and the remainder of the family fortune supported the philosopher in his pursuits—eventually he sold their house and lived in a series of apartments, but he never really wanted for money. Yet his character was trained in opposition. He could not simply accept the redemptive promise of Christ:
+
+> “A guilt must rest upon the entire family,” he wrote during his student years, when all but one of his siblings were dead; “the punishment of God must be upon it: it was supposed to disappear, obliterated by the mighty hand of God, erased like a mistake.” And with no hope of a happy future, he added, “what wonder then that in desperation I seized hold solely to the intellectual side of man, and clung onto that, so that the thought of my remarkable mental capacities was my only comfort, ideas my only joy.”
+
+From this tormenting self-examination would evolve new ways of posing philosophical questions—how is one to be human in the face of uncertainty? “It is quite true what philosophy says,” he wrote, “that life must be understood backward. But then one forgets the other principle, that it must be lived forward.” In _Fear and Trembling_, he returns to Genesis, the story of Abraham and Isaac, the single most horrifying parable of faith offered in the Bible. To obey the dictates of his God, Abraham must sacrifice his own son. The monstrous nature of this command is undeniable—Wilfred Owen’s poem “The Parable of the Old Man and the Young” turns it into a story about sons sacrificed in the trenches of World War I. Kierkegaard is careful to distinguish himself from his Knight of Faith, even as he stands in awe of Abraham’s obedience. “Love, after all, has its priests in the poets,” he writes, “and occasionally one hears a voice that knows how to keep it in shape; but about faith one hears not a word, who speaks in _this_ passion’s praises? Philosophy goes further. Theology sits all painted at the window courting philosophy’s favour, offering philosophy its delights. It is said to be hard to understand Hegel, while understanding Abraham, why, that’s a bagatelle.” The rationality of Hegel he has studied and understood. “But when I have to think about Abraham I am virtually annihilated.”
+
+One might find parallels here with Arjuna in his chariot, comparing the leap of faith to sloughing off the illusion of self, but Kierkegaard’s drama never denies the inherent horror of the sacrificial act. Abraham’s belief is absurd. Yet Abraham believes. The position is irreducible. Wilfred Owen made it an ironic metaphor for his generation’s struggle, but this is one occasion when Kierkegaard wants to get beyond metaphor, which might be humanly impossible.
+
+The problem is in one way simple: we cannot know the truth. Kierkegaard’s rhetoric rises to this problem beautifully:
+
+> If there were no eternal consciousness in a man, if at the bottom of everything there were only a wild ferment, a power that twisting in the dark passions produced everything great or inconsequential; if an unfathomable, insatiable emptiness lay hid beneath everything, what then would life be but despair? If it were thus, if there were no sacred bond uniting mankind, if one generation rose up after another like the leaves of the forest, if one generation succeeded the other as the songs of birds in the woods, if the human race passed through the world as a ship through the sea or the wind through the desert, a thoughtless and fruitless whim, if an eternal oblivion always lurked hungrily for its prey and there were no power strong enough to wrest it from its clutches—how empty and devoid of comfort would life be! But for that reason it is not so, and as God created man and woman, so too he shaped the hero and the poet or speech-maker.
+
+This may be where Kierkegaard’s doubts part company with my own. He sees faith as a necessary leap over the chasm of uncertainty. I do too, but I cannot accept Christian doctrine as the premise of the leap. I am left with the feeble willingness of my own soul, which I do not separate from the vast workings of nature, however those terms might be defined. I sympathize with Kierkegaard’s writing here mostly because we both believe in the necessity and the limits of human reason. We both see the value of faith, even if we differ as to its object or its source. I admire Kierkegaard for his understanding of the irrational element, his consistent focus on the problem of living as a human being.
+
+His persona in _Fear and Trembling_ admits, “The present author is no philosopher, he has not understood the System, nor does he know if there really is one, or if it has been completed. As far as his own weak head is concerned the thought of what huge heads everyone must have in order to have such huge thoughts is already enough.” He could think like a cartoonist. He could laugh at the high seriousness of Hegel, the hubris of anyone’s system-making. His response was essentially religious, but religion for the living person was a problem, not a solution. Like Eliot’s Magi he is “no longer at ease” in the realm of religion, which must be newly rediscovered every day, even in its most terrifying demands.  
+  
+\*  
+  
+There are further permutations to Kierkegaard’s thinking on the problem of subjectivity, on actual beauty versus its conventional expressions, on the individual versus the group and notions of self-knowledge, as well as his many forays into aesthetics and theology. He did not write systematically, and I cannot imagine reading him systematically. I read him as a practicing poet, taking what is useful to me in any given moment and neglecting the rest. Clare Carlisle’s book has its own beauty, reminding us that Kierkegaard, in his book _Repetition_ (1843) and elsewhere, sympathized with our own troubles, our own desires to live decent lives. She writes, “A relationship—whether to another person, to God, or to oneself—is never a fixed, solid thing. If it is to endure through time, it must be repeatedly renewed. And each human self is made up of such relationships. The ‘new category’ of repetition would, Kierkegaard argued, finally allow philosophy to say something meaningful about the truth of life.” The emphasis here is upon action—what we do as well as what we think. Auden would have found this sympathetic. His “Christmas Oratorio,” _For the Time Being_ (1942), also wrestles with the problem of faith in a world of uncertainty, offering only the existentialist solution that one way or another, a person must choose and a person must act. Easier said than done.
+
+Another of Auden’s works beholden to Kierkegaard is _The Age of Anxiety_ (1947), a Joycean poem in Anglo-Saxon alliterative verse about four New Yorkers during World War II. Auden’s poem is psychological as much as theological, but he might have approved Carlisle’s summary of Kierkegaard’s book, _The Concept of Anxiety_ (1844):
+
+> Kierkegaard connected this psychological analysis of anxiety with the Christian doctrine of original sin, which awkwardly holds together inherited sinfulness and individual responsibility. Augustine, still the orthodox voice on this question, taught that after Adam and Eve sinned in the Garden of Eden they transmitted their sinfulness—and its consequent suffering and mortality—biologically to the whole human race. Kierkegaard disagrees with that explanation: he interprets the biblical story of Adam’s lapse into sin as dramatizing a fall that happens again and again throughout each person’s life, every time a moment of freedom arises. Nevertheless, he shares Augustine’s view that human beings are constitutionally restless: never completely at ease in the world, and able to find real rest only in God.
+
+Here again, I follow the psychology without buying the theology. What if the biblical stories are only really metaphorical? What if you remove the word God from that last sentence and substitute nature? Is that really something to be afraid of? What if grace doesn’t come as a gift bestowed from beyond, but in moments of self-forgetfulness, moments in which, by whatever means and processes, the Ego simply disappears? Questions about the afterlife are not answered in this kind of thinking, but _so what?_ If one isn’t afraid to live, why should one be afraid to die? And even if one is afraid, again, _so what?_ Our courage and our fear will not change the fact of our dying.
+
+Throughout this review I have used my own experience as an illustration of the problems some readers discover when reading Kierkegaard. I do not mean to express contempt for his religious beliefs as some atheists would, though I do feel contempt for the kind of religious certainty that drives men to judge and kill each other.[\[3\]](https://hudsonreview.com/2019/10/kierkegaards-leap/#%5B3%5D) Indeed, my own experience is in some basic sense religious, based upon awe at creation and gratitude for the gift of life. What I share with Kierkegaard is a sense of human drama, an apprehension of anxiety and doubt, an awareness of just how horrible human life can be, how easily people succumb to mediocrity and worse, how important it is to liberate one’s thinking from the assumptions of the crowd.
+
+“I am convinced that God is love,” Kierkegaard wrote. “This thought has for me a pristine lyrical validity. When it is present to me I am unspeakably happy, when it is absent I yearn for it more intensely than the lover for the beloved; but I do not have faith; this courage I lack.” In such moments I can love him as a man as well as a writer. Does it follow that love is God? Only if we understand how unknowable love is, how we must suffer to learn its nature, how lucky we are to live, even in our suffering.  
+  
+  
+\[1\] Translations from _Either/Or_ are by Howard V. and Edna H. Hong. Translations from _Fear and Trembling_ are by Alastair Hannay. Carlisle’s book cites a number of different translations, and I refer the reader to her notes.
+
+\[2\] _Philosopher of the Heart: The Restless Life of Søren Kierkegaard_, by Clare Carlisle. Allen Lane. $28.00.
+
+\[3\] I am reminded that the secular religions of Communism and Fascism have also murdered on a massive scale, sometimes even while preaching a kind of love.
+
+* * *
+
+  
+  
+from Hacker News https://hudsonreview.com/2019/10/kierkegaards-leap/#.Xbd-55NKjR0

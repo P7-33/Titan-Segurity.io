@@ -1,0 +1,12 @@
+---
+title: 'Apple Research App gets three new medical research studies'
+date: 2019-11-15T09:28:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Apple-Research-1-828x1024.jpg) Apple's Research App has launched three new studies in partnership with leading academic and research institutions namely - the Apple Women’s Health Study, the Apple Heart and Movement Study, and the Apple Hearing Study. Apple users can now participate and contribute to new medical research with the iPhone and Apple Watch. The Research App gives users a streamlined enrolment process and engaging tasks in  straightforward and secure app. Users will provide useful data through the iPhone and Apple Watch - movement, heart rate and noise levels — captured during everyday activities, from taking a walk to attending a concert. The Research App will only share this data with chosen studies with consent from the user along with finer control in the type of data shared with each study. The first study, called the Apple Women's Health Study is a research study aimed at better understanding menstrual cycles and how they relate to women’s health. The Apple Women’s Health Study is the first long-term study of this scale and scope; it aims to advance the understanding of menstrual cycles and their relationship to various health conditions, including polycystic ovary syndrome (PCOS), infertility, osteoporosis and menopausal transition. The second study, called the Apple Heart and ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=U1KRpYj5Ga0:30siSF8G7y4:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=U1KRpYj5Ga0:30siSF8G7y4:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=U1KRpYj5Ga0:30siSF8G7y4:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=U1KRpYj5Ga0:30siSF8G7y4:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=U1KRpYj5Ga0:30siSF8G7y4:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=U1KRpYj5Ga0:30siSF8G7y4:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/U1KRpYj5Ga0)  
+[Read Here»](https://www.fonearena.com/blog/298085/apple-research-app-medical-research-studies.html)

@@ -1,0 +1,12 @@
+---
+title: 'Googles Night Sight Astrophotography Explained'
+date: 2019-11-27T14:54:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Google-Astrophotography-Explained-1-1024x987.jpg) Astrophotography on the Pixel 4 was announced as one of the highlight features during its launch event. The sample photos shown by Google were impressive and once the phone released, social media starting filling up with incredible photos people clicked with their Pixel 4. In this article we explain how Google produces beautiful starry photos of the night sky with just a smartphone camera. Taking starry photos of the night sky has been possible with traditional DSLR's for many ears. But they often require heavy gear, patience and technical knowledge to get good results. With the power of computational photography, Google has managed to let users click amazing photos of the night sky with just a Pixel 4. Pixel 3 users can also use this feature but with less impressive results. To begin with, to get a brighter well-lit photo, you simply need more light. Generally, a bigger aperture allows more light to enter the sensor, giving a brighter photo. But smartphones have very small lenses so that becomes difficult. To circumvent this, Google simply exposes the sensor for longer time to collect more light. This technique comes with its own set of problems. The major ones being movement in the photo and ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=2eQgiuaS4-I:18HygdHIp5E:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=2eQgiuaS4-I:18HygdHIp5E:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=2eQgiuaS4-I:18HygdHIp5E:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=2eQgiuaS4-I:18HygdHIp5E:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=2eQgiuaS4-I:18HygdHIp5E:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=2eQgiuaS4-I:18HygdHIp5E:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/2eQgiuaS4-I)  
+[Read Here»](https://www.fonearena.com/blog/299175/googles-night-sight-astrophotography-explained.html)

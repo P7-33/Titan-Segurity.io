@@ -1,0 +1,12 @@
+---
+title: 'Nokia 6.2 with 6.3-inch FHD+ HDR PureDisplay, triple rear cameras launching in India on October 11'
+date: 2019-10-09T13:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Nokia-6.2-1024x813.jpg) HMD Global has finally confirmed that it will launch Nokia 6.2 Android One smartphone in India on October 11th on Amazon.in. This comes after the Nokia 7.2 India launch last month. The phone was introduced at the IFA and packs a  6.3-inch FHD+ Waterdrop PureDisplay that uses Dedicated Pixelworks visual processor to upscale video content to HDR quality in real time, with up to a billion shades of colour, higher contrast and expanded dynamic range, is powered by Snapdragon 636 with up to 4GB of RAM, runs Android 9.0 (Pie), which is upgradable to Android 10. The phone features a 16-megapixel rear camera with Night mode with image fusion and exposure stacking — for increased low light performance. Portrait mode brings AI features like: adjustable bokeh with various bokeh styles such as Classic, Heart and Star for a professional-looking background blur. There is an 8-megapixel 118-degree ultra-wide lens and a 5-megapixel depth sensor, similar to the Nokia 7.2. There is also a 8-megapixel camera on the front. The phone is crafted from polymer composite that’s twice as strong as polycarbonate and half the weight of aluminium, and features Corning Gorilla Glass 3 on the front and the back. It features rear-mounted fingerprint ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=cNo98U215lU:7Ir5mP8-EEQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=cNo98U215lU:7Ir5mP8-EEQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=cNo98U215lU:7Ir5mP8-EEQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=cNo98U215lU:7Ir5mP8-EEQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=cNo98U215lU:7Ir5mP8-EEQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=cNo98U215lU:7Ir5mP8-EEQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/cNo98U215lU)  
+[Read Here»](https://www.fonearena.com/blog/294582/nokia-6-2-india-launch-date.html)

@@ -1,0 +1,12 @@
+---
+title: 'HUAWEI global smartphone shipments cross 200 million units in 2019'
+date: 2019-10-23T14:09:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/04/Huawei-P30-Pro_fonearena-18.jpg)Recently, International Data Corporation (IDC) published a report regarding the worldwide smartphone shipments in Q2 2019 and HUAWEI posted annual growth with 58.7 million shipments and 8.3% YoY change. Now, HUAWEI has announced that their global smartphone shipments have exceeded 200 million units to date in 2019. HUAWEI says that its shipments have crossed this record 64 days earlier than the same shipment milestone last year. The company also mentioned that the European Image and Sound Association (EISA), a group comprising 55 of the world's most respected consumer electronics magazines, named the P30 Pro smartphone "EISA Best Smartphone 2019-2020", making it the second year in a row that HUAWEI has claimed this category prize. HUAWEI also announced the Commemorative Edition of HUAWEI Mate 30 Pro 5G, and this limited version will come with 8GB RAM + 512GB Storage. It comes in Forest Green, Orange with vegan leather options and will be available for order on HUAWEI Vmall starting from 1st November 2019 in China. Commenting on this, Tornado Pan, Country Manager, Consumer Business Group, Huawei India said: India is an important and strategic market for Huawei and we continue to receive overwhelming response from our customers across all our product categories. We closely work with our ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=q8CtC6FMqtg:Ue8t17PObt0:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=q8CtC6FMqtg:Ue8t17PObt0:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=q8CtC6FMqtg:Ue8t17PObt0:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=q8CtC6FMqtg:Ue8t17PObt0:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=q8CtC6FMqtg:Ue8t17PObt0:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=q8CtC6FMqtg:Ue8t17PObt0:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/q8CtC6FMqtg)  
+[Read Here»](https://www.fonearena.com/blog/296169/huawei-global-smartphone-shipments-200-million-2019.html)

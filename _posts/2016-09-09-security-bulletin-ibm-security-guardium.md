@@ -1,30 +1,11 @@
 ---
-title: 'Security Bulletin: IBM Security Guardium is affected by a kernel vulnerability'
-date: 2020-01-22T01:49:00+01:00
+title: 'Security Bulletin: IBM Security Guardium is affected by an OpenSSL vulnerability'
+date: 2019-11-14T01:31:00+01:00
 draft: false
 ---
 
-Jan 21, 2020 7:05 pm EST
-
-Categorized: [High Severity](https://www.ibm.com/blogs/psirt/category/severity-high/)
-
-Share this post:
-
-IBM Security Guardium has addressed the following vulnerabilities.
-
-**Affected product(s) and affected version(s):**
-
-Affected Product(s)
-
-Version(s)
-
-IBM Security Guardium
-
-10.6
-
-**Refer to the following reference URLs for remediation and additional vulnerability details:  **  
-Source Bulletin: [https://www.ibm.com/support/pages/node/1173364](https://www.ibm.com/support/pages/node/1173364)
+CVEID:   CVE-2019-2731 DESCRIPTION:   Vulnerability in the MySQL Server component of Oracle MySQL (subcomponent: Server: Replication). Supported versions that are affected are 5.7.23 and prior. Easily exploitable vulnerability allows low privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized update, insert or delete access to some of MySQL Server accessible data and unauthorized ability to cause a partial denial of service (partial DOS) of MySQL Server. CVSS 3.0 Base Score 5.4 (Integrity and Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:L/A:L).CVSS Base score: 5.4CVSS Temporal Score: See: https://ift.tt/2Ob6qeL for the current score.CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:L/A:L) CVEID:   CVE-2019-2747 DESCRIPTION:   Vulnerability in the MySQL Server component of Oracle MySQL (subcomponent: Server: GIS). Supported versions that are affected are 8.0.12 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.0 Base Score 4.9 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).CVSS Base score: 4.9CVSS Temporal Score: See: https://ift.tt/2Xc2UVD for the current score.CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H) CVEID:   CVE-2019-2743 DESCRIPTION:   Vulnerability in the MySQL Server component of Oracle MySQL (subcomponent: Server: Security: Roles). Supported versions that are affected are 8.0.12 and prior. Difficult to exploit vulnerability allows low privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.0 Base Score 5.3 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:H/PR:L/UI:N/S:U/C:N/I:N/A:H).CVSS Base score: 5.3CVSS Temporal Score: See: https://ift.tt/2q1vWLG for the current score.CVSS Vector: (CVSS:3.0/AV:N/AC:H/PR:L/UI:N/S:U/C:N/I:N/A:H) CVEID:   CVE-2019-2746 DESCRIPTION:   Vulnerability in the MySQL Server component of Oracle MySQL (subcomponent: Server: Data Dictionary). Supported versions that are affected are 8.0.12 and prior. Easily exploitable vulnerability allows low privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.0 Base Score 6.5 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H).CVSS Base score: 6.5CVSS Temporal Score: See: https://ift.tt/372kdNs for the current score.CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H) [...read more](https://www.ibm.com/blogs/psirt/security-bulletin-ibm-security-guardium-is-affected-by-an-oracle-mysql-vulnerabilities/)
 
   
   
-from IBM Product Security Incident Response Team https://ift.tt/37hdpLA
+from IBM Product Security Incident Response Team https://ift.tt/34WYch8

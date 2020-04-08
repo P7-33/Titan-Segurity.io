@@ -1,30 +1,11 @@
 ---
-title: 'Security Bulletin: IBM DataPower Gateway is potentially vulnerable to two cryptographic side-channel vulnerabilities in SSL.'
-date: 2020-01-03T01:26:00+01:00
+title: 'Security Bulletin: IBM DataPower Gateway enables default IPMI account'
+date: 2019-12-06T01:38:00+01:00
 draft: false
 ---
 
-Side-channel vulnerabilities in SSL (CVE-2019-1563, CVE-2019-1547) potentially affect IBM DataPower Gateway
-
-**Affected product(s) and affected version(s):**
-
-Affected Product(s)
-
-Version(s)
-
-IBM DataPower Gateway
-
-2018.4.1.0-2018.4.1.8
-
-IBM DataPower Gateway
-
-7.6.0.0-7.6.0.17
-
-**Refer to the following reference URLs for remediation and additional vulnerability details:  **  
-Source Bulletin: [https://www.ibm.com/support/pages/node/1167184](https://www.ibm.com/support/pages/node/1167184)
-
-The post [Security Bulletin: IBM DataPower Gateway is potentially vulnerable to two cryptographic side-channel vulnerabilities in SSL.](https://www.ibm.com/blogs/psirt/security-bulletin-ibm-datapower-gateway-is-potentially-vulnerable-to-two-cryptographic-side-channel-vulnerabilities-in-ssl/) appeared first on [IBM PSIRT Blog](https://www.ibm.com/blogs/psirt).
+CVEID:   CVE-2019-12410 DESCRIPTION:   While investigating UBSAN errors in https://ift.tt/2WY0euH it was discovered Apache Arrow versions 0.12.0 to 0.14.1, left memory Array data uninitialized when reading RLE null data from parquet. This affected the C++, Python, Ruby and R implementations. The uninitialized memory could potentially be shared if are transmitted over the wire (for instance with Flight) or persisted in the streaming IPC and file formats.CVSS Base score: 7.5CVSS Temporal Score: See: https://ift.tt/2YlOliG for the current score.CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N) CVEID:   CVE-2019-12408 DESCRIPTION:   It was discovered that the C++ implementation (which underlies the R, Python and Ruby implementations) of Apache Arrow 0.14.0 to 0.14.1 had a uninitialized memory bug when building arrays with null values in some cases. This can lead to uninitialized memory being unintentionally shared if Arrow Arrays are transmitted over the wire (for instance with Flight) or persisted in the streaming IPC and file formats.CVSS Base score: 7.5CVSS Temporal Score: See: https://ift.tt/2Rq9ebk for the current score.CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N) [...read more](https://www.ibm.com/blogs/psirt/security-bulletin-2/)
 
   
   
-from IBM Product Security Incident Response Team https://ift.tt/2QiJKeL
+from IBM Product Security Incident Response Team https://ift.tt/38eNAwK

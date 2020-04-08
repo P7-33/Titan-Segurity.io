@@ -1,0 +1,12 @@
+---
+title: 'Sound One X60 Neckband Wireless Bluetooth Earphones Review'
+date: 2019-09-29T10:16:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/SoundOne-X60_fonearena-01-1024x673.jpg) SoundOne, a Hong-Kong-based company known for its audio products and smartphone accessories, launched its Bluetooth headset with neckband in India a few months back at Rs. 1,549. We got hold of this headset and used it for a while to check whether it is worth the price or not.  Design and build quality The headset has a simple design that is similar to most other neckband wireless headsets. It also features a sliding mechanism that lets you expand to a certain extent. SoundOne X60 sport in-ear buds that have angled tips that perfectly fit in your ears, and don't fall out easily. The earbuds are connected with the wire, and the back of the earbuds is magnetic that snap together when not in use.  The band that you wear around the neck is flexible, lightweight, and has a smooth finish. The bottom housing also offers a smooth rubbery finish. Bottom part of the neckband houses all the interactive elements. Right side sports a control playback, power, and volume, while the left side has a dedicated button that activates voice assistant. The button's feedback is average and at times, didn't respond appropriately too. There is also an LED indicator that glows in Red and ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=_7K0WADNCC4:W1rWQmwHedg:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=_7K0WADNCC4:W1rWQmwHedg:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=_7K0WADNCC4:W1rWQmwHedg:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=_7K0WADNCC4:W1rWQmwHedg:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=_7K0WADNCC4:W1rWQmwHedg:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=_7K0WADNCC4:W1rWQmwHedg:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/_7K0WADNCC4)  
+[Read Here»](https://www.fonearena.com/blog/293466/sound-one-x60-neckband-wireless-bluetooth-earphones-review.html)

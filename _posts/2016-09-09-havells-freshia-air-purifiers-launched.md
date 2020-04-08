@@ -1,0 +1,12 @@
+---
+title: 'Havells Freshia Air Purifiers launched in India starting from Rs. 14490'
+date: 2019-11-07T14:11:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Havells-Freshia-Air-Purifier-1024x769.jpg) Havells India Ltd., a leading electrical company has introduced its latest range of air-purifiers called Freshia. They come a 9 stage filtration process that eliminate 99% of air borne pollutants, as small as o.3 micron and can cover spaces ranging from 485 square feet to 958 square feet. With more and more news of pollution levels rising in cities in India, the Air-purifier market is started to become crowded with many companies releasing their products. Havell's Freshia aims to set a new standard with SmartAir technology and a rigorous 9-stage filtration system. The purifiers come loaded with many technologies like a humidifier, activated carbon, sterilizing UV light and anti-bacterial balls, absorbing toxic elements and infusing the air with essential nutrients. The purifiers can also intelligently adjusts room temperature and prevents dryness of the skin purifying the air in the room preventing harmful chemicals such as formaldehyde. Other features include a dust sensor, front cover open protection, LED air purity indicator and ionizer. Havells Freshia Purifiers will range from Rs. 14,490 to Rs. 43,290 depending on the purifying surface area capabilities and features. You can buy Havells Freshia Air-Purifiers from Havells website as well as offline stores. Commenting on the launch, Ravindra Singh Negi, President ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=UO4U11n_e88:SIixC7vl1Pg:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=UO4U11n_e88:SIixC7vl1Pg:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=UO4U11n_e88:SIixC7vl1Pg:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=UO4U11n_e88:SIixC7vl1Pg:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=UO4U11n_e88:SIixC7vl1Pg:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=UO4U11n_e88:SIixC7vl1Pg:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/UO4U11n_e88)  
+[Read Here»](https://www.fonearena.com/blog/297452/havells-freshia-air-purifier-price-india.html)

@@ -1,0 +1,12 @@
+---
+title: 'LG W30 Pro with 6.2-inch FullVision display, triple rear cameras, StereoPulse Sound goes on sale in India for Rs. 12490'
+date: 2019-10-28T10:33:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/LG-W30-Pro-1-1024x963.jpg) LG launched the W10, W30 and W30 Pro in the new ‘W series’ at an event in India back in June. Both the W10 and W30 went on sale in July. Now the W30 Pro is available from Amazon. It has a 6.2-inch HD+ FullVision screen with a notch, is powered by Snapdragon 632 with 4GB of RAM, runs Android 9.0 (Pie), features triple rear cameras with three different lenses: Low light camera, Depth and Wide angle camera, sport various modes such as normal, night mode, portrait, slow motion and wide angle. It has a 16MP front camera with bokeh effect with an on-screen slider to adjust the amount of background blur, features rear-mounted fingerprint scanner and pack a 4000mAh battery. The phone also has StereoPulse Sound that uses internal space of the smartphone as a resonance chamber to deliver double the bass of conventional smartphones for powerful without the need for external speaker. LG W30 Pro specifications 6.217-inch (1520 × 720 pixels) 19:9 HD+ FullVision V notch display 1.8GHz Octa-Core Snapdragon 632 14nm Mobile Platform with Adreno 506 GPU 4GB RAM, 64GB storage, expandable memory up to 256GB with microSD Android 9.0 (Pie) Dual SIM (nano + nano + microSD) 13MP rear ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=nVXRlM01TlU:vR-PRr1AAgE:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=nVXRlM01TlU:vR-PRr1AAgE:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=nVXRlM01TlU:vR-PRr1AAgE:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=nVXRlM01TlU:vR-PRr1AAgE:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=nVXRlM01TlU:vR-PRr1AAgE:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=nVXRlM01TlU:vR-PRr1AAgE:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/nVXRlM01TlU)  
+[Read Here»](https://www.fonearena.com/blog/296600/lg-w30-pro-price-india.html)

@@ -1,0 +1,12 @@
+---
+title: 'Another final December OTA update for first gen Pixel users confirmed'
+date: 2019-11-06T10:37:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2016/10/Google-Pixel-Review-Pixel-XL-1-of-13.jpg) With the launch of Pixel and Pixel XL in October 2016, Google promised 2 years of Software updates and 3 years of security updates. Google extended that promise by pushing Android 10 to the devices and now, Google has confirmed that they will push one final OTA in December for Pixel First gen. First gen Pixel users received a happy surprise when Google pushed Android 10 to their 3-year old devices recently. Android Police has reported that a Google spokesperson has confirmed another OTA update in December with the consolidated changes made in November and December. The Google spokesperson offered the following statement: In October 2016 at the launch of the Pixel and Pixel XL, we announced that the devices would receive two years of software updates and three years of security updates. Pixel and Pixel XL users did not receive the November OTA, but will get one final software update in December that encapsulates a variety of updates from both monthly pushes. This will likely be the last major update to Pixel first gen devices. Although Google has not matched Apple's excellent long term software support, they are definitely one of the longest in the Android space. We can only hope other manufacturers ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=gqAJnvCm_nI:2BGQ-iRWk80:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=gqAJnvCm_nI:2BGQ-iRWk80:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=gqAJnvCm_nI:2BGQ-iRWk80:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=gqAJnvCm_nI:2BGQ-iRWk80:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=gqAJnvCm_nI:2BGQ-iRWk80:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=gqAJnvCm_nI:2BGQ-iRWk80:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/gqAJnvCm_nI)  
+[Read Here»](https://www.fonearena.com/blog/297337/pixel-december-2019-ota-update.html)

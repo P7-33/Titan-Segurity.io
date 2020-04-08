@@ -1,0 +1,12 @@
+---
+title: 'Wynk Music become India’s top music streaming service as per Daily Active Users metric'
+date: 2019-11-27T11:19:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2017/03/wynk-music.jpg) Wynk Music, the music streaming service from Airtel is now reported to be India's #1 music when considering Daily Active Users (DAU). This performance metric is driven massively by regional music streaming seeing a surge, with some languages seeing over 150% increase, popular even outside their home state. Wynk Music's biggest categories continue to be Bollywood and International music, but it has seen huge growth in its regional languages, of about 75% in total. Wynk offers music in 14 Indian languages and regional songs now account for 26% of the overall 3 billion plus monthly streams on the app. Smartphone usage is increasing in Tier 2 and Tier 3 towns and rural areas along with more accessible internet data. More and more people are discovering entertainment services and music streaming with Wynk has become the more popular amongst others. Regional songs in Oriya, Gujarati, Assamese, Marathi, Telugu and Bhojpuri have seen 150%+ growth and are also popular outside the home states as well. Commenting on Wynk becoming the #1 music streaming service, Adarsh Nair, Chief Product Officer, Bharti Airtel said: The team is focused on building the most personalised music experience for our customers. Wynk’s deep catalogue of songs combined with a holistic understanding ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=wL6IcGq3vEI:hWM01Hs_ABc:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=wL6IcGq3vEI:hWM01Hs_ABc:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=wL6IcGq3vEI:hWM01Hs_ABc:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=wL6IcGq3vEI:hWM01Hs_ABc:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=wL6IcGq3vEI:hWM01Hs_ABc:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=wL6IcGq3vEI:hWM01Hs_ABc:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/wL6IcGq3vEI)  
+[Read Here»](https://www.fonearena.com/blog/299114/wynk-music-top-music-streaming-service-india-dau.html)

@@ -1,0 +1,12 @@
+---
+title: 'Samsung says it has sold 1 million Galaxy Fold smartphones'
+date: 2019-12-13T08:40:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Samsung-Galaxy-Fold_fonearena-4-1024x634.jpg) When Samsung released the Galaxy Fold in April, there were lots of problem with the durability of the device, causing Samsung to re-release the phone with fixes. The phone still proved to be fragile but that apparently has not stopped consumers from buying a million of $2000 Galaxy Folds. At TechCrunch Disrupt in Berlin, Young Sohn, Samsung Electronic’s President has revealed that the company had sold 1 million or 10 lakh foldable Galaxy Fold smartphones till now. A million Galaxy Fold devices have been sold with the price tag of $2000 to consumers. When the phone was initially released, it was quickly discovered that the devices was incredibly fragile with many reviewer samples breaking within two days. Samsung recalled all the phones and re-released with better durability and protection in September. It was even launched in India in October at a price of Rs. 1,64,999. Young Sohn stated it was part of Samsungs strategy of releasing products to get feedback. With all its feedback from Galaxy Fold and its high sales numbers, Samsung is going to be comfortable repeating this strategy in the future. Other reports have stated that Samsung plans to sell upto 6 million foldable devices in 2020. Source
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=D1XO7kMdeLM:XcLtC5VTa3k:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=D1XO7kMdeLM:XcLtC5VTa3k:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=D1XO7kMdeLM:XcLtC5VTa3k:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=D1XO7kMdeLM:XcLtC5VTa3k:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=D1XO7kMdeLM:XcLtC5VTa3k:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=D1XO7kMdeLM:XcLtC5VTa3k:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/D1XO7kMdeLM)  
+[Read Here»](https://www.fonearena.com/blog/300281/samsung-galaxy-fold-1-million-sales.html)

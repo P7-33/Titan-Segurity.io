@@ -1,0 +1,12 @@
+---
+title: 'Google Translate offline update with transliteration support, more accurate translation rolling out globally'
+date: 2019-12-20T12:58:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Google-Offline-Translation.jpg) Google Translate offline is a pretty nifty feature for those situations when your data connection is unreliable or non-existent. Now Google has pushed an update that makes offline translation about 12% more accurate for 59 languages and added transliteration support for 10 languages. For those 59 languages, the 12% increase in accuracy is noticeable with improved word choice, grammar and sentence structure. For languages like Japanese, Korean, Thai, Polish, and Hindi, the quality gain is more than 20 percent. For Indian users, Translate offers the option of Transliteration too. For example, if you convert "Hello" from English to Hindi, the app would show both "Namaste" and “नमस्ते”. This is helpful for those who find it difficult to read in the original text that was translated. Translate currently offers transliteration support for 10 new languages: Arabic, Bengali, Gujarati, Kannada, Marathi, Tamil, Telugu and Urdu. To use these two features users must update to the latest software version and update their offline files. Users who haven't used offline translate before can tap the arrow next to the language name to download that language. Google Translate is available for download on both the App Store and Play Store. Source
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=765rIqVNnww:pcpSYl9YtnQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=765rIqVNnww:pcpSYl9YtnQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=765rIqVNnww:pcpSYl9YtnQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=765rIqVNnww:pcpSYl9YtnQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=765rIqVNnww:pcpSYl9YtnQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=765rIqVNnww:pcpSYl9YtnQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/765rIqVNnww)  
+[Read Here»](https://www.fonearena.com/blog/300772/google-translate-offline-transliteration-accurate-translation.html)

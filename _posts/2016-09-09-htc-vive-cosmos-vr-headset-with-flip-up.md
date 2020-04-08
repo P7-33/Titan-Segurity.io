@@ -1,0 +1,12 @@
+---
+title: 'HTC Vive Cosmos VR headset with flip-up design, 90Hz refresh rate launched in India'
+date: 2019-10-24T12:43:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/HTC-Vive-Cosmos-1.jpg) Earlier this year at CES, HTC announced the Vive Cosmos VR headset alongside Vivo Pro Eye headset. Following the global availability announcement last month, HTC has launched the Vive Cosmos VR headset in India that also includes free VIVEPORT Infinity membership. HTC Vive Cosmos is a premium PC-based virtual reality (VR) system that sports a Dual 3.4-inch diagonal LCD panel with a resolution of 1440 x 1700 pixels per eye and 2880 x 1700 combined resolution. It also supports the 90Hz refresh rate and comes with 110 degrees (maximum) field of view, flip-up visor, adjustable IPD, and adjustable head strap. The ports include USB-C 3.0, DP 1.2, Proprietary Connection to Mods and feature G-sensor Gyroscope, and IPD sensor. It sports 6 camera sensors for an accurate inside-out tracking via a wide field of view (FOV) and six-degree-of-freedom (6DoF) support. Users can enjoy high-quality audio with on-ear, form-fitting stereo headphones and it is also compatible with the Vive Wireless Adapter for those who want to enjoy moving in VR without being tethered. It now comes with all-new controls that glow during active use and the emitted light ensures accurate tracking on controllers. The Vive Cosmos is the first headset to offer the Vive Reality System, a reimagined core software experience for Vive ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=wD_b3heBh4g:HOiFrnd6_yo:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=wD_b3heBh4g:HOiFrnd6_yo:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=wD_b3heBh4g:HOiFrnd6_yo:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=wD_b3heBh4g:HOiFrnd6_yo:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=wD_b3heBh4g:HOiFrnd6_yo:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=wD_b3heBh4g:HOiFrnd6_yo:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/wD_b3heBh4g)  
+[Read Here»](https://www.fonearena.com/blog/296398/htc-vive-cosmos-vr-headset-price-india.html)

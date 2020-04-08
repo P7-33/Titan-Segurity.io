@@ -1,0 +1,12 @@
+---
+title: 'Jabra Elite 75t true wireless earbuds launched in India for Rs. 15999'
+date: 2019-12-17T10:40:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Jabra-Elite-75t-1024x614.jpg) Jabra, a popular brand in the audio space has launched their next generation truly wireless earbuds, the Jabra Elite 75t. Being the 4th generation in this product line, Jabra has improved on its battery life and has also focused on making the earphones smaller with a more secure and comfortable fit. When developing the Elite 75t, Jabra claims to have tested simulations models based on thousands of ear scans to arrive at a smaller design that fits comfortably across a range of users. Along with this, the earphones are rated for IP55 dust and water resistance. The Elite 75t will come an impressive 7.5hrs battery life with total of 28 hours with the included charging case, that can quick charge via its USB-C port. The earphones connect via Bluetooth 5.0 and have support for Alexa, Siri or Google Assistant, accessible through its 4-microphone array. Users can also customise their sound profile with equaliser controls via the Jabra Sound+ app. The app also offers robust features such as HearThrough, adjust their calls experience, keep track of battery charge, and much more. The Jabra 75t will be available in two colours: Titanium Black, and Gold Beige. It will be available for purchase on online platforms such as ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=NUcdu174TwE:JwifABDK1FY:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=NUcdu174TwE:JwifABDK1FY:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=NUcdu174TwE:JwifABDK1FY:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=NUcdu174TwE:JwifABDK1FY:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=NUcdu174TwE:JwifABDK1FY:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=NUcdu174TwE:JwifABDK1FY:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/NUcdu174TwE)  
+[Read Here»](https://www.fonearena.com/blog/300551/jabra-elite-75t-price-india.html)

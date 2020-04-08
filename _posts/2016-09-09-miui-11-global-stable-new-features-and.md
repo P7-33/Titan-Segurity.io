@@ -1,0 +1,12 @@
+---
+title: 'MIUI 11 Global Stable – New Features and First look on Redmi K20'
+date: 2019-10-25T07:58:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Redmi-K20-MIUI-11_fonearena-1-1024x651.jpg) Xiaomi announced the latest iteration of its own proprietary Android skin MIUI, dubbed MIUI 11 along with the Redmi Note 8 series at an event in India. MIUI 11 aims to bring a brand new optimized modern UI design focused on content viewing, and has also introduced nifty additions specifically for India. MIUI 11 update started rolling out to Redmi K20 a couple of days back, we got the update on our unit and here is a list of features that MIUI 11 brings to Redmi K20. New Minimalistic Design: MIUI 11 comes with a new minimalistic design and Xiaomi has cleaned up many elements of the user interface, giving it a minimalistic look. \[gallery size="large" link="file" ids="296369,296368,296367"\] \[gallery size="large" link="file" ids="296366,296365,296364"\] New customizable Ambient Display Presets: Xiaomi says all the phones look the same when locked and Ambient Display on MIUI 11 is an attempt to address the same. With MIUI 11, Xiaomi is taking the customization to a whole new level, MIUI 11 brings more ambient display presets such as Dynamic clock and ever-changing Kaleidoscope, customizable Signature, and breathing notification to the Redmi K20 series. \[gallery size="large" link="file" ids="296361,296357,296356"\] Quick Replies: Xiaomi has also added Quick replies feature under the Explore new features section, that ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=miMVjxFcerU:o-QeI6Cx1AY:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=miMVjxFcerU:o-QeI6Cx1AY:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=miMVjxFcerU:o-QeI6Cx1AY:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=miMVjxFcerU:o-QeI6Cx1AY:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=miMVjxFcerU:o-QeI6Cx1AY:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=miMVjxFcerU:o-QeI6Cx1AY:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/miMVjxFcerU)  
+[Read Here»](https://www.fonearena.com/blog/296379/miui-11-global-stable-new-features-first-look-redmi-k20.html)

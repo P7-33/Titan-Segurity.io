@@ -1,0 +1,12 @@
+---
+title: 'LG G8s ThinQ with 6.2-inch FHD+ OLED display, Snapdragon 855, triple rear cameras launched in India for Rs. 36990'
+date: 2019-09-28T14:01:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/LG-G8s-ThinQ-1024x848.jpg) LG just launched G8s ThinQ, the company's latest top-end smartphone in India, after it was introduced at the MWC earlier this year.  It has a 6.2-inch FullVision FHD+  OLED display, is powered by Snapdragon 855 with 6GB of RAM, runs Android Pie, has triple rear cameras that includes a 12-megapixel main camera, 13-megapixel 137˚ super wide-angle camera and a 12-megapixel telephoto lens. It has stereo speakers, 3.5mm headphone jack and DAC, 2.5D Corning Gorilla Glass back, MIL-STD 810G compliance and IP68 water and dust resistance. On the front it sports a standard 8-megapixel sensor and a 3D ToF front camera that measures the distance between the subject and the camera in millimeters to control the intensity of the background blur up to 256 levels for selfies with more depth. It also offers enhanced security with Hand ID and Face Unlock. Hand ID uses the Z Camera’s ability to scan a user’s unique circulatory pattern using infrared light making unlocking the phone in the dark just as accurate as during the day. The Z Camera is Air Motion, a touchless command interface that allow users to perform various actions without touching the screen. LG G8s ThinQ specifications 6.2-inch (2248 x 1080 pixels) 19.5:9 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=lsccn16MBHg:lxwOpRoDKJ0:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=lsccn16MBHg:lxwOpRoDKJ0:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=lsccn16MBHg:lxwOpRoDKJ0:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=lsccn16MBHg:lxwOpRoDKJ0:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=lsccn16MBHg:lxwOpRoDKJ0:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=lsccn16MBHg:lxwOpRoDKJ0:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/lsccn16MBHg)  
+[Read Here»](https://www.fonearena.com/blog/293443/lg-g8s-thinq-price-india-specifications.html)

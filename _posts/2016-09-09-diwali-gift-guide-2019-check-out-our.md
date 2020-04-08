@@ -1,0 +1,12 @@
+---
+title: 'Diwali Gift Guide 2019: Check out our top gadget picks'
+date: 2019-10-24T06:48:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/diwali-gift-ideas-fonearena-1024x682.jpg) Diwali is right around the corner and it is a great time to buy gifts for your loved ones. Light up your their faces with some great tech gifts and celebrate this Diwali with lots of happiness and smiles. With a lot of sales happening on Amazon.in and Flipkart, here are some of our picks should check out. Bose Noise Cancelling Headphones 700 The Bose Noise Cancelling Headphones 700 is the latest offering from Bose with noise cancellation. The speakers feature an updated design, Amazon Alexa and the Google Assistant options built in. The headphones the best of Bose's famous noise cancellation technology, that can customized with 11 levels of control, from full noise cancellation to no cancellation while letting ambient sound in. The headphones are really comfortable to wear and have an excellent 20 Hour battery life. Buy from Amazon.in at Rs. 34,499 Bose QC 35 II Wireless Headphone The Bose QC 35 II were Bose's flagship NC headphones with world renowned noise cancellation capabilities and Bose's amazing signature sound quality. The headphones connect through Bluetooth and feature NFC for quick connectivity. The headphones also has Alexa built in to give users an extra choice of voice assistants. Buy from Amazon.in at Rs. 20,549 Sony WH-1000XM3 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=6az8FVfiZh4:jbRO66TdYEA:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=6az8FVfiZh4:jbRO66TdYEA:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=6az8FVfiZh4:jbRO66TdYEA:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=6az8FVfiZh4:jbRO66TdYEA:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=6az8FVfiZh4:jbRO66TdYEA:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=6az8FVfiZh4:jbRO66TdYEA:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/6az8FVfiZh4)  
+[Read Here»](https://www.fonearena.com/blog/296160/diwali-gift-guide-2019-check-out-our-top-gadget-picks.html)

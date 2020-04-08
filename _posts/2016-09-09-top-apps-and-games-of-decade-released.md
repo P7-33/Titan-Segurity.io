@@ -1,0 +1,12 @@
+---
+title: 'Top apps and games of the decade released; Facebook and Subway Surfers top the list in all-time downloads'
+date: 2019-12-18T06:40:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Top-Apps-Games-of-the-decade.jpg) Earlier this month, Apple and Google announced the best apps for 2019. Similarly now, App Annie has released the top apps and games of this decade categorizing it by all-time downloads and all-time consumer spend. According to the post by App Annie, Facebook tops the list in the top 10 apps by all-time downloads worldwide from 2010 to 2019 and it is followed by Facebook Messenger. It is then followed by Instagram, Snapchat, Skype, TikTok, UC Browser, YouTube, and Twitter. Out of these 10 apps, 8 apps' parent company is headquartered in the US and the rest apps' parent company is headquartered in China. In the top 10 apps by all-time consumer spend worldwide, NetFlix tops the list which is followed by Tinder, Pandora Music, Tencent Video, LINE, IQIYI, Spotify, YouTube, HBO NOW, and KWAI. When it comes to the most downloaded game of the decade, Subway Surfers tops the list. It is followed by Candy Crush Saga, Temple Run 2, My Talking Tom, Clash of Clans, Pou, Hill Climb Racing, Minion Rush, Fruit Ninja, and 8 Ball Pool. It is interesting to note that India accounted for 15% of Subway Surfers' all-time downloads. In the top 10 games by all-time consumer spend worldwide, Clash ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=WTof8rVBNrc:JAbvyt3oSxQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=WTof8rVBNrc:JAbvyt3oSxQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=WTof8rVBNrc:JAbvyt3oSxQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=WTof8rVBNrc:JAbvyt3oSxQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=WTof8rVBNrc:JAbvyt3oSxQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=WTof8rVBNrc:JAbvyt3oSxQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/WTof8rVBNrc)  
+[Read Here»](https://www.fonearena.com/blog/300618/top-apps-games-of-the-decade-all-time-downloads.html)

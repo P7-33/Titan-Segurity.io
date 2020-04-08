@@ -1,0 +1,12 @@
+---
+title: 'OPPO Reno3 5G with MediaTek Dimensity 1000 and Reno3 Pro 5G with Snapdragon 765G, up to 12GB RAM, quad rear cameras get certified'
+date: 2019-12-16T08:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/OPPO-Reno-3-5G-and-Reno-3-Pro-5G-1024x700.jpg) OPPO is all set to introduce the Reno 3 and Reno 3 Pro smartphones at an event on December 26th. The company already confirmed Reno 3 Pro 5G will be powered by Snapdragon 765G, pack a 4025mAh battery, weigh 180 grams and feature 7.7mm slim body. It also said that Reno3 5G will be the first phone to be powered by MediaTek Dimensity 1000 SoC. These will come with ColorOS 7 based on Android 10 out of the box and will have support for 5G standalone and non-stand alone (SA/NSA) sub-6GHz networks. Now the phones have been certified by TENAA with the model numbers PDCM00 and PDCM00 confirming the complete specifications. OPPO Reno 3 5G rumored specifications 6.4-inch (2400 × 1080 pixels) Full HD+ 20:9 aspect ratio AMOLED display Octa Core Dimensity 1000 7nm processor with Mali-G77 MC9 GPU 8GB LPDDR4X RAM, 128GB  storage Android 10 with ColorOS 7.0 Dual SIM 64MP rear camera with LED flash, 8MP 116-degree Ultra Wide Lens, 2MP depth, 2MP macro 32MP front-facing camera with LED flash In-display fingerprint sensor 3.5mm audio jack, Dolby Atmos Dimensions: 160.3×74.3×7.96mm; Weight: 181g 5G SA/ NSA, Dual 4G VoLTE, WiFi 802.11 ac (2.4GHz + 5GHz), Bluetooth 5, GPS/GLONASS/Beidou, NFC, USB ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=hae1otvv8Ds:_H-qmJY4b2g:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=hae1otvv8Ds:_H-qmJY4b2g:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=hae1otvv8Ds:_H-qmJY4b2g:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=hae1otvv8Ds:_H-qmJY4b2g:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=hae1otvv8Ds:_H-qmJY4b2g:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=hae1otvv8Ds:_H-qmJY4b2g:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/hae1otvv8Ds)  
+[Read Here»](https://www.fonearena.com/blog/300430/oppo-reno-3-5g-reno-3-pro-5g-specs-images-tenaa.html)

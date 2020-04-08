@@ -1,0 +1,12 @@
+---
+title: 'OnePlus TV 55 Q1 Pro First Impressions'
+date: 2019-09-27T11:46:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/OnePlus-TV-55-Q1-Pro_fonearena-3-1024x624.jpg) OnePlus ventured into the Smart TV market with the launch of its first in India at an event in India. At the launch event yesterday, all the eyes were on the new OnePlus TV Q1 Pro at the launch event. https://www.youtube.com/watch?v=AUxErhyU0-E https://www.youtube.com/watch?v=Wnu4mOWcm0g Having said that, we spent a reasonable amount of time with it, and here's our first impression. At first sight, the OnePlus TV Q1 Pro looks minimal, premium and of course the beautiful. The smart TV is certainly hefty and requires at least a couple of people to set it up.  Coming to the ports, Q1 Pro offers an AV-in, an optical connector, an Ethernet port, four HDMI ports, USB 3.0 port, a USB 2.0 port, and an RF connector on the rear. Also, there is a USB Type-C port covered with a small flap. Apart from all the basic connectivity options, the rear panel also features a soundbar, that dramatically slides down upon turning on the TV. To make it more classy, OnePlus has installed LEDs called TV horizon light, that light up elegantly when turned on.  The Q1 Pro comes with the eight-speaker system including four full-range speakers, two tweeters and two woofers offering a huge 50W sound output. The ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=CTe0Rn4eh0U:uxqU70j4SUo:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=CTe0Rn4eh0U:uxqU70j4SUo:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=CTe0Rn4eh0U:uxqU70j4SUo:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=CTe0Rn4eh0U:uxqU70j4SUo:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=CTe0Rn4eh0U:uxqU70j4SUo:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=CTe0Rn4eh0U:uxqU70j4SUo:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/CTe0Rn4eh0U)  
+[Read Here»](https://www.fonearena.com/blog/293282/oneplus-tv-55-q1-pro-first-impressions.html)

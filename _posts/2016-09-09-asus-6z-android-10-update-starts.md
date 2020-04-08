@@ -1,0 +1,12 @@
+---
+title: 'ASUS 6Z Android 10 update starts rolling out in India'
+date: 2019-11-05T12:27:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/06/ASUS-6Z_fonearena-08.jpg) ASUS launched the 6Z smartphone with Flip camera in India back in June this year and it shipped with Android 9.0 (Pie) with ZenUI 6. The rollout of Android 10 update has started by many OEMs and the latest to join is ASUS 6Z smartphone as the company has now started rolling out Android 10 update in India. ASUS 6Z (ZS630KL) latest update brings the upgrade to Android 10 operating system. Android 10 update brings a system-wide dark theme, smart app support on messages, gesture-based UI navigation, enhanced security and privacy, and this update also upgrades the Google Play services. However, this update doesn't include November security patch and the smartphone is still running on October security patch. The update carries firmware number 17.1810.1910.63\_M3.18.40.6\_20191028 and is being rolled out in a phased manner. Users who wish to downgrade the software back to Android 9 (Pie), can download the downgrade firmware files from ASUS support webpage. Changelog Dark Theme: Android 10 now offers an ‘Android official’ full system-wide dark theme across the User Interface. Smart App support on messages – This new feature suggests set of actions, like opening Maps if an address is sent, or Calendar if it recognizes a date, and eliminates basically the ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=FDOj1IydFXk:ycQ5N7Umnwk:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=FDOj1IydFXk:ycQ5N7Umnwk:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=FDOj1IydFXk:ycQ5N7Umnwk:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=FDOj1IydFXk:ycQ5N7Umnwk:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=FDOj1IydFXk:ycQ5N7Umnwk:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=FDOj1IydFXk:ycQ5N7Umnwk:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/FDOj1IydFXk)  
+[Read Here»](https://www.fonearena.com/blog/297261/asus-6z-android-10-update-india.html)

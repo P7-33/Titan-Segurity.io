@@ -1,0 +1,12 @@
+---
+title: 'Microsoft adds App and Game Usage Limits on Windows 10 and Xbox'
+date: 2019-10-09T09:40:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Microsoft-Screen-Time-1024x530.jpg) Microsoft has added yet another feature to their family settings across Windows 10, Xbox One and Android via Microsoft Launcher, that is, a new Apps and Games Limiter. The feature provides more granular control to parents to control their child's app and game time usage. Currently, parents can set limits to their child's game and app usage on a per device basis. A parent could either set individual screen time limits for the Xbox One and PC, or a common time limit where the child could decide how to split their time between games on the Xbox One Console and apps on their Windows 10 PC. https://www.youtube.com/watch?v=sgajKyRRn0I The new Apps and Games feature enables two more functionalities to a parent: The parent can now set time limits on a per app basis across Windows 10 devices, Xbox One and even their child’s Android phone running Microsoft Launcher. This feature allows parents to balance the needed screen time for homework or education purposes when children use the same devices for gaming and entertainment. Since the time limits sets will work across devices, it limits the child from using an app or a game for more time by switching devices. The parent can set a ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=IV14iZ8PjhY:U9FzFW-0CCw:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=IV14iZ8PjhY:U9FzFW-0CCw:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=IV14iZ8PjhY:U9FzFW-0CCw:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=IV14iZ8PjhY:U9FzFW-0CCw:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=IV14iZ8PjhY:U9FzFW-0CCw:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=IV14iZ8PjhY:U9FzFW-0CCw:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/IV14iZ8PjhY)  
+[Read Here»](https://www.fonearena.com/blog/294534/microsoft-screen-time-app-game-limits-windows-10-xbox.html)

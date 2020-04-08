@@ -1,0 +1,12 @@
+---
+title: 'Sound One DC-111 detachable Bluetooth earphones launched for Rs. 1690'
+date: 2019-10-21T09:49:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Sound-One-earphones-1009x1024.jpg) Sound One, a Hong Kong based audio solutions company has launched a Bluetooth detachable earphone in India. The product is aimed at giving users customization options as required. The earphones come with a pair of removable ear plugs and two detachable cables and can operate in two modes, Bluetooth and wired cable mode. The earphones are designed to work in two modes. The first one being the Bluetooth mode where users can get up to 10 hours play time at 60-70% volume and 8 hours on full volume. The earphones use Bluetooth 5.0 and have the battery on one side with the controls on the other.  The second mode is the wired cable mode, designed to operate once the battery dies. The earphones will come with IPX5 rating water resistant rating and is best style for sports or the gym. Sound One claims the earphones have  impressive punch and impact of bass, full and warm mids with excellent detail and well extended Highs. The  included case provided with the set of cable and earphones can be easily carried in your pocket for long trips with music always on the go. The earphones retail for Rs. 2990 but can currently have special launch offer ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=KhZ3HusC-jM:oLTlH04YKok:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=KhZ3HusC-jM:oLTlH04YKok:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=KhZ3HusC-jM:oLTlH04YKok:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=KhZ3HusC-jM:oLTlH04YKok:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=KhZ3HusC-jM:oLTlH04YKok:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=KhZ3HusC-jM:oLTlH04YKok:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/KhZ3HusC-jM)  
+[Read Here»](https://www.fonearena.com/blog/295852/sound-one-dc-111-detachable-bluetooth-earphones-price-features.html)

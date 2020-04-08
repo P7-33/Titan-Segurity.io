@@ -1,0 +1,12 @@
+---
+title: 'Seil v1.5 – A Responsive WordPress Blog Theme'
+date: 2019-11-02T07:17:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Noise-Shots-X-Buds-2-1024x574.jpg) Update: November 2, 2019: Noise Shots X-Buds are now available in new Teal Green and Peach Orange Colors from gonoise.com and Amazon.in. You can check out the review here. Earlier: Noise, popular for its wearables has launched Noise Shots X-Buds, the company's latest true wireless earbuds with full touch control. This lets you play or pause music, change tracks, control volume and answer calls as well, without having to take your phone out of your pocket. It has custom drivers that promises clear sound and deeper bass. It has Bluetooth v5.0 and voice assistant support on Android and iOS. This has IPX5 rating for water resistance from sweat and rain. The earbuds promise 4+ hours of battery life in the earphones and another 3 full recharges from the included charging case, so X-Buds can go for over 16 hours without being plugged in. Noise Shots X-Buds specifications Bluetooth 5.0 to connect to devices Smart touch controls on the earbuds give you full control, letting you pause or play music, control volume, skip tracks and answer or rejects calls. Water-resistant (IPX5), making them resistant to sweat from the toughest workouts and light rain Supports voice assistants such as Google Assistant and Siri Offers 4 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=vOW9kxbN6DY:vbHMkVHNGhs:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=vOW9kxbN6DY:vbHMkVHNGhs:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=vOW9kxbN6DY:vbHMkVHNGhs:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=vOW9kxbN6DY:vbHMkVHNGhs:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=vOW9kxbN6DY:vbHMkVHNGhs:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=vOW9kxbN6DY:vbHMkVHNGhs:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/vOW9kxbN6DY)  
+[Read Here»](https://www.fonearena.com/blog/292334/noise-shots-x-buds-price-features.html)

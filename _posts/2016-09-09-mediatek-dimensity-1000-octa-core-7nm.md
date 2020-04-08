@@ -1,0 +1,12 @@
+---
+title: 'MediaTek Dimensity 1000 Octa-Core 7nm SoC with built-in 5G announced'
+date: 2019-11-26T07:54:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/MediaTek-Dimensity-1000.jpg) MediaTek just announced Dimensity 1000, the company's latest flagship SoC with built-in 5G, as it had promised. It is the company's first chip to use 7nm process technology, and uses four Cortex-A77 cores operating up to 2.6GHz and four power-efficient ARM Cortex-A55 cores operating at up to 2.0GHz. It also packs ARM Mali-G77 GPU. The SoC supports 5G two carrier aggregation (2CC CA) with 4.7Gbps downlink and 2.5Gbps uplink speeds over sub-6GHz networks. The chipset is designed to support stand alone and non-stand alone (SA/NSA) sub-6GHz networks, and includes multi-mode support for every cellular connectivity generation from 2G to 5G. It also integrates the latest Wi-Fi 6 and Bluetooth 5.1+ standards. It comes with MediaTek AI Processing Unit — APU 3.0 — with more than double the performance of the previous generation APU, and brings devices a significant performance boost at 4.5 TOPS. Features and technology in the MediaTek Dimensity 1000: Dual 5G SIM technology, in addition to support for services such as Voice over New Radio (VoNR), the 5G SoC delivers seamless connectivity across networks and offers consistent speeds. 5G carrier aggregation. Performs a seamless handover between two connection areas (high speed layer and coverage layer) for seamless high speed connections when ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=HXFiX7tSqQ4:L_kc2ZLM1oA:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=HXFiX7tSqQ4:L_kc2ZLM1oA:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=HXFiX7tSqQ4:L_kc2ZLM1oA:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=HXFiX7tSqQ4:L_kc2ZLM1oA:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=HXFiX7tSqQ4:L_kc2ZLM1oA:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=HXFiX7tSqQ4:L_kc2ZLM1oA:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/HXFiX7tSqQ4)  
+[Read Here»](https://www.fonearena.com/blog/298939/mediatek-dimensity-1000-specifications-features.html)

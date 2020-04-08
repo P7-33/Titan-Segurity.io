@@ -1,0 +1,12 @@
+---
+title: 'Google India appoints Star and Disney head Sanjay Gupta as Country Manager'
+date: 2019-11-08T11:21:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Sanjay-Gupta-1024x682.jpg) Google has announced that Sanjay Gupta will fill the position of Country Manager and Vice President, Sales and Operations for Google India. The position, previously held by Rajan Anandan, was vacant for 8 months and now will be taken up by Sanjay Gupta who joined Google from Star and Disney India. Sanjay joins Google from Star and Disney India where he was the Managing Director. During that time, he played a pivotal role in Star becoming the largest media company in India. He is also widely credited for building their sports business via the acquisition of marquee cricketing properties and launch the Pro Kabaddi League and Indian Super League. Speaking about his appointment, Sanjay Gupta said: I am delighted to take on the challenge of leading and shaping Google’s charter in India. It is an exciting opportunity to leverage the power of technology to solve some of India’s unique challenges and make Internet an engine of economic growth for people and communities. I am happy to join the passionate teams across Google and look forward to contributing to India’s digital journey as it becomes an innovation hub for the world. Commenting on the appointment, Scott Beaumont, President of APAC, Google said: Our ongoing engagement in India ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=fiBSM7phwMU:dxEFtgSG9wM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=fiBSM7phwMU:dxEFtgSG9wM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=fiBSM7phwMU:dxEFtgSG9wM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=fiBSM7phwMU:dxEFtgSG9wM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=fiBSM7phwMU:dxEFtgSG9wM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=fiBSM7phwMU:dxEFtgSG9wM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/fiBSM7phwMU)  
+[Read Here»](https://www.fonearena.com/blog/297555/google-india-country-manager-sanjay-gupta.html)

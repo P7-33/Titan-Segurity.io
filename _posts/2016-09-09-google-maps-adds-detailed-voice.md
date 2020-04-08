@@ -1,0 +1,12 @@
+---
+title: 'Google Maps adds detailed voice guidance feature for visually impaired'
+date: 2019-10-11T07:16:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Google-Maps-Detailed-voice-guidance.png) Google recently added automatic image descriptions for people with low vision in the Chrome browser. Similarly, now, Google Maps is rolling out a new feature that gives visually impaired people the ability to receive more detailed voice guidance and new types of verbal announcements for walking trips. In this new feature, Google Maps will constantly remind visually impaired people on the path they are on, the distance remaining for next turn using voice navigation, busy crosswalk ahead, and more. The detailed voice guidance will give audio information to people walking to their destination like "Head west on Roppongi Street. It's about 80 meters to your next turn. It's a large road. Use caution while crossing."  and is similar to announcements that you hear on trains and buses. To turn the feature on, go to your Google Maps settings and select "Navigation settings" and beneath the "Walking options" heading, you will find the option to enable "Detailed voice guidance". Detailed voice guidance for walking navigation starts rolling out today on Android and iOS. However, it is available in English in the US and Japanese in Japan for now and Google says that support for additional languages will be added soon. Source
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=lyS_GKwdDfw:Jfvh65mz-yg:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=lyS_GKwdDfw:Jfvh65mz-yg:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=lyS_GKwdDfw:Jfvh65mz-yg:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=lyS_GKwdDfw:Jfvh65mz-yg:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=lyS_GKwdDfw:Jfvh65mz-yg:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=lyS_GKwdDfw:Jfvh65mz-yg:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/lyS_GKwdDfw)  
+[Read Here»](https://www.fonearena.com/blog/294781/google-maps-voice-guidance-visually-impaired.html)

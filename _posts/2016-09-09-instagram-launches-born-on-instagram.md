@@ -1,0 +1,12 @@
+---
+title: 'Instagram launches ‘Born on Instagram’ initiative to discover creators across India'
+date: 2019-11-01T16:12:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Born-on-Instagram.jpg) Instagram has been adding new features and tools for creators recently like refreshed Explore tab, landscape video on IGTV, Branded Content ads, etc. Similarly today, Facebook-owned Instagram has announced its latest 'Born on Instagram' initiative for the digital creator community and will identify and mentor digital creators in India. Instagram at its inaugural ‘Instagram Experience’ (IGX) announced this new initiative and says that its app is being discovered and adopted by many users who are also turning into digital creators and the 'Born on Instagram' initiative will create an amazing opportunity for creators and businesses. This initiative is aimed at enabling creators to express themselves at the national level and discover new talent. Apart from this, the company is also aiming to build a connection between creators and users with this initiative. Commenting on this, Vishal Shah, VP of Product, Instagram said: Instagram is gaining strong momentum both globally and in India. Much like Indian culture, passions pursued by Instagrammers here are the most diverse and represent urban and regional trends. This, combined with the way people freely express themselves on the platform, creates an amazing opportunity for creators and businesses here. It's interesting because in 2010 when we got started, we didn't have ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=MOy92o4nanM:_xbkwAWTYQI:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=MOy92o4nanM:_xbkwAWTYQI:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=MOy92o4nanM:_xbkwAWTYQI:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=MOy92o4nanM:_xbkwAWTYQI:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=MOy92o4nanM:_xbkwAWTYQI:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=MOy92o4nanM:_xbkwAWTYQI:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/MOy92o4nanM)  
+[Read Here»](https://www.fonearena.com/blog/296997/instagram-born-on-instagram-india.html)

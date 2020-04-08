@@ -1,0 +1,12 @@
+---
+title: 'Sennheiser IE 80S audiophile grade Wireless earphones launched in India'
+date: 2019-11-13T14:13:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Sennheiser-IE-80s-BT-Wireless-Headphone-1024x839.jpg) Sennheiser, the German audio manufacturer, has announced the launch of their audiophile grade IE 80s BT wireless earphones in India. Built on the same DNA as the IE 80S ear canal headphones, Sennheiser has made a wireless version that claims to provide near the same audio fidelity as its wired brother. The earphones are designed after the highly popular IE 80S, a earphone that  is known for its outstanding accuracy and a breath-taking soundstage. The earphones have an in-built AKM DAC to ensure the earphones will perform with high sonic accuracy, powering its 10mm drivers and neodymium magnets. The earphones will support hi-res codecs including LHDC, aptX HD, and AAC allowing the IE 80S BT to process high bit rates so that the listener can enjoy uncompressed music formats on par with wired performance. There is also support for aptX Low Latency for synchronisation with video content. The earphones sound characteristic is engineered to be tonally balanced, however users can change this via the Sennheiser Smart Control App, that gives the user controls over a intuitive 5-band equalizer and a bass adjustment tool to boost the bass on the earphone directly. Being a Bluetooth earphone, the IE 80S BT offers controls for music on the ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=X-patE4hX_M:afFCzIyY4Wg:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=X-patE4hX_M:afFCzIyY4Wg:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=X-patE4hX_M:afFCzIyY4Wg:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=X-patE4hX_M:afFCzIyY4Wg:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=X-patE4hX_M:afFCzIyY4Wg:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=X-patE4hX_M:afFCzIyY4Wg:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/X-patE4hX_M)  
+[Read Here»](https://www.fonearena.com/blog/297961/sennheiser-ie-80s-price-india.html)

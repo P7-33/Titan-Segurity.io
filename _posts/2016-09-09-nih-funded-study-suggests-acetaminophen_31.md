@@ -1,0 +1,10 @@
+---
+title: 'NIH-Funded Study Suggests Acetaminophen During Pregnancy Linked to
+ADHD/Autism'
+date: 2019-11-01T01:36:00+01:00
+draft: false
+---
+
+![](https://ifttt.com/images/no_image_card.png)  
+
+New top story on Hacker News: NIH-Funded Study Suggests Acetaminophen During Pregnancy Linked to ADHD/Autism

@@ -1,0 +1,12 @@
+---
+title: 'Twitter announces ban on all political ads on its platform starting November'
+date: 2019-10-31T10:32:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2015/01/Twitter-logo.jpg) Twitter's CEO, Jack Dorsey has announced in a tweet that Twitter will no longer allow political advertising globally on the platform. In his tweet, he explains that the reason for this is that Twitter believes that "political message reach should be earned, not bought". We’ve made the decision to stop all political advertising on Twitter globally. We believe political message reach should be earned, not bought. Why? A few reasons…🧵 — jack 🌍🌏🌎 (@jack) October 30, 2019 With a lot of anti-trust movements around social media role in political campaigns, Twitter has decided to completely ban political advertising on the platform globally. In Jack's tweet, he continues to explain his reasoning for the ban. He starts of by explaining how a political message must earn its reach when people decide for themselves to follow it and how paying for the reach completely negates that decision-making capability. With the rise in machine learning-based optimization of messaging and micro-targeting, unchecked misleading information, and deep fakes, political advertising can prove to be a powerful and dangerous tool to influence millions of people. Jack goes on to explain how these challenges are present on internet advertising on a whole and that they are trying to make changes beginning with ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=jsmNh15WW9g:aO8mvl9j5LU:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=jsmNh15WW9g:aO8mvl9j5LU:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=jsmNh15WW9g:aO8mvl9j5LU:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=jsmNh15WW9g:aO8mvl9j5LU:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=jsmNh15WW9g:aO8mvl9j5LU:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=jsmNh15WW9g:aO8mvl9j5LU:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/jsmNh15WW9g)  
+[Read Here»](https://www.fonearena.com/blog/296860/twitter-political-ad-ban-november-2019.html)

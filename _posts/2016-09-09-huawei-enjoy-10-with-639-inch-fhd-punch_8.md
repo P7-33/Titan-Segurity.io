@@ -1,0 +1,12 @@
+---
+title: 'HUAWEI Enjoy 10 with 6.39-inch FHD+ punch-hole display, 48MP dual rear cameras gets certified'
+date: 2019-10-08T10:19:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/HUAWEI-Enjoy-10.jpg) After the Enjoy 10 Plus last month, HUAWEI is all set to introduce Enjoy 10, a cheaper phone in the Enjoy series in China. Specifications of the phone has been revealed by TENAA with the model number ART-TL00x, and the press render was shared by @ebleaks recently. This reveals a 6.39-inch  HD+ punch-hole display, Kirin 710 12nm SoC with up to 6GB RAM and GPU Turbo 3.0, 48-megapixel primary camera with AI features and a 2-megapixel camera for portrait shots. It is expected to run EMUI 9.1 on top of Android 9 Pie and a 4000mAh (typical) battery, but there is no fingerprint sensor. HUAWEI Enjoy 10 rumored specifications 6.59-inch (1560 × 720 pixels) HD+ 19:5:9 2.5D curved glass display Octa-Core Kirin 710F 12nm (4 x 2.2GHz Cortex-A73 +4 x 1.7GHz Cortex-A53) with ARM Mali-G51 MP4 GPU 4GB RAM with 64GB storage / 6GB RAM with 128GB storage, expandable memory up to 512GB with microSD Android 9 (Pie) with EMUI 9.1 Hybrid Dual SIM (nano + nano / microSD) 48-megapixel primary sensor with f/1.8 aperture, LED flash, 2-megapixel depth sensor with f/2.4 aperture 8MP front camera Dimensions: 159.81×76.13×8.13mm; Weight: 176g Dual 4G VoLTE, Wi-Fi 802.11 ac (2.4GHz / 5GHz), Bluetooth 5, GPS + ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=06txZ9I12JE:j1PMoBluee8:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=06txZ9I12JE:j1PMoBluee8:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=06txZ9I12JE:j1PMoBluee8:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=06txZ9I12JE:j1PMoBluee8:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=06txZ9I12JE:j1PMoBluee8:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=06txZ9I12JE:j1PMoBluee8:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/06txZ9I12JE)  
+[Read Here»](https://www.fonearena.com/blog/294311/huawei-enjoy-10-specs-tenaa-images.html)

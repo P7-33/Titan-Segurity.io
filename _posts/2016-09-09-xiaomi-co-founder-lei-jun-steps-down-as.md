@@ -1,0 +1,12 @@
+---
+title: 'Xiaomi co-founder Lei Jun steps down as China president as Lu Weibing takes over'
+date: 2019-12-03T08:16:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2018/04/Xiaomi-Lei-Jun-profit-5-percent-1024x785.jpg) Xiaomi has announced that the company's co-founder Lei Jun will be stepping down as the China president, and Lu Weibing will be replacing him. Wang Xiang, who had been the Senior Vice President of the Group and head of global business, has been promoted as the President of the Group. He will be responsible for the Group’s administrative platform, and will assist the Group’s CEO, Lei Jun, to take charge of the Group’s operations.  Lin Bin will continue to hold the positions of executive Director, Vice Chairman of the Board and President of the Group’s Smartphone Department Wang Xiang has been promoted as the President of the Group, and will be responsible for the Group’s administrative platform and will assist the CEO to take charge of the Group’s operations Lu Weibing has been appointed as the President of China region, as Lei Jun steps down, and he will remain as the General Manager of Redmi brand. He Yong has been promoted as the Vice President of government affairs, administrative affairs and regional management department. Senior Vice President and CFO, Chew Shou Zi has been appointed as the President of the Group’s Global Business Department A CFO Search Committee comprising of ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=o2p0SprQ4os:aBTamMCFPAs:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=o2p0SprQ4os:aBTamMCFPAs:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=o2p0SprQ4os:aBTamMCFPAs:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=o2p0SprQ4os:aBTamMCFPAs:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=o2p0SprQ4os:aBTamMCFPAs:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=o2p0SprQ4os:aBTamMCFPAs:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/o2p0SprQ4os)  
+[Read Here»](https://www.fonearena.com/blog/299473/xiaomi-co-founder-lei-jun-steps-steps-down-china-president.html)

@@ -1,0 +1,12 @@
+---
+title: 'ACT Fibernet rolls out public WiFi hotspots in Chennai in partnership with Greater Chennai Corporation'
+date: 2019-11-15T16:08:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/02/ACT-Fibernet.jpg) ACT Fibernet, the popular wired broadband Internet Service Provider in India launched ACT Stream TV 4K Android TV Box earlier this year. Expanding their services, the company provided free public WiFi during IPL matches and has been providing free public WiFi at malls in Hyderabad. Now, the latest in the list is Chennai city and ACT Fibernet has started rolling out public WiFi hotspots in partnership with Greater Chennai Corporation. ACT Fibernet together with Greater Chennai Corporation has installed 25+ WiFi zones across prime locations in Chennai including 14 Amma Canteens across 15 Zones in Greater Chennai Corporation. The public WiFi hotspot initiative is part of the Smart City project started by the government and executed by Greater Chennai Corporation. ACT says that close to 250 to 300 users can login at the same time under each WiFi zone that will be available round the clock for the users. Users can access the WiFi hotspots through the ACT Fibernet network for 30 minutes at 20 Mbps speed to upload and download files, browse online, watch videos, and more. On the other hand, existing users of ACT Fibernet will be able to enjoy home speeds and data in public using their login credentials. Check out our ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Jazg5roMdYg:2XwNQr0McMY:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Jazg5roMdYg:2XwNQr0McMY:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Jazg5roMdYg:2XwNQr0McMY:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Jazg5roMdYg:2XwNQr0McMY:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Jazg5roMdYg:2XwNQr0McMY:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Jazg5roMdYg:2XwNQr0McMY:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Jazg5roMdYg)  
+[Read Here»](https://www.fonearena.com/blog/298181/act-fibernet-wifi-hotspots-chennai.html)

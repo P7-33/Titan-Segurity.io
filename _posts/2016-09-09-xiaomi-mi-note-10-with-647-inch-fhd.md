@@ -1,0 +1,12 @@
+---
+title: 'Xiaomi Mi Note 10 with 6.47-inch FHD+ AMOLED display, Snapdragon 730G, 108MP penta rear cameras, 5260mAh battery announced'
+date: 2019-11-06T12:37:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Mi-Note-10-1024x672.jpg) Xiaomi just announced Mi Note 10, as it has promised. This is the global version of the Mi CC9 Pro smartphone that was introduced in China yesterday. It packs a 6.47-inch Full HD+ curved AMOLED display with 3.43mm small chin, is powered by Snapdragon 730G with up to 8GB of RAM, runs Android Pie with MIUI 11, 3D glass back with Corning Gorilla Glass 5 protection, NFC, 1cc loud speaker, 3.5mm audio jack with Hi-Res audio support and a 5260mAh (5160mAh minimum) battery with support for 30W fast charging that can charge the phone to 58% in 30 minutes and 100% in 65 minutes with 30w charger in the box. It has a 108MP main camera with 1/1.33" sensor, supports OIS and incorporates a 4-in-1 (1.6μm) Super Pixel with the latest RAW multi-frame noise reduction algorithm to capture rich detail, even in low-light conditions. The phone also has a 12MP telephoto camera with supports 2x optical zoom with dual PD auto focus, a 5MP telephoto camera that supports 10x hybrid zoom and 50x digital zoom, a 20MP ultra wide-angle camera, and a 2MP macro camera for 1.5cm super macro photography. It has Night mode 2.0 with multi-frame noise reduction at raw level, ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=zjeTtosZMM0:uoCzvoVSgEI:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=zjeTtosZMM0:uoCzvoVSgEI:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=zjeTtosZMM0:uoCzvoVSgEI:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=zjeTtosZMM0:uoCzvoVSgEI:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=zjeTtosZMM0:uoCzvoVSgEI:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=zjeTtosZMM0:uoCzvoVSgEI:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/zjeTtosZMM0)  
+[Read Here»](https://www.fonearena.com/blog/297349/xiaomi-mi-note-10-price-specifications.html)

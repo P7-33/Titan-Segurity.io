@@ -1,0 +1,12 @@
+---
+title: 'Apple opens free repair program for select iPhone 6s and iPhone 6s Plus models facing ‘No Power’ issue globally'
+date: 2019-10-05T13:43:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2015/10/Apple-iPhone-6s-Plus_fonearena-001.jpg) Apple launched iPhone 6s and iPhone 6s Plus smartphones back in 2016. Some units of iPhone 6s faced unexpected shutdown issue and Apple opened a repair program for the same. Similarly, now Apple has opened a free repair program for iPhone 6s and iPhone 6s Plus models with 'No Power' issue. Some units of iPhone 6s and iPhone 6s Plus are facing 'No Power' issue and this occurs due to a "component that may fail.". iPhone 6s and iPhone 6s Plus owners facing the issue wherein their smartphones aren't turning on can get it fixed through Apple's free repair program. Apple says that this issue only affects devices within a limited serial number range that were manufactured between October 2018 to August 2019. The repair program covers affected iPhone 6s and iPhone 6s Plus devices for 2 years after the first retail sale of the unit i.e., until August 2021, depending on the date of purchase. The owners of these smartphones can use the serial number checker on Apple's website to see if their iPhone 6s or iPhone 6s Plus is eligible for repair, free of charge. Apple recommends users to visit an Apple Authorized Service Provider to have their iPhone 6s or ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=6kREJ9Wfgx4:5Vm9wD6W7m4:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=6kREJ9Wfgx4:5Vm9wD6W7m4:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=6kREJ9Wfgx4:5Vm9wD6W7m4:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=6kREJ9Wfgx4:5Vm9wD6W7m4:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=6kREJ9Wfgx4:5Vm9wD6W7m4:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=6kREJ9Wfgx4:5Vm9wD6W7m4:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/6kREJ9Wfgx4)  
+[Read Here»](https://www.fonearena.com/blog/294142/apple-iphone-6s-6s-plus-no-power-free-repair-program.html)

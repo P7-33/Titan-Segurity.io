@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy A30s and Galaxy A50s get a price cut in India, now available starting at Rs. 15999'
+date: 2019-11-11T13:32:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Samsung-Galaxy-A50s_fonearena-02.jpg) Samsung launched the Galaxy A30s and Galaxy A50s last month in India and just after a month since launch, both smartphones have received a price cut of up to Rs. 3000 in India. Samsung Galaxy A30s comes in a single 4GB RAM with 64GB storage variant and is now available at Rs. 15,999, against its original price of Rs. 16,999. Samsung Galaxy A50s, on the other hand, comes in 4GB / 6GB RAM, with 128GB storage. Galaxy A50s 4GB RAM with 128GB storage is now available at Rs. 19,999, against its original price of Rs. 22,999 and Galaxy A50s 6GB RAM with 128GB storage is now available at Rs. 21,999, against its original price of Rs. 24,999. The revised prices are reflecting on Samsung India e-Store, Amazon.in, Flipkart, and offline stores as well. Smartphone Launch Price New Price Price Cut Samsung Galaxy A30s (4+64GB) Rs. 16,999 Rs. 15,999 Rs. 1000 Samsung Galaxy A50s (4+128GB) 6+128GB variant Rs. 22,999 Rs. 19,999 Rs. 3000 Rs. 24,999 Rs. 21,999 Rs. 3000 To recall, Samsung Galaxy A30s flaunts a 6.4-inch HD+ Infinity-V Super AMOLED screen, is powered by Exynos 7904 octa-core 14nm SoC with 4GB of RAM and runs Android 9 Pie. It sports a 25-megapixel rear camera with f/1.7 aperture along with an 8-megapixel 123° ultra-wide and 5-megapixel depth ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=07FPiybV4Sw:mq4p8eY4r9U:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=07FPiybV4Sw:mq4p8eY4r9U:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=07FPiybV4Sw:mq4p8eY4r9U:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=07FPiybV4Sw:mq4p8eY4r9U:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=07FPiybV4Sw:mq4p8eY4r9U:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=07FPiybV4Sw:mq4p8eY4r9U:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/07FPiybV4Sw)  
+[Read Here»](https://www.fonearena.com/blog/297755/samsung-galaxy-a30s-a50s-price-cut-india.html)

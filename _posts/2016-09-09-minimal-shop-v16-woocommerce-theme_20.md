@@ -1,0 +1,12 @@
+---
+title: 'Minimal Shop v1.6 – WooCommerce Theme'
+date: 2019-10-21T05:36:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Redmi-Note-8-Pro_fonearena-14-1024x659.jpg) Xiaomi's Redmi brand launched the Redmi Note 8 Pro smartphone in India last week starting at Rs. 14,999. We already brought you the first impressions of the phone, here we have the camera samples from the phone. The phone packs quad rear cameras, that includes a main 64-megapixel primary rear camera with single LED Flash, 1/1.72″ Samsung GW1 ISOCELL sensor with Smart ISO and ISOCELL Plus technology, 0.8μm pixel size, f/1.8 aperture, has support for PDAF, EIS along with a secondary 8-megapixel camera with 120° ultra-wide angle lens with f/2.2 aperture, 1.12μm pixel size and a 2-megapixel depth sensor for portrait as well as 2-megapixel camera for 2cm macro with 1.75μm pixel size and f/2.4 aperture. It has a 20-megapixel front-facing camera with 0.9μm pixel size and f/2.0 aperture. Since it has a large sensor, there is a slight camera bump. The camera UI is familiar with other Xiaomi smartphones running MIUI 10 with flash, HDR, AI, Macro mode, color modes (Normal, Vivid, Film, Amour, Latte, Sun, Cookie, Calm, Soda, Gourmet, Glow, Berries, B&W and Fade) on the top. Pressing the menu option shows camera frame, timer, tilt-shift, straighten and Google lens. There is a front camera toggle on the bottom ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=8-q9c9srYeM:XYUGy05jJKM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=8-q9c9srYeM:XYUGy05jJKM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=8-q9c9srYeM:XYUGy05jJKM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=8-q9c9srYeM:XYUGy05jJKM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=8-q9c9srYeM:XYUGy05jJKM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=8-q9c9srYeM:XYUGy05jJKM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/8-q9c9srYeM)  
+[Read Here»](https://www.fonearena.com/blog/295459/redmi-note-8-pro-camera-samples.html)

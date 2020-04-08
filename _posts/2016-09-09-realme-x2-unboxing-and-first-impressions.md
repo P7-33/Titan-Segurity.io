@@ -1,0 +1,12 @@
+---
+title: 'Realme X2 Unboxing and First Impressions'
+date: 2019-12-17T10:40:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/realme-X2_fonearena-4-1024x723.jpg) realme today launched the most-expected realme X2 smartphone in India starting at Rs. 16,999. Even though it has the same display and design, this has a faster Snapdragon 730G SoC, packs a 32-megapixel front camera and has support for 30W VOOC 4.0 fast charging. We got hold of the new Pearl Green color version, and here is our unboxing (in Tamil). https://www.youtube.com/watch?v=-k\_30xQ31fU Box Contents realme X2 smartphone in Pearl Green color 2-pin 30W VOOC 4.0 charger (5V-6A) USB Type C Cable SIM Ejector tool Clear protective case User Guide and Warranty information The phone has a 6.4-inch FHD+ AMOLED display with Corning Gorilla Glass 5 protection.The phone is powered by Snapdragon 730G 8nm SoC with up to 8GB RAM and runs Android 9.0 (Pie) with ColorOS 6.1 realme edition which has few visual changes, but the company said that it will get ColorOS 7.0 based on Android 10 in March 2020. The company uses GOODIX G3.0 in-display fingerprint sensor, which offers one of the fastest fingerprint unlocking experiences. It has the waterdrop notch that houses the usual set of proximity and ambient light sensors and a 32-megapixel camera with 1/2.8″ Samsung S5KGD1. \[gallery link="file" columns="2" size="medium" ids="300561,300560,300557,300571"\] The power button is present on the right, volume rockers ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=SS9AesJae4k:EqAKHsgTX6A:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=SS9AesJae4k:EqAKHsgTX6A:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=SS9AesJae4k:EqAKHsgTX6A:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=SS9AesJae4k:EqAKHsgTX6A:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=SS9AesJae4k:EqAKHsgTX6A:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=SS9AesJae4k:EqAKHsgTX6A:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/SS9AesJae4k)  
+[Read Here»](https://www.fonearena.com/blog/300527/realme-x2-unboxing-first-impressions.html)

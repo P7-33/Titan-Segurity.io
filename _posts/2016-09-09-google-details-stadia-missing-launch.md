@@ -1,0 +1,15 @@
+---
+title: 'Google Details Stadia''s Missing Launch Features'
+date: 2019-11-14T14:45:00+01:00
+draft: false
+---
+
+Those who pre-ordered [Google Stadia](https://www.gamespot.com/stadia/)'s Founders Edition will be the first to log-in next week when the service kicks off on November 19. It doesn't look like being smooth sailing for Google, however. The recently announced [launch lineup](https://www.gamespot.com/articles/google-stadia-heres-what-you-can-get-at-launch-and/1100-6471349/) has already been roundly criticised for an underwhelming scarcity of games (not to mention a lack of exclusives), and now the list of missing features at launch is also a growing concern.
+
+In a [Reddit AMA](https://www.reddit.com/r/Stadia/comments/dvv3tv/hi_reddit_andrey_from_the_stadia_team_here_and_im/) with Stadia's Andrey Doronichev and Beri Lee, the pair of Google employees revealed that the company's cloud-based games service would be rolling out next week with a host of missing features. For example, Stream Connect, State Share, and Crowd Play (all features based around multiplayer) won't be available at launch. Stream Connect may arrive before the year's end, but State Share and Crowd Play won't be up and running until sometime in 2020.
+
+PC Chrome gameplay won't support 4K, HDR, or 5.1 surround sound on day one either. Stadia will be able to stream 4K/HDR/5.1 on Chromecast Ultra, but support on PCs won't be added until 2020. The Stadia controller will only work wirelessly when using the Chromecast Ultra dongle, too, so if you want to play Stadia's launch lineup on a PC, tablet, or phone, you'll have to plug the controller in. On top of this, existing Chromecast Ultra devices won't support Stadia until a firmware patch is released sometime after launch.
+
+The achievement system is also missing, there won't be a family sharing option until early 2020, and The Buddy Pass for Founders won't arrive until two weeks after Founders have received their bundle. Controllers aren't all being sent out at once either, so you may have to wait a few days after November 19 to receive yours, which means playing with a keyboard and mouse to begin with.
+
+"Our approach to releasing features on Stadia is similar to how we run Google Search, YouTube, and other Google services: gradual rollout and continuous improvement, based on your feedback," Doronichev said. "We always start with nailing the key user-journey and then proceed with releasing extra features. YouTube started with 'watch video.' For Stadia it's 'Play the Game on your biggest screen.' New features will start popping as soon as one week after launch. I expect the first game with Stream Connect to launch by the end of the year. The games that support State Share and Crowd Play will be released next year. And of course, there are many more cool new platform features on the roadmap. We're aiming to release new stuff weekly after 11/19."

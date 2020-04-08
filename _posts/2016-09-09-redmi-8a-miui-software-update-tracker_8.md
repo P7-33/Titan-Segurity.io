@@ -1,0 +1,12 @@
+---
+title: 'Redmi 8A MIUI Software Update Tracker [Update: MIUI 11 Stable rollout]'
+date: 2019-11-08T17:31:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/Redmi-8A_fonearena-11-1024x653.jpg) Xiaomi launched the Redmi 8A smartphone in India running MIUI 10.3 Global Stable on top of Android 9.0 (Pie). Xiaomi doesn’t follow any fixed update frequency for the MIUI Global Stable ROM but on average, the Global Stable ROM is updated once in a month. This post will help our readers in keeping track of MIUI updates for Redmi 8A (codename ‘olivelitein’), also check out our Redmi 8A content, Redmi 8A Unboxing and First Impressions Redmi 8A Review: Budget Blockbuster MIUI Updates rolled out for the smartphone: \[Nov 8, 2019\]: Xiaomi has started rolling out MIUI 11 Stable 11.0.1.0.PCPINXM, the update weighs around 544 MBs in size and brings MIUI 11 features such as New Minimalistic Design, Quick Replies, New Dynamic Sound Effects, Mi Share, Floating Calculator, Updated Mi File Manager, Steps Trackers and more to Redmi 8A, check out this post to learn more about MIUI 11 features. \[Download Link\] \[Nov 7, 2019\]: Xiaomi announces MIUI 11 Global Stable Beta testing for devices including Redmi 8A. \[Oct 22, 2019\]: Xiaomi has started rolling out MIUI 10.3.3.0.PCPINXM with September security patch, the update weighs around 343 MBs in size. \[Download Link\] \[Oct 16, 2019\]: Redmi 8A will get MIUI 11 update in late November, confirms Xiaomi. The Redmi 8A comes ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=IH2MCGa5DN4:ntWunveT5-Y:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=IH2MCGa5DN4:ntWunveT5-Y:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=IH2MCGa5DN4:ntWunveT5-Y:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=IH2MCGa5DN4:ntWunveT5-Y:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=IH2MCGa5DN4:ntWunveT5-Y:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=IH2MCGa5DN4:ntWunveT5-Y:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/IH2MCGa5DN4)  
+[Read Here»](https://www.fonearena.com/blog/296177/redmi-8a-miui-software-update.html)

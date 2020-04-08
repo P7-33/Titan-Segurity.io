@@ -1,0 +1,12 @@
+---
+title: 'OnePlus Care Limitless Referrals goes live – Here’s how OnePlus users can get Rs.1000'
+date: 2019-10-20T18:54:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/OnePlus-Care-Limitless-Referrals-1024x679.jpg) OnePlus recently launched its Care benefits for its users to offer 1-year extended warranty, 50% off on battery replacement and Buyback discounts. Now it has launched Limitless Referrals that lets existing OnePlus user share a referral link with the buyer and both parties will gain benefits in the form of points, discounts or cashback. The Limitless Referrals program is valid from 20th October to 31st October, 2019. To participate in the referral program: Existing OnePlus users must download the OnePlus Care app available on the  Google Play Store and verify their IMEI number Login to oneplus .in with the same account, head to Referral Program page and enter the IMEI number to generate a unique referral link that can be shared with the referee The referee can use this link to log in to OnePlus.in to receive a gift voucher or coupon worth Rs. 2000 redeemable against their purchase of a OnePlus 7 Pro, OnePlus 7T or OnePlus 7T Pro from oneplus.in,  amazon.in, OnePlus Experience Stores, selected offline partner stores from 20th October to 31st October 2019 Once the referee installs OnePlus Care on their new device and verifies device IMEI, the referrer will get points worth Rs. 1000 in their OnePlus account before 20th November, which can be used to redeem ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=0cBQVWy25uA:-RmYQJe5ffk:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=0cBQVWy25uA:-RmYQJe5ffk:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=0cBQVWy25uA:-RmYQJe5ffk:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=0cBQVWy25uA:-RmYQJe5ffk:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=0cBQVWy25uA:-RmYQJe5ffk:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=0cBQVWy25uA:-RmYQJe5ffk:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/0cBQVWy25uA)  
+[Read Here»](https://www.fonearena.com/blog/295778/oneplus-care-limitless-referrals-rs-1000.html)

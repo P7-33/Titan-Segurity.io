@@ -1,0 +1,12 @@
+---
+title: 'HUAWEI mini Bluetooth speaker and Freelace wireless earphones launched in India for Rs. 1999 and Rs. 4999'
+date: 2019-10-01T13:01:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/HUAWEI-mini-and-Freelace-1024x603.jpg) HUAWEI's Diwali Sale kicked off recently with discounts on a wide range of smartphones, tablets, wearables, etc and during the announcement of Diwali Sale offers, the company also announced that it would launch Freelace earphones and mini speaker in India. On similar lines, HUAWEI has just launched its new Freelace wireless earphone and mini speaker in India. HUAWEI Freelace HUAWEI Freelace is a wireless earphone that comes with a flexible memory metal cable and sports a neckband style design. It packs a 9.2mm dynamic driver unit along with ultra-thin TPU diaphragm and titanium plating. There is a Dual-channel Wind Noise Reduction and Bluetooth noise-cancelling algorithm on this earphone and it also has a built-in hall magnetic sensor which detects whether the headphones are in use and when they are separated, they will reconnect automatically resuming the music playback. It packs a 120mAh battery, comes with USB Type-C port for charging and HUAWEI promises 18-hour playback on a single charge and 4-hour playback in 5 minutes charge. It is IPX5 rated for water resistance. HUAWEI mini speaker   HUAWEI mini speaker has a minimalist design with a power button and a status indicator. It packs a 40mm driver unit with 3W power supply range and has a ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=1yptaQvmNL8:f2pCnd4kdAM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=1yptaQvmNL8:f2pCnd4kdAM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=1yptaQvmNL8:f2pCnd4kdAM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=1yptaQvmNL8:f2pCnd4kdAM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=1yptaQvmNL8:f2pCnd4kdAM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=1yptaQvmNL8:f2pCnd4kdAM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/1yptaQvmNL8)  
+[Read Here»](https://www.fonearena.com/blog/293774/huawei-mini-freelace-price-india.html)

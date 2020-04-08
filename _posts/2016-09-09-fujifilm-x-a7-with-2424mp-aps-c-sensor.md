@@ -1,0 +1,12 @@
+---
+title: 'Fujifilm X-A7 with 24.24MP APS-C sensor launched in India for Rs. 59000'
+date: 2019-11-12T13:17:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Fujifilm-X-A7_3.jpg)  Fujifilm has announced their newest addition to their X-Series cameras, called the FUJIFILM X-A7. The camera boasts a newly developed 24.24MP APS-C sensor with copper wiring to enable high-speed data readout, and features phase detection pixels across the entire sensor surface to enhance AF speed and accuracy. The camera body is designed with a retro touch, weighs 320g and will come in 4 colours namely Silver, Camel, Mint Green and Dark Silver. The camera will be sold with a XC 15-45mm lens kit, taking the total weight to 455g. Fujifilm claims a battery life of 440 frames per charge when “Economy” is selected in the Performance Mode, and approx. 270 frames per charge in “Standard”. The sensor has been designed with Fujifilm's unique colour reproduction technology, having excellent noise control even at high ISO values of ISO51200. It features 8.5 times more more phase detection pixels than the previous model, the X-A5, which enhances AF tracking of a moving subject and Face / Eye detecting AF performance. The video capabilities of this camera make it extremely useful for Vloggers too. Along 4K/30 fps (no crop) and 1080P 60fps modes, the camera offers a bunch of other features like "Countdown Video” mode and has a ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=gh_RGpXz4-o:QeT4nRHOLQs:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=gh_RGpXz4-o:QeT4nRHOLQs:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=gh_RGpXz4-o:QeT4nRHOLQs:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=gh_RGpXz4-o:QeT4nRHOLQs:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=gh_RGpXz4-o:QeT4nRHOLQs:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=gh_RGpXz4-o:QeT4nRHOLQs:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/gh_RGpXz4-o)  
+[Read Here»](https://www.fonearena.com/blog/297820/fujifilm-x-a7-24-2mp-price-india-features.html)

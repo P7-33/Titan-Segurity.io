@@ -1,0 +1,12 @@
+---
+title: 'Nokia 2.3 with 6.2-inch HD+ display, dual rear cameras, metal frame announced'
+date: 2019-12-05T19:05:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Nokia-2.3-1-1024x845.jpg) HMD Global just announced the Nokia 2.3, the company’s latest budget Android One smartphone and the successor of Nokia 2.2 at an event in Egypt, as expected. It packs a 6.2-inch HD+ screen, is powered by MediaTek Helio A22 12nm SoC with 2GB RAM, runs Android 9.0 (Pie) with 2 years of Android and 3 years of security updates, has a 13-megapixel rear camera with AI low-light feature, HDR, secondary 2-megapixel depth sensing camera for Portrait Mode, 'Recommended Shot' feature that automatically captures alternate images before and after the shutter button is pressed and suggests the best one. It has a 5-megapixel camera on the front with support for Face Unlock, but it doesn’t have a fingerprint sensor. The phone also comes with a dedicated Google Assistant Button, has dedicated dual SIM and microSD slots, features 3D nano-textured cover. "Advanced structural engineering made it possible to integrate the dual camera and flash into the rear of the phone without a camera bump. Inner high-precision diecast aluminium chassis makes the structure solid and rigid protecting all the components inside," said the company. It packs a 4000mAh battery that promises 2 days of battery life. Nokia 2.2 specifications 6.2-inch (720 x 1520 pixels) ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=ws_H1oufun8:tgwWLoJWCak:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ws_H1oufun8:tgwWLoJWCak:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=ws_H1oufun8:tgwWLoJWCak:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ws_H1oufun8:tgwWLoJWCak:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=ws_H1oufun8:tgwWLoJWCak:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=ws_H1oufun8:tgwWLoJWCak:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/ws_H1oufun8)  
+[Read Here»](https://www.fonearena.com/blog/299734/nokia-2-3-price-specifications.html)

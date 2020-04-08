@@ -1,0 +1,12 @@
+---
+title: 'HP Elite Dragonfly convertible laptop with 13.3-inch 4K UHD display, 8th Gen Intel Core vPro processor launched in India'
+date: 2019-11-12T14:27:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/HP-Elite-Dragonfly-1024x503.jpg) HP has just launched the Elite Dragonfly convertible laptop in India along with HP E344c Curved Monitor. This comes after the Dragonfly was announced first last month. HP Elite Dragonfly is a compact business convertible with magnesium, a 13.3-inch 4K UHD touchscreen display, and is powered by 8th Gen Intel Core vPro processor. It has an adaptable design and can be used as a laptop, tablet, tent to share content and used for media consumption. The connectivity options include 4G LTE and the latest WiFi 6, and this time around it comes with an "ultra-quiet" keyboard. HP states that the Elite Dragonfly delivers up to 24 hours of battery life. Other highlights include HP Privacy Camera with shutter, HP Sure View Gen 3 for privacy, and HP Multi-Factor Authenticate Gen3. HP Elite Dragonfly specifications 13.3-inch 4K UHD touchscreen display with a resolution of 3840 x 2160 pixels 8th Gen Intel Core vPro processor Intel UHD 620 GPU Up to 16GB RAM Up to 2TB NVMe M.2 SSD Connectivity and ports: WiFi 6, 4G LTE, Bluetooth 4.2, 2 x Thunderbolt 3, 1 x USB 3.1 Gen 1 Type-A , 1 x HDMI 2.0, 1 x Audio combo jack HP Privacy Camera Dimensions: 304.3 ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=6ppmTMfyECM:girAuD0fM14:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=6ppmTMfyECM:girAuD0fM14:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=6ppmTMfyECM:girAuD0fM14:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=6ppmTMfyECM:girAuD0fM14:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=6ppmTMfyECM:girAuD0fM14:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=6ppmTMfyECM:girAuD0fM14:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/6ppmTMfyECM)  
+[Read Here»](https://www.fonearena.com/blog/297868/hp-elite-dragonfly-price-india.html)

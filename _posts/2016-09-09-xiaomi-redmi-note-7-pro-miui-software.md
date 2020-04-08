@@ -1,0 +1,12 @@
+---
+title: 'Xiaomi Redmi Note 7 Pro MIUI Software Update Tracker [Update: MIUI 11 Stable Update starts rolling out]'
+date: 2019-10-25T16:19:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/03/Xiaomi-Redmi-Note-7-Pro_fonearena-13-1-1024x731.jpg) Xiaomi launched the Redmi Note 7 Pro smartphone in India back in February running MIUI 10.2 Global Stable on top of Android 9.0 (Pie). Xiaomi doesn't follow any fixed update frequency for the MIUI Global Stable ROM but on average, the Global Stable ROM is updated once in a month. This post will help our readers in keeping track of MIUI updates for Redmi Note 7 Pro (codename 'violet'), also check out our Redmi Note 7 Pro content, Redmi Note 7 Pro First Impressions Redmi Note 7 Pro Nebula Red edition Photo Gallery Redmi Note 7 Pro Neptune Blue edition Photo Gallery Redmi Note 7 Pro Benchmarks Redmi Note 7 Pro Camera Samples Redmi Note 7 Pro Review: All-rounder at a killer price \[gallery link="file" columns="2" size="large" ids="296557,296558"\] MIUI updates rolled out for the smartphone: \[Oct 25, 2019\]: Xiaomi has started rolling out MIUI 11.05.0.PFHINXM, the update weighs 746 MBs in size and brings MIUI 11 features such as New Minimalistic Design, Quick Replies, New Dynamic Sound Effects, Mi Share, Floating Calculator, Update Mi File Manager, Steps Trackers and more to Redmi Note 7 Pro, check out this post to learn more about MIUI 11 features. We will be updating the post with more details and download ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=I-PfNV__4go:skKaUCVBqoY:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=I-PfNV__4go:skKaUCVBqoY:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=I-PfNV__4go:skKaUCVBqoY:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=I-PfNV__4go:skKaUCVBqoY:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=I-PfNV__4go:skKaUCVBqoY:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=I-PfNV__4go:skKaUCVBqoY:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/I-PfNV__4go)  
+[Read Here»](https://www.fonearena.com/blog/280214/xiaomi-redmi-note-7-pro-miui-software-update-tracker-update-miui-11-stable-update-starts-rolling-out.html)

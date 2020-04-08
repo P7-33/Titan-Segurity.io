@@ -1,0 +1,12 @@
+---
+title: 'Instagram Reels 15-second video-music feature to take on TikTok'
+date: 2019-11-13T10:13:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Instagram-Reels-1-1024x633.jpg) Instagram is going after TikTok with its video-music remix service called Instagram Reels. It will let users create 15 second video clips attached with music share them as Stories, with the potential to go viral on a new Top Reels section of Explore. The service is currently being tested in Brazil under the name Cenas for both iOS and Android. Instagram is currently testing this feature in countries where TikTok is not very prevalent. Brazil has a huge Instagram user base with a deeply musical culture and a thriving creator community. Instagram aims to nail its customization and onboarding strategy before rolling out worldwide, similar to what it did when copying Snapchat for Instagram Stories. Reels will be found Instagram Stories shutter modes tray next to Boomerang and Super-Zoom. Users can either record with silence, borrow the audio of another video they find through hashtag search or Explore, or search a popular or trending song. Powering Reels is Facebooks humongous music library that helped Instagrams Music stickers. Users can pick the chunk of the song they want, and can then record or upload multiple video clips to fill out their Reel. Once the music is added, users will be presented with a bunch of editing ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=th958eksOtE:HjNbfoKFUR8:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=th958eksOtE:HjNbfoKFUR8:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=th958eksOtE:HjNbfoKFUR8:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=th958eksOtE:HjNbfoKFUR8:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=th958eksOtE:HjNbfoKFUR8:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=th958eksOtE:HjNbfoKFUR8:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/th958eksOtE)  
+[Read Here»](https://www.fonearena.com/blog/297937/instagram-reels-tiktok-competitor.html)

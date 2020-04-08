@@ -1,0 +1,12 @@
+---
+title: 'Andy Rubin teases a radically re-imagined compact smartphone – GEM'
+date: 2019-10-09T01:48:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/essential-gem-3-1024x768.jpg)Andy Rubin, creator of Android and CEO of Essential just tweeted out a colorful glimpse into one of the most radically re-imagined compact smartphones we have ever seen. It's long, it's thin, there's a huge camera at the back and also a fingerprint scanner. The guys at Essential call this device "GEM" and the first tweet from Andy (after almost an year) shows how color-shifty the design is. But it didn't stop there. https://twitter.com/Arubin/status/1181688540540764160 Then came photos of the side of the phone that actually matters. Yes, that's definitely Google Maps running on the "GEM". Let's start from the top of the phone. There's an ear piece grill right at the top, the bezels all around the phone are equidistant (apparently that was super hard to achieve on this phone), right below the ear piece seems to be a "notch" area and my guess is, the punch hole houses a front facing camera. Besides that, in software, you see an arrow and a battery indicator in that top area of the UI which is blank. Below that is of course the entire Maps UI reformatted to suit this new radically redesigned form factor. In this image, we can see a different page of the ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=zGj7I3zBKWg:f8P25VKh380:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=zGj7I3zBKWg:f8P25VKh380:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=zGj7I3zBKWg:f8P25VKh380:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=zGj7I3zBKWg:f8P25VKh380:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=zGj7I3zBKWg:f8P25VKh380:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=zGj7I3zBKWg:f8P25VKh380:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/zGj7I3zBKWg)  
+[Read Here»](https://www.fonearena.com/blog/294389/andy-rubin-teases-a-radically-re-imagined-compact-smartphone-gem.html)

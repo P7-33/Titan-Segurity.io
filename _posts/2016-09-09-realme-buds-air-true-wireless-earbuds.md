@@ -1,0 +1,12 @@
+---
+title: 'Realme Buds Air true wireless earbuds launching on December 17 — Here’s how you can get Rs. 400 discount coupon'
+date: 2019-12-09T10:14:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/realme-Buds-Air-1024x604.jpg) After teasers realme today confirmed that it will launch the realme Buds Air, the company's first true wireless earbuds in India on December 17th, along with the realme XT 730G. It is also offering Rs. 400 discount coupon from today, 9th December till 16th December that is applicable when you order the earbuds after the launch. Here's how you can grab the realme Buds Air Rs. 400 discount coupon from Dec 9 to 16 During the event period, every customer who purchases realme X2 Pro, realme XT, realme 5Pro, realme X, or realme X Master Edition, will get a Rs. 400 off Coupon for realme Buds Air During the event period, every customer needs to fill in their contact no. at the Notify tab. After the successful input of the contact no., share the activity link. Then they will get a Rs. 400 off Coupon for realme Buds Air. Each account has only one chance to participate in this activity. Discount coupons will be automatically sent to your account at 10AM on December 17th realme also confirmed 12mm drivers, Bluetooth 5.0, option to connect the headset to once you open the case, one touch to activate Google Assistant, music and calls controls ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=8uj0uj7RMiE:0-OiRbJ1b48:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=8uj0uj7RMiE:0-OiRbJ1b48:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=8uj0uj7RMiE:0-OiRbJ1b48:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=8uj0uj7RMiE:0-OiRbJ1b48:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=8uj0uj7RMiE:0-OiRbJ1b48:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=8uj0uj7RMiE:0-OiRbJ1b48:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/8uj0uj7RMiE)  
+[Read Here»](https://www.fonearena.com/blog/299916/realme-buds-air-launch-date-rs-400-discount-coupon.html)

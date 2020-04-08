@@ -1,0 +1,12 @@
+---
+title: 'Moto G8 Plus with 6.3-inch FHD+ display, 48MP triple rear cameras, 25MP front camera launched in India for Rs.'
+date: 2019-10-24T15:48:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Moto-G8-Plus.png) Motorola just launched the Moto G8 Plus, the company's latest phone in the G8 series in India, after rumors. It packs a 6.3-inch Full HD+ waterdrop notch display, is powered by Snapdragon 665 with 4GB of RAM, runs Android 9 (Pie), which is upgradable to Android 10 and guaranteed security patches for 2 years. It has a 48-megapixel rear camera with Samsung GM1 sensor, f/1.79 aperture, 16MP action camera similar to the one action and a 2MP depth sensor with laser auto focus and 25MP front camera. It has a plastic back, rear mounted fingerprint scanner, Dual stereo speakers with Dolby audio and packs a 4000mAh battery that promises 40 hours of battery life on a single charge.And with TurboPower ultra-fast charging, you can can fuel up fast with 8 hours of power in just 15 minutes. Moto G8 Plus specifications 6.3-inch (1080×2280 pixs) Full HD+ LCD with 19:9 aspect ratio Octa Core Snapdragon 665 11nm Mobile Platform (Quad 2GHz Kryo 260 + Quad 1.8GHz Kryo 260 CPUs) with Adreno 610 GPU 4GB LPDDR4x RAM, 64GB (UFS) storage, expandable memory up to 512GB with microSD Hybrid Dual SIM (nano + nano / microSD) Android 9.0 (Pie) 48MP quad pixel rear camera ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=geYv_moEsiI:rSupW3QzaE8:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=geYv_moEsiI:rSupW3QzaE8:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=geYv_moEsiI:rSupW3QzaE8:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=geYv_moEsiI:rSupW3QzaE8:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=geYv_moEsiI:rSupW3QzaE8:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=geYv_moEsiI:rSupW3QzaE8:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/geYv_moEsiI)  
+[Read Here»](https://www.fonearena.com/blog/296266/moto-g8-plus-price-specifications.html)

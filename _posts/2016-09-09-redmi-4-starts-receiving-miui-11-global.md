@@ -1,0 +1,12 @@
+---
+title: 'Redmi 4 starts receiving MIUI 11 Global Stable update'
+date: 2019-11-15T11:53:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2017/10/best-smartphone-under-10000-Xiaomi-Redmi-4.jpg) Xiaomi announced the latest iteration of its own proprietary Android skin MIUI, dubbed MIUI 11 at an event in India. MIUI 11 aims to bring a brand new optimized modern UI design focused on content viewing and has along with nifty additions designed specifically for India. The company has already rolled out MIUI 11 to most of the devices including Redmi K20 series, Redmi Note 7 series, Redmi Note 6 Pro, Redmi 6 series, Redmi Note 5 Pro, and others and has already started testing MIUI Stable Beta for the second and third batch of devices. \[gallery columns="2" size="large" link="file" ids="298127,298128"\] Now, the company has started rolling out MIUI 11 Global Stable update to Redmi 4 users in India. The new update comes as MIUI 11.0.2.0.NAMMIXM and weighs around 483MB in size. Xiaomi has not updated the Android Security patch on the device and it still runs on almost a year old October 2018 patch. MIUI 11 brings new features such as New Minimalistic Design, Blur App Previews, Quick Replies, New Dynamic Sound Effects, Floating Calculator, Updated Mi File Manager, and more to the device, and Mi Share might be missing on this too since we found it missing after MIUI 11 update on Redmi ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=SADSwH9kGmM:m98z7JznP9o:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=SADSwH9kGmM:m98z7JznP9o:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=SADSwH9kGmM:m98z7JznP9o:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=SADSwH9kGmM:m98z7JznP9o:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=SADSwH9kGmM:m98z7JznP9o:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=SADSwH9kGmM:m98z7JznP9o:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/SADSwH9kGmM)  
+[Read Here»](https://www.fonearena.com/blog/298123/redmi-4-miui-11-update.html)

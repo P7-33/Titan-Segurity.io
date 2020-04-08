@@ -1,0 +1,12 @@
+---
+title: 'Redmi K30 4G version with 6.67-inch FHD+ dual punch-hole display, Snapdragon 730G, 64MP quad rear cameras gets certified'
+date: 2019-12-06T11:17:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Redmi-K30-TENAA.jpg) Xiaomi's Redmi brand already confirmed Redmi K30 series will be introduced on December 10th. Now the Redmi K30 4G version has been certified by TENAA with the model numbers M1912G7BE and M1912G7BC that confirms the complete specifications of the phone. This shows a large 6.67-inch FHD+ LCD screen with dual punch-hole design and a side-mounted fingerprint scanner. This is said to be powered by Snapdragon 730G compared to 765G in the 5G version. The company confirmed Sony IMX686 64MP sensor for the phone earlier today, and this also reveals 20MP front camera along with a secondary wide-angle camera. Redmi K30 4G rumored specifications 6.67-inch (1080 × 2400 pixels) Full HD+ LCD screen Octa Core (2.2GHz Dual + 1.8GHz Hexa) Snapdragon 730G 8nm Mobile Platform with Adreno 618 GPU 6/8/12GB LPDDR4X RAM with 64/128/256GB (UFS 2.1) storage, expandable memory up to 512GB Android 10 with MIUI 11 Dual SIM 64MP rear camera with LED Flash, Sony IMX686 sensor, ultra-wide sensor, depth and macro sensor 20MP front-facing camera, secondary ulta-wide sensor Side-mounted fingerprint sensor 3.5mm audio jack, FM Radio Dimensions: 165.3×76.6×8.8mm; Weight: 208g Dual 4G VoLTE, WiFi 802.11 ac (2.4GHz + 5GHz), Bluetooth 5, GPS + GLONASS, USB Type-C 4500mAh (Typical) / 4400mAh (Minimum) ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=VQKPDpI4WgQ:BkeIdh73XPo:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=VQKPDpI4WgQ:BkeIdh73XPo:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=VQKPDpI4WgQ:BkeIdh73XPo:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=VQKPDpI4WgQ:BkeIdh73XPo:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=VQKPDpI4WgQ:BkeIdh73XPo:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=VQKPDpI4WgQ:BkeIdh73XPo:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/VQKPDpI4WgQ)  
+[Read Here»](https://www.fonearena.com/blog/299785/redmi-k30-specs-tenaa-4g.html)

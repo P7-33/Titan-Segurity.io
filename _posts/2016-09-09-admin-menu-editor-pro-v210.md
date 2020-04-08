@@ -1,0 +1,12 @@
+---
+title: 'Admin Menu Editor Pro v2.10'
+date: 2019-10-24T06:37:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Redmi-Note-8-Pro_fonearena-01-1024x633.jpg) Xiaomi's Redmi smartphones, especially the Redmi Note series is known for packing a lot of features making them value-for-money (VFM) devices. The Redmi Note 7 Pro that was launched was major upgrade, and once again the Redmi Note 8 Pro is another major upgrade in terms of display, camera, build quality, battery and lots more. You can check out all the new features in the Redmi Note 8 Pro here. The specifications look great on paper for the price. Let us dive into the review to find out what the device has to offer. Box Contents Redmi Note 8 Pro smartphone 8GB + 128GB in Halo White color USB Type-C Cable 18W charger (5V-3A/9V/2A/12V-1.5A) SIM Ejector tool Clear protector case User manual and warranty information Display, Hardware and Design The Redmi Note 8 Pro has a Full HD+ ‘Dot Notch’ Full HD+ display with a pixel resolution of 2340 × 1080 pixels, 19.5:9 aspect ratio 2.5D curved glass screen with gentle rounded corners, same as the Note 7 Pro, but this has a slightly larger 6.53-inch screen size and a pixel density of about 394 PPI. The display is bright, thanks to 500 nits brightness and 1500:1 contrast ratio and the colors are ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=0q8slFXr4FQ:DN90CfBjvc4:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=0q8slFXr4FQ:DN90CfBjvc4:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=0q8slFXr4FQ:DN90CfBjvc4:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=0q8slFXr4FQ:DN90CfBjvc4:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=0q8slFXr4FQ:DN90CfBjvc4:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=0q8slFXr4FQ:DN90CfBjvc4:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/0q8slFXr4FQ)  
+[Read Here»](https://www.fonearena.com/blog/296065/redmi-note-8-pro-review-another-value-for-money-redmi-note.html)

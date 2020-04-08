@@ -1,0 +1,12 @@
+---
+title: 'Redmi Note 8 Pro Unboxing and First Impressions'
+date: 2019-10-16T09:39:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Redmi-Note-8-Pro_fonearena-11-1024x578.jpg) Xiaomi just launched the Redmi Note 8 Pro smartphone in India. We already brought you the hands-on impressions of the phone from the China launch, here we have the unboxing of the Indian unit. https://www.youtube.com/watch?v=vNmayYLb9vs https://www.youtube.com/watch?v=rsDk51MUdY4 Box Contents Redmi Note 8 Pro smartphone 8GB + 128GB in Halo White color USB Type-C Cable 18W charger (5V-3A/9V/2A/12V-1.5A) SIM Ejector tool Clear protector case User manual and warranty information The Redmi Note 8 Pro features a large 6.53-inch (2340 × 1080 pixels) Full HD+ dot drop LCD screen with up to 91.4% screen-to-body ratio. It is the first phone in the price range to come with HDR support. Inside the notch there is a 20-megapixel camera. There is also a tiny notification LED inside the notch. Powered by the latest MediaTek Helio G90T Octa-Core processor clocked up to 2.05GHz along with Mali-G76 3EEMC4GPU with up to 800MHz, it provides AI power up to 1TMACs. There is also liquid cooling to prevent heating even during peak performance for extended periods of gaming. It comes with up to 8GB (LPDDR4x) RAM and up to 128GB (UFS 2.1) storage. It runs Android Pie with MIUI 10 top, but it will get MIUI 11 later this year. \[gallery link="file" columns="2" size="medium" ids="295312,295314,295315,295313"\] Coming ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=LXcnqlzQO9g:dNsft2RQw4w:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=LXcnqlzQO9g:dNsft2RQw4w:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=LXcnqlzQO9g:dNsft2RQw4w:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=LXcnqlzQO9g:dNsft2RQw4w:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=LXcnqlzQO9g:dNsft2RQw4w:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=LXcnqlzQO9g:dNsft2RQw4w:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/LXcnqlzQO9g)  
+[Read Here»](https://www.fonearena.com/blog/295306/redmi-note-8-pro-unboxing-and-first-impressions.html)

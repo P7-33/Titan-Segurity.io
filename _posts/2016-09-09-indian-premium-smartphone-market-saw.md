@@ -1,0 +1,12 @@
+---
+title: 'Indian Premium Smartphone market saw record 66% YoY growth in Q3 2019, OnePlus leads with 35% share'
+date: 2019-11-06T08:12:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/OnePlus-7T_fonearena-02-1024x661.jpg) After overall Indian smartphone market performance, Counterpoint has posted details of the performance of the premium smartphone segment in Q3 2019, which reveals 66% YoY growth, an all-time record high. This is due to new launches, aggressive EMI, cashback and exchange offers, and channel push, ahead of the crucial festive season, according to the report. Among the brands, OnePlus posted 35%, growth, which is up 95% compared to others, making it the fastest-growing brand, driven by strong performances of both the 7 and 7T series. This is followed by Samsung with 23% share due to strong performance of the new Galaxy Note 10 series, and price cuts for older flagships. This is followed by Apple with 22% share, thanks to the iPhone XR price cut and festive EMI and cashback offers. iPhone XR captured half of Apple’s premium shipments, and was the second best selling premium smartphone during the quarter. Apple iPhone shipments in the premium segment grew 45% YoY. However, the cumulative share of top three brands declined to 79% in Q3 2019 as compared to 83% in Q3 2018, highlighting a growing presence of other brands in the segment, mainly OPPO, Xiaomi, and ASUS. More than 20 flagship phone variants launched ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=BlHtuD1CehA:AqsrODXtnrw:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=BlHtuD1CehA:AqsrODXtnrw:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=BlHtuD1CehA:AqsrODXtnrw:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=BlHtuD1CehA:AqsrODXtnrw:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=BlHtuD1CehA:AqsrODXtnrw:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=BlHtuD1CehA:AqsrODXtnrw:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/BlHtuD1CehA)  
+[Read Here»](https://www.fonearena.com/blog/297315/indian-premium-smartphone-market-q3-2019-oneplus-leads.html)

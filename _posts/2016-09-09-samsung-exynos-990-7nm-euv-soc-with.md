@@ -1,0 +1,12 @@
+---
+title: 'Samsung Exynos 990 7nm EUV SoC with support for up to 120Hz refresh-rate displays, LPDDR5, up to 108MP camera and 5G Exynos Modem 5123 announced'
+date: 2019-10-24T03:33:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Samsung-Exynos-990-and-Exynos-Modem-5123.jpg) Samsung has announced its latest Exynos 990 SoC, an enhanced version fo the Exynos 980 that was introduced last month. This uses 7nm EUV (extreme ultra violet) lithography processing technology for better power efficiency same as Exynos 9825 SoC that powers the Galaxy Note10. This has tri-cluster CPU structure that consists of two powerful custom cores, two high-performance Cortex-A76 cores and four power-efficient Cortex-A55 cores. It has dual-core neural processing unit (NPU) and improved digital signal processor (DSP) that can perform over ten-trillion operations (TOPs) per second. There is Mali-G77 MP11 GPU, which the company says is the first premium GPU based on the new Valhall architecture, promising graphic performance or power efficiency improvement by up to 20% compared to Exynos 9820 with Mali-G76 MP12 GPU. It supports LPDDR5 with data rates of up to 5,500 megabits per second (MB/s) for wider memory bandwidth than its predecessor with LPDDR4x. In addition to 10-bit video and HDR display support, the processor also features a 120Hz refresh-rate display driver. It supports up to six individual sensors with ultra-high resolution up to 108MP and is able to process three sensors concurrently. The new 5G Exynos Modem 5123 modem is based on 7-nanometer (nm) process technology ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=lA_gCLUfJlU:BpQMWmmQA30:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=lA_gCLUfJlU:BpQMWmmQA30:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=lA_gCLUfJlU:BpQMWmmQA30:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=lA_gCLUfJlU:BpQMWmmQA30:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=lA_gCLUfJlU:BpQMWmmQA30:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=lA_gCLUfJlU:BpQMWmmQA30:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/lA_gCLUfJlU)  
+[Read Here»](https://www.fonearena.com/blog/296244/samsung-exynos-990-5g-exynos-modem-5123.html)

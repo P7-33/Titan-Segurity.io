@@ -1,0 +1,13 @@
+---
+title: 'Outer Worlds Developer Obsidian Doesn''t Want To Get Too Big'
+date: 2019-11-15T01:26:00+01:00
+draft: false
+---
+
+Obsidian's most recent game, [The Outer Worlds](https://www.gamespot.com/the-outer-worlds/), has been [a big success](https://www.gamespot.com/articles/the-outer-worlds-has-exceeded-publishers-expectati/1100-6471295/) for the studio both critically and commercially. Now the studio, which was [bought out by Microsoft](https://www.gamespot.com/articles/newly-acquired-xbox-studios-could-release-games-fo/1100-6469033/) back in August, is looking to the future. At Microsoft's X019 event the studio announced [Grounded](https://www.gamespot.com/grounded/), a survival game where you play as a shrunk-down human. It seems like the studio is doing well right now, but according to its founder, Feargus Urquhart, the plan going forward is to not rock the boat too hard.
+
+As [USGamer](https://www.usgamer.net/articles/obsidian-founder-feargus-urquhart-rpgs) reports, Urquhart recently spoke about the studio's now more-secure future under Microsoft, as well as his own desire to return to directing games after focusing on running the business for so long. He wants to return to his roots--he worked on the first two Fallout games, as well as Baldur's Gate, before founding Obsidian in 2003. "I would like to be a game director again," he said, stating that he would like to "meddle" in games once more.
+
+Interestingly, he also noted that Obsidian wants to avoid growing its staff headcount too much, with a [200 person benchmark](https://www.usgamer.net/articles/obsidian-ceo-says-it-doesnt-plan-on-expanding-too-much-under-microsoft) having been established. While teams are going to "be a little larger," and Obsidian is going to have a "larger outsourcing budget," Obsidian itself isn't going to be allowed to get too enormous by the company heads. "I mean, Assassin's Creed is awesome, all of those games are awesome, but I don't think we need to compete with numbers," Urquhart said. "I don't want to do thousand-person teams." Despite having Microsoft money behind them, it seems that Obsidian wants to avoid the potential perils that come from a massive studio.
+
+Along with Grounded, Obsidian also has a Nintendo Switch version of The Outer Worlds in the works, which is [due to release](https://www.gamespot.com/articles/the-outer-worlds-on-nintendo-switchs-release-date-/1100-6471284/) by March 2020.

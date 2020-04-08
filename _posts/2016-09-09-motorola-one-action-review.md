@@ -1,0 +1,12 @@
+---
+title: 'Motorola One Action Review'
+date: 2019-10-26T07:48:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Motorola-One-Action_fonearena-5-1024x648.jpg) A couple of months back, Motorola launched One Action, the company’s latest Android One smartphone with almost similar specification as One Vision. While the One Vision targets photographers, One Action is focused on videographers on the go. So, how good is the One Action?, let's have a look. Difference between One Action and One Vision? Motorola One Action looks and carries almost identical DNA of its predecessor One Vision except for the camera (rear and front). To be specific, the One Action comes equipped with identical specifications in terms of SoC, battery, connectivity, RAM & storage, OS, and even display. Why you should buy Sleek and solid build The Motorola One Action doesn't feel so premium, but the simple aesthetic makes the phone doesn't look cheap either. Even though it is tall, the device feels comfortable to hold, and interactive elements like the power button and volume rocker are easy to reach.  \[gallery link="file" columns="2" size="medium" ids="296572,296580,296573,296574"\] Due to its tall form factor, it might peep out when kept in jeans. It measures 160.1 x 71.2 x 9.15mm and weighs around 176g. Overall, the Motorola One Action looks stunningly similar to Motorola One Vision except few in numbers. 21:9 display  The Motorola One Action sports a 6.3-inch (1080×2520 pixels) ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=jLnOo2ixU_s:rLCC0Wt8b6s:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=jLnOo2ixU_s:rLCC0Wt8b6s:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=jLnOo2ixU_s:rLCC0Wt8b6s:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=jLnOo2ixU_s:rLCC0Wt8b6s:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=jLnOo2ixU_s:rLCC0Wt8b6s:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=jLnOo2ixU_s:rLCC0Wt8b6s:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/jLnOo2ixU_s)  
+[Read Here»](https://www.fonearena.com/blog/294273/motorola-one-action-review.html)

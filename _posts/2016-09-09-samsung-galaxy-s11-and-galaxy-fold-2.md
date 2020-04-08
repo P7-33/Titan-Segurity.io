@@ -1,0 +1,12 @@
+---
+title: 'Samsung Galaxy S11 and Galaxy Fold 2 said to sport 108MP camera, Galaxy S11 Plus could pack 5000mAh battery'
+date: 2019-12-07T04:44:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/11/Galaxy-S11-Plus-render-1024x576.jpg) It is that time of the year when leaks, renders of the upcoming Galaxy S series smartphone surface and recently renders of the upcoming Galaxy S11e, S11, S11+ surfaced. Now, a new report reveals the key details of the upcoming Galaxy S11 and Galaxy Fold 2 clamshell device. According to a report from Bloomberg, the upcoming Galaxy S11 will sport a 108MP 1/1.33-inch ISOCELL Bright HMX image sensor for the primary camera along with a 5x telephoto lens, ultra-wide-angle lens, and a 3D time-of-flight camera. This suggests that the S11 will sport quad rear cameras, but previous renders suggested a Penta camera setup. According to another report, the S11+ is confirmed to pack a 5000mAh (typical) battery and will carry the model number EB-BG988ABY. Previous renders suggest that Samsung Galaxy S11 Plus is said to flaunt a 6.9-inch curved Dynamic AMOLED display and the resolution is expected to be QHD+. Similar to Galaxy Note 10/Note10+, the Galaxy S11 Plus is also said to sport a centered-punch hole camera and regarding the button placement, the power button, and volume buttons are said to be at the left edge and speakers to the bottom edge of the smartphone. Samsung will also use the same camera setup ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=I4tnpJzIl0M:DqFmIM1ctX8:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=I4tnpJzIl0M:DqFmIM1ctX8:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=I4tnpJzIl0M:DqFmIM1ctX8:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=I4tnpJzIl0M:DqFmIM1ctX8:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=I4tnpJzIl0M:DqFmIM1ctX8:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=I4tnpJzIl0M:DqFmIM1ctX8:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/I4tnpJzIl0M)  
+[Read Here»](https://www.fonearena.com/blog/299830/samsung-galaxy-s11-108mp-camera-galaxy-s11-plus-5000mah-battery.html)

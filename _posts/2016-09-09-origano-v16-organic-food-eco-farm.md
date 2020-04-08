@@ -1,0 +1,12 @@
+---
+title: 'Origano v1.6 – Organic Food & Eco Farm WordPress Theme'
+date: 2019-10-10T08:39:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/09/MIUI-11-1-1024x535.jpg) Xiaomi introduced MIUI 11, the next major MIUI update in China last month, and stable MIUI 11 for the first set of devices is already rolling out in China. Today MIUI India has officially confirmed that the global launch for MIUI 11 will happen on October 16th, along with the Redmi Note 8 Pro launch. 16.10.2019 #MIUI11 RT if you are excited for this! pic.twitter.com/61hqUBvF3P — MIUI India for #MiFans (@MIUI\_India) October 10, 2019 MIUI 11 aims to bring brand new optimized modern UI design focused on content viewing. Xiaomi has received two new Red Dot design awards for the new visual design and sound effects on MIUI 11, the company says that it is the first company to receive a first-ever design award in the smartphone software industry. At the forefront of typography innovation, MIUI 11 revamps Xiaomi’s visual design by offering a brand-new font, ‘Milan Pro’, and introduces the world’s first dynamic font scaling feature. Xiaomi also integrates new dynamic sounds effects that resemble ambient sounds from nature. MIUI 11 has redesigned AOD, which also improves individual’s needs with ever-changing kaleidoscope on the lock screen, breathing notification can now be shown as an animation when the display is off and you can also customized ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=xx-C-XLPrNk:4vS5JPuBoBM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=xx-C-XLPrNk:4vS5JPuBoBM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=xx-C-XLPrNk:4vS5JPuBoBM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=xx-C-XLPrNk:4vS5JPuBoBM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=xx-C-XLPrNk:4vS5JPuBoBM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=xx-C-XLPrNk:4vS5JPuBoBM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/xx-C-XLPrNk)  
+[Read Here»](https://www.fonearena.com/blog/294657/miui-11-global-launch-date.html)

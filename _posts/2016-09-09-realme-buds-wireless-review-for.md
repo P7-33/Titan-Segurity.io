@@ -1,0 +1,12 @@
+---
+title: 'Realme Buds Wireless Review: For the Bassheads'
+date: 2019-10-08T11:55:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/realme-Buds-Wireless_fonearena-1-1024x687.jpg) Headphones are getting better and better, be it in audio quality, design, and ergonomics. The old traditional wired headphones with 3.5mm audio jack are slowly getting replaced by either USB Type-C or Bluetooth wireless earphones. In case of Bluetooth wireless earphones we have different varieties — true wireless, wireless with a cable, and earbuds with a neckband. For some reason, the neckband earphones are recently trending in the market and to capitalise it many handset makers are trying their hands on the unconventional yet rewarding earphones. Many companies right from Samsung, OnePlus, Xiaomi have already launched their neckband at various price points. Realme is the latest one to join this trend. Last month Realme expanded its presence in the accessories space with the launch of Buds Wireless neckband headphones in India alongside Realme XT mobile launch. The Buds Wireless neckband headphones will take on Xiaomi's Mi Neckband at Rs. 1,799. In this article, let's find out how good is the Wireless neckband for its pricing. Design \[gallery link="file" columns="2" size="medium" ids="294323,294322,294325,294324"\] The Realme Buds Wireless follows the same philosophy as it's cousin, the OnePlus Bullets Wireless. Dubbed as Elastic Metal String Necklace, the neckband features a high-quality skin-friendly silica gel, which offers a comfortable and ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=KjRxzwH073k:lKJfZ1te6lQ:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=KjRxzwH073k:lKJfZ1te6lQ:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=KjRxzwH073k:lKJfZ1te6lQ:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=KjRxzwH073k:lKJfZ1te6lQ:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=KjRxzwH073k:lKJfZ1te6lQ:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=KjRxzwH073k:lKJfZ1te6lQ:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/KjRxzwH073k)  
+[Read Here»](https://www.fonearena.com/blog/294269/realme-buds-wireless-review-for-the-bassheads.html)

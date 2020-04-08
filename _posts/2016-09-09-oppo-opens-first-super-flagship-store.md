@@ -1,0 +1,12 @@
+---
+title: 'OPPO opens first Super Flagship Store in Thailand'
+date: 2019-10-22T08:29:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Oppo-Store-1-1024x682.jpg) OPPO, the Chinese smartphone manufacturer has opened their first Super flagship store, in Thailand, located at the luxury shopping mall, Emquartier, in Bangkok. With the store, OPPO aims to use its latest technology to showcase and deliver product experience interactively with customers, creating a space where customers can experience the harmony of technology meeting culture. The store infuses many elements of Thai culture and architecture, as well as a 5G network available for customers to be the first to experience the power of Reno 10x Zoom 5G variant. The store is part of a OPPO's plan to expand globally and provide the best-in-class products and services to consumers across the Asia Pacific region. With over 52,000 retail points and 44,000+ sales representatives up to date, OPPO has developed a sales channel network aimed at high penetration in many markets, said the company. With the opening of many more flagship stores in Thailand, Malaysia, Indonesia, Vietnam, Philippines and Taiwan by 2020, OPPO aspires to create more interaction with consumers and showcase the future they envision with different IoT, AR, 5G experiences. Commenting on the launch, Jimmy Yi, President of Asia Pacific, OPPO said: OPPOis now already one of the top players in the region. It ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=PVci7K8rUUM:WjeImlHbf04:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=PVci7K8rUUM:WjeImlHbf04:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=PVci7K8rUUM:WjeImlHbf04:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=PVci7K8rUUM:WjeImlHbf04:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=PVci7K8rUUM:WjeImlHbf04:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=PVci7K8rUUM:WjeImlHbf04:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/PVci7K8rUUM)  
+[Read Here»](https://www.fonearena.com/blog/296031/oppo-super-flagship-store-thailand.html)

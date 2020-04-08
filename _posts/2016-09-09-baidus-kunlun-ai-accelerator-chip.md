@@ -1,0 +1,12 @@
+---
+title: 'Baidu’s KUNLUN AI accelerator chip announced in partnership with Samsung'
+date: 2019-12-18T15:10:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/12/Samsung-Baidu-KUNLUN-1024x593.jpg) Baidu, a Chinese language internet search provider has partnered with Samsung Electronics to produce Baidu's first cloud-to-edge AI accelerator chip called Baidu KUNLUN. The chip is designed to power large scale AI workloads such as search ranking, speech recognition and more. Being one of its first foundry cooperation, the Baidu KUNLUN is built using Samsung's home-grown neural processor architecture called XPU on the 14nm process technology. The chip is designed workloads of the likes of image processing, search ranking, natural language processing, autonomous driving, and deep learning platforms. With improvements from Samsung's I-Cube (Interposer-Cube) package solution, the chip can support up to 512 GBps memory bandwidth, supplying up to 260 Tera operations per second at 150 watts. In its testing, the chip proved to be three times quicker than the conventional GPU/FPGA-accelerating model in processing natural language processing model. Commenting on the launch of the chip, OuYang Jian, Distinguished Architect of Baidu said: We are excited to lead the HPC industry together with Samsung Foundry. Baidu KUNLUN is a very challenging project since it requires not only a high level of reliability and performance at the same time, but is also a compilation of the most advanced technologies in the semiconductor industry. Thanks to ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=Jxosui6SE8g:1FiyVcL3SpM:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Jxosui6SE8g:1FiyVcL3SpM:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=Jxosui6SE8g:1FiyVcL3SpM:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=Jxosui6SE8g:1FiyVcL3SpM:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=Jxosui6SE8g:1FiyVcL3SpM:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=Jxosui6SE8g:1FiyVcL3SpM:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/Jxosui6SE8g)  
+[Read Here»](https://www.fonearena.com/blog/300662/baidu-kunlun-ai-accelerator-chip-samsung.html)

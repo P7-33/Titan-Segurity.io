@@ -1,0 +1,12 @@
+---
+title: 'Instant Pot DUO 60 smart electric pressure cooker launched in India for Rs. 7999'
+date: 2019-10-24T11:23:00+01:00
+draft: false
+---
+
+![](https://images.fonearena.com/blog/wp-content/uploads/2019/10/Instant-Pot-1024x997.jpg) Instant Brand Inc, a small cooking appliances brand in America has entered into the Indian market with their first product, the Instant Pot DUO 60. It is a 7-1 programmable smart electric pressure cooker that has been designed with the Indian customer in mind. The pressure cooker will be available exclusively on Amazon.in on sale during The Great Indian Festival. The Instant Pot from Instant Brand is a smart electric pressure cooker that  is designed to be safe and convenient. It is a 7-1 programmable cooker that can replace 7 kitchen appliances as it performs multiple functions of a pressure cooker, slow cooker, rice cooker, steamer, sauté, yogurt maker & warmer. It can speed up the cooking process by a factor or 2-6 while using only 30% of the energy of a conventional cooker. Instant Pot also comes pre-loaded with 13 smart programs that can help the user cook a variety of dishes like soups, rice, oatmeal and much more, including pre-programmed buttons for popular dishes like Dal and Idli. The pressure cooker has a 3-ply bottom stainless steel design that makes the inner pot durable and non-sticky. Adjusting pressure and temperature, keeping time and adjusting heating intensity is all managed by ...
+
+[![](http://feeds.feedburner.com/~ff/fone-arena?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/fone-arena?a=ZTMV5qJPtJs:w8MGpQC_d_c:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ZTMV5qJPtJs:w8MGpQC_d_c:V_sGLiPBpWU)](http://feeds.feedburner.com/~ff/fone-arena?a=ZTMV5qJPtJs:w8MGpQC_d_c:V_sGLiPBpWU) [![](http://feeds.feedburner.com/~ff/fone-arena?i=ZTMV5qJPtJs:w8MGpQC_d_c:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/fone-arena?a=ZTMV5qJPtJs:w8MGpQC_d_c:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/fone-arena?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/fone-arena?a=ZTMV5qJPtJs:w8MGpQC_d_c:7Q72WNTAKBA)
+
+![](http://feeds.feedburner.com/~r/fone-arena/~4/ZTMV5qJPtJs)  
+[Read Here»](https://www.fonearena.com/blog/296318/instant-pot-duo-60-smart-electric-pressure-cooker-price-india.html)
