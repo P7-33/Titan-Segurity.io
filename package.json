@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Brian Maier Jr.",
+  "author": "Pathom Browser.",
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.26.3",
