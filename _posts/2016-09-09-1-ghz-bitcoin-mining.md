@@ -1,5 +1,5 @@
 ---
-title: '1 Ghz Bitcoin Mining'
+title: '"1 Ghz Bitcoin Mining"'
 date: 2019-10-05T06:35:00+01:00
 draft: false
 ---
