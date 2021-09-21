@@ -1,5 +1,5 @@
 ---
-title: '10 Best Linux Apps on Chromebook You Should Use in 2020'
+title: ' "10 Best Linux Apps on Chromebook You Should Use in 2020"'
 date: 2020-01-04T07:07:00+01:00
 draft: false
 ---
