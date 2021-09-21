@@ -1,4 +1,4 @@
-GEM
+*GEM
   remote: http://rubygems.org/
   specs:
     addressable (2.6.0)
