@@ -12,7 +12,7 @@ The Python on Microcontrollers newsletter – your #1 source for Python informat
 
 The word is out that our newsletter is the place for the hottest news involving Python on hardware. 6,600+ readers and growing!
 
-**Catch all the weekly news on [Python for Microcontrollers](https://www.adafruitdaily.com/)** with [adafruitdaily.com](https://www.adafruitdaily.com/).
+*Catch all the weekly news on [Python for Microcontrollers](https://www.adafruitdaily.com/)* with [adafruitdaily.com](https://www.adafruitdaily.com/).
 
 This _ad-free, spam-free_ weekly email is filled with the Python information that you may have missed, all in one place!
 
